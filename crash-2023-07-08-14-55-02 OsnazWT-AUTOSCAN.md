@@ -27,8 +27,6 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 * NOTICE: FCX MODE IS DISABLED. YOU CAN ENABLE IT TO DETECT PROBLEMS IN YOUR MOD & GAME FILES * 
 [ FCX Mode can be enabled in the exe or CLASSIC Settings.yaml located in your CLASSIC folder. ] 
 
-✔️ F4EE (Looks Menu) parameter is correctly configured in your Buffout 4 settings! 
------
 * NOTICE : PipboyLightInvFix is disabled in your Buffout 4 settings, is this intentional? * 
 -----
 # ❌ CAUTION : The Achievements Mod and/or Unlimited Survival Mode is installed, but Achievements is set to TRUE # 
@@ -36,6 +34,8 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 -----
 # ❌ CAUTION : The Baka ScrapHeap Mod is installed, but MemoryManager parameter is set to TRUE # 
  FIX: Open Buffout 4's TOML file and change MemoryManager to FALSE, this prevents conflicts with Buffout 4.
+-----
+✔️ F4EE (Looks Menu) parameter is correctly configured in your Buffout 4 settings! 
 -----
 ❌ FCX Mode is disabled, skipping game files check... 
 -----

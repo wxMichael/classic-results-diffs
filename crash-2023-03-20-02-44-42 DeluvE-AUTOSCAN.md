@@ -38,13 +38,13 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 * NOTICE: FCX MODE IS DISABLED. YOU CAN ENABLE IT TO DETECT PROBLEMS IN YOUR MOD & GAME FILES * 
 [ FCX Mode can be enabled in the exe or CLASSIC Settings.yaml located in your CLASSIC folder. ] 
 
-✔️ F4EE (Looks Menu) parameter is correctly configured in your Buffout 4 settings! 
------
 * NOTICE : PipboyLightInvFix is disabled in your Buffout 4 settings, is this intentional? * 
 -----
 ✔️ Achievements parameter is correctly configured in your Buffout 4 settings! 
 -----
 ✔️ Memory Manager parameter is correctly configured in your Buffout 4 settings! 
+-----
+✔️ F4EE (Looks Menu) parameter is correctly configured in your Buffout 4 settings! 
 -----
 ❌ FCX Mode is disabled, skipping game files check... 
 -----

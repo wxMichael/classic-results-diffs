@@ -24,12 +24,12 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 * NOTICE: FCX MODE IS DISABLED. YOU CAN ENABLE IT TO DETECT PROBLEMS IN YOUR MOD & GAME FILES * 
 [ FCX Mode can be enabled in the exe or CLASSIC Settings.yaml located in your CLASSIC folder. ] 
 
-# ❌ CAUTION : Looks Menu is installed, but F4EE parameter under [Compatibility] is set to FALSE # 
- FIX: Open Buffout 4's TOML file and change F4EE to TRUE, this prevents bugs and crashes from Looks Menu.
------
 ✔️ Achievements parameter is correctly configured in your Buffout 4 settings! 
 -----
 ✔️ Memory Manager parameter is correctly configured in your Buffout 4 settings! 
+-----
+# ❌ CAUTION : Looks Menu is installed, but F4EE parameter under [Compatibility] is set to FALSE # 
+ FIX: Open Buffout 4's TOML file and change F4EE to TRUE, this prevents bugs and crashes from Looks Menu.
 -----
 ❌ FCX Mode is disabled, skipping game files check... 
 -----
