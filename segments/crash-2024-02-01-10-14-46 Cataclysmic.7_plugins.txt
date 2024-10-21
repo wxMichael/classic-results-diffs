@@ -1,0 +1,175 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     ArmorKeywords.esm
+[09]     WorkshopFramework.esm
+[0A]     HUDFramework.esm
+[0B]     XDI.esm
+[0C]     SS2.esm
+[0D]     SS2_XPAC_Chapter2.esm
+[0E]     SS2_XPAC_Chapter3.esm
+[0F]     TacticalReload.esm
+[10]     Better Locational Damage.esp
+[11]     Better Explosives Redux.esp
+[12]     Explosions Ignore LOS.esp
+[13]     A Forest.esp
+[14]     SS2Extended.esp
+[15]     MutilatedDeadBodies.esp
+[16]     Some Assembly Required.esp
+[17]     Reverb and Ambiance Overhaul.esp
+[18]     FO4R.esp
+[19]     VoidkCleanedHomeplate.esp
+[1A]     TrainBar.esp
+[1B]     Eli_Armour_Compendium.esp
+[1C]     DeadlierDeathclaws.esp
+[1D]     Backpacks of the Commonwealth.esp
+[1E]     FunctionalDisplays.esp
+[1F]     GCM.esp
+[20]     DMHelmetMerge.esp
+[21]     NAC.esp
+[22]     TrueGrass.esp
+[23]     RealAI.esp
+[24]     PD_LowerWeapon.esp
+[25]     The Eyes Of Beauty.esp
+[26]     TheEyesOfBeauty.esp
+[27]     KSHairdos.esp
+[28]     LooksMirror.esp
+[29]     BetterCompanions.esp
+[2A]     CROSS_GoreCrits.esp
+[2B]     Realistic_conversations.esp
+[2C]     [ARRETH] FGEP-DE.esp
+[2D]     ImprovedBoS.esp
+[2E]     ImprovedBoSEncounters.esp
+[2F]     ImprovedInstitute.esp
+[30]     ImprovedInstituteEncounters.esp
+[31]     ImprovedMinutemen.esp
+[32]     ImprovedMinutemenEncounters.esp
+[33]     AttachPack.esp
+[34]     DynamicInteriorFogRemoval.esp
+[35]     EpilogueRestored.esp
+[36]     FilledBrahminFeedTroughs.esp
+[37]     ImmersiveScrapping_SeasonPass.esp
+[38]     ImmersiveVendors.esp
+[39]     ImprovedCaravanGuards.esp
+[3A]     ImprovedHostileFactions.esp
+[3B]     ImprovedHostileFactionsEncounters.esp
+[3C]     ImprovedNukaRaiders.esp
+[3D]     ImprovedNukaRaidersEncounters.esp
+[3E]     OriginalMIRV.esp
+[3F]     SleepOrSave.esp
+[40]     UNnaked Power Armor.esp
+[41]     PAMAP.esp
+[42]     BetterSettlers.esp
+[43]     Locksmith.esp
+[44]     EnhancedLightsandFX.esp
+[FE:000] SmartMIRV.esl
+[FE:001] PPF.esm
+[FE:002] GCM_DLC_Far_Harbor.esl
+[FE:003] GCM_DLC_Automatron.esl
+[FE:004] PlasmaGunTR.esl
+[FE:005] REFramework.esm
+[FE:006] ImmersiveDogmeat.esl
+[FE:007] AWHD2KFull.esp
+[FE:008] Wetness Shader Fix.esp
+[FE:009] FO4ParticlePatch.esp
+[FE:00A] ValdacilsItemSorting-00-ValsPicks-DLCVersion-VanillaWeight.esp
+[FE:00B] A Forest-Base Mod Patch.esp
+[FE:00C] Better Locational Damage - DLC_Far_Harbor.esp
+[FE:00D] BLD - Leveled Lists - DLC.esp
+[FE:00E] Better Locational Damage - DLC_Nuka_World.esp
+[FE:00F] Better Locational Damage - DLC_Automatron.esp
+[FE:010] Better Locational Damage - Valdacil's Item Sorting - Patch.esp
+[FE:011] Wear Armor with anything..esp
+[FE:012] InstituteFastTravelForSurvival.esp
+[FE:013] PRP-SS2-Fixes-Ch2.esp
+[FE:014] TerrainUndersides.esp
+[FE:015] PRP-SS2-Fixes-Ch1.esp
+[FE:016] PA-Quick Animations.esp
+[FE:017] AWKCR All workbenches disabler minus paint system.esp
+[FE:018] HiddenArmor.esp
+[FE:019] HiddenArmorAutomatron.esp
+[FE:01A] HiddenArmorFarHarbor.esp
+[FE:01B] FunctionalDisplays-Patch-DLC-ALL-VIS.esp
+[FE:01C] Glowing Animals Emit Light.esp
+[FE:01D] Better Locational Damage - DLC_WWorkshop.esp
+[FE:01E] Better Perks - Enhanced.esp
+[FE:01F] NoCombatMusic.esp
+[FE:020] FO4LaserBolts - NormalOrange.esp
+[FE:021] FO4LaserBolts.esp
+[FE:022] AssaultRifle.esp
+[FE:023] VRPShared.esp
+[FE:024] Binary Speech Checks V.4 Hard-Forgiving.esp
+[FE:025] FlaconOil_BA2_2K_Part1.esp
+[FE:026] VividFallout - AiO - BestChoice.esp
+[FE:027] FlaconOil_BA2_2K_Part2.esp
+[FE:028] FlaconOil_BA2_2K_Part3.esp
+[FE:029] Live Action Handy.esp
+[FE:02A] DoubleBarrelShotgun.esp
+[FE:02B] HuntingRifle.esp
+[FE:02C] PipeGun.esp
+[FE:02D] NAC-RemoveMenuItem.esp
+[FE:02E] MortalYouths.esp
+[FE:02F] FAR.esp
+[FE:030] AForest-TrueGrass.esp
+[FE:031] JTC.esp
+[FE:032] god.esp
+[FE:033] NAC-FH.esp
+[FE:034] NAC-NW.esp
+[FE:035] BobbleGirl.esp
+[FE:036] dD-Enhanced Blood Basic.esp
+[FE:037] FunctionalDisplays-AID-VIS.esp
+[FE:038] FunctionalDisplays-Collectibles.esp
+[FE:039] FunctionalDisplays-MISC-VIS.esp
+[FE:03A] CBBE.esp
+[FE:03B] LongerPowerLines2x.esp
+[FE:03C] BrighterSettlementLights_LessHarsh.esp
+[FE:03D] RichMerchantsLessCaps.esp
+[FE:03E] Quieter Settlements - Contraptions.esp
+[FE:03F] Quieter Settlements - Vanilla.esp
+[FE:040] Quieter Settlements - Wasteland Workshop.esp
+[FE:041] PAMS.esp
+[FE:042] NoDeathWeaponDrop.esp
+[FE:043] SkjAlert_All_DLC.esp
+[FE:044] Realjetpack10%drain.esp
+[FE:045] AzarPonytailHairstyles.esp
+[FE:046] LooksMenu.esp
+[FE:047] CROSS_GoreCrits_FarHarborPatch.esp
+[FE:048] BetterVertibirdMinigun.esp
+[FE:049] Gloomy Glass.esp
+[FE:04A] Bullet Impact Overhaul.esp
+[FE:04B] VeryZenFGEP_2k.esp
+[FE:04C] ImprovedBoSBoss.esp
+[FE:04D] ImprovedInstituteBoss.esp
+[FE:04E] ImprovedNuke.esp
+[FE:04F] ColorfulSurvivalIcons.esp
+[FE:050] TurretStands.esp
+[FE:051] DD_All_the_COncrete.esp
+[FE:052] DCRE.esp
+[FE:053] Laser Weapons Reposition.esp
+[FE:054] ImprovedGuards.esp
+[FE:055] ImprovedNukaRaidersBeast.esp
+[FE:056] ImprovedNukaRaidersBoss.esp
+[FE:057] zNechi-KeepCompa.esp
+[FE:058] Z_LevelUp_HealingRemoval.esp
+[FE:059] No More Fake Puddles - Nuka World 1-0.esp
+[FE:05A] WAYN_CompanionTracking.esp
+[FE:05B] Ambient Wasteland.esp
+[FE:05C] Q_RagdollPhysics.esp
+[FE:05D] CTHColoredFriendliesWeaponDrawn-NSL.esp
+[FE:05E] Loot Detector.esp
+[FE:05F] BetterSettlersCleanFacePack.esp
+[FE:060] BetterSettlersCCAPack2.0.esp
+[FE:061] BetterSettlersMortalPack.esp
+[FE:062] BetterSettlersNoLollygagging.esp
+[FE:063] ThrowMinesFurther.esp
+[FE:064] PRP.esp
+[FE:065] PRP-SS2.esp
+[FE:066] PRP-SS2-Ch3-CR.esp
+[FE:067] EnhancedLightsandFX - Automatron.esp
+[FE:068] Pip-Boy Flashlight.esp
+[FE:069] SatelliteWorldMap.esp

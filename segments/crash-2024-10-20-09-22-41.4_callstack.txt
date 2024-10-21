@@ -1,0 +1,450 @@
+[ 0] 0x7FF675109E08 Fallout4.exe+0359E08 -> 441995+0x48	mov rcx, [rsi+rax*1]
+[ 1] 0x7FF6750FE0D3 Fallout4.exe+034E0D3 -> 559442+0x63	mov edx, [rsp+0x48]
+[ 2] 0x7FF675105ABF Fallout4.exe+0355ABF -> 562913+0x5F	xor ecx, ecx
+[ 3] 0x7FF675102C29 Fallout4.exe+0352C29 -> 1313135+0xC9	mov rax, [rsp+0xC0]
+[ 4] 0x7FF6750FE1CE Fallout4.exe+034E1CE -> 372757+0x7E	movzx ebp, al
+[ 5] 0x7FF6755B41AF Fallout4.exe+08041AF -> 1082745+0x3F	add rbx, 0x08
+[ 6] 0x7FF676A57E53 Fallout4.exe+1CA7E53 -> 1362677+0xA3	cmp qword ptr [rbx+0x48], 0x00
+[ 7] 0x7FF676A549E0 Fallout4.exe+1CA49E0 -> 679918+0x20	mov rdx, rbx
+[ 8] 0x7FF676A57701 Fallout4.exe+1CA7701 -> 1034198+0x261	jmp 0x00007FF676A57790
+[ 9] 0x7FF6768CCFED Fallout4.exe+1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF67A90BD38]
+[10] 0x7FFAE81F7374 KERNEL32.DLL+0017374
+[11] 0x7FFAE9C7CC91    ntdll.dll+004CC91
+
+REGISTERS:
+RAX 0x0                (size_t) [0]
+RCX 0x1B               (size_t) [27]
+RDX 0x6020209          (size_t) [100794889]
+RBX 0x9                (size_t) [9]
+RSP 0x540461F4B0       (void*)
+RBP 0x0                (size_t) [0]
+RSI 0xD8               (size_t) [216]
+RDI 0x1FEAE29DB20      (TESLevItem*)
+File: "ITOmunitionsPatch.esp"
+Modified by: Fallout4.esm -> ITOmunitionsPatch.esp
+Flags: 0x00000009
+EditorID: "LLE_Perk_Scrounger100"
+FormID: 0x0005859B
+FormType: kLVLI (56)
+R8  0x1                (size_t) [1]
+R9  0x0                (size_t) [0]
+R10 0x540461F4F0       (void*)
+R11 0x1FFFFFFFFFFFFFFF (size_t) [2305843009213693951]
+R12 0x540461F670       (void*)
+R13 0x540461F668       (void*)
+R14 0x540461F5A0       (void*)
+R15 0x540461F678       (void*)
+
+STACK:
+[RSP+0  ] 0x0                (size_t) [0]
+[RSP+8  ] 0x0                (size_t) [0]
+[RSP+10 ] 0x0                (size_t) [0]
+[RSP+18 ] 0x1FEADEDB8C8      (void*)
+[RSP+20 ] 0x1FF13D2B0F0      (TESNPC*)
+File: "NPCScaling - Actors.esp"
+Modified by: Fallout4.esm -> NPCScaling - Actors.esp
+Flags: 0x00040009
+FormID: 0x000D3FC9
+FormType: kNPC_ (45)
+File: "NPCScaling - Actors.esp"
+Modified by: Fallout4.esm -> NPCScaling - Actors.esp
+Flags: 0x00040009
+FormID: 0x000D3FC9
+FormType: kNPC_ (45)
+GetFullName: "Triggerman"
+[RSP+28 ] 0x4                (size_t) [4]
+[RSP+30 ] 0x4                (size_t) [4]
+[RSP+38 ] 0x7FF6750FE0D3     (void* -> Fallout4.exe+034E0D3	mov edx, [rsp+0x48])
+[RSP+40 ] 0x540461F4F8       (void*)
+[RSP+48 ] 0x1FF06020209      (void*)
+[RSP+50 ] 0x1FF1686C798      (void*)
+[RSP+58 ] 0x4                (size_t) [4]
+[RSP+60 ] 0x540461F530       (void*)
+[RSP+68 ] 0x540461F538       (void*)
+[RSP+70 ] 0x1FF13D2B0F0      (TESNPC*)
+File: "NPCScaling - Actors.esp"
+Modified by: Fallout4.esm -> NPCScaling - Actors.esp
+Flags: 0x00040009
+FormID: 0x000D3FC9
+FormType: kNPC_ (45)
+File: "NPCScaling - Actors.esp"
+Modified by: Fallout4.esm -> NPCScaling - Actors.esp
+Flags: 0x00040009
+FormID: 0x000D3FC9
+FormType: kNPC_ (45)
+GetFullName: "Triggerman"
+[RSP+78 ] 0x7FF675105ABF     (void* -> Fallout4.exe+0355ABF	xor ecx, ecx)
+[RSP+80 ] 0x7FF6789E8A00     (void* -> Fallout4.exe+3C38A00	sahf)
+[RSP+88 ] 0x6020209          (size_t) [100794889]
+[RSP+90 ] 0x1FF16865178      (void*)
+[RSP+98 ] 0x71               (size_t) [113]
+[RSP+A0 ] 0x9C0              (size_t) [2496]
+[RSP+A8 ] 0x7FF675102C29     (void* -> Fallout4.exe+0352C29	mov rax, [rsp+0xC0])
+[RSP+B0 ] 0x1FF15C0B280      (TESObjectWEAP*)
+File: "DLCNukaWorld.esm"
+Flags: 0x4000000D
+Name: "Gun"
+EditorID: "DLC04BotThirstZapperQuantumRight"
+FormID: 0x06020209
+FormType: kWEAP (43)
+GetFullName: "Quantum Thirst Zapper"
+[RSP+B8 ] 0x0                (size_t) [0]
+[RSP+C0 ] 0x20036E08EC0      (void*)
+[RSP+C8 ] 0x0                (size_t) [0]
+[RSP+D0 ] 0x6200000071       (size_t) [420906795121]
+[RSP+D8 ] 0x7FF677A31858     (char*) "length of fire animation"
+[RSP+E0 ] 0x1FF15C0B3D0      (TESObjectWEAP*)
+File: "DLCNukaWorld.esm"
+Flags: 0x4000000D
+Name: "Gun"
+EditorID: "DLC04BotThirstZapperQuantumRight"
+FormID: 0x06020209
+FormType: kWEAP (43)
+GetFullName: "Quantum Thirst Zapper"
+[RSP+E8 ] 0x7FF6750FC609     (void* -> Fallout4.exe+034C609	mov rax, [rax+0x788])
+[RSP+F0 ] 0x540461F620       (void*)
+[RSP+F8 ] 0x1FF15C0B280      (TESObjectWEAP*)
+File: "DLCNukaWorld.esm"
+Flags: 0x4000000D
+Name: "Gun"
+EditorID: "DLC04BotThirstZapperQuantumRight"
+FormID: 0x06020209
+FormType: kWEAP (43)
+GetFullName: "Quantum Thirst Zapper"
+[RSP+100] 0x0                (size_t) [0]
+[RSP+108] 0x0                (size_t) [0]
+[RSP+110] 0x0                (size_t) [0]
+[RSP+118] 0x7FF674EF1358     (void* -> Fallout4.exe+0141358	test rdi, rdi)
+[RSP+120] 0x2000038FF38FF    (size_t) [562950909671679]
+[RSP+128] 0x1FEAC459500      (IOManagerThread*)
+[RSP+130] 0x7FFFFFFFFFFFFFF  (size_t) [576460752303423487]
+[RSP+138] 0x1FF15C0B280      (TESObjectWEAP*)
+File: "DLCNukaWorld.esm"
+Flags: 0x4000000D
+Name: "Gun"
+EditorID: "DLC04BotThirstZapperQuantumRight"
+FormID: 0x06020209
+FormType: kWEAP (43)
+GetFullName: "Quantum Thirst Zapper"
+[RSP+140] 0x2                (size_t) [2]
+[RSP+148] 0x7FF6750FE1CE     (void* -> Fallout4.exe+034E1CE	movzx ebp, al)
+[RSP+150] 0x2                (size_t) [2]
+[RSP+158] 0x20036E08EC0      (void*)
+[RSP+160] 0x540461F660       (void*)
+[RSP+168] 0x9C0              (size_t) [2496]
+[RSP+170] 0x0                (size_t) [0]
+[RSP+178] 0x540461F678       (void*)
+[RSP+180] 0x4                (size_t) [4]
+[RSP+188] 0x0                (size_t) [0]
+[RSP+190] 0x1FF1451E0F8      (void*)
+[RSP+198] 0x5                (size_t) [5]
+[RSP+1A0] 0x1FF1451D920      (void*)
+[RSP+1A8] 0x7FF6755B41AF     (void* -> Fallout4.exe+08041AF	add rbx, 0x08)
+[RSP+1B0] 0x1FEBF800000      (size_t) [2193646157824]
+[RSP+1B8] 0x7FF6BF800000     (size_t) [140697751519232]
+[RSP+1C0] 0x7FF6BF800000     (size_t) [140697751519232]
+[RSP+1C8] 0x1FEBF800000      (size_t) [2193646157824]
+[RSP+1D0] 0x7FF674DB0000     (void*)
+[RSP+1D8] 0x7FF676A57E53     (void* -> Fallout4.exe+1CA7E53	cmp qword ptr [rbx+0x48], 0x00)
+[RSP+1E0] 0x1FEB97ECD20      (BShkbHkxDB::QueuedHandles*)
+[RSP+1E8] 0x0                (size_t) [0]
+[RSP+1F0] 0x2000038FF38FF    (size_t) [562950909671679]
+[RSP+1F8] 0x0                (size_t) [0]
+[RSP+200] 0x1FF05449660      (IOManager*)
+[RSP+208] 0x7FF676A549E0     (void* -> Fallout4.exe+1CA49E0	mov rdx, rbx)
+[RSP+210] 0x3                (size_t) [3]
+[RSP+218] 0x1FEB97ECD20      (BShkbHkxDB::QueuedHandles*)
+[RSP+220] 0x3                (size_t) [3]
+[RSP+228] 0x1                (size_t) [1]
+[RSP+230] 0x1FEB97ECD20      (BShkbHkxDB::QueuedHandles*)
+[RSP+238] 0x7FF676A57701     (void* -> Fallout4.exe+1CA7701	jmp 0x00007FF676A57790)
+[RSP+240] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+248] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+250] 0x1FF05449660      (IOManager*)
+[RSP+258] 0x0                (size_t) [0]
+[RSP+260] 0x1FE0000243C      (size_t) [2190433330236]
+[RSP+268] 0x0                (size_t) [0]
+[RSP+270] 0x7FFFFFFFFFFFFFF  (size_t) [576460752303423487]
+[RSP+278] 0x1FEAC40B950      (void*)
+[RSP+280] 0x1FEAC40B950      (void*)
+[RSP+288] 0x0                (size_t) [0]
+[RSP+290] 0x0                (size_t) [0]
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A0] 0x0                (size_t) [0]
+[RSP+2A8] 0x0                (size_t) [0]
+[RSP+2B0] 0x0                (size_t) [0]
+[RSP+2B8] 0x0                (size_t) [0]
+[RSP+2C0] 0x0                (size_t) [0]
+[RSP+2C8] 0x0                (size_t) [0]
+[RSP+2D0] 0x1FEAC459500      (IOManagerThread*)
+[RSP+2D8] 0x7FF6768CCFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF67A90BD38])
+[RSP+2E0] 0x1FEAC459500      (IOManagerThread*)
+[RSP+2E8] 0x540461F700       (void*)
+[RSP+2F0] 0x1FEA919EE70      (void*)
+[RSP+2F8] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+300] 0x1FEAC459500      (IOManagerThread*)
+[RSP+308] 0x0                (size_t) [0]
+[RSP+310] 0x0                (size_t) [0]
+[RSP+318] 0x7FFAE81F7374     (void* -> KERNEL32.DLL+0017374	mov ecx, eax)
+[RSP+320] 0x0                (size_t) [0]
+[RSP+328] 0x0                (size_t) [0]
+[RSP+330] 0x0                (size_t) [0]
+[RSP+338] 0x0                (size_t) [0]
+[RSP+340] 0x0                (size_t) [0]
+[RSP+348] 0x7FFAE9C7CC91     (void* -> ntdll.dll+004CC91	jmp 0x00007FFAE9C7CCB3)
+[RSP+350] 0x0                (size_t) [0]
+[RSP+358] 0x0                (size_t) [0]
+[RSP+360] 0x0                (size_t) [0]
+[RSP+368] 0x0                (size_t) [0]
+[RSP+370] 0x0                (size_t) [0]
+[RSP+378] 0x0                (size_t) [0]
+[RSP+380] 0x46126E0900000000 (size_t) [5049219117169508352]
+[RSP+388] 0x0                (size_t) [0]
+[RSP+390] 0x0                (size_t) [0]
+[RSP+398] 0x7FFAE7413270     (void* -> KERNELBASE.dll+0133270	mov [rsp+0x10], rbx)
+[RSP+3A0] 0x540461E600       (void*)
+[RSP+3A8] 0x3C80003FFD50A9AE (size_t) [4359484714127501742]
+[RSP+3B0] 0x7FFAA1535C79     (size_t) [140714425146489]
+[RSP+3B8] 0x540461E600       (void*)
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D0] 0x0                (size_t) [0]
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E0] 0x0                (size_t) [0]
+[RSP+3E8] 0x0                (size_t) [0]
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+400] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+430] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+440] 0x0                (size_t) [0]
+[RSP+448] 0x0                (size_t) [0]
+[RSP+450] 0x0                (size_t) [0]
+[RSP+458] 0x0                (size_t) [0]
+[RSP+460] 0x0                (size_t) [0]
+[RSP+468] 0x0                (size_t) [0]
+[RSP+470] 0x0                (size_t) [0]
+[RSP+478] 0x0                (size_t) [0]
+[RSP+480] 0x0                (size_t) [0]
+[RSP+488] 0x0                (size_t) [0]
+[RSP+490] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A0] 0x0                (size_t) [0]
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B0] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]
+[RSP+4C0] 0x0                (size_t) [0]
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D0] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E0] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F0] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+510] 0x0                (size_t) [0]
+[RSP+518] 0x0                (size_t) [0]
+[RSP+520] 0x0                (size_t) [0]
+[RSP+528] 0x0                (size_t) [0]
+[RSP+530] 0x0                (size_t) [0]
+[RSP+538] 0x0                (size_t) [0]
+[RSP+540] 0x0                (size_t) [0]
+[RSP+548] 0x0                (size_t) [0]
+[RSP+550] 0x0                (size_t) [0]
+[RSP+558] 0x0                (size_t) [0]
+[RSP+560] 0x0                (size_t) [0]
+[RSP+568] 0x0                (size_t) [0]
+[RSP+570] 0x0                (size_t) [0]
+[RSP+578] 0x0                (size_t) [0]
+[RSP+580] 0x0                (size_t) [0]
+[RSP+588] 0x0                (size_t) [0]
+[RSP+590] 0x0                (size_t) [0]
+[RSP+598] 0x0                (size_t) [0]
+[RSP+5A0] 0x0                (size_t) [0]
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B0] 0x0                (size_t) [0]
+[RSP+5B8] 0x0                (size_t) [0]
+[RSP+5C0] 0x0                (size_t) [0]
+[RSP+5C8] 0x0                (size_t) [0]
+[RSP+5D0] 0x0                (size_t) [0]
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5E0] 0x0                (size_t) [0]
+[RSP+5E8] 0x0                (size_t) [0]
+[RSP+5F0] 0x0                (size_t) [0]
+[RSP+5F8] 0x0                (size_t) [0]
+[RSP+600] 0x0                (size_t) [0]
+[RSP+608] 0x0                (size_t) [0]
+[RSP+610] 0x0                (size_t) [0]
+[RSP+618] 0x0                (size_t) [0]
+[RSP+620] 0x0                (size_t) [0]
+[RSP+628] 0x0                (size_t) [0]
+[RSP+630] 0x0                (size_t) [0]
+[RSP+638] 0x0                (size_t) [0]
+[RSP+640] 0x0                (size_t) [0]
+[RSP+648] 0x0                (size_t) [0]
+[RSP+650] 0x0                (size_t) [0]
+[RSP+658] 0x0                (size_t) [0]
+[RSP+660] 0x0                (size_t) [0]
+[RSP+668] 0x0                (size_t) [0]
+[RSP+670] 0x0                (size_t) [0]
+[RSP+678] 0x0                (size_t) [0]
+[RSP+680] 0x0                (size_t) [0]
+[RSP+688] 0x0                (size_t) [0]
+[RSP+690] 0x0                (size_t) [0]
+[RSP+698] 0x0                (size_t) [0]
+[RSP+6A0] 0x0                (size_t) [0]
+[RSP+6A8] 0x0                (size_t) [0]
+[RSP+6B0] 0x0                (size_t) [0]
+[RSP+6B8] 0x0                (size_t) [0]
+[RSP+6C0] 0x0                (size_t) [0]
+[RSP+6C8] 0x0                (size_t) [0]
+[RSP+6D0] 0x0                (size_t) [0]
+[RSP+6D8] 0x0                (size_t) [0]
+[RSP+6E0] 0x0                (size_t) [0]
+[RSP+6E8] 0x0                (size_t) [0]
+[RSP+6F0] 0x0                (size_t) [0]
+[RSP+6F8] 0x0                (size_t) [0]
+[RSP+700] 0x0                (size_t) [0]
+[RSP+708] 0x0                (size_t) [0]
+[RSP+710] 0x0                (size_t) [0]
+[RSP+718] 0x0                (size_t) [0]
+[RSP+720] 0x0                (size_t) [0]
+[RSP+728] 0x0                (size_t) [0]
+[RSP+730] 0x0                (size_t) [0]
+[RSP+738] 0x0                (size_t) [0]
+[RSP+740] 0x0                (size_t) [0]
+[RSP+748] 0x0                (size_t) [0]
+[RSP+750] 0x0                (size_t) [0]
+[RSP+758] 0x0                (size_t) [0]
+[RSP+760] 0x0                (size_t) [0]
+[RSP+768] 0x0                (size_t) [0]
+[RSP+770] 0x0                (size_t) [0]
+[RSP+778] 0x0                (size_t) [0]
+[RSP+780] 0x0                (size_t) [0]
+[RSP+788] 0x0                (size_t) [0]
+[RSP+790] 0x0                (size_t) [0]
+[RSP+798] 0x0                (size_t) [0]
+[RSP+7A0] 0x0                (size_t) [0]
+[RSP+7A8] 0x0                (size_t) [0]
+[RSP+7B0] 0x0                (size_t) [0]
+[RSP+7B8] 0x0                (size_t) [0]
+[RSP+7C0] 0x0                (size_t) [0]
+[RSP+7C8] 0x0                (size_t) [0]
+[RSP+7D0] 0x0                (size_t) [0]
+[RSP+7D8] 0x0                (size_t) [0]
+[RSP+7E0] 0x0                (size_t) [0]
+[RSP+7E8] 0x0                (size_t) [0]
+[RSP+7F0] 0x0                (size_t) [0]
+[RSP+7F8] 0x0                (size_t) [0]
+[RSP+800] 0x0                (size_t) [0]
+[RSP+808] 0x0                (size_t) [0]
+[RSP+810] 0x0                (size_t) [0]
+[RSP+818] 0x0                (size_t) [0]
+[RSP+820] 0x0                (size_t) [0]
+[RSP+828] 0x0                (size_t) [0]
+[RSP+830] 0x0                (size_t) [0]
+[RSP+838] 0x0                (size_t) [0]
+[RSP+840] 0x0                (size_t) [0]
+[RSP+848] 0x0                (size_t) [0]
+[RSP+850] 0x0                (size_t) [0]
+[RSP+858] 0x0                (size_t) [0]
+[RSP+860] 0x0                (size_t) [0]
+[RSP+868] 0x0                (size_t) [0]
+[RSP+870] 0x0                (size_t) [0]
+[RSP+878] 0x0                (size_t) [0]
+[RSP+880] 0x0                (size_t) [0]
+[RSP+888] 0x0                (size_t) [0]
+[RSP+890] 0x0                (size_t) [0]
+[RSP+898] 0x0                (size_t) [0]
+[RSP+8A0] 0x0                (size_t) [0]
+[RSP+8A8] 0x0                (size_t) [0]
+[RSP+8B0] 0x0                (size_t) [0]
+[RSP+8B8] 0x0                (size_t) [0]
+[RSP+8C0] 0x0                (size_t) [0]
+[RSP+8C8] 0x0                (size_t) [0]
+[RSP+8D0] 0x0                (size_t) [0]
+[RSP+8D8] 0x0                (size_t) [0]
+[RSP+8E0] 0x0                (size_t) [0]
+[RSP+8E8] 0x0                (size_t) [0]
+[RSP+8F0] 0x0                (size_t) [0]
+[RSP+8F8] 0x0                (size_t) [0]
+[RSP+900] 0x0                (size_t) [0]
+[RSP+908] 0x0                (size_t) [0]
+[RSP+910] 0x0                (size_t) [0]
+[RSP+918] 0x0                (size_t) [0]
+[RSP+920] 0x0                (size_t) [0]
+[RSP+928] 0x0                (size_t) [0]
+[RSP+930] 0x0                (size_t) [0]
+[RSP+938] 0x0                (size_t) [0]
+[RSP+940] 0x0                (size_t) [0]
+[RSP+948] 0x0                (size_t) [0]
+[RSP+950] 0x0                (size_t) [0]
+[RSP+958] 0x0                (size_t) [0]
+[RSP+960] 0x0                (size_t) [0]
+[RSP+968] 0x0                (size_t) [0]
+[RSP+970] 0x0                (size_t) [0]
+[RSP+978] 0x0                (size_t) [0]
+[RSP+980] 0x0                (size_t) [0]
+[RSP+988] 0x0                (size_t) [0]
+[RSP+990] 0x0                (size_t) [0]
+[RSP+998] 0x0                (size_t) [0]
+[RSP+9A0] 0x0                (size_t) [0]
+[RSP+9A8] 0x0                (size_t) [0]
+[RSP+9B0] 0x0                (size_t) [0]
+[RSP+9B8] 0x0                (size_t) [0]
+[RSP+9C0] 0x0                (size_t) [0]
+[RSP+9C8] 0x0                (size_t) [0]
+[RSP+9D0] 0x0                (size_t) [0]
+[RSP+9D8] 0x0                (size_t) [0]
+[RSP+9E0] 0x0                (size_t) [0]
+[RSP+9E8] 0x0                (size_t) [0]
+[RSP+9F0] 0x0                (size_t) [0]
+[RSP+9F8] 0x0                (size_t) [0]
+[RSP+A00] 0x0                (size_t) [0]
+[RSP+A08] 0x0                (size_t) [0]
+[RSP+A10] 0x0                (size_t) [0]
+[RSP+A18] 0x0                (size_t) [0]
+[RSP+A20] 0x0                (size_t) [0]
+[RSP+A28] 0x0                (size_t) [0]
+[RSP+A30] 0x0                (size_t) [0]
+[RSP+A38] 0x0                (size_t) [0]
+[RSP+A40] 0x0                (size_t) [0]
+[RSP+A48] 0x0                (size_t) [0]
+[RSP+A50] 0x0                (size_t) [0]
+[RSP+A58] 0x0                (size_t) [0]
+[RSP+A60] 0x0                (size_t) [0]
+[RSP+A68] 0x0                (size_t) [0]
+[RSP+A70] 0x0                (size_t) [0]
+[RSP+A78] 0x0                (size_t) [0]
+[RSP+A80] 0x0                (size_t) [0]
+[RSP+A88] 0x0                (size_t) [0]
+[RSP+A90] 0x0                (size_t) [0]
+[RSP+A98] 0x0                (size_t) [0]
+[RSP+AA0] 0x0                (size_t) [0]
+[RSP+AA8] 0x0                (size_t) [0]
+[RSP+AB0] 0x0                (size_t) [0]
+[RSP+AB8] 0x0                (size_t) [0]
+[RSP+AC0] 0x0                (size_t) [0]
+[RSP+AC8] 0x0                (size_t) [0]
+[RSP+AD0] 0x0                (size_t) [0]
+[RSP+AD8] 0x0                (size_t) [0]
+[RSP+AE0] 0x0                (size_t) [0]
+[RSP+AE8] 0x0                (size_t) [0]
+[RSP+AF0] 0x0                (size_t) [0]
+[RSP+AF8] 0x0                (size_t) [0]
+[RSP+B00] 0x0                (size_t) [0]
+[RSP+B08] 0x0                (size_t) [0]
+[RSP+B10] 0x0                (size_t) [0]
+[RSP+B18] 0x0                (size_t) [0]
+[RSP+B20] 0x0                (size_t) [0]
+[RSP+B28] 0x0                (size_t) [0]
+[RSP+B30] 0x0                (size_t) [0]
+[RSP+B38] 0x0                (size_t) [0]
+[RSP+B40] 0x0                (size_t) [0]
+[RSP+B48] 0x0                (size_t) [0]

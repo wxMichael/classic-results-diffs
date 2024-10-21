@@ -1,0 +1,153 @@
+[ 0] 0x7FF7C47A5819 Fallout4.exe+0C25819	movss xmm0, dword ptr [rbx+0xD0] |  PipboyMapData::UpdatePlayerMarkerPosition(void)_C25819 -> 9193+0x39	movss xmm0, dword ptr [rbx+0xD0]
+[ 1] 0x7FF7C47A476D Fallout4.exe+0C2476D	mov rcx, rbx |  PipboyMapData::ProcessEvent(PlayerUpdateEvent&,BSTEventSource<PlayerUpdateEvent>*)_C2476D -> 1532432+0x3D	mov rcx, rbx
+[ 2] 0x7FF7C48D0E04 Fallout4.exe+0D50E04	test eax, eax |  BSTEventSource<PlayerUpdateEvent>::Notify(PlayerUpdateEvent&)_D50E04 -> 1062663+0x1C4	test eax, eax
+[ 3] 0x7FF7C48BA029 Fallout4.exe+0D3A029	add rsp, 0x48 |  Main::OnIdle_UpdatePlayer(void)_D3A029 -> 1318162+0x1E9	add rsp, 0x48
+[ 4] 0x7FF7C483E3B5 Fallout4.exe+0CBE3B5	mov rax, [0x00007FF7C9624388] |  JobListManager::ActorAndCellUpdates(void*)_CBE3B5 -> 556439+0xF5	mov rax, [0x00007FF7C9624388]
+[ 5] 0x7FF7C483E5B7 Fallout4.exe+0CBE5B7	mov edx, 0x06 |  JobListManager::AllRenderEndJob(void*)_CBE5B7 -> 169721+0x17	mov edx, 0x06
+[ 6] 0x7FF7C483D20D Fallout4.exe+0CBD20D	add rbx, 0x08 |  JobListManager::ServingThread::RunJobLists(void)_CBD20D -> 151212+0x7D	add rbx, 0x08
+[ 7] 0x7FF7C48407A7 Fallout4.exe+0CC07A7	mov rcx, [rbx+0x60] |  JobListManager::ServingThread::ThreadProc(void)_CC07A7 -> 1166392+0x87	mov rcx, [rbx+0x60]
+[ 8] 0x7FF7C569CFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF7C96DBD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF7C96DBD38]
+[ 9] 0x7FFD86EA7614 KERNEL32.DLL+0017614
+[10] 0x7FFD88D826A1    ntdll.dll+00526A1
+
+REGISTERS:
+RAX 0x228320D9C00      (void*)
+RCX 0x0                (size_t) [0]
+RDX 0xE75E33FC88       (void*)
+RBX 0x0                (size_t) [0]
+RSP 0xE75E33FC30       (void*)
+RBP 0x7FF7C963CF80     (PipboyMapData*)
+RSI 0x228E8FD6AA8      (void*)
+RDI 0x7FF7C95E97D0     (void* -> Fallout4.exe+5A697D0	test al, 0x23 |  aDiveBombChance_5A697D0)
+R8  0x228DD34A000      (FirstPersonState*)
+R9  0x1                (size_t) [1]
+R10 0x228E58A9200      (BSSkin::Instance*)
+R11 0xE75E33FA70       (void*)
+R12 0x0                (size_t) [0]
+R13 0x0                (size_t) [0]
+R14 0x7FF7C95EBDC0     (JobListManager::ServingThread*)
+R15 0xE75E33FD90       (void*)
+
+STACK:
+[RSP+0  ] 0x7FF7C95EBDC0     (JobListManager::ServingThread*)
+[RSP+8  ] 0x7FF7C963CF80     (PipboyMapData*)
+[RSP+10 ] 0x7FF7C963CF80     (PipboyMapData*)
+[RSP+18 ] 0x228E8FD6AA8      (void*)
+[RSP+20 ] 0xC69521D146F6DD0F (size_t) [uint: 14309380573762084111 int: -4137363499947467505]
+[RSP+28 ] 0x3F800000442DC25F (size_t) [4575657222552273503]
+[RSP+30 ] 0x7FF7C95E97D0     (void* -> Fallout4.exe+5A697D0	test al, 0x23 |  aDiveBombChance_5A697D0)
+[RSP+38 ] 0x228E8FD6AA8      (void*)
+[RSP+40 ] 0x228C9C824D0      (void*)
+[RSP+48 ] 0x7FF7C47A476D     (void* -> Fallout4.exe+0C2476D	mov rcx, rbx |  PipboyMapData::ProcessEvent(PlayerUpdateEvent&,BSTEventSource<PlayerUpdateEvent>*)_C2476D)
+[RSP+50 ] 0x0                (size_t) [0]
+[RSP+58 ] 0x0                (size_t) [0]
+[RSP+60 ] 0x7FF7C963CF80     (PipboyMapData*)
+[RSP+68 ] 0x0                (size_t) [0]
+[RSP+70 ] 0x228E8FD6AA0      (void*)
+[RSP+78 ] 0x7FF7C48D0E04     (void* -> Fallout4.exe+0D50E04	test eax, eax |  BSTEventSource<PlayerUpdateEvent>::Notify(PlayerUpdateEvent&)_D50E04)
+[RSP+80 ] 0x228C9CCEA38      (void*)
+[RSP+88 ] 0x228C9C824D0      (void*)
+[RSP+90 ] 0x0                (size_t) [0]
+[RSP+98 ] 0x0                (size_t) [0]
+[RSP+A0 ] 0x0                (size_t) [0]
+[RSP+A8 ] 0x0                (size_t) [0]
+[RSP+B0 ] 0x0                (size_t) [0]
+[RSP+B8 ] 0x0                (size_t) [0]
+[RSP+C0 ] 0x0                (size_t) [0]
+[RSP+C8 ] 0x0                (size_t) [0]
+[RSP+D0 ] 0x0                (size_t) [0]
+[RSP+D8 ] 0x0                (size_t) [0]
+[RSP+E0 ] 0x0                (size_t) [0]
+[RSP+E8 ] 0x228C9C824D0      (void*)
+[RSP+F0 ] 0x228C9CCEA38      (void*)
+[RSP+F8 ] 0x0                (size_t) [0]
+[RSP+100] 0x228C9CCEB28      (void*)
+[RSP+108] 0x7FF7C48BA029     (void* -> Fallout4.exe+0D3A029	add rsp, 0x48 |  Main::OnIdle_UpdatePlayer(void)_D3A029)
+[RSP+110] 0x7FF7C68C38E8     (void* -> Fallout4.exe+2D438E8	 |  aDiveBombChance_2D438E8)
+[RSP+118] 0xE75E33FD90       (void*)
+[RSP+120] 0x228E8FD6AA0      (void*)
+[RSP+128] 0x0                (size_t) [0]
+[RSP+130] 0x0                (size_t) [0]
+[RSP+138] 0x0                (size_t) [0]
+[RSP+140] 0x0                (size_t) [0]
+[RSP+148] 0x0                (size_t) [0]
+[RSP+150] 0x228C9CCEB28      (void*)
+[RSP+158] 0x7FF7C483E3B5     (void* -> Fallout4.exe+0CBE3B5	mov rax, [0x00007FF7C9624388] |  JobListManager::ActorAndCellUpdates(void*)_CBE3B5)
+[RSP+160] 0x0                (size_t) [0]
+[RSP+168] 0x228C9CCEA38      (void*)
+[RSP+170] 0x7FF7C95EBDC0     (JobListManager::ServingThread*)
+[RSP+178] 0x0                (size_t) [0]
+[RSP+180] 0xC69521D146F6DD0F (size_t) [uint: 14309380573762084111 int: -4137363499947467505]
+[RSP+188] 0x442DC25F         (size_t) [1143849567]
+[RSP+190] 0x228C9CCEA20      (void*)
+[RSP+198] 0x7FF7C483E5B7     (void* -> Fallout4.exe+0CBE5B7	mov edx, 0x06 |  JobListManager::AllRenderEndJob(void*)_CBE5B7)
+[RSP+1A0] 0x228C9C824C8      (void*)
+[RSP+1A8] 0x0                (size_t) [0]
+[RSP+1B0] 0x7FF7C95EBDC0     (JobListManager::ServingThread*)
+[RSP+1B8] 0x228C9CCEA20      (void*)
+[RSP+1C0] 0x0                (size_t) [0]
+[RSP+1C8] 0x7FF7C483D20D     (void* -> Fallout4.exe+0CBD20D	add rbx, 0x08 |  JobListManager::ServingThread::RunJobLists(void)_CBD20D)
+[RSP+1D0] 0x228C9C824C8      (void*)
+[RSP+1D8] 0x228C9C824D0      (void*)
+[RSP+1E0] 0x0                (size_t) [0]
+[RSP+1E8] 0x57C8             (size_t) [22472]
+[RSP+1F0] 0x0                (size_t) [0]
+[RSP+1F8] 0x0                (size_t) [0]
+[RSP+200] 0x7FF7C95EBDC0     (JobListManager::ServingThread*)
+[RSP+208] 0x7FF7C48407A7     (void* -> Fallout4.exe+0CC07A7	mov rcx, [rbx+0x60] |  JobListManager::ServingThread::ThreadProc(void)_CC07A7)
+[RSP+210] 0x228C9C82480      (void*)
+[RSP+218] 0x228C9C824D0      (void*)
+[RSP+220] 0x0                (size_t) [0]
+[RSP+228] 0x0                (size_t) [0]
+[RSP+230] 0x7FF7C95EBDC0     (JobListManager::ServingThread*)
+[RSP+238] 0x7FF7C569CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF7C96DBD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+240] 0x57E4             (size_t) [22500]
+[RSP+248] 0xE75E33FE90       (void*)
+[RSP+250] 0x228C971EE70      (void*)
+[RSP+258] 0x0                (size_t) [0]
+[RSP+260] 0x7FF7C95EBDC0     (JobListManager::ServingThread*)
+[RSP+268] 0x0                (size_t) [0]
+[RSP+270] 0x0                (size_t) [0]
+[RSP+278] 0x7FFD86EA7614     (void* -> KERNEL32.DLL+0017614	mov ecx, eax)
+[RSP+280] 0x0                (size_t) [0]
+[RSP+288] 0x0                (size_t) [0]
+[RSP+290] 0x0                (size_t) [0]
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A0] 0x0                (size_t) [0]
+[RSP+2A8] 0x7FFD88D826A1     (void* -> ntdll.dll+00526A1	jmp 0x00007FFD88D826C3)
+[RSP+2B0] 0x0                (size_t) [0]
+[RSP+2B8] 0x0                (size_t) [0]
+[RSP+2C0] 0x0                (size_t) [0]
+[RSP+2C8] 0x0                (size_t) [0]
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x0                (size_t) [0]
+[RSP+2E0] 0xC692076E00000000 (size_t) [uint: 14308507135137284096 int: -4138236938572267520]
+[RSP+2E8] 0x0                (size_t) [0]
+[RSP+2F0] 0x0                (size_t) [0]
+[RSP+2F8] 0x7FFD86A70020     (void* -> KERNELBASE.dll+0110020	mov [rsp+0x10], rbx)
+[RSP+300] 0xE75E33ED80       (void*)
+[RSP+308] 0xFFF500D41D380001 (size_t) [uint: 18443648759989010433 int: -3095313720541183]
+[RSP+310] 0x7FFD4035074E     (size_t) [140725680670542]
+[RSP+318] 0xE75E33ED80       (void*)
+[RSP+320] 0x0                (size_t) [0]
+[RSP+328] 0x0                (size_t) [0]
+[RSP+330] 0x0                (size_t) [0]
+[RSP+338] 0x0                (size_t) [0]
+[RSP+340] 0x0                (size_t) [0]
+[RSP+348] 0x0                (size_t) [0]
+[RSP+350] 0x0                (size_t) [0]
+[RSP+358] 0x0                (size_t) [0]
+[RSP+360] 0x0                (size_t) [0]
+[RSP+368] 0x0                (size_t) [0]
+[RSP+370] 0x0                (size_t) [0]
+[RSP+378] 0x0                (size_t) [0]
+[RSP+380] 0x0                (size_t) [0]
+[RSP+388] 0x0                (size_t) [0]
+[RSP+390] 0x0                (size_t) [0]
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A0] 0x0                (size_t) [0]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]

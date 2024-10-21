@@ -1,0 +1,4 @@
+Buffout 4 v1.31.1 Feb 28 2023 00:32:02
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF6FDE2AB46 Fallout4.exe+03BAB46	cmp byte ptr [rax+0x1A], 0x20 
+  TESObjectCELL::BuildTeleportDoorList(BSTObjectArena<TESObjectREFR*,BSTObjectArenaScrapAlloc,32>&)_3BAB46)

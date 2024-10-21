@@ -1,0 +1,319 @@
+[ 0] 0x7FF6B735ED7A Fallout4.exe+24AED7A -> 18788+0xA	mov r11, [rcx+0x28]
+[ 1] 0x7FF6B5F63A65 Fallout4.exe+10B3A65 -> 783474+0x775	mov rcx, [rbp-0x08]
+[ 2] 0x7FF6B5FC4291 Fallout4.exe+1114291 -> 1254881+0x151	test al, al
+[ 3] 0x7FF6B5FC477B Fallout4.exe+111477B -> 1092802+0x2B	mov edi, eax
+[ 4] 0x7FF6B571BB87 Fallout4.exe+086BB87 -> 1204890+0x17	test al, al
+[ 5] 0x7FF6B570AF15 Fallout4.exe+085AF15 -> 622933+0x65	test al, al
+[ 6] 0x7FF6B5FC6426 Fallout4.exe+1116426 -> 44049+0x96	xor r15d, r15d
+[ 7] 0x7FF6B6096616 Fallout4.exe+11E6616 -> 1000232+0xE6	mov esi, eax
+[ 8] 0x7FF6B609381D Fallout4.exe+11E381D -> 939067+0x3D	mov eax, [rbx+0x48]
+[ 9] 0x7FF6B609F10A Fallout4.exe+11EF10A -> 797814+0x10A	movzx ebx, al
+[10] 0x7FF6B5FC0F22 Fallout4.exe+1110F22 -> 1169095+0x62	mov rcx, [rsp+0x48]
+[11] 0x7FF6B733C961 Fallout4.exe+248C961 -> 402432+0xF1	movzx edi, al
+[12] 0x7FF6B73563C0 Fallout4.exe+24A63C0 -> 156471+0x2F0	mov rcx, [rsi+0x18]
+[13] 0x7FF6B6A00F26 Fallout4.exe+1B50F26 -> 329005+0xC6	mov ecx, [rbx+0x0C]
+[14] 0x7FF6B6A01432 Fallout4.exe+1B51432 -> 194800+0x202	mov r14d, eax
+[15] 0x7FF6B6A03F67 Fallout4.exe+1B53F67 -> 1492866+0x67	movzx eax, byte ptr [rbx+0xA74]
+[16] 0x7FF6B69CCFED Fallout4.exe+1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF6BAA0BD38]
+[17] 0x7FFCE868257D KERNEL32.DLL+001257D
+[18] 0x7FFCE944AF28    ntdll.dll+005AF28
+
+REGISTERS:
+RCX 0x0                (size_t) [0]
+RBX 0x27732E03E88      (NavMesh*)
+File: "Fallout4.esm"
+Flags: 0x00000008
+FormID: 0x00246C9F
+FormType: kNAVM (76)
+RBP 0xDD2EF4F2B0       (void*)
+RDI 0x6F               (size_t) [111]
+R9  0x1                (size_t) [1]
+R10 0x2749E961F18      (voltek::core::bits_regions*)
+R12 0x7FF6B7AF9DB8     (void* -> Fallout4.exe+2C49DB8	loopne 0x00007FF6B7AF9DD0)
+R14 0x5A               (size_t) [90]
+
+STACK:
+[RSP+0  ] 0x7FF6B5F63A65     (void* -> Fallout4.exe+10B3A65	mov rcx, [rbp-0x08])
+[RSP+8  ] 0x27732E03E88      (NavMesh*)
+File: "Fallout4.esm"
+Flags: 0x00000008
+FormID: 0x00246C9F
+FormType: kNAVM (76)
+[RSP+18 ] 0xDD2EF4F4A8       (void*)
+[RSP+20 ] 0x7FFBFD32D69A     (void* -> x-cell-fo4.dll+000D69A	xor eax, eax)
+[RSP+28 ] 0x276C8140180      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF02D101
+FormType: kNPC_ (45)
+Flags: 0x0002050A
+FormID: 0xFF02D0B2
+FormType: kACHR (65)
+[RSP+38 ] 0x2770000001E      (void*)
+[RSP+40 ] 0x7FF6B7AF96C8     (void* -> Fallout4.exe+2C496C8	)
+[RSP+50 ] 0x7FF6B572E1F3     (void* -> Fallout4.exe+087E1F3	mov rdi, [rsp+0x38])
+[RSP+60 ] 0x47B0CAF0C6B785B6 (size_t) [5165851908068836790]
+[RSP+70 ] 0xC212410043D51000 (size_t) [uint: 13984311262332653568 int: -4462432811376898048]
+[RSP+80 ] 0x27515AAB880      (void*)
+[RSP+90 ] 0x27600000040      (void*)
+[RSP+A0 ] 0x27515AAB880      (void*)
+[RSP+B0 ] 0x7FF600000020     (size_t) [140694538682400]
+[RSP+C0 ] 0x0                (size_t) [0]
+[RSP+D0 ] 0x27732E03E88      (NavMesh*)
+File: "Fallout4.esm"
+Flags: 0x00000008
+FormID: 0x00246C9F
+FormType: kNAVM (76)
+[RSP+E0 ] 0xBF7BC00000000000 (size_t) [uint: 13797832989612179456 int: -4648911084097372160]
+[RSP+F0 ] 0x7FF6B7AF96C8     (void* -> Fallout4.exe+2C496C8	)
+[RSP+100] 0x2778E3A6D74      (void*)
+[RSP+110] 0x7FF6B570A363     (void* -> Fallout4.exe+085A363	mov rcx, [rsp+0xA0])
+[RSP+120] 0x7FFC00000037     (size_t) [140720308486199]
+[RSP+130] 0x27734706660      (void*)
+[RSP+140] 0xDD00000007       (size_t) [949187772423]
+[RSP+148] 0x27732E03E88      (NavMesh*)
+File: "Fallout4.esm"
+Flags: 0x00000008
+FormID: 0x00246C9F
+FormType: kNAVM (76)
+[RSP+158] 0x47B0C2A000000000 (size_t) [5165842765044514816]
+[RSP+168] 0x0                (size_t) [0]
+[RSP+178] 0x0                (size_t) [0]
+[RSP+188] 0xDD2EF4F468       (void*)
+[RSP+198] 0x27732E03E88      (NavMesh*)
+File: "Fallout4.esm"
+Flags: 0x00000008
+FormID: 0x00246C9F
+FormType: kNAVM (76)
+[RSP+1A0] 0x7FF6B57210E8     (void* -> Fallout4.exe+08710E8	)
+[RSP+1B0] 0x45BB4FFF         (size_t) [1169903615]
+[RSP+1B8] 0x7FF6B7EDDEC0     (void* -> Fallout4.exe+302DEC0	mov al, 0xA6)
+[RSP+1C8] 0xDD2EF4F421       (void*)
+[RSP+1D8] 0x0                (size_t) [0]
+[RSP+1E8] 0x0                (size_t) [0]
+[RSP+1F8] 0x0                (size_t) [0]
+[RSP+208] 0x0                (size_t) [0]
+[RSP+218] 0x0                (size_t) [0]
+[RSP+228] 0x0                (size_t) [0]
+[RSP+238] 0x0                (size_t) [0]
+[RSP+248] 0x0                (size_t) [0]
+[RSP+258] 0x0                (size_t) [0]
+[RSP+268] 0x0                (size_t) [0]
+[RSP+278] 0x277F9498F48      (void*)
+[RSP+288] 0x27732DCED50      (CombatNavmeshSearchT<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A8] 0xDD2EF4F560       (void*)
+[RSP+2B0] 0x7FF6B5FC4291     (void* -> Fallout4.exe+1114291	test al, al)
+[RSP+2C0] 0x27741D80000      (void*)
+[RSP+2D0] 0xDD2EF4F4A8       (void*)
+[RSP+2E0] 0xDD2EF4F600       (void*)
+[RSP+2F0] 0x7FFBFD32D830     (void* -> x-cell-fo4.dll+000D830	mov rbx, [rsp+0xB0])
+[RSP+2F8] 0x7FF6B7AF96C8     (void* -> Fallout4.exe+2C496C8	)
+[RSP+308] 0x45BB4FFF         (size_t) [1169903615]
+[RSP+318] 0x0                (size_t) [0]
+[RSP+320] 0x275FE1ECA80      (PathingCell*)
+[RSP+330] 0x0                (size_t) [0]
+[RSP+340] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+350] 0xC6B7B41045BB4D7A (size_t) [uint: 14319111522230160762 int: -4127632551479390854]
+[RSP+360] 0x27732E03E88      (NavMesh*)
+File: "Fallout4.esm"
+Flags: 0x00000008
+FormID: 0x00246C9F
+FormType: kNAVM (76)
+[RSP+370] 0x1                (size_t) [1]
+[RSP+378] 0x27732E03E88      (NavMesh*)
+File: "Fallout4.esm"
+Flags: 0x00000008
+FormID: 0x00246C9F
+FormType: kNAVM (76)
+[RSP+388] 0x47B0C994C6B7A05A (size_t) [5165850413420224602]
+[RSP+398] 0x27745BB4FFF      (size_t) [2711294267391]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0x275FE1ECA80      (PathingCell*)
+[RSP+3C0] 0x7FF6B5705F2E     (void* -> Fallout4.exe+0855F2E	xor r9d, r9d)
+[RSP+3D0] 0x0                (size_t) [0]
+[RSP+3E0] 0x0                (size_t) [0]
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+400] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+430] 0x27515AAB920      (char*) "J"
+[RSP+440] 0x27641CCF9C8      (void*)
+[RSP+450] 0x7FF6B5FC477B     (void* -> Fallout4.exe+111477B	mov edi, eax)
+[RSP+458] 0x27732DCED50      (CombatNavmeshSearchT<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+468] 0x27732DCED50      (CombatNavmeshSearchT<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+478] 0x2                (size_t) [2]
+[RSP+480] 0x7FF6B571BB87     (void* -> Fallout4.exe+086BB87	test al, al)
+[RSP+488] 0x27732DCED50      (CombatNavmeshSearchT<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+498] 0x27732DCED50      (CombatNavmeshSearchT<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+4A0] 0x7FF6B69C5908     (void* -> Fallout4.exe+1B15908	mov rax, [rsp+0x30])
+[RSP+4A8] 0x27732DCED50      (CombatNavmeshSearchT<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+4B8] 0x27515AAB920      (char*) "J"
+[RSP+4C8] 0x27732DCEEE0      (void*)
+[RSP+4D0] 0x7FF6B570AF15     (void* -> Fallout4.exe+085AF15	test al, al)
+[RSP+4E0] 0x27732DCEEC8      (void*)
+[RSP+4F0] 0x27732DCED50      (CombatNavmeshSearchT<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+500] 0x7FF6B5FC6426     (void* -> Fallout4.exe+1116426	xor r15d, r15d)
+[RSP+508] 0x27732DCED50      (CombatNavmeshSearchT<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+518] 0x27732DCEEC8      (void*)
+[RSP+520] 0x7FF6B6095034     (void* -> Fallout4.exe+11E5034	movzx eax, bl)
+[RSP+528] 0x276D801BF50      (CombatPathBuilderT<CombatPathBuilderOpen,CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+538] 0x276D801BF50      (CombatPathBuilderT<CombatPathBuilderOpen,CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+548] 0x7FF6B7AF9DB8     (void* -> Fallout4.exe+2C49DB8	loopne 0x00007FF6B7AF9DD0)
+[RSP+558] 0x0                (size_t) [0]
+[RSP+568] 0x27515AAB920      (char*) "J"
+[RSP+578] 0x276D801BF50      (CombatPathBuilderT<CombatPathBuilderOpen,CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+580] 0x7FF6B6096616     (void* -> Fallout4.exe+11E6616	mov esi, eax)
+[RSP+588] 0x276D801BF50      (CombatPathBuilderT<CombatPathBuilderOpen,CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+598] 0x2                (size_t) [2]
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B0] 0x7FF6B609381D     (void* -> Fallout4.exe+11E381D	mov eax, [rbx+0x48])
+[RSP+5C0] 0x276D801BF50      (CombatPathBuilderT<CombatPathBuilderOpen,CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+5C8] 0x7FF6BA989158     (AutoRegisterCombatPathingRequestGeneric<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard,CombatPathDestinationLocation>*)
+[RSP+5D8] 0x276D801BF50      (CombatPathBuilderT<CombatPathBuilderOpen,CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+5E0] 0x7FF6B609F10A     (void* -> Fallout4.exe+11EF10A	movzx ebx, al)
+[RSP+5F0] 0x27733958450      (CombatPathingRequestGeneric<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+5F8] 0x7FF6BA989158     (AutoRegisterCombatPathingRequestGeneric<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard,CombatPathDestinationLocation>*)
+[RSP+600] 0x7FF6B692B6AC     (void* -> Fallout4.exe+1A7B6AC	cmp dword ptr [r15+0x0C], 0x00)
+[RSP+610] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+620] 0x7FF6B5FC0F22     (void* -> Fallout4.exe+1110F22	mov rcx, [rsp+0x48])
+[RSP+628] 0x27733958450      (CombatPathingRequestGeneric<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+630] 0x27733958450      (CombatPathingRequestGeneric<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+640] 0x277F3E85530      (void*)
+[RSP+650] 0x0                (size_t) [0]
+[RSP+658] 0x7FF6BA791C00     (void* -> Fallout4.exe+58E1C00	add [rax], al)
+[RSP+660] 0x7FF6B733C961     (void* -> Fallout4.exe+248C961	movzx edi, al)
+[RSP+670] 0x27733958450      (CombatPathingRequestGeneric<CombatPathingGoalPolicyFindAttackLocation,CombatPathingSearchPolicyStandard>*)
+[RSP+680] 0x7FF6B69C5908     (void* -> Fallout4.exe+1B15908	mov rax, [rsp+0x30])
+[RSP+688] 0x7FF6BAA98084     (void* -> Fallout4.exe+5BE8084	add [rax], al)
+[RSP+698] 0x27515AAAF60      (void*)
+[RSP+6A8] 0x7FF6BAA9AB40     (void* -> Fallout4.exe+5BEAB40	push rax)
+[RSP+6B0] 0x7FF6B73563C0     (void* -> Fallout4.exe+24A63C0	mov rcx, [rsi+0x18])
+[RSP+6C0] 0x61A67F8C         (size_t) [1638301580]
+[RSP+6D0] 0x277F3A293C0      (void*)
+[RSP+6E0] 0x276CAC4B2C8      (void*)
+[RSP+6F0] 0x7FFCE6D49A9E     (void* -> KERNELBASE.dll+0039A9E	nop [rax+rax*1], eax)
+[RSP+700] 0x277F3E85530      (void*)
+[RSP+710] 0x276D0B3A800      (void*)
+[RSP+720] 0xDD2EF4F8E0       (void*)
+[RSP+730] 0x27600000001      (void*)
+[RSP+740] 0x0                (size_t) [0]
+[RSP+750] 0x0                (size_t) [0]
+[RSP+760] 0x0                (size_t) [0]
+[RSP+770] 0x5                (size_t) [5]
+[RSP+780] 0x45               (size_t) [69]
+[RSP+790] 0x7FF6B6C2BE8C     (void* -> Fallout4.exe+1D7BE8C	mov ebp, edi)
+[RSP+7A0] 0x7FFCE6D71E7D     (void* -> KERNELBASE.dll+0061E7D	nop [rax+rax*1], eax)
+[RSP+7A8] 0x7FF6BAA98084     (void* -> Fallout4.exe+5BE8084	add [rax], al)
+[RSP+7B0] 0x7FF6BAA98080     (void* -> Fallout4.exe+5BE8080	add [rax], al)
+[RSP+7B8] 0x7FF6BAA98088     (void* -> Fallout4.exe+5BE8088	add [rax], al)
+[RSP+7C8] 0x0                (size_t) [0]
+[RSP+7D0] 0x7FF6B6A00F26     (void* -> Fallout4.exe+1B50F26	mov ecx, [rbx+0x0C])
+[RSP+7D8] 0x7FF6BAA9AB40     (void* -> Fallout4.exe+5BEAB40	push rax)
+[RSP+7E8] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+7F0] 0x7FFCE6D71E7D     (void* -> KERNELBASE.dll+0061E7D	nop [rax+rax*1], eax)
+[RSP+800] 0x0                (size_t) [0]
+[RSP+808] 0x7FF6BAAB0CC0     (void* -> Fallout4.exe+5C00CC0	push rax)
+[RSP+818] 0x7FF6BAA9AAB0     (BSJobs::JobThread*)
+[RSP+820] 0x7FF6B6A01432     (void* -> Fallout4.exe+1B51432	mov r14d, eax)
+[RSP+830] 0x7FF6BAA9AAF0     (void* -> Fallout4.exe+5BEAAF0	cmp al, 0x0E)
+[RSP+840] 0xDD2EF4FA40       (void*)
+[RSP+850] 0x0                (size_t) [0]
+[RSP+860] 0x7FF6B6A03F67     (void* -> Fallout4.exe+1B53F67	movzx eax, byte ptr [rbx+0xA74])
+[RSP+868] 0x7FF6BAA9AAB0     (BSJobs::JobThread*)
+[RSP+878] 0x0                (size_t) [0]
+[RSP+888] 0x7FF6BAA9AAB0     (BSJobs::JobThread*)
+[RSP+890] 0x7FF6B69CCFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF6BAA0BD38])
+[RSP+8A0] 0xDD2EF4FA60       (void*)
+[RSP+8B0] 0x0                (size_t) [0]
+[RSP+8B8] 0x7FF6BAA9AAB0     (BSJobs::JobThread*)
+[RSP+8C8] 0x0                (size_t) [0]
+[RSP+8D0] 0x7FFCE868257D     (void* -> KERNEL32.DLL+001257D	mov ecx, eax)
+[RSP+8E0] 0x0                (size_t) [0]
+[RSP+8F0] 0x0                (size_t) [0]
+[RSP+900] 0x7FFCE944AF28     (void* -> ntdll.dll+005AF28	jmp 0x00007FFCE944AF49)
+[RSP+910] 0x0                (size_t) [0]
+[RSP+920] 0x0                (size_t) [0]
+[RSP+930] 0x0                (size_t) [0]
+[RSP+940] 0x0                (size_t) [0]
+[RSP+950] 0x7FFCE6E709D0     (void* -> KERNELBASE.dll+01609D0	mov [rsp+0x10], rbx)
+[RSP+960] 0x580001FFF25CBD57 (size_t) [6341070474132110679]
+[RSP+970] 0xDD2EF4E2C0       (void*)
+[RSP+980] 0x0                (size_t) [0]
+[RSP+990] 0x0                (size_t) [0]
+[RSP+9A0] 0x0                (size_t) [0]
+[RSP+9B0] 0x0                (size_t) [0]
+[RSP+9C0] 0x0                (size_t) [0]
+[RSP+9D0] 0x0                (size_t) [0]
+[RSP+9E0] 0x0                (size_t) [0]
+[RSP+9F0] 0x0                (size_t) [0]
+[RSP+A00] 0x0                (size_t) [0]
+[RSP+A10] 0x0                (size_t) [0]
+[RSP+A20] 0x0                (size_t) [0]
+[RSP+A30] 0x0                (size_t) [0]
+[RSP+A40] 0x0                (size_t) [0]
+[RSP+A50] 0x0                (size_t) [0]
+[RSP+A60] 0x0                (size_t) [0]
+[RSP+A70] 0x0                (size_t) [0]
+[RSP+A80] 0x0                (size_t) [0]
+[RSP+A90] 0x0                (size_t) [0]
+[RSP+AA0] 0x0                (size_t) [0]
+[RSP+AB0] 0x0                (size_t) [0]
+[RSP+AC0] 0x0                (size_t) [0]
+[RSP+AD0] 0x0                (size_t) [0]
+[RSP+AE0] 0x0                (size_t) [0]
+[RSP+AF0] 0x0                (size_t) [0]
+[RSP+B00] 0x0                (size_t) [0]
+[RSP+B10] 0x0                (size_t) [0]
+[RSP+B20] 0x0                (size_t) [0]
+[RSP+B30] 0x0                (size_t) [0]
+[RSP+B40] 0x0                (size_t) [0]
+[RSP+B50] 0x0                (size_t) [0]
+[RSP+B60] 0x0                (size_t) [0]
+[RSP+B70] 0x0                (size_t) [0]
+[RSP+B80] 0x0                (size_t) [0]
+[RSP+B90] 0x0                (size_t) [0]
+[RSP+BA0] 0x0                (size_t) [0]
+[RSP+BB0] 0x0                (size_t) [0]
+[RSP+BC0] 0x0                (size_t) [0]
+[RSP+BD0] 0x0                (size_t) [0]
+[RSP+BE0] 0x0                (size_t) [0]
+[RSP+BF0] 0x0                (size_t) [0]
+[RSP+C00] 0x0                (size_t) [0]
+[RSP+C10] 0x0                (size_t) [0]
+[RSP+C20] 0x0                (size_t) [0]
+[RSP+C30] 0x0                (size_t) [0]
+[RSP+C40] 0x0                (size_t) [0]
+[RSP+C50] 0x0                (size_t) [0]
+[RSP+C60] 0x0                (size_t) [0]
+[RSP+C70] 0x0                (size_t) [0]
+[RSP+C80] 0x0                (size_t) [0]
+[RSP+C90] 0x0                (size_t) [0]
+[RSP+CA0] 0x0                (size_t) [0]
+[RSP+CB0] 0x0                (size_t) [0]
+[RSP+CC0] 0x0                (size_t) [0]
+[RSP+CD0] 0x0                (size_t) [0]
+[RSP+CE0] 0x0                (size_t) [0]
+[RSP+CF0] 0x0                (size_t) [0]
+[RSP+D00] 0x0                (size_t) [0]
+[RSP+D10] 0x0                (size_t) [0]
+[RSP+D20] 0x0                (size_t) [0]
+[RSP+D30] 0x0                (size_t) [0]
+[RSP+D40] 0x0                (size_t) [0]
+[RSP+D50] 0x0                (size_t) [0]
+[RSP+D60] 0x0                (size_t) [0]
+[RSP+D70] 0x0                (size_t) [0]
+[RSP+D80] 0x0                (size_t) [0]
+[RSP+D90] 0x0                (size_t) [0]
+[RSP+DA0] 0x0                (size_t) [0]
+[RSP+DB0] 0x0                (size_t) [0]
+[RSP+DC0] 0x0                (size_t) [0]
+[RSP+DD0] 0x0                (size_t) [0]
+[RSP+DE0] 0x0                (size_t) [0]
+[RSP+DF0] 0x0                (size_t) [0]
+[RSP+E00] 0x0                (size_t) [0]
+[RSP+E10] 0x0                (size_t) [0]
+[RSP+E20] 0x0                (size_t) [0]
+[RSP+E30] 0x0                (size_t) [0]
+[RSP+E40] 0x0                (size_t) [0]
+[RSP+E50] 0x0                (size_t) [0]

@@ -1,0 +1,648 @@
+[ 0] 0x7FF7763686FD Fallout4.exe+01786FD	mov rdx, [r15+0x28] |  BGSConstructFormsInFileMap::ConstructForms(TESFile*,BGSConstructedForms*)_1786FD -> 1271839+0x8AD	mov rdx, [r15+0x28]
+[ 1] 0x7FF77636A20F Fallout4.exe+017A20F	nop |  BSTScatterTableBase<BSTScatterTableTraits<TESFile*,BGSConstructFormsInFileMap*,BSTScatterTableDefaultKVStorage,BSTScatterTableDefaultHashPolicy<TESFile*>,BSTScatterTableHeapAllocator<BSTScatterTableEntry<TESFile*,BGSConstructFormsInFileMap*,BSTScatterTableDefaultKVStorage>>,8>>::ForEachImpl<`anonymous_namespace'::ConstructFormsFunctor>(`anonymous_namespace'::ConstructFormsFunctor&)_17A20F -> 313377+0x7F	nop
+[ 2] 0x7FF7763694F3 Fallout4.exe+01794F3	lea rdx, [0x00007FF776369910] |  BGSConstructFormsInAllFilesMap::ConstructForms(bool)_1794F3 -> 1528868+0x83	lea rdx, [0x00007FF776369910]
+[ 3] 0x7FF776EC7BE4 Fallout4.exe+0CD7BE4	lea rcx, [rdi+0x30] |  BGSReconstructFormsInAllFilesMap::ReconstructForms(bool)_CD7BE4 -> 1094255+0x34	lea rcx, [rdi+0x30]
+[ 4] 0x7FF776ECCDCE Fallout4.exe+0CDCDCE	and dword ptr [rdi+rsi*1], 0xFFFFFFFD |  BGSSaveLoadGame::LoadCell(TESObjectCELL*,BGSLoadFormBuffer&)_CDCDCE -> 888146+0x8E	and dword ptr [rdi+rsi*1], 0xFFFFFFFD
+[ 5] 0x7FF77659DEB8 Fallout4.exe+03ADEB8	and bl, 0x01 |  TESObjectCELL::InitItem(BGSLoadFormBuffer&)_3ADEB8 -> 891796+0x158	and bl, 0x01
+[ 6] 0x7FF77659DD46 Fallout4.exe+03ADD46	lea rcx, [rsp+0x20] |  TESObjectCELL::InitItemImpl(void)_3ADD46 -> 280207+0x36	lea rcx, [rsp+0x20]
+[ 7] 0x7FF776342C3C Fallout4.exe+0152C3C	or dword ptr [rdi+0x10], 0x08 |  TESForm::InitItem(void)_152C3C -> 1420843+0x7C	or dword ptr [rdi+0x10], 0x08
+[ 8] 0x7FF7766827CA Fallout4.exe+04927CA	mov rdx, rdi |  TESWorldSpace::LoadCell(int,int)_4927CA -> 318817+0x26A	mov rdx, rdi
+[ 9] 0x7FF776583000 Fallout4.exe+0393000	mov [rbx+0x08], rax |  ExteriorCellLoader::LoadCellData(CELL_LOAD_DATA&)_393000 -> 1133249+0x30	mov [rbx+0x08], rax
+[10] 0x7FF7765815B4 Fallout4.exe+03915B4	mov rcx, [rbx+0x48] |  CellLoaderTask::Run(void)_3915B4 -> 399299+0x24	mov rcx, [rbx+0x48]
+[11] 0x7FF777E94D3A Fallout4.exe+1CA4D3A	mov al, 0x01 |  IOTask::TryCompleteTask(void)_1CA4D3A -> 1076889+0xA	mov al, 0x01
+[12] 0x7FF777E976EE Fallout4.exe+1CA76EE	test al, al |  IOManagerThread::ThreadProc(void)_1CA76EE -> 1034198+0x24E	test al, al
+[13] 0x7FF777D0CFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF77BD4BD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF77BD4BD38]
+[14] 0x7FFE5A3D7604 KERNEL32.DLL+0017604
+[15] 0x7FFE5B0226A1    ntdll.dll+00526A1
+
+REGISTERS:
+RAX 0x5213CEBA         (size_t) [1377029818]
+RCX 0xCA               (size_t) [202]
+RDX 0x9DA71D           (size_t) [10331933]
+RBX 0x1CADD6B2D90      (void*)
+RSP 0x4B5A8F170        (void*)
+RBP 0x4B5A8F270        (void*)
+RSI 0x1CAFDF22C00      (void*)
+RDI 0xC619C2           (size_t) [12982722]
+R8  0x7B2C8C           (size_t) [8072332]
+R9  0x7B2C8CB3         (size_t) [2066517171]
+R10 0xC6               (size_t) [198]
+R11 0x4B5A8F1E8        (void*)
+R12 0x0                (size_t) [0]
+R13 0x0                (size_t) [0]
+R14 0x0                (size_t) [0]
+R15 0x0                (size_t) [0]
+
+STACK:
+[RSP+0  ] 0x1CADD6B2D90      (void*)
+[RSP+8  ] 0x0                (size_t) [0]
+[RSP+10 ] 0x1CAFDF22C00      (void*)
+[RSP+18 ] 0x1CAAB67EC00      (TESObjectCELL*)
+File: "Region Names on Save Files.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> SS2.esm -> A Forest.esp -> A Variety of Containers.esp -> A Forest-Base Mod Patch.esp -> Region Names on Save Files.esp
+Flags: 0x0004000B
+EditorID: "ChestnutHillockReservoirExt04"
+FormID: 0x0000E4EE
+FormType: kCELL (63)
+File: "Region Names on Save Files.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> SS2.esm -> A Forest.esp -> A Variety of Containers.esp -> A Forest-Base Mod Patch.esp -> Region Names on Save Files.esp
+Flags: 0x0004000B
+EditorID: "ChestnutHillockReservoirExt04"
+FormID: 0x0000E4EE
+FormType: kCELL (63)
+[RSP+20 ] 0x8                (size_t) [8]
+[RSP+28 ] 0x7FF77636F4AE     (void* -> Fallout4.exe+017F4AE	mov [rsi+0x04], ebx |  BSTScatterTableBase<BSTScatterTableTraits<uint,ConstructFormData,BSTScatterTableDefaultKVStorage,BSTScatterTableDefaultHashPolicy<uint>,BSTScatterTableHeapAllocator<BSTScatterTableEntry<uint,ConstructFormData,BSTScatterTableDefaultKVStorage>>,8>>::Rehash(void)_17F4AE)
+[RSP+30 ] 0x0                (size_t) [0]
+[RSP+38 ] 0x0                (size_t) [0]
+[RSP+40 ] 0x1CA00000000      (void*)
+[RSP+48 ] 0x0                (size_t) [0]
+[RSP+50 ] 0x0                (size_t) [0]
+[RSP+58 ] 0x1CA5624C850      (ScrapHeap*)
+[RSP+60 ] 0x1CB7CA54400      (void*)
+[RSP+68 ] 0x1CB00000020      (void*)
+[RSP+70 ] 0x0                (size_t) [0]
+[RSP+78 ] 0x5213CEBA         (size_t) [1377029818]
+[RSP+80 ] 0x499158A6E        (size_t) [19748194926]
+[RSP+88 ] 0x0                (size_t) [0]
+[RSP+90 ] 0x0                (size_t) [0]
+[RSP+98 ] 0x1CA00000000      (void*)
+[RSP+A0 ] 0x7FF778E39DB8     (void* -> Fallout4.exe+2C49DB8	loopne 0x00007FF778E39DD0 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C49DB8)
+[RSP+A8 ] 0x4B5A8F1C8        (void*)
+[RSP+B0 ] 0x0                (size_t) [0]
+[RSP+B8 ] 0x7FF776367D55     (void* -> Fallout4.exe+0177D55	inc dword ptr [rbx+0x40] |  BGSConstructFormsInFileMap::AddCellForm(TESObjectCELL*,TESForm*,uint,uint)_177D55)
+[RSP+C0 ] 0x7E5FC            (size_t) [517628]
+[RSP+C8 ] 0x1CA2CD82D93      (void*)
+[RSP+D0 ] 0x1CADD6B2D90      (void*)
+[RSP+D8 ] 0x7FFDF485BDB5     (void* -> Buffout4.dll+00FBDB5	mov r8d, eax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2567 ?getTLS@MemoryPool@internal@rml@@QEAAPEAVTLSData@23@_N@Z)
+[RSP+E0 ] 0x1CA00000000      (void*)
+[RSP+E8 ] 0x6                (size_t) [6]
+[RSP+F0 ] 0x6                (size_t) [6]
+[RSP+F8 ] 0x7FF776369196     (void* -> Fallout4.exe+0179196	inc dword ptr [rbp+0x78] |  BGSConstructFormsInAllFilesMap::AddReference(TESObjectCELL*,uint,uint)_179196)
+[RSP+100] 0x1CA5624C7EC      (void*)
+[RSP+108] 0x7FF778E396C8     (void* -> Fallout4.exe+2C496C8	 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C496C8)
+[RSP+110] 0x4B5A8F630        (BGSLoadFormBuffer*)
+[RSP+118] 0x0                (size_t) [0]
+[RSP+120] 0x4B5A8F460        (void*)
+[RSP+128] 0x7FF776322B87     (void* -> Fallout4.exe+0132B87	mov rcx, [rbp+0x38] |  TESFile::ClearMasterLists(void)_132B87)
+[RSP+130] 0x1CAD4C95F48      (void*)
+[RSP+138] 0x7FF778E3A948     (void* -> Fallout4.exe+2C4A948	shl byte ptr [rdx], 0x01 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C4A948)
+[RSP+140] 0x10               (size_t) [16]
+[RSP+148] 0x7FF776EDAA53     (void* -> Fallout4.exe+0CEAA53	mov [r14], rax |  ReferenceInitialData::GetOriginalLocationCellAndWorld(TESObjectCELL*&,TESWorldSpace*&)_CEAA53)
+[RSP+150] 0x4                (size_t) [4]
+[RSP+158] 0x7FF777D01042     (void* -> Fallout4.exe+1B11042	mov rcx, rax |  BSTArrayHeapAllocator::Allocate(uint,uint)_1B11042)
+[RSP+160] 0x4B5A8F400        (void*)
+[RSP+168] 0x7FF776322335     (void* -> Fallout4.exe+0132335	mov r8d, edi |  TESFile::GetThreadSafeFile(uint)_132335)
+[RSP+170] 0x1CA5624C7EC      (void*)
+[RSP+178] 0x4B5A8F3A0        (void*)
+[RSP+180] 0x6F9              (size_t) [1785]
+[RSP+188] 0x0                (size_t) [0]
+[RSP+190] 0x1CAD4C95FC0      (char*) "This mod will add Wattz 3000 laser rifle, with all-new lore-friendly design, featuring custom animations, models and textures, inspired by famous Wattz 2000 from Fallout and Fallout 2"
+[RSP+198] 0x1CAD4C95F48      (void*)
+[RSP+1A0] 0x1CAD4C95FC0      (char*) "This mod will add Wattz 3000 laser rifle, with all-new lore-friendly design, featuring custom animations, models and textures, inspired by famous Wattz 2000 from Fallout and Fallout 2"
+[RSP+1A8] 0x7FF77636A20F     (void* -> Fallout4.exe+017A20F	nop |  BSTScatterTableBase<BSTScatterTableTraits<TESFile*,BGSConstructFormsInFileMap*,BSTScatterTableDefaultKVStorage,BSTScatterTableDefaultHashPolicy<TESFile*>,BSTScatterTableHeapAllocator<BSTScatterTableEntry<TESFile*,BGSConstructFormsInFileMap*,BSTScatterTableDefaultKVStorage>>,8>>::ForEachImpl<`anonymous_namespace'::ConstructFormsFunctor>(`anonymous_namespace'::ConstructFormsFunctor&)_17A20F)
+[RSP+1B0] 0x1CADD6B2D90      (void*)
+[RSP+1B8] 0x1CADD6B2D90      (void*)
+[RSP+1C0] 0x4B5A8F430        (void*)
+[RSP+1C8] 0x4B5A8F400        (void*)
+[RSP+1D0] 0x1                (size_t) [1]
+[RSP+1D8] 0x7FF7763694F3     (void* -> Fallout4.exe+01794F3	lea rdx, [0x00007FF776369910] |  BGSConstructFormsInAllFilesMap::ConstructForms(bool)_1794F3)
+[RSP+1E0] 0x1CA5624BF30      (void*)
+[RSP+1E8] 0x0                (size_t) [0]
+[RSP+1F0] 0x4B5A8F400        (void*)
+[RSP+1F8] 0x4B5A8F430        (void*)
+[RSP+200] 0x9C0              (size_t) [2496]
+[RSP+208] 0x4B5A8F630        (BGSLoadFormBuffer*)
+[RSP+210] 0x4B5A8F630        (BGSLoadFormBuffer*)
+[RSP+218] 0x0                (size_t) [0]
+[RSP+220] 0x4B5A8F400        (void*)
+[RSP+228] 0x7FF776EC7BE4     (void* -> Fallout4.exe+0CD7BE4	lea rcx, [rdi+0x30] |  BGSReconstructFormsInAllFilesMap::ReconstructForms(bool)_CD7BE4)
+[RSP+230] 0x4B5A8F430        (void*)
+[RSP+238] 0x1CA5624C7EC      (void*)
+[RSP+240] 0x1CAAB67E400      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+248] 0x1CA5624BF30      (void*)
+[RSP+250] 0x8BC              (size_t) [2236]
+[RSP+258] 0x7FF776ECCDCE     (void* -> Fallout4.exe+0CDCDCE	and dword ptr [rdi+rsi*1], 0xFFFFFFFD |  BGSSaveLoadGame::LoadCell(TESObjectCELL*,BGSLoadFormBuffer&)_CDCDCE)
+[RSP+260] 0x67               (size_t) [103]
+[RSP+268] 0x1CABAFD4719      (void*)
+[RSP+270] 0x0                (size_t) [0]
+[RSP+278] 0x7FFD1536BFDC     (size_t) [140724959363036]
+[RSP+280] 0x1CC0DFE6E80      (BSFile*)
+[RSP+288] 0x0                (size_t) [0]
+[RSP+290] 0x8                (size_t) [8]
+[RSP+298] 0x8873CABF0        (size_t) [36628638704]
+[RSP+2A0] 0x800000007        (size_t) [34359738375]
+[RSP+2A8] 0x7FF7798C859C     (void* -> Fallout4.exe+36D859C	fisubr st0, word ptr [rbp+0x1EFBE] |  aDiveBombChance_36D859C)
+[RSP+2B0] 0x61               (size_t) [97]
+[RSP+2B8] 0x1CAD4C95F00      (void*)
+[RSP+2C0] 0x1CB73994240      (void*)
+[RSP+2C8] 0x400000004        (size_t) [17179869188]
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x1CB73994200      (void*)
+[RSP+2E0] 0x1CA00000004      (void*)
+[RSP+2E8] 0x1CA00000000      (void*)
+[RSP+2F0] 0x1CB739942C0      (void*)
+[RSP+2F8] 0x7FF700000004     (size_t) [140698833649668]
+[RSP+300] 0x0                (size_t) [0]
+[RSP+308] 0x1                (size_t) [1]
+[RSP+310] 0x1CA5624BF30      (void*)
+[RSP+318] 0x1CAAB67E400      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+320] 0x62               (size_t) [98]
+[RSP+328] 0x7FF77659DEB8     (void* -> Fallout4.exe+03ADEB8	and bl, 0x01 |  TESObjectCELL::InitItem(BGSLoadFormBuffer&)_3ADEB8)
+[RSP+330] 0xFE               (size_t) [254]
+[RSP+338] 0x4B5A8F5A0        (void*)
+[RSP+340] 0x8BC              (size_t) [2236]
+[RSP+348] 0x7FF77631F44C     (void* -> Fallout4.exe+012F44C	mov eax, r12d |  TESFile::LoadTESInfo(TESFile*)_12F44C)
+[RSP+350] 0x61               (size_t) [97]
+[RSP+358] 0xC52444548        (size_t) [52919813448]
+[RSP+360] 0x61               (size_t) [97]
+[RSP+368] 0x1CC0DFDB800      (void*)
+[RSP+370] 0x62               (size_t) [98]
+[RSP+378] 0x1CCC38C2800      (void*)
+[RSP+380] 0x18               (size_t) [24]
+[RSP+388] 0x7FFDFFBB6480     (void* -> MSVCR110.dll+0036480	jmp 0x00007FFDFFBB644D)
+[RSP+390] 0xAD               (size_t) [173]
+[RSP+398] 0x1CC0DFDB800      (void*)
+[RSP+3A0] 0x1CA6770AD74      (char*) "DATA\"
+[RSP+3A8] 0x1CA6770AC70      (char*) "llamaCompanionHeatherv2.esp"
+[RSP+3B0] 0x1CC0DFE6E80      (BSFile*)
+[RSP+3B8] 0x7FF777D45D2E     (void* -> Fallout4.exe+1B55D2E	add [rdi+0x20], rbx |  BSFile::ReadUsingExtraFeatures(void*,unsigned___int64)_1B55D2E)
+[RSP+3C0] 0x6                (size_t) [6]
+[RSP+3C8] 0x1CA426867ED      (void*)
+[RSP+3D0] 0x4000             (size_t) [16384]
+[RSP+3D8] 0x7FFDFFBB6480     (void* -> MSVCR110.dll+0036480	jmp 0x00007FFDFFBB644D)
+[RSP+3E0] 0xF9000006         (size_t) [4177526790]
+[RSP+3E8] 0x1CA5624BF30      (void*)
+[RSP+3F0] 0x10000            (size_t) [65536]
+[RSP+3F8] 0x5                (size_t) [5]
+[RSP+400] 0xF9000000         (size_t) [4177526784]
+[RSP+408] 0x1C99C3EF900      (void*)
+[RSP+410] 0x7FF7798BE430     (type_info*)
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+428] 0x7FF7798BB140     (type_info*)
+[RSP+430] 0x1CAAB67E400      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+438] 0x7FF7792BC088     (void* -> Fallout4.exe+30CC088	add [rax], eax |  aDiveBombChance_30CC088)
+[RSP+440] 0x3                (size_t) [3]
+[RSP+448] 0x7FFDFFBDFB8F     (void* -> MSVCR110.dll+005FB8F	jmp 0x00007FFDFFBDFB96)
+[RSP+450] 0x1CAAB67E400      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+458] 0x0                (size_t) [0]
+[RSP+460] 0x1CA67152B00      (TESWorldSpace*)
+File: "llamaCompanionHeatherv2.esp"
+Modified by: Fallout4.esm -> DLCRobot.esm -> DLCCoast.esm -> DLCworkshop03.esm -> DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> SS2.esm -> SS2_XPAC_Chapter2.esm -> SouthOfTheSea.esm -> DCGuard_Overhaul.esp -> BerettaM9FS.esl -> BigDigFastTravel.esl -> K198Recruit.esl -> RecruitArlen.esl -> ChCl.esl -> RecruitAmnesiac.esl -> RecruitKat.esl -> RecruitMac.esl -> RecruitPhyllis.esl -> RecruitWoundedDog.esl -> RecruitTimothy.esl -> RecruitTraderRylee.esl -> RecruitHaylen.esl -> RecruitAmeliaAndOldManStockton.esl -> CityAmbience.esl -> LushAmbience.esl -> RandomCity.esl -> MTM-SlocumJoeCorporateHQReceptionCeilingFixed.esl -> CastleSpectacleFerry.esl -> VCM_StarlightDrivein_Navmesh_Update.esl -> IceStormsCombatDrone.esl -> SettlementTidyBot.esl -> WhirligigSentry.esl -> SettlementSalvageBot.esl -> SettlementDeliveryBots.esl -> SettlementFixerBot.esl -> SettlementCopBot.esl -> Santatron.esl -> MrClowny.esl -> GoodneighborGuardsOutside.esl -> SettlementGardenBot.esl -> SettlementMedicBot.esl -> FO4ParticlePatch.esp -> GreenGoo.esp -> LunarFalloutOverhaul.esp -> HARDCore.esp -> RandomValuablesRedux.esp -> UNPC - ChickensRabbits.esp -> UNPC - SeaClaws.esp -> SuperMutantRedux.esp -> Vertibird Faction Paint Schemes.esp -> GhoulHorde.esp -> Respawnable Legendary Bosses.esp -> LegendaryBosses - PlutoniumRedux.esp -> T6M_PumpShotgunV2.esp -> PJARPistol.esp -> WattzLaserGun.esp -> Wattz Laser Gun - Unofficial Update.esp -> HomemadeLasRevolver.esp -> CROSS_BreakActionLaser.esp -> skewer.esp -> HandmadeLeverActionSG.esp -> BullpupBozar.esp -> HuntingShotgun.esp -> LAER.esp -> M2045MagnumRevolverRifle.esp -> HuntingRevolver.esp -> DOOMDesertEagle.esp -> Lunar-PumpShotgun.esp -> Lunar-Beretta.esp -> Lunar-Skewer.esp -> Lunar-PJAR-railroad.esp -> Lunar - BullpupBozar.esp -> ConcreteSledgehammer.esp -> RoadSignAxe.esp -> Lunar - RoadSignAxe.esp -> UniqueReplacers - SurvivorsSpecialWattz3000.esp -> UniqueReplacer - LuckyLeverShotgun.esp -> UniqueReplacer - DecembersBullpupBozar.esp -> UniqueReplacer - VirgilsLAER.esp -> UniqueReplacer - RebaShotgun.esp -> UniqueReplacer - GreatIntentions.esp -> UniqueReplacer - KellogsDesertEagle.esp -> UniqueReplacer - TheHuntingGainer.esp -> AtomsGloryThreads.esp -> GreaseRatGarbs.esp -> LBPAC.esp -> RedShiftPowerArmor.esp -> ExcavatorPA.esp -> Power Armor to the People.esp -> Power Armor to the People - Red Shift Power Armor.esp -> LBPAC-PAttP.esp -> More Quest Dungeons.esp -> Vault4-eXoPatch.esp -> BoSStory.esp -> InstituteStory.esp -> IntWayneGorski.esp -> IntGrievingRaider.esp -> 3DNPC_FO4.esp -> VaultTecStory.esp -> RadiumInc.esp -> AttackSpawnsOutsideSettlement.esp -> Amelia and Dan at Bunker Hill.esp -> Resettle Jared.esp -> Ownership Fixes.esp -> A Forest.esp -> PuddleMod.esp -> SSTFungalForest.esp -> TownSigns.esp -> A Variety of Containers.esp -> AVOC DLC Patch.esp -> Commonwealth Overhaul.esp -> InsideJobs.esp -> stumbleuponinteriors.esp -> BoatFromNahanttoTheCastle.esp -> RM_Mannequin_Raiders.esp -> VCM_CountyCrossing_Vanilla_NavmeshUpdate.esp -> VCM_RedRocket_Navmesh_Update.esp -> VCM_GreentopNursery_Navmesh_Update.esp -> VCM_Sanctuary_Navmesh_Update_W-Out_Roof.esp -> JamaicaPlainPathing.esp -> VCM_EgretTours_Navmesh_Update.esp -> VCM_KingsportLighthouse_Vanilla_Navmesh_Update.esp -> VCM_Murkwater_Navmesh_Update.esp -> VCM_TheSlog_Navmesh_Update.esp -> VCM_CoastalCottage_Navmesh_Update.esp -> Convenient Bridges.esp -> DiamondCityAutoClose.esp -> AtomCatGarage.esp -> PLI_Unmarked_Raider_Camps_P1.esp -> ALOOT_Better_CPS.esp -> BostonAirport_WorkshopFix.esp -> RiverFix.esp -> FS_FarHarborBoatFastTravel.esp -> ss2c23dnpcpatch.esp -> SS2_3DNPC_WarehouseDoorPatch_Int.esp -> Lunar-SS2.esp -> A Forest-Base Mod Patch.esp -> LBPAC - DCGuard_Overhaul.esp -> LitR - Quest Conflict Resolution.esp -> WestonWaterLOD.esp -> FOLIP - New LODs.esp -> PrydwenOverhaul2.esp -> Region Names on Save Files.esp -> StoryWealthLocation-CrabShack.esp -> 3DNPC_FO4-Patch.esp -> ImmersiveDrumlinDiner.esp -> ImmersiveDrumlinDiner-eXoPatch.esp -> DiamondNewVendors.esp -> PLI_Dark_Hollow_Pond.esp -> PLI_DarkHollows - LessLoot.esp -> PLIDHP_AF_Patch.esp -> PLI_Roadside_Pines_Motel.esp -> PLI_RoadsidePinesMotel - LessLoot.esp -> PRPFX-BostonCommon.esp -> PRPFX-Corvega.esp -> PRPFX-Financial.esp -> NukaWorldPlus.esp -> SouthOfTheSea[Previs].esp -> LitR - RegionNamesOnSaveFiles.esp -> W.A.T.Minutemen.esp -> CloneArmoryWeapons2.0.esp -> AmazingFollowerTweaks.esp -> CloneTrooperCompanion_1.esp -> BunkerHillMinPatrolRedux.esp -> CSEPLoadedBases.esp -> fcom_with_restrictions.esp -> ellen.esp -> ClarisaCompanion.esp -> Flashy_CrimeAndPunishment_GunForHire_Addon.esp -> SS2_GunForHire_Patch.esp -> GFH_DCO_Patch.esp -> llamaCompanionHeatherv2.esp
+Flags: 0x0000000B
+EditorID: "Commonwealth"
+FormID: 0x0000003C
+FormType: kWRLD (74)
+GetFullName: "Commonwealth"
+[RSP+468] 0x1CA663F4F00      (IOManagerThread*)
+[RSP+470] 0x1CA5624C8F0      (char*) "g"
+[RSP+478] 0x0                (size_t) [0]
+[RSP+480] 0xFFFFFFF8         (size_t) [4294967288]
+[RSP+488] 0x1CAAB67E400      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+490] 0x3                (size_t) [3]
+[RSP+498] 0x7FF77659DD46     (void* -> Fallout4.exe+03ADD46	lea rcx, [rsp+0x20] |  TESObjectCELL::InitItemImpl(void)_3ADD46)
+[RSP+4A0] 0x0                (size_t) [0]
+[RSP+4A8] 0x1CAAB67E400      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+4B0] 0x1                (size_t) [1]
+[RSP+4B8] 0x1CA00000000      (void*)
+[RSP+4C0] 0x7FF778E46C68     (void* -> Fallout4.exe+2C56C68	nop |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C56C68)
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D0] 0x0                (size_t) [0]
+[RSP+4D8] 0x7FF700000000     (size_t) [140698833649664]
+[RSP+4E0] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F0] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+510] 0x67               (size_t) [103]
+[RSP+518] 0x7FF776342C3C     (void* -> Fallout4.exe+0152C3C	or dword ptr [rdi+0x10], 0x08 |  TESForm::InitItem(void)_152C3C)
+[RSP+520] 0x1CAAB67E400      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+528] 0x67               (size_t) [103]
+[RSP+530] 0x18               (size_t) [24]
+[RSP+538] 0x7FFDFFBB6480     (void* -> MSVCR110.dll+0036480	jmp 0x00007FFDFFBB644D)
+[RSP+540] 0x1CAAB67E400      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+548] 0x0                (size_t) [0]
+[RSP+550] 0x0                (size_t) [0]
+[RSP+558] 0x0                (size_t) [0]
+[RSP+560] 0x0                (size_t) [0]
+[RSP+568] 0x0                (size_t) [0]
+[RSP+570] 0x0                (size_t) [0]
+[RSP+578] 0x0                (size_t) [0]
+[RSP+580] 0x1CAAB67E420      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+588] 0x0                (size_t) [0]
+[RSP+590] 0x0                (size_t) [0]
+[RSP+598] 0x0                (size_t) [0]
+[RSP+5A0] 0x0                (size_t) [0]
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B0] 0x0                (size_t) [0]
+[RSP+5B8] 0x0                (size_t) [0]
+[RSP+5C0] 0x0                (size_t) [0]
+[RSP+5C8] 0x0                (size_t) [0]
+[RSP+5D0] 0x0                (size_t) [0]
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5E0] 0x0                (size_t) [0]
+[RSP+5E8] 0x0                (size_t) [0]
+[RSP+5F0] 0x0                (size_t) [0]
+[RSP+5F8] 0x0                (size_t) [0]
+[RSP+600] 0x0                (size_t) [0]
+[RSP+608] 0x0                (size_t) [0]
+[RSP+610] 0x0                (size_t) [0]
+[RSP+618] 0x0                (size_t) [0]
+[RSP+620] 0x0                (size_t) [0]
+[RSP+628] 0x0                (size_t) [0]
+[RSP+630] 0x0                (size_t) [0]
+[RSP+638] 0x0                (size_t) [0]
+[RSP+640] 0x0                (size_t) [0]
+[RSP+648] 0x0                (size_t) [0]
+[RSP+650] 0x0                (size_t) [0]
+[RSP+658] 0x0                (size_t) [0]
+[RSP+660] 0x0                (size_t) [0]
+[RSP+668] 0x0                (size_t) [0]
+[RSP+670] 0x0                (size_t) [0]
+[RSP+678] 0x0                (size_t) [0]
+[RSP+680] 0x0                (size_t) [0]
+[RSP+688] 0x0                (size_t) [0]
+[RSP+690] 0x0                (size_t) [0]
+[RSP+698] 0x0                (size_t) [0]
+[RSP+6A0] 0x0                (size_t) [0]
+[RSP+6A8] 0x0                (size_t) [0]
+[RSP+6B0] 0x1CAAB67E400      (TESObjectCELL*)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+File: "A Forest.esp"
+Modified by: Fallout4.esm -> A Forest.esp
+Flags: 0x00040009
+EditorID: "Wilderness"
+FormID: 0x0000E50F
+FormType: kCELL (63)
+[RSP+6B8] 0x7FF7766827CA     (void* -> Fallout4.exe+04927CA	mov rdx, rdi |  TESWorldSpace::LoadCell(int,int)_4927CA)
+[RSP+6C0] 0x2                (size_t) [2]
+[RSP+6C8] 0x1                (size_t) [1]
+[RSP+6D0] 0xAD               (size_t) [173]
+[RSP+6D8] 0x1CA67152B00      (TESWorldSpace*)
+File: "llamaCompanionHeatherv2.esp"
+Modified by: Fallout4.esm -> DLCRobot.esm -> DLCCoast.esm -> DLCworkshop03.esm -> DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> SS2.esm -> SS2_XPAC_Chapter2.esm -> SouthOfTheSea.esm -> DCGuard_Overhaul.esp -> BerettaM9FS.esl -> BigDigFastTravel.esl -> K198Recruit.esl -> RecruitArlen.esl -> ChCl.esl -> RecruitAmnesiac.esl -> RecruitKat.esl -> RecruitMac.esl -> RecruitPhyllis.esl -> RecruitWoundedDog.esl -> RecruitTimothy.esl -> RecruitTraderRylee.esl -> RecruitHaylen.esl -> RecruitAmeliaAndOldManStockton.esl -> CityAmbience.esl -> LushAmbience.esl -> RandomCity.esl -> MTM-SlocumJoeCorporateHQReceptionCeilingFixed.esl -> CastleSpectacleFerry.esl -> VCM_StarlightDrivein_Navmesh_Update.esl -> IceStormsCombatDrone.esl -> SettlementTidyBot.esl -> WhirligigSentry.esl -> SettlementSalvageBot.esl -> SettlementDeliveryBots.esl -> SettlementFixerBot.esl -> SettlementCopBot.esl -> Santatron.esl -> MrClowny.esl -> GoodneighborGuardsOutside.esl -> SettlementGardenBot.esl -> SettlementMedicBot.esl -> FO4ParticlePatch.esp -> GreenGoo.esp -> LunarFalloutOverhaul.esp -> HARDCore.esp -> RandomValuablesRedux.esp -> UNPC - ChickensRabbits.esp -> UNPC - SeaClaws.esp -> SuperMutantRedux.esp -> Vertibird Faction Paint Schemes.esp -> GhoulHorde.esp -> Respawnable Legendary Bosses.esp -> LegendaryBosses - PlutoniumRedux.esp -> T6M_PumpShotgunV2.esp -> PJARPistol.esp -> WattzLaserGun.esp -> Wattz Laser Gun - Unofficial Update.esp -> HomemadeLasRevolver.esp -> CROSS_BreakActionLaser.esp -> skewer.esp -> HandmadeLeverActionSG.esp -> BullpupBozar.esp -> HuntingShotgun.esp -> LAER.esp -> M2045MagnumRevolverRifle.esp -> HuntingRevolver.esp -> DOOMDesertEagle.esp -> Lunar-PumpShotgun.esp -> Lunar-Beretta.esp -> Lunar-Skewer.esp -> Lunar-PJAR-railroad.esp -> Lunar - BullpupBozar.esp -> ConcreteSledgehammer.esp -> RoadSignAxe.esp -> Lunar - RoadSignAxe.esp -> UniqueReplacers - SurvivorsSpecialWattz3000.esp -> UniqueReplacer - LuckyLeverShotgun.esp -> UniqueReplacer - DecembersBullpupBozar.esp -> UniqueReplacer - VirgilsLAER.esp -> UniqueReplacer - RebaShotgun.esp -> UniqueReplacer - GreatIntentions.esp -> UniqueReplacer - KellogsDesertEagle.esp -> UniqueReplacer - TheHuntingGainer.esp -> AtomsGloryThreads.esp -> GreaseRatGarbs.esp -> LBPAC.esp -> RedShiftPowerArmor.esp -> ExcavatorPA.esp -> Power Armor to the People.esp -> Power Armor to the People - Red Shift Power Armor.esp -> LBPAC-PAttP.esp -> More Quest Dungeons.esp -> Vault4-eXoPatch.esp -> BoSStory.esp -> InstituteStory.esp -> IntWayneGorski.esp -> IntGrievingRaider.esp -> 3DNPC_FO4.esp -> VaultTecStory.esp -> RadiumInc.esp -> AttackSpawnsOutsideSettlement.esp -> Amelia and Dan at Bunker Hill.esp -> Resettle Jared.esp -> Ownership Fixes.esp -> A Forest.esp -> PuddleMod.esp -> SSTFungalForest.esp -> TownSigns.esp -> A Variety of Containers.esp -> AVOC DLC Patch.esp -> Commonwealth Overhaul.esp -> InsideJobs.esp -> stumbleuponinteriors.esp -> BoatFromNahanttoTheCastle.esp -> RM_Mannequin_Raiders.esp -> VCM_CountyCrossing_Vanilla_NavmeshUpdate.esp -> VCM_RedRocket_Navmesh_Update.esp -> VCM_GreentopNursery_Navmesh_Update.esp -> VCM_Sanctuary_Navmesh_Update_W-Out_Roof.esp -> JamaicaPlainPathing.esp -> VCM_EgretTours_Navmesh_Update.esp -> VCM_KingsportLighthouse_Vanilla_Navmesh_Update.esp -> VCM_Murkwater_Navmesh_Update.esp -> VCM_TheSlog_Navmesh_Update.esp -> VCM_CoastalCottage_Navmesh_Update.esp -> Convenient Bridges.esp -> DiamondCityAutoClose.esp -> AtomCatGarage.esp -> PLI_Unmarked_Raider_Camps_P1.esp -> ALOOT_Better_CPS.esp -> BostonAirport_WorkshopFix.esp -> RiverFix.esp -> FS_FarHarborBoatFastTravel.esp -> ss2c23dnpcpatch.esp -> SS2_3DNPC_WarehouseDoorPatch_Int.esp -> Lunar-SS2.esp -> A Forest-Base Mod Patch.esp -> LBPAC - DCGuard_Overhaul.esp -> LitR - Quest Conflict Resolution.esp -> WestonWaterLOD.esp -> FOLIP - New LODs.esp -> PrydwenOverhaul2.esp -> Region Names on Save Files.esp -> StoryWealthLocation-CrabShack.esp -> 3DNPC_FO4-Patch.esp -> ImmersiveDrumlinDiner.esp -> ImmersiveDrumlinDiner-eXoPatch.esp -> DiamondNewVendors.esp -> PLI_Dark_Hollow_Pond.esp -> PLI_DarkHollows - LessLoot.esp -> PLIDHP_AF_Patch.esp -> PLI_Roadside_Pines_Motel.esp -> PLI_RoadsidePinesMotel - LessLoot.esp -> PRPFX-BostonCommon.esp -> PRPFX-Corvega.esp -> PRPFX-Financial.esp -> NukaWorldPlus.esp -> SouthOfTheSea[Previs].esp -> LitR - RegionNamesOnSaveFiles.esp -> W.A.T.Minutemen.esp -> CloneArmoryWeapons2.0.esp -> AmazingFollowerTweaks.esp -> CloneTrooperCompanion_1.esp -> BunkerHillMinPatrolRedux.esp -> CSEPLoadedBases.esp -> fcom_with_restrictions.esp -> ellen.esp -> ClarisaCompanion.esp -> Flashy_CrimeAndPunishment_GunForHire_Addon.esp -> SS2_GunForHire_Patch.esp -> GFH_DCO_Patch.esp -> llamaCompanionHeatherv2.esp
+Flags: 0x0000000B
+EditorID: "Commonwealth"
+FormID: 0x0000003C
+FormType: kWRLD (74)
+GetFullName: "Commonwealth"
+[RSP+6E0] 0x7FF700000002     (size_t) [140698833649666]
+[RSP+6E8] 0x1CA5624C8F0      (char*) "g"
+[RSP+6F0] 0x7FF77BD57580     (void* -> Fallout4.exe+5B67580	call 0x00007FF77DA02B15 |  aDiveBombChance_5B67580)
+[RSP+6F8] 0x1F35AF35A        (size_t) [8377791322]
+[RSP+700] 0x1CA663F4F00      (IOManagerThread*)
+[RSP+708] 0x1                (size_t) [1]
+[RSP+710] 0x3                (size_t) [3]
+[RSP+718] 0x0                (size_t) [0]
+[RSP+720] 0x7FFFFFFFFFFFFFF  (size_t) [576460752303423487]
+[RSP+728] 0x1CC10B28A30      (CellLoaderTask*)
+[RSP+730] 0x1CC10B28A70      (void*)
+[RSP+738] 0x7FF776583000     (void* -> Fallout4.exe+0393000	mov [rbx+0x08], rax |  ExteriorCellLoader::LoadCellData(CELL_LOAD_DATA&)_393000)
+[RSP+740] 0x0                (size_t) [0]
+[RSP+748] 0x1CA6717A600      (void*)
+[RSP+750] 0xFFFFFFF8         (size_t) [4294967288]
+[RSP+758] 0xFFFFFFF9         (size_t) [4294967289]
+[RSP+760] 0x1CAFDFE9080      (void*)
+[RSP+768] 0x1CBF0D45AC0      (void*)
+[RSP+770] 0x1CC10B28A30      (CellLoaderTask*)
+[RSP+778] 0x7FF7765815B4     (void* -> Fallout4.exe+03915B4	mov rcx, [rbx+0x48] |  CellLoaderTask::Run(void)_3915B4)
+[RSP+780] 0x1CBF0D45A70      (void*)
+[RSP+788] 0x7FFDF485C673     (void* -> Buffout4.dll+00FC673	mov rdi, [rsp+0x30] |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:3185 scalable_aligned_free)
+[RSP+790] 0xFF               (size_t) [255]
+[RSP+798] 0x0                (size_t) [0]
+[RSP+7A0] 0x1CA6717A5BC      (void*)
+[RSP+7A8] 0x7FF777E94A68     (void* -> Fallout4.exe+1CA4A68	mov rdi, [r14+0x13E0] |  IOManager::OnProcessSystemTasks(void)_1CA4A68)
+[RSP+7B0] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+7B8] 0x7FF777E94D3A     (void* -> Fallout4.exe+1CA4D3A	mov al, 0x01 |  IOTask::TryCompleteTask(void)_1CA4D3A)
+[RSP+7C0] 0x1CBF0D45A80      (void*)
+[RSP+7C8] 0x1                (size_t) [1]
+[RSP+7D0] 0x7FFFFFFFFFFFFFF  (size_t) [576460752303423487]
+[RSP+7D8] 0x0                (size_t) [0]
+[RSP+7E0] 0x0                (size_t) [0]
+[RSP+7E8] 0x7FF777E976EE     (void* -> Fallout4.exe+1CA76EE	test al, al |  IOManagerThread::ThreadProc(void)_1CA76EE)
+[RSP+7F0] 0x1CA62384100      (IOManager*)
+[RSP+7F8] 0x0                (size_t) [0]
+[RSP+800] 0x0                (size_t) [0]
+[RSP+808] 0x0                (size_t) [0]
+[RSP+810] 0x1C900000E7C      (size_t) [1962800057980]
+[RSP+818] 0x0                (size_t) [0]
+[RSP+820] 0x7FFFFFFFFFFFFFF  (size_t) [576460752303423487]
+[RSP+828] 0x1CA6717A650      (void*)
+[RSP+830] 0x1CA6717A650      (void*)
+[RSP+838] 0x0                (size_t) [0]
+[RSP+840] 0x0                (size_t) [0]
+[RSP+848] 0x0                (size_t) [0]
+[RSP+850] 0x0                (size_t) [0]
+[RSP+858] 0x0                (size_t) [0]
+[RSP+860] 0x0                (size_t) [0]
+[RSP+868] 0x0                (size_t) [0]
+[RSP+870] 0x0                (size_t) [0]
+[RSP+878] 0x0                (size_t) [0]
+[RSP+880] 0x1CA663F4F00      (IOManagerThread*)
+[RSP+888] 0x7FF777D0CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF77BD4BD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+890] 0x1CA663F4F00      (IOManagerThread*)
+[RSP+898] 0x4B5A8FA00        (void*)
+[RSP+8A0] 0x1C99C3CBC00      (NiTPrimitiveArray<void (*)(NiStream &,NiObject *)>*)
+[RSP+8A8] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+8B0] 0x1CA663F4F00      (IOManagerThread*)
+[RSP+8B8] 0x0                (size_t) [0]
+[RSP+8C0] 0x0                (size_t) [0]
+[RSP+8C8] 0x7FFE5A3D7604     (void* -> KERNEL32.DLL+0017604	mov ecx, eax)
+[RSP+8D0] 0x0                (size_t) [0]
+[RSP+8D8] 0x0                (size_t) [0]
+[RSP+8E0] 0x0                (size_t) [0]
+[RSP+8E8] 0x0                (size_t) [0]
+[RSP+8F0] 0x0                (size_t) [0]
+[RSP+8F8] 0x7FFE5B0226A1     (void* -> ntdll.dll+00526A1	jmp 0x00007FFE5B0226C3)
+[RSP+900] 0x0                (size_t) [0]
+[RSP+908] 0x0                (size_t) [0]
+[RSP+910] 0x0                (size_t) [0]
+[RSP+918] 0x0                (size_t) [0]
+[RSP+920] 0x0                (size_t) [0]
+[RSP+928] 0x0                (size_t) [0]
+[RSP+930] 0x17D6B54E00000000 (size_t) [1717759654500499456]
+[RSP+938] 0x0                (size_t) [0]
+[RSP+940] 0x0                (size_t) [0]
+[RSP+948] 0x7FFE58A27FE0     (void* -> KERNELBASE.dll+0117FE0	mov [rsp+0x10], rbx)
+[RSP+950] 0x4B5A8DC00        (void*)
+[RSP+958] 0x2AB80001FFF93DD3 (size_t) [3078210353897225683]
+[RSP+960] 0x7FFE4F74CAAE     (size_t) [140730231474862]
+[RSP+968] 0x4B5A8DC00        (void*)
+[RSP+970] 0x0                (size_t) [0]
+[RSP+978] 0x0                (size_t) [0]
+[RSP+980] 0x0                (size_t) [0]
+[RSP+988] 0x0                (size_t) [0]
+[RSP+990] 0x0                (size_t) [0]
+[RSP+998] 0x0                (size_t) [0]
+[RSP+9A0] 0x0                (size_t) [0]
+[RSP+9A8] 0x0                (size_t) [0]
+[RSP+9B0] 0x0                (size_t) [0]
+[RSP+9B8] 0x0                (size_t) [0]
+[RSP+9C0] 0x0                (size_t) [0]
+[RSP+9C8] 0x0                (size_t) [0]
+[RSP+9D0] 0x0                (size_t) [0]
+[RSP+9D8] 0x0                (size_t) [0]
+[RSP+9E0] 0x0                (size_t) [0]
+[RSP+9E8] 0x0                (size_t) [0]
+[RSP+9F0] 0x0                (size_t) [0]
+[RSP+9F8] 0x0                (size_t) [0]
+[RSP+A00] 0x0                (size_t) [0]
+[RSP+A08] 0x0                (size_t) [0]
+[RSP+A10] 0x0                (size_t) [0]
+[RSP+A18] 0x0                (size_t) [0]
+[RSP+A20] 0x0                (size_t) [0]
+[RSP+A28] 0x0                (size_t) [0]
+[RSP+A30] 0x0                (size_t) [0]
+[RSP+A38] 0x0                (size_t) [0]
+[RSP+A40] 0x0                (size_t) [0]
+[RSP+A48] 0x0                (size_t) [0]
+[RSP+A50] 0x0                (size_t) [0]
+[RSP+A58] 0x0                (size_t) [0]
+[RSP+A60] 0x0                (size_t) [0]
+[RSP+A68] 0x0                (size_t) [0]
+[RSP+A70] 0x0                (size_t) [0]
+[RSP+A78] 0x0                (size_t) [0]
+[RSP+A80] 0x0                (size_t) [0]
+[RSP+A88] 0x0                (size_t) [0]
+[RSP+A90] 0x0                (size_t) [0]
+[RSP+A98] 0x0                (size_t) [0]
+[RSP+AA0] 0x0                (size_t) [0]
+[RSP+AA8] 0x0                (size_t) [0]
+[RSP+AB0] 0x0                (size_t) [0]
+[RSP+AB8] 0x0                (size_t) [0]
+[RSP+AC0] 0x0                (size_t) [0]
+[RSP+AC8] 0x0                (size_t) [0]
+[RSP+AD0] 0x0                (size_t) [0]
+[RSP+AD8] 0x0                (size_t) [0]
+[RSP+AE0] 0x0                (size_t) [0]
+[RSP+AE8] 0x0                (size_t) [0]
+[RSP+AF0] 0x0                (size_t) [0]
+[RSP+AF8] 0x0                (size_t) [0]
+[RSP+B00] 0x0                (size_t) [0]
+[RSP+B08] 0x0                (size_t) [0]
+[RSP+B10] 0x0                (size_t) [0]
+[RSP+B18] 0x0                (size_t) [0]
+[RSP+B20] 0x0                (size_t) [0]
+[RSP+B28] 0x0                (size_t) [0]
+[RSP+B30] 0x0                (size_t) [0]
+[RSP+B38] 0x0                (size_t) [0]
+[RSP+B40] 0x0                (size_t) [0]
+[RSP+B48] 0x0                (size_t) [0]
+[RSP+B50] 0x0                (size_t) [0]
+[RSP+B58] 0x0                (size_t) [0]
+[RSP+B60] 0x0                (size_t) [0]
+[RSP+B68] 0x0                (size_t) [0]
+[RSP+B70] 0x0                (size_t) [0]
+[RSP+B78] 0x0                (size_t) [0]
+[RSP+B80] 0x0                (size_t) [0]
+[RSP+B88] 0x0                (size_t) [0]
+[RSP+B90] 0x0                (size_t) [0]
+[RSP+B98] 0x0                (size_t) [0]
+[RSP+BA0] 0x0                (size_t) [0]
+[RSP+BA8] 0x0                (size_t) [0]
+[RSP+BB0] 0x0                (size_t) [0]
+[RSP+BB8] 0x0                (size_t) [0]
+[RSP+BC0] 0x0                (size_t) [0]
+[RSP+BC8] 0x0                (size_t) [0]
+[RSP+BD0] 0x0                (size_t) [0]
+[RSP+BD8] 0x0                (size_t) [0]
+[RSP+BE0] 0x0                (size_t) [0]
+[RSP+BE8] 0x0                (size_t) [0]
+[RSP+BF0] 0x0                (size_t) [0]
+[RSP+BF8] 0x0                (size_t) [0]
+[RSP+C00] 0x0                (size_t) [0]
+[RSP+C08] 0x0                (size_t) [0]
+[RSP+C10] 0x0                (size_t) [0]
+[RSP+C18] 0x0                (size_t) [0]
+[RSP+C20] 0x0                (size_t) [0]
+[RSP+C28] 0x0                (size_t) [0]
+[RSP+C30] 0x0                (size_t) [0]
+[RSP+C38] 0x0                (size_t) [0]
+[RSP+C40] 0x0                (size_t) [0]
+[RSP+C48] 0x0                (size_t) [0]
+[RSP+C50] 0x0                (size_t) [0]
+[RSP+C58] 0x0                (size_t) [0]
+[RSP+C60] 0x0                (size_t) [0]
+[RSP+C68] 0x0                (size_t) [0]
+[RSP+C70] 0x0                (size_t) [0]
+[RSP+C78] 0x0                (size_t) [0]
+[RSP+C80] 0x0                (size_t) [0]
+[RSP+C88] 0x0                (size_t) [0]
+[RSP+C90] 0x0                (size_t) [0]
+[RSP+C98] 0x0                (size_t) [0]
+[RSP+CA0] 0x0                (size_t) [0]
+[RSP+CA8] 0x0                (size_t) [0]
+[RSP+CB0] 0x0                (size_t) [0]
+[RSP+CB8] 0x0                (size_t) [0]
+[RSP+CC0] 0x0                (size_t) [0]
+[RSP+CC8] 0x0                (size_t) [0]
+[RSP+CD0] 0x0                (size_t) [0]
+[RSP+CD8] 0x0                (size_t) [0]
+[RSP+CE0] 0x0                (size_t) [0]
+[RSP+CE8] 0x0                (size_t) [0]
+[RSP+CF0] 0x0                (size_t) [0]
+[RSP+CF8] 0x0                (size_t) [0]
+[RSP+D00] 0x0                (size_t) [0]
+[RSP+D08] 0x0                (size_t) [0]
+[RSP+D10] 0x0                (size_t) [0]
+[RSP+D18] 0x0                (size_t) [0]
+[RSP+D20] 0x0                (size_t) [0]
+[RSP+D28] 0x0                (size_t) [0]
+[RSP+D30] 0x0                (size_t) [0]
+[RSP+D38] 0x0                (size_t) [0]
+[RSP+D40] 0x0                (size_t) [0]
+[RSP+D48] 0x0                (size_t) [0]
+[RSP+D50] 0x0                (size_t) [0]
+[RSP+D58] 0x0                (size_t) [0]
+[RSP+D60] 0x0                (size_t) [0]
+[RSP+D68] 0x0                (size_t) [0]
+[RSP+D70] 0x0                (size_t) [0]
+[RSP+D78] 0x0                (size_t) [0]
+[RSP+D80] 0x0                (size_t) [0]
+[RSP+D88] 0x0                (size_t) [0]
+[RSP+D90] 0x0                (size_t) [0]
+[RSP+D98] 0x0                (size_t) [0]
+[RSP+DA0] 0x0                (size_t) [0]
+[RSP+DA8] 0x0                (size_t) [0]
+[RSP+DB0] 0x0                (size_t) [0]
+[RSP+DB8] 0x0                (size_t) [0]
+[RSP+DC0] 0x0                (size_t) [0]
+[RSP+DC8] 0x0                (size_t) [0]
+[RSP+DD0] 0x0                (size_t) [0]
+[RSP+DD8] 0x0                (size_t) [0]
+[RSP+DE0] 0x0                (size_t) [0]
+[RSP+DE8] 0x0                (size_t) [0]
+[RSP+DF0] 0x0                (size_t) [0]
+[RSP+DF8] 0x0                (size_t) [0]
+[RSP+E00] 0x0                (size_t) [0]
+[RSP+E08] 0x0                (size_t) [0]
+[RSP+E10] 0x0                (size_t) [0]
+[RSP+E18] 0x0                (size_t) [0]
+[RSP+E20] 0x0                (size_t) [0]
+[RSP+E28] 0x0                (size_t) [0]
+[RSP+E30] 0x0                (size_t) [0]
+[RSP+E38] 0x0                (size_t) [0]
+[RSP+E40] 0x0                (size_t) [0]
+[RSP+E48] 0x0                (size_t) [0]
+[RSP+E50] 0x0                (size_t) [0]
+[RSP+E58] 0x0                (size_t) [0]
+[RSP+E60] 0x0                (size_t) [0]
+[RSP+E68] 0x0                (size_t) [0]
+[RSP+E70] 0x0                (size_t) [0]
+[RSP+E78] 0x0                (size_t) [0]
+[RSP+E80] 0x0                (size_t) [0]
+[RSP+E88] 0x0                (size_t) [0]

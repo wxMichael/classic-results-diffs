@@ -1,0 +1,495 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     HUDFramework.esm
+[09]     WorkshopFramework.esm
+[0A]     XDI.esm
+[0B]     SOTS.esp
+[0C]     NoraSpouse.esm
+[0D]     DCGuard_Overhaul.esp
+[0E]     SS2.esm
+[0F]     SS2_XPAC_Chapter2.esm
+[10]     CWPointLookoutFO4.esm
+[11]     Games.esm
+[12]     BarstoolGames.esm
+[13]     GasCanisterFix.esp
+[14]     Damage Threshold.esm
+[15]     Search&DestroyFixed.esp
+[16]     Vault-Tec Historical Preservation Initiative.esp
+[17]     WeaponModFixes-GOTY.esp
+[18]     CutWeaponModsRestored-GOTY.esp
+[19]     3dscopes-replacer.esp
+[1A]     PlayerComments.esp
+[1B]     YuVend Inc..esp
+[1C]     NukaWorldPlus.esp
+[1D]     WelcometoGoodneighbor.esp
+[1E]     Unique NPCs - Creatures and Monsters.esp
+[1F]     RED.esp
+[20]     BTInteriors_Project.esp
+[21]     3DNPC_FO4.esp
+[22]     IH_LV_Cars_Have_loot.esp
+[23]     MutilatedDeadBodies.esp
+[24]     subwayrunnnerdynamiclighting.esp
+[25]     Ketaros_Treasures.esp
+[26]     FogOut - Interiors - All DLC.esp
+[27]     SuperMutantRedux.esp
+[28]     AnimatedCandles.esp
+[29]     PlayerComments_NoraSpouse_Patch.esp
+[2A]     XDI ServiceCost.esp
+[2B]     SS2Extended.esp
+[2C]     CombatZoneRestored.esp
+[2D]     ImmersiveGenericDialogues.esp
+[2E]     PiperCaitCurieDialogueOverhaul.esp
+[2F]     ImmersiveGunnersPlazaInterior.esp
+[30]     ImmersiveGunnersPlazaExterior.esp
+[31]     RaiderOverhaul.esp
+[32]     Squirrels_of_the_Commonwealth.esp
+[33]     WattzLaserGun.esp
+[34]     ImmersiveDrumlinDiner.esp
+[35]     Vault4.esp
+[36]     Stm_DiamondCityExpansion.esp
+[37]     PlayerComments_PiperCaitCurieDialogueOverhaul_Patch.esp
+[38]     TrainBar.esp
+[39]     PlayerComments_ImmersiveGenericDialogues_Patch.esp
+[3A]     FarHarborStory.esp
+[3B]     BetterFarHarbor_Open.esp
+[3C]     DiamondNewVendors.esp
+[3D]     NoraSpouseFarHarbor.esp
+[3E]     3DNPC_FO4_DLC.esp
+[3F]     Raider Children.esp
+[40]     Some Assembly Required.esp
+[41]     VisibleCompanionAffinity.esp
+[42]     W.A.T.Minutemen.esp
+[43]     Immersive Courser Overhaul.esp
+[44]     AttackSpawnsOutsideSettlement.esp
+[45]     BetterSettlers.esp
+[46]     Build_all_Beds.esp
+[47]     DiverseChildren.esp
+[48]     Child Outfits Vanilla Standalone.esp
+[49]     Enclave Paint DLC.esp
+[4A]     Orphans.esp
+[4B]     CAPP.esp
+[4C]     ImprovedBoSRedux.esp
+[4D]     ImprovedBoSRedux-Uniforms.esp
+[4E]     Children of Ug Qualtoth.esp
+[4F]     Flashy_CrimeAndPunishment_GunForHire_Addon.esp
+[50]     PlaneWreck.esp
+[51]     UniqueUniques.esp
+[52]     Backpacks of the Commonwealth.esp
+[53]     Port-A-Diner Perfection.esp
+[54]     3DNPC_FO4Settler.esp
+[55]     BoSStory.esp
+[56]     MilkThatBrahmin.esp
+[57]     InsideJobs.esp
+[58]     BetterWeaponDiversityCHW-v2.1.esp
+[59]     Eli_Armour_Compendium.esp
+[5A]     AzarPonytailHairstyles.esp
+[5B]     RealNameSettlers.esp
+[5C]     Better_Notes.esp
+[5D]     GtN_SettlersatPlay.esp
+[5E]     ImmersiveAnimationFramework.esp
+[5F]     Publick Occurrences Expanded.esp
+[60]     T60to51.esp
+[61]     stumbleuponinteriors.esp
+[62]     10mm.esp
+[63]     TinaDeLucaSettlerVoiced.esp
+[64]     PlayerComments_UFO4P_Patch.esp
+[65]     PlayerComments_3DNPC_FO4_Patch.esp
+[66]     R91 Expanded.esp
+[67]     LAER.esp
+[68]     F4NVLaserPistol.esp
+[69]     M72GaussRifle.esp
+[6A]     R91AssaultRifle.esp
+[6B]     3pMeleeTweak.esp
+[6C]     M2045MagnumRevolverRifle.esp
+[6D]     FO4 NPCs Travel.esp
+[6E]     Actor Scale Remover.esp
+[6F]     AnimChemRedux.esp
+[70]     AnimatedRadaway.esp
+[71]     MMP4APA.esp
+[72]     W.A.T.M. Tweaks.esp
+[73]     AtomicRadio.esp
+[74]     Ballistic Marine Wetsuit v1.2.1.esp
+[75]     BarstoolGames_FH.esp
+[76]     BarstoolGames_NW.esp
+[77]     BashPlus.esp
+[78]     Better Artillery Flares (vanilla range and weight version).esp
+[79]     BetterCompanions.esp
+[7A]     BetterJunkFences.esp
+[7B]     BetterWeaponDiversityCHW_IDDPatch.esp
+[7C]     BetterWeaponDiversityCHW_UnofficialUpdate.esp
+[7D]     CHARGEGAUSS.esp
+[7E]     CROSS_GoreCrits.esp
+[7F]     CROSS_GoreCrits_FarHarborPatch.esp
+[80]     CROSS_ReducedLaserSmoke.esp
+[81]     CWMR-GOTY-Patch-WeaponModFixes-GOTY.esp
+[82]     CarPhysicsDeathBugfix.esp
+[83]     Child Posters.esp
+[84]     CompanionActiveWait.esp
+[85]     CompanionStatus.esp
+[86]     DCGUard_Overhaul-VanillaSkin.esp
+[87]     DCGuard_Overhaul-DCEPatch.esp
+[88]     RustDevilRedux.esp
+[89]     DCGuard_Overhaul-RandomEncounters.esp
+[8A]     4estGimp - FSD_Vault4.esp
+[8B]     DCRE.esp
+[8C]     DD_Wasteland_Children_done_right.esp
+[8D]     DLCCoast_WorkshopDialogue_Doctor.esp
+[8E]     DV-Durable Vertibirds.esp
+[8F]     DV-No Levelled Vertibirds.esp
+[90]     Dogmeat  A True Companion Normal.esp
+[91]     Dogmeat's Backpack.esp
+[92]     DogmeatVaultSuit.esp
+[93]     FHSBonus.esp
+[94]     FakeKillcam.esp
+[95]     FatManRadiation.esp
+[96]     FatherCompanion.esp
+[97]     Fixed Alpha Maps.esp
+[98]     FogOut - Exterior - All DLC.esp
+[99]     SettlementMenuManager.esp
+[9A]     Vault-Tec Workshop Overhaul Redux.esp
+[9B]     Vault88 - Essentials.esp
+[9C]     HalfAffinityCooldown.esp
+[9D]     HoloTime.esp
+[9E]     IcebreakerCDO-Piper.esp
+[9F]     Inside_Jobs_V4.01-Small_Fixes.esp
+[A0]     InstituteReformation.esp
+[A1]     Interview.esp
+[A2]     Jif_TechnicalDocuments.esp
+[A3]     Ketaros_World.esp
+[A4]     LAER Automatron Weapons.esp
+[A5]     LongerPowerLines2x.esp
+[A6]     LooksMenu.esp
+[A7]     MGRemesh.esp
+[A8]     Mama Murphy Concept Art.esp
+[A9]     Mama Murphys Chair Redone.esp
+[AA]     MarineArmorHelmetNeckCover.esp
+[AB]     MorePowerfulWindmills10.esp
+[AC]     Move (Get Out the Way).esp
+[AD]     No Aggro Impact Landing.esp
+[AE]     No Scope Fade In.esp
+[AF]     NoCombatMusicLoop.esp
+[B0]     NoNegativeAffinity.esp
+[B1]     NoNegativeAffinitySeason.esp
+[B2]     Nora Looks Customization for v1.2.esp
+[B3]     PlayerMarriage.esp
+[B4]     Nora_Spouse_Companion_and_Player_Marriage_Compatibility_Patch.esp
+[B5]     Orphan's Beds.esp
+[B6]     OverbossPA-Headlamp.esp
+[B7]     P94PlasmaRifle.esp
+[B8]     PA-Quick Animations.esp
+[B9]     PD_LowerWeapon.esp
+[BA]     PD_VisualReload.esp
+[BB]     Pet - Call -Feed Dogmeat.esp
+[BC]     PlayerComments_CZRPatch.esp
+[BD]     PlayerComments_IceBreakerCDO-Piper_Patch.esp
+[BE]     PowerArmorImpactEffects.esp
+[BF]     RAW INPUT.esp
+[C0]     RecycleBottles.esp
+[C1]     SS2WastelandReconstructionKit.esp
+[C2]     SS2_CityPlanPack_RiseOfTheCommonwealth.esp
+[C3]     Scopes.esp
+[C4]     See You Sleep CW editon - Beta.esp
+[C5]     Solar Powered Radiation Damage Fix.esp
+[C6]     Stm_DiamondCityExpansion_x_LowerVolume.esp
+[C7]     StoreYourKeys.esp
+[C8]     Suit Up.esp
+[C9]     The Eyes Of Beauty.esp
+[CA]     Third Person Movement Speed Fix.esp
+[CB]     UnbogusLunchboxes.esp
+[CC]     Watcher Crows.esp
+[CD]     WeaponRackFixes-NukaWorld.esp
+[CE]     WorkingIceCoolerNukaCoastNoQuest.esp
+[CF]     argvPerceptionEnergyWeapons.esp
+[D0]     cryofix.esp
+[D1]     funcweddingrings.esp
+[D2]     library.esp
+[D3]     spacefiddle_WattzSoundAndReverb.esp
+[D4]     Pip-Boy Flashlight.esp
+[D5]     Cho1_ss2_Barmod_Conversion.esp
+[D6]     Damage Threshold - Fools Fight Futilely.esp
+[D7]     RealTroughs.esp
+[D8]     Lost Souls No Hostility.esp
+[D9]     AVBGuns.esp
+[DA]     ImprovedBoSRedux-Vertibirds.esp
+[DB]     GeneralAtomicsMrGutsyGuards.esp
+[DC]     PlasmaGatlingCaster.esp
+[DD]     3dscopes-laer.esp
+[DE]     3dscopes-R91AR.esp
+[DF]     3dscopes-replacer-wattz.esp
+[E0]     NPCSTRAVELFIXES.esp
+[E1]     PlasmaGatlingCaster_Contraptions.esp
+[E2]     PerpetualBeta_T60.esp
+[E3]     PerpetualBeta_T45.esp
+[E4]     MODspiderDLC.esp
+[E5]     SOTC_Nerfed.esp
+[E6]     Animated Drinking.esp
+[E7]     PerpetualBeta_VaultTecSecurityHelmet.esp
+[E8]     Cobb Milk Powder.esp
+[E9]     Desklamp02Fix.esp
+[EA]     ShellRain.esp
+[EB]     SPECIAL-040.esp
+[EC]     3DNPC_BTI_Optimization - WsStackFix.esp
+[ED]     FO4LODGen-DLCCoast-WindTurbines.esp
+[EE]     LOD Fixes and Additons.esp
+[EF]     Synthesis.esp
+[F0]     M8r Complex Sorter.esp
+[FE:000] BakaFramework.esm
+[FE:001] PPF.esm
+[FE:002] BetterCoastalWaves.esl
+[FE:003] DiamondCityAmbience.esl
+[FE:004] UnownedTrash.esl
+[FE:005] CWPointLookoutFO4Patch.esl
+[FE:006] CanarySaveFileMonitor.esl
+[FE:007] ConsumeWithoutPickup.esl
+[FE:008] SunshineNoGhouls.esl
+[FE:009] SanctuaryNoDog.esl
+[FE:00A] Dance-Ola.esl
+[FE:00B] FixRobotVisualEffects.esl
+[FE:00C] GKX Worthwhile Caps Stashes.esl
+[FE:00D] IDEKsLogisticsStation2.esl
+[FE:00E] LIF.esl
+[FE:00F] Ladder.esl
+[FE:010] NPSShopping.esl
+[FE:011] NoRadratExplosion.esl
+[FE:012] PLExpressivePlayer.esl
+[FE:013] REFramework.esm
+[FE:014] SmashADiner.esl
+[FE:015] Sweetrollin.esl
+[FE:016] SwimmingAnims.esl
+[FE:017] TOP.esl
+[FE:018] nukaproject.esl
+[FE:019] QuestTweaks-DLC04SettlementFF02.esl
+[FE:01A] QuestTweaks-DLC04MS01.esl
+[FE:01B] FO4ParticlePatch.esp
+[FE:01C] Region Names on Save Files.esp
+[FE:01D] AUR_SanctuaryRepaired.esp
+[FE:01E] LBPAC.esp
+[FE:01F] eXoKetarosLootableTreasures.esp
+[FE:020] Companion Thoughts Overhaul.esp
+[FE:021] BetterCoastalWaves.esp
+[FE:022] Dank_ArmorOverrides.esp
+[FE:023] NewtonsRegards.esp
+[FE:024] PLI_Roadside_Pines_Motel.esp
+[FE:025] AUR_RebuildGreentopNursery.esp
+[FE:026] AUR_RebuildTaffington.esp
+[FE:027] AUR_RebuildCroupManor.esp
+[FE:028] Wattz Laser Gun - Unofficial Update.esp
+[FE:029] Power Armor to the People.esp
+[FE:02A] QuestTagsFIS.esp
+[FE:02B] LOST Audio Tweaks.esp
+[FE:02C] Power Armor to the People - Nuka-World.esp
+[FE:02D] Power Armor to the People - Automatron.esp
+[FE:02E] UNPC - ChickensRabbits.esp
+[FE:02F] LBPAC-PAttP.esp
+[FE:030] WhoIsTheGeneral.esp
+[FE:031] Dank_ArmorOverrides_DLCCoast.esp
+[FE:032] QuestTagsFIS-3DNPC_FO4.esp
+[FE:033] subwayrunnnerdynamiclighting OPC Patch.esp
+[FE:034] Keep Radiants In Commonwealth.esp
+[FE:035] MergedChildModsWithExtras.esp
+[FE:036] Dank_LEO.esp
+[FE:037] AUR_SanctuaryRepaired_ImmersiveCandles.esp
+[FE:038] LBPAC - DCGuard_Overhaul.esp
+[FE:039] Unused Map Markers - Cut Content Restored.esp
+[FE:03A] PLI_Dark_Hollow_Pond.esp
+[FE:03B] PLI_Unmarked_Raider_Camps_P1.esp
+[FE:03C] JamaicaPlainPathing.esp
+[FE:03D] JPP_BIP_Patch.esp
+[FE:03E] PLIRPM_MDB_Patch.esp
+[FE:03F] SS2_FensSheriffDept_Patch.esp
+[FE:040] Less Hostile Raider Children.esp
+[FE:041] SS2 Lexington Underground Fix.esp
+[FE:042] Less Hostile Raider Children - SS2 Quest Patch.esp
+[FE:043] UNPC - SeaClaws.esp
+[FE:044] IntWayneGorski.esp
+[FE:045] 4estGimp - AnimatedCandles_RailroadRedone.esp
+[FE:046] Dank_ECO.esp
+[FE:047] ABundleofTape.esp
+[FE:048] FastTravelFromQuestHubs.esp
+[FE:049] eXofied Settlers.esp
+[FE:04A] PLI_HarbormasterHotel.esp
+[FE:04B] MechLairPathfindingFix.esp
+[FE:04C] PLIDHP_MDB_Patch.esp
+[FE:04D] Backpacks of the Commonwealth - HQ NavMesh.esp
+[FE:04E] Publick Occurrences Expanded - DLC-SS2-UFO4P Patch.esp
+[FE:04F] NoraSpousePatch.esp
+[FE:050] 3DNPCs Typo Patch.esp
+[FE:051] CR-TrainBar_Candles.esp
+[FE:052] 3rd Person Cam SmallFix.esp
+[FE:053] 4estGimp - M72_GuassRifle_Edit.esp
+[FE:054] AB-UFO4P-BetterNotes-Patch.esp
+[FE:055] Dank_LEO_DLCCoast.esp
+[FE:056] Power Armor to the People - Far Harbor.esp
+[FE:057] FS_FarHarborBoatFastTravel.esp
+[FE:058] PRP-SS2-Fixes-Ch2.esp
+[FE:059] AUR_RebuildCroupManor_OpenWindows.esp
+[FE:05A] LootableVertibirds.esp
+[FE:05B] SS2_GunForHire_Patch.esp
+[FE:05C] StoryWealth-MinorTweaks.esp
+[FE:05D] AshBeGone.esp
+[FE:05E] QuestTagsFIS-NukaWorldPlus.esp
+[FE:05F] Resettle Jared.esp
+[FE:060] PLIHH_MDB_Patch.esp
+[FE:061] AutoHack.esp
+[FE:062] AutoLockpick.esp
+[FE:063] AutomatronRobotHatFixESLVersion.esp
+[FE:064] BTI-Typos.esp
+[FE:065] Backpacks of the Commonwealth - PerkFix.esp
+[FE:066] Backpacks of the Commonwealth - Sneak Fix.esp
+[FE:067] BoS Story Typo Patch.esp
+[FE:068] BuildingBudgetExtender.esp
+[FE:069] ConduitsCeiling.esp
+[FE:06A] CryoSpellFix.esp
+[FE:06B] REPatch_RustDevilRedux.esp
+[FE:06C] LessVertibirdEncounters.esp
+[FE:06D] REPatch_LessVertibirdEncounters_NoFlightRustDevilReduxVersion.esp
+[FE:06E] 4estGimp - Outskirts FSD DC Security Office Door.esp
+[FE:06F] DCGuard_Overhaull-3DNPC_FO4Settler.esp
+[FE:070] DCRE-FixRadio.esp
+[FE:071] DeirdreFixerUpper.esp
+[FE:072] Elzee Breathe.esp
+[FE:073] Elzee Cough.esp
+[FE:074] Elzee Cut SFX Restored.esp
+[FE:075] Elzee Have a Seat.esp
+[FE:076] Fixed Gobo Effects.esp
+[FE:077] Flashy_GunForHire_KillableChildrenPatch.esp
+[FE:078] Gauss Rifle Suppressor Fix BMD EBMD ESL.esp
+[FE:079] Wetness Shader Fix.esp
+[FE:07A] IAF - Far Harbor & Nuka World.esp
+[FE:07B] IDEKsLogisticsStation2_SS2_Patch.esp
+[FE:07C] Jump Grunt.esp
+[FE:07D] Legendary Mutation Messages Fix.esp
+[FE:07E] Less Ugly Intercom.esp
+[FE:07F] MagazineExt.esp
+[FE:080] Nability - IAF Tales from the Commonwealth Patch.esp
+[FE:081] Nora CTO.esp
+[FE:082] ODT - Pip Boy Skins.esp
+[FE:083] Overboss-PA-NoChain.esp
+[FE:084] 4estGimp - Overboss-PA-NoChain_INNR_PAttP.esp
+[FE:085] PD_VReload_WattzLaserGun.esp
+[FE:086] Perception Bug Fix Redux.esp
+[FE:087] Power Armor to the People - We Are The Minutemen.esp
+[FE:088] QuestTagsFIS-BoSStory.esp
+[FE:089] QuestTagsFIS-CWPointLookoutFO4.esp
+[FE:08A] QuestTagsFIS-FarHarborStory.esp
+[FE:08B] QuestTagsFIS-Jif_TechnicalDocuments.esp
+[FE:08C] R91ExpansionFootsteps.esp
+[FE:08D] R91PAFootstepFix.esp
+[FE:08E] RBValentineJawSync.esp
+[FE:08F] REPatch_CrimeAndPunishmentGunForHire.esp
+[FE:090] REPatch_TheFensSheriffsDepartmentBleachers2.esp
+[FE:091] Reanimated Stimpack Sounds.esp
+[FE:092] Some_Assembly_Required_Repair_Kits.esp
+[FE:093] SAR_Repair_Kits_Nuka.esp
+[FE:094] SAR_Repair_Kits_Tesla.esp
+[FE:095] SAR_Repair_Kits_VIM.esp
+[FE:096] SS2 XDI Perk Speech Checks.esp
+[FE:097] SS2 Nora Spouse Patch.esp
+[FE:098] SS2Extended_OutfitInjectionPatch.esp
+[FE:099] SS2_DLCSettlerPatch.esp
+[FE:09A] SS2_MagnussonTerminalFix.esp
+[FE:09B] SS2_XDI Patch.esp
+[FE:09C] Sim Settlers 2 Go Shopping.esp
+[FE:09D] SimSettlements2ChildSupport.esp
+[FE:09E] Some Assembly Rquired - CPAO patch.esp
+[FE:09F] Stimpaks help you breathe.esp
+[FE:0A0] TeslaModsFix.esp
+[FE:0A1] Tom Sprint.esp
+[FE:0A2] Train Bar - Deleted Navmesh Fix-twiz.esp
+[FE:0A3] Ultimate Window Overhaul.esp
+[FE:0A4] Ultimate Window Overhaul Cubemaps.esp
+[FE:0A5] V81_GOATSequencePatch.esp
+[FE:0A6] WattzLaserGunPAFootstepFix.esp
+[FE:0A7] Weapon Scrapping Redone.esp
+[FE:0A8] freefov.esp
+[FE:0A9] freefovpowerarmor.esp
+[FE:0AA] lnl_radroach.esp
+[FE:0AB] nixieclock.esp
+[FE:0AC] spacefiddle_Follower-Stealth-Distance-Fixes.esp
+[FE:0AD] subwayrunnnerMap.esp
+[FE:0AE] Bullet Impact Overhaul.esp
+[FE:0AF] CombatZoneRestored_XDI.esp
+[FE:0B0] OMEGA - IAF Milk That Brahmin Patch.esp
+[FE:0B1] Melee Impact Overhaul.esp
+[FE:0B2] Physics Sound OverhaulLowerCasings.esp
+[FE:0B3] Bullet Impact Overhaul test.esp
+[FE:0B4] FS_NukaWorldTramFastTravel.esp
+[FE:0B5] Dank_ArmorOverrides_DLCNukaWorld.esp
+[FE:0B6] Dank_ArmorOverrides_DLCRobot.esp
+[FE:0B7] Dank_ECO_DLCCoast.esp
+[FE:0B8] Dank_ECO_DLCNukaWorld.esp
+[FE:0B9] Dank_ECO_DLCRobot.esp
+[FE:0BA] Dank_ECO-LEO.esp
+[FE:0BB] Dank_LEO-Automatron.esp
+[FE:0BC] Dank_LEO_DLCNukaWorld.esp
+[FE:0BD] Dank_WOP-PointLookout.esp
+[FE:0BE] We Are The Minutemen BOTC Patch.esp
+[FE:0BF] Misc2Weapon.esp
+[FE:0C0] CompanionStatus-Settings.esp
+[FE:0C1] 4estGimp - BoT Crude Revolver Sledge Inj.esp
+[FE:0C2] 4estGimp - BoT Garand SVT Varmint Inj.esp
+[FE:0C3] 4estGimp - AI Edits_Crippled_SMR.esp
+[FE:0C4] 4estGimp - Weapon Death Drop Fix.esp
+[FE:0C5] CROSS_CourserStrigidae.esp
+[FE:0C6] No_BloodWorm_MoleRats_Scorpion_Teleport-BugFix.esp
+[FE:0C7] DangerousDeathclaws.esp
+[FE:0C8] Gloomy Glass.esp
+[FE:0C9] Power Armor to the People - Overboss No Chains.esp
+[FE:0CA] Power Armor to the People - Raider Overhaul.esp
+[FE:0CB] QuestTagsFIS-WhoIsTheGeneral.esp
+[FE:0CC] QuestTagsFIS-QuestTweaks-DLC04MS01.esp
+[FE:0CD] QuestTagsFIS-QuestTweaks-DLC04SettlementFF02.esp
+[FE:0CE] OMEGA - IAF SOTS Patch.esp
+[FE:0CF] OMEGA - IAF YuVend Inc Patch.esp
+[FE:0D0] PreWarFoodPrep Clean MTB IAF.esp
+[FE:0D1] Framed.esp
+[FE:0D2] JunkierJunk.esp
+[FE:0D3] JJ_SS2_Patch.esp
+[FE:0D4] JunkierJunkZeroWeight.esp
+[FE:0D5] WTG - KRIC Patch.esp
+[FE:0D6] FastTravelFromVault81.esp
+[FE:0D7] FTFV81_HoleInTheWallReward.esp
+[FE:0D8] ElevatorLights.esp
+[FE:0D9] ColorfulBottleLanterns.esp
+[FE:0DA] CBL_BrighterLights.esp
+[FE:0DB] PreWarFoodPrep Clean.esp
+[FE:0DC] AUR_SanctuaryRepaired_Workshop.esp
+[FE:0DD] PRP.esp
+[FE:0DE] PRP-Compat-RegionNames.esp
+[FE:0DF] PRP-Compat-PointLookout.esp
+[FE:0E0] PLI_USAF_Satellite_Station_Olivia.esp
+[FE:0E1] PRP-Compat-Fogout-Int.esp
+[FE:0E2] PRP-ImmersiveGunnerPlaza.esp
+[FE:0E3] PRP-RaiderChildren.esp
+[FE:0E4] PRP-StumbleUponInteriors.esp
+[FE:0E5] PRP-Welcome2Goodneighbor.esp
+[FE:0E6] PRP-UgQualtoth.esp
+[FE:0E7] PRP-Compat-NWP-CR.esp
+[FE:0E8] PRP-Compat-NWP.esp
+[FE:0E9] PRP-Compat-DCA.esp
+[FE:0EA] AUR_SanctuaryRepaired_PRP.esp
+[FE:0EB] PLIRPM_PRP_Patch.esp
+[FE:0EC] PLIDHP_PRP_Patch.esp
+[FE:0ED] PRP-SS2-Fixes.esp
+[FE:0EE] AUR_RebuildGreentopNursery_PRP.esp
+[FE:0EF] AUR_RebuildTaffington_PRP.esp
+[FE:0F0] PRP-Gun4Hire.esp
+[FE:0F1] AUR_RebuildCroupManor_PRP.esp
+[FE:0F2] PRP-ImmersiveDrumlinDiner.esp
+[FE:0F3] PRP-SS2.esp
+[FE:0F4] PLIUSAFSSO - MDB Patch.esp
+[FE:0F5] 3DNPC_BTI_Optimization.esp
+[FE:0F6] SOTS_Optimization.esp
+[FE:0F7] DCX_Optimization.esp
+[FE:0F8] DCGuard_Optimization.esp
+[FE:0F9] WestonWaterLOD.esp
+[FE:0FA] FOLIP - New LODs.esp
+[FE:0FB] WorkshopFramework_ScriptOverride.esp
+[FE:0FC] Bashed Patch, 0.esp
+[FE:0FD] Dank_ECO-INNR.esp

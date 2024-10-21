@@ -1,0 +1,257 @@
+[0] 0x7FFB266A1DE2   Buffout4.dll+00A1DE2	cmp rax, r14 |  E:\Documents\source\repos\Buffout4\build\vcpkg_installed\x64-windows-static-md\include\boost\stacktrace\stacktrace.hpp:78 ?init@?$basic_stacktrace@V?$allocator@Vframe@stacktrace@boost@@@std@@@stacktrace@boost@@AEAAX_K0@Z
+[1] 0x7FFB26697C92   Buffout4.dll+0097C92	nop |  E:\Documents\source\repos\Buffout4\src\Crash\CrashHandler.cpp:532 ??$?HDU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@$$QEAV10@0@Z
+[2] 0x7FFB266A0961   Buffout4.dll+00A0961	lea rax, [rsp+0x70] |  E:\Documents\source\repos\Buffout4\src\Crash\CrashHandler.cpp:558 ?Install@Crash@@YAXXZ
+[3] 0x7FFBC5155F0C KERNELBASE.dll+0155F0C
+[4] 0x7FFBC7C3837D      ntdll.dll+00A837D
+[5] 0x7FFBC7C1EFA7      ntdll.dll+008EFA7
+[6] 0x7FFBC7C33CFF      ntdll.dll+00A3CFF
+[7] 0x7FFBC7BAE456      ntdll.dll+001E456
+[8] 0x7FFBC7C32CEE      ntdll.dll+00A2CEE
+
+REGISTERS:
+RAX 0x200107FF380      (void*)
+RCX 0x200107FF110      (void*)
+RDX 0x200107FF110      (void*)
+RBX 0x200107FF110      (void*)
+RSP 0x2AE389F8E8       (void*)
+RBP 0x2AE389FA20       (char*) "H"
+RSI 0x1FFE1BA9B20      (void*)
+RDI 0x1FF49E2C9F0      (void*)
+R8  0x1FF724BC700      (char*) "O
+"
+R9  0x2AE389FB50       (void*)
+R10 0x0                (size_t) [0]
+R11 0x2AE389FAFC       (void*)
+R12 0x1FF49E2C360      (hknpBSWorld*)
+R13 0x1                (size_t) [1]
+R14 0x1FF74C19A2C      (void*)
+R15 0x1FF49E89770      (void*)
+
+STACK:
+[RSP+0  ] 0x7FF7C0F460C3     (void* -> Fallout4.exe+02560C3	mov ecx, eax |  NVFlex::CollisionGeometryCache::GetCollisionGeometry(hknpShape&,float,hkTransformf&,float,bool,NVFlex::CollisionObjectInfo&)_2560C3)
+[RSP+8  ] 0x1FF810E08B0      (hknpConvexPolytopeShape*)
+[RSP+10 ] 0x1FFE1BA9B20      (void*)
+[RSP+18 ] 0x0                (size_t) [0]
+[RSP+20 ] 0x0                (size_t) [0]
+[RSP+28 ] 0x0                (size_t) [0]
+[RSP+30 ] 0x0                (size_t) [0]
+[RSP+38 ] 0x0                (size_t) [0]
+[RSP+40 ] 0x0                (size_t) [0]
+[RSP+48 ] 0x0                (size_t) [0]
+[RSP+50 ] 0x0                (size_t) [0]
+[RSP+58 ] 0x0                (size_t) [0]
+[RSP+60 ] 0x0                (size_t) [0]
+[RSP+68 ] 0x0                (size_t) [0]
+[RSP+70 ] 0x0                (size_t) [0]
+[RSP+78 ] 0x0                (size_t) [0]
+[RSP+80 ] 0x0                (size_t) [0]
+[RSP+88 ] 0x0                (size_t) [0]
+[RSP+90 ] 0x0                (size_t) [0]
+[RSP+98 ] 0x0                (size_t) [0]
+[RSP+A0 ] 0x0                (size_t) [0]
+[RSP+A8 ] 0x0                (size_t) [0]
+[RSP+B0 ] 0x0                (size_t) [0]
+[RSP+B8 ] 0x0                (size_t) [0]
+[RSP+C0 ] 0x0                (size_t) [0]
+[RSP+C8 ] 0x0                (size_t) [0]
+[RSP+D0 ] 0x0                (size_t) [0]
+[RSP+D8 ] 0x0                (size_t) [0]
+[RSP+E0 ] 0x7FFBC7BE5193     (void* -> ntdll.dll+0055193	mov ebx, eax)
+[RSP+E8 ] 0x7FF7C3958DF8     (char*) "CONVEX_POLYTOPE"
+[RSP+F0 ] 0x7FFB0BCED207     (void* -> nvcuda64.dll+019D207	test eax, eax)
+[RSP+F8 ] 0x1                (size_t) [1]
+[RSP+100] 0x7FFB0BCBAB18     (void* -> nvcuda64.dll+016AB18	test eax, eax)
+[RSP+108] 0x0                (size_t) [0]
+[RSP+110] 0x7FFBC504A0CD     (void* -> KERNELBASE.dll+004A0CD	nop [rax+rax*1], eax)
+[RSP+118] 0x0                (size_t) [0]
+[RSP+120] 0x0                (size_t) [0]
+[RSP+128] 0x2AE389FA90       (void*)
+[RSP+130] 0x7FFB0BD86DA3     (void* -> nvcuda64.dll+0236DA3	mov eax, ebx)
+[RSP+138] 0x48               (size_t) [72]
+[RSP+140] 0x2A00000001       (size_t) [180388626433]
+[RSP+148] 0x0                (size_t) [0]
+[RSP+150] 0x0                (size_t) [0]
+[RSP+158] 0x0                (size_t) [0]
+[RSP+160] 0x0                (size_t) [0]
+[RSP+168] 0x0                (size_t) [0]
+[RSP+170] 0x0                (size_t) [0]
+[RSP+178] 0x0                (size_t) [0]
+[RSP+180] 0x7FF7C0F49CFD     (void* -> Fallout4.exe+0259CFD	cmp byte ptr [rbx+0x10], 0x00 |  NVFlex::Timer<NVFlex::timer::CPU>::Timer<NVFlex::timer::CPU>(char*)_259CFD)
+[RSP+188] 0x1FF49E2CA38      (void*)
+[RSP+190] 0x7FF7C280093F     (void* -> Fallout4.exe+1B1093F	cmp [rdi], eax |  BSReadWriteLock::LockForRead(void)_1B1093F)
+[RSP+198] 0x405FF8D5         (size_t) [1080031445]
+[RSP+1A0] 0x0                (size_t) [0]
+[RSP+1A8] 0x1FFE1BA9B40      (void*)
+[RSP+1B0] 0xA4F              (size_t) [2639]
+[RSP+1B8] 0x2AE389FBB0       (void*)
+[RSP+1C0] 0x7FF7C0F46AD6     (void* -> Fallout4.exe+0256AD6	test r12, r12 |  NVFlex::CollisionGeometryCache::GetCollisionGeometries(float,BSTArray<hknpBodyId,BSTArrayHeapAllocator>&)_256AD6)
+[RSP+1C8] 0xA4F              (size_t) [2639]
+[RSP+1D0] 0x200107FF110      (void*)
+[RSP+1D8] 0x20008C6C600      (char*) "-"
+[RSP+1E0] 0x2AE389FB50       (void*)
+[RSP+1E8] 0x2A3F800000       (size_t) [181453979648]
+[RSP+1F0] 0x2AE389FC01       (void*)
+[RSP+1F8] 0x1FF74C19A2C      (void*)
+[RSP+200] 0x7FF7C280C503     (void* -> Fallout4.exe+1B1C503	test dil, dil |  BSSmallBlockAllocator::DeallocateAlignImpl(void*&)_1B1C503)
+[RSP+208] 0x5A00000000       (size_t) [386547056640]
+[RSP+210] 0xCEE0CDBD00000A4F (size_t) [uint: 14907140978228857423 int: -3539603095480694193]
+[RSP+218] 0x8F650972         (size_t) [2405763442]
+[RSP+220] 0x2A               (size_t) [42]
+[RSP+228] 0x2005A9C6A20      (void*)
+[RSP+230] 0x7FF7C39396C8     (void* -> Fallout4.exe+2C496C8	 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C496C8)
+[RSP+238] 0x1FFE1BA9B20      (void*)
+[RSP+240] 0x1FF49E2C360      (hknpBSWorld*)
+[RSP+248] 0x5B               (size_t) [91]
+[RSP+250] 0x7FF7C3956E10     (char*) "NVFlex::CollisionGeometryCache::GetCollisionGeometries"
+[RSP+258] 0xC45BC980         (size_t) [3294349696]
+[RSP+260] 0x20008C6C601      (void*)
+[RSP+268] 0x3ED7CB333F680492 (size_t) [4528311371311875218]
+[RSP+270] 0x3B244B983CFBEBB4 (size_t) [4261614264629586868]
+[RSP+278] 0x3F58D087BEC33731 (size_t) [4564627503779624753]
+[RSP+280] 0xBDCCD96DBEBDBD03 (size_t) [uint: 13676545233792122115 int: -4770198839917429501]
+[RSP+288] 0x3EA5F5D7BE3A9BDE (size_t) [4514284508467076062]
+[RSP+290] 0xBC3CA4123F6DA46D (size_t) [uint: 13563896576013608045 int: -4882847497695943571]
+[RSP+298] 0xC385779FC3F27A6E (size_t) [uint: 14088798537369418350 int: -4357945536340133266]
+[RSP+2A0] 0x4187DCEF         (size_t) [1099422959]
+[RSP+2A8] 0x3CB8C49C         (size_t) [1018741916]
+[RSP+2B0] 0x0                (size_t) [0]
+[RSP+2B8] 0x3CB8C49C         (size_t) [1018741916]
+[RSP+2C0] 0x0                (size_t) [0]
+[RSP+2C8] 0x0                (size_t) [0]
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x200081C1728      (void*)
+[RSP+2E0] 0x1FFE1BA95A0      (void*)
+[RSP+2E8] 0x1FF49E2C360      (hknpBSWorld*)
+[RSP+2F0] 0x1FF49EE22A0      (void*)
+[RSP+2F8] 0x2AE389FC79       (void*)
+[RSP+300] 0x7FF7C0F5CA1E     (void* -> Fallout4.exe+026CA1E	mov rdx, [r15] |  NVFlex::Simulation::updateCollisionGeometryCache(float)_26CA1E)
+[RSP+308] 0x1FFE1BA9B20      (void*)
+[RSP+310] 0x1FF49E2C360      (hknpBSWorld*)
+[RSP+318] 0x2AE389FC10       (void*)
+[RSP+320] 0x7FF7C0F5DEED     (void* -> Fallout4.exe+026DEED	add rsp, 0x88 |  NVFlex::Simulation::updateHostSideSolverData(void)_26DEED)
+[RSP+328] 0x20008C6C600      (char*) "-"
+[RSP+330] 0x1FF00000080      (void*)
+[RSP+338] 0x2000000005B      (void*)
+[RSP+340] 0x0                (size_t) [0]
+[RSP+348] 0x41702F45211F     (size_t) [71950085202207]
+[RSP+350] 0x41352F52212E     (size_t) [71696682983726]
+[RSP+358] 0x7FF7C39396C8     (void* -> Fallout4.exe+2C496C8	 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C496C8)
+[RSP+360] 0x2AE389FC10       (void*)
+[RSP+368] 0x7FF7C3957F08     (char*) "Collect Havok Ids"
+[RSP+370] 0xC120BC6A         (size_t) [3240148074]
+[RSP+378] 0xC38571ADC3E86801 (size_t) [uint: 14088792000428533761 int: -4357952073281017855]
+[RSP+380] 0x419ECE72         (size_t) [1100926578]
+[RSP+388] 0x7FF7C3957ED0     (char*) "NVFlex::Simulation::updateCollisionGeometryCache"
+[RSP+390] 0x7FF7C3957E88     (char*) "NVFlex::Simulation::updateHostSideSolverData"
+[RSP+398] 0x1                (size_t) [1]
+[RSP+3A0] 0x1                (size_t) [1]
+[RSP+3A8] 0x3CB8C49C         (size_t) [1018741916]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D0] 0x200081C1728      (void*)
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E0] 0x1FFE44F4208      (NVFlex::FlexThread*)
+[RSP+3E8] 0x1FFE1BA95A0      (void*)
+[RSP+3F0] 0x7FF7C0F5C45E     (void* -> Fallout4.exe+026C45E	mov r14d, [rbp+0x268] |  NVFlex::Simulation::step(float,bool)_26C45E)
+[RSP+3F8] 0x1FFE1BA95A0      (void*)
+[RSP+400] 0x200081C1720      (void*)
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x8D               (size_t) [141]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+430] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+440] 0x0                (size_t) [0]
+[RSP+448] 0x0                (size_t) [0]
+[RSP+450] 0x7FF7C0F5AB0C     (void* -> Fallout4.exe+026AB0C	add rbx, 0x08 |  NVFlex::FlexThread::ThreadProc(void)_26AB0C)
+[RSP+458] 0x200081C1720      (void*)
+[RSP+460] 0x1FFE44F4208      (NVFlex::FlexThread*)
+[RSP+468] 0x200081C1728      (void*)
+[RSP+470] 0x0                (size_t) [0]
+[RSP+478] 0x0                (size_t) [0]
+[RSP+480] 0x7FF7C280CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF7C684BD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+488] 0x1FFE44F4208      (NVFlex::FlexThread*)
+[RSP+490] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A0] 0x0                (size_t) [0]
+[RSP+4A8] 0x1FFE44F4208      (NVFlex::FlexThread*)
+[RSP+4B0] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]
+[RSP+4C0] 0x7FFBC73326BD     (void* -> KERNEL32.DLL+00126BD	mov ecx, eax)
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D0] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E0] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F0] 0x7FFBC7BEA9F8     (void* -> ntdll.dll+005A9F8	jmp 0x00007FFBC7BEAA19)
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+510] 0x0                (size_t) [0]
+[RSP+518] 0x0                (size_t) [0]
+[RSP+520] 0x0                (size_t) [0]
+[RSP+528] 0xD9759B8900000000 (size_t) [uint: 15669601491218333696 int: -2777142582491217920]
+[RSP+530] 0x0                (size_t) [0]
+[RSP+538] 0x4F0FFFFFB30      (size_t) [5433133628208]
+[RSP+540] 0x7FFBC5155D20     (void* -> KERNELBASE.dll+0155D20	mov [rsp+0x10], rbx)
+[RSP+548] 0x2AE389E3C0       (void*)
+[RSP+550] 0x5480003FFD8E3063 (size_t) [6088866971041804387]
+[RSP+558] 0x7FFB1C60C6A9     (size_t) [140716489623209]
+[RSP+560] 0x2AE389E3C0       (void*)
+[RSP+568] 0x0                (size_t) [0]
+[RSP+570] 0x0                (size_t) [0]
+[RSP+578] 0x0                (size_t) [0]
+[RSP+580] 0x0                (size_t) [0]
+[RSP+588] 0x0                (size_t) [0]
+[RSP+590] 0x0                (size_t) [0]
+[RSP+598] 0x0                (size_t) [0]
+[RSP+5A0] 0x0                (size_t) [0]
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B0] 0x0                (size_t) [0]
+[RSP+5B8] 0x0                (size_t) [0]
+[RSP+5C0] 0x0                (size_t) [0]
+[RSP+5C8] 0x0                (size_t) [0]
+[RSP+5D0] 0x0                (size_t) [0]
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5E0] 0x0                (size_t) [0]
+[RSP+5E8] 0x0                (size_t) [0]
+[RSP+5F0] 0x0                (size_t) [0]
+[RSP+5F8] 0x0                (size_t) [0]
+[RSP+600] 0x0                (size_t) [0]
+[RSP+608] 0x0                (size_t) [0]
+[RSP+610] 0x0                (size_t) [0]
+[RSP+618] 0x0                (size_t) [0]
+[RSP+620] 0x0                (size_t) [0]
+[RSP+628] 0x0                (size_t) [0]
+[RSP+630] 0x0                (size_t) [0]
+[RSP+638] 0x0                (size_t) [0]
+[RSP+640] 0x0                (size_t) [0]
+[RSP+648] 0x0                (size_t) [0]
+[RSP+650] 0x0                (size_t) [0]
+[RSP+658] 0x0                (size_t) [0]
+[RSP+660] 0x0                (size_t) [0]
+[RSP+668] 0x0                (size_t) [0]
+[RSP+670] 0x0                (size_t) [0]
+[RSP+678] 0x0                (size_t) [0]
+[RSP+680] 0x0                (size_t) [0]
+[RSP+688] 0x0                (size_t) [0]
+[RSP+690] 0x0                (size_t) [0]
+[RSP+698] 0x0                (size_t) [0]
+[RSP+6A0] 0x0                (size_t) [0]
+[RSP+6A8] 0x0                (size_t) [0]
+[RSP+6B0] 0x0                (size_t) [0]
+[RSP+6B8] 0x0                (size_t) [0]
+[RSP+6C0] 0x0                (size_t) [0]
+[RSP+6C8] 0x0                (size_t) [0]
+[RSP+6D0] 0x0                (size_t) [0]
+[RSP+6D8] 0x0                (size_t) [0]
+[RSP+6E0] 0x0                (size_t) [0]
+[RSP+6E8] 0x0                (size_t) [0]
+[RSP+6F0] 0x0                (size_t) [0]
+[RSP+6F8] 0x0                (size_t) [0]
+[RSP+700] 0x0                (size_t) [0]
+[RSP+708] 0x0                (size_t) [0]
+[RSP+710] 0x0                (size_t) [0]

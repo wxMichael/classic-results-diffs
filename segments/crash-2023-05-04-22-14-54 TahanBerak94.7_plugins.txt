@@ -1,0 +1,507 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     XDI.esm
+[09]     WorkshopFramework.esm
+[0A]     HUDFramework.esm
+[0B]     ArmorKeywords.esm
+[0C]     Retro_Style.esm
+[0D]     Gunners Overhaul 1.1.esm
+[0E]     MutantMenagerie.esm
+[0F]     MutantMenagerie_FarHarbor.esm
+[10]     Loads.esm
+[11]     NewCalibers.esp
+[12]     MutantMenagerie_NukaWorld.esm
+[13]     DEF_WIDGETS_CORE.esm
+[14]     TrueStormsFO4.esm
+[15]     SettlementKeywords.esm
+[16]     TacticalReload.esm
+[17]     Factor.esp
+[18]     PiperCaitCurieDialogueOverhaul.esp
+[19]     ValdacilsItemSorting-00-ValsPicks-DLCVersion.esp
+[1A]     Unique NPCs.esp
+[1B]     Unique NPCs - Creatures and Monsters.esp
+[1C]     Armorsmith Extended.esp
+[1D]     Classic Combat Armor.esp
+[1E]     3dscopes.esp
+[1F]     Weaponsmith Extended 2.esp
+[20]     GunnersOverhaul.esp
+[21]     MutilatedDeadBodies.esp
+[22]     Better Locational Damage.esp
+[23]     clothingoverhaul.esp
+[24]     SuperMutantRedux.esp
+[25]     SettlementContainers_NoRespawn.esp
+[26]     ClothingOverhaulSP_XB1_PC.esp
+[27]     MojaveImports.esp
+[28]     Raider Children.esp
+[29]     Campsite.esp
+[2A]     DeadlierDeathclaws.esp
+[2B]     Eli_Armour_Compendium.esp
+[2C]     CorpusPraesidium.esp
+[2D]     RaiderOverhaul.esp
+[2E]     CHEF.esp
+[2F]     BetterSettlers.esp
+[30]     RecruitableSettlers.esp
+[31]     W.A.T.Minutemen.esp
+[32]     GhoulBlood.esp
+[33]     Reinforcements.esp
+[34]     MikeMooresMCAM.esp
+[35]     AmazingFollowerTweaks.esp
+[36]     WastelandEnergyShields.esp
+[37]     CombinedArmsNV.esp
+[38]     CombinedArmsEXPack.esp
+[39]     NightstrikerCreatureMod.esp
+[3A]     CheatTerminal.esp
+[3B]     PrivateContract.esp
+[3C]     MilitarizedMinutemen.esp
+[3D]     SovietPowerArmor.esp
+[3E]     DOOMMerged.esp
+[3F]     SkibsWeapons-REDUX.esp
+[40]     Retro_Style_World_Distribution.esp
+[41]     UniqueUniques.esp
+[42]     Freeze.esp
+[43]     MODGirlyAnimation.esp
+[44]     MisriahArmory.esp
+[45]     powerarmort49.esp
+[46]     UltracitePA.esp
+[47]     MREs.esp
+[48]     F4NVServiceRifleRedux.esp
+[49]     Respawnable Legendary Bosses.esp
+[4A]     MK18.esp
+[4B]     Midwest Power Armor Evolution.esp
+[4C]     SubmersiblePowerArmorRedux.esp
+[4D]     FO4TribalPowerArmor.esp
+[4E]     CWCreateABot.esp
+[4F]     llamaCompanionHeatherv2.esp
+[50]     SKKSurvivalUtilities.esp
+[51]     SkyrimInspiredPowerArmor.esp
+[52]     FO4 NPCs Travel.esp
+[53]     RU556.esp
+[54]     AK74M.esp
+[55]     AtomicAnnieLagrieGun.esp
+[56]     DX_Black_Widow.esp
+[57]     T-51C Power Armor.esp
+[58]     AtomicRadio.esp
+[59]     MP7.esp
+[5A]     ChildrenofBunkerHill.esp
+[5B]     ExcavatorPA.esp
+[5C]     HK_MP5.esp
+[5D]     GIAT_FAMAS.esp
+[5E]     9x39Project.esp
+[5F]     M1A.esp
+[60]     Krebs.esp
+[61]     OTs33Pernach.esp
+[62]     SKKCombatStalkers.esp
+[63]     Mosin.esp
+[64]     TinaDeLucaSettlerVoiced.esp
+[65]     Vault-Tec Power Armor by NewerMind43 & Captain-Ultima.esp
+[66]     Liberty_PA.esp
+[67]     InstitutePowerArmor.esp
+[68]     SKKRESystemManager.esp
+[69]     ReconPack.esp
+[6A]     Smoke-able Cigars.esp
+[6B]     VisibleCompanionAffinity.esp
+[6C]     mjp_PTRS41ATR.esp
+[6D]     Synth Overhaul.esp
+[6E]     SKKWorkshopAccessMonitor.esp
+[6F]     SKKCombatSettlers.esp
+[70]     OWR.esp
+[71]     OWR_CraftableDecor_CW_SKEPatch.esp
+[72]     OWR_CraftableDecor_SKEPatch.esp
+[73]     InstituteReformation.esp
+[74]     SKKObjectCounter.esp
+[75]     Easy Lockpick and Harck.esp
+[76]     Ev_CPA10.esp
+[77]     John Wicks Revenge Suit.esp
+[78]     CyberPunk Suit by NewerMind43.esp
+[79]     Reverb and Ambiance Overhaul.esp
+[7A]     Binoculars.esp
+[7B]     PigTwinEagles.esp
+[7C]     Realistic_conversations.esp
+[7D]     CROSS_Cybernetics.esp
+[7E]     EnclaveX02.esp
+[7F]     tank_PA.esp
+[80]     XnjguyFilledMods_AIO.esp
+[81]     Well_Pump.esp
+[82]     PWR.esp
+[83]     IFC Complete.esp
+[84]     MK_Agony.esp
+[85]     LooksMenu Customization Compendium.esp
+[86]     DiverseChildren.esp
+[87]     Orphans.esp
+[88]     DT_GunnerOutfitPack.esp
+[89]     NukaVimRack.esp
+[8A]     Extended weapon mods.esp
+[8B]     10mmRevolver.esp
+[8C]     SKKFeralNights.esp
+[8D]     HoloTime.esp
+[8E]     Better Cooking.esp
+[8F]     Northland Diggers New.esp
+[90]     [ARRETH] FGEP.esp
+[91]     Give Me That Bottle.esp
+[92]     D.E.C.A.Y.esp
+[93]     Guards.esp
+[94]     CF_AtomicWarlord.esp
+[95]     PD_VisualReload.esp
+[96]     Crimsomrider's 1950s Feminine Outfits.esp
+[97]     Better_Settlement_Defence.esp
+[98]     KSHairdos_oel.esp
+[99]     UGO_NPCModule.esp
+[9A]     UGO_PlayerModule.esp
+[9B]     CriticalHitsOutsideofVATS.esp
+[9C]     ChildrenofGoodneighbor.esp
+[9D]     SKKPlayerUndead.esp
+[9E]     Yona_Weapon_DefenseGun.esp
+[9F]     Scopes.esp
+[A0]     ImmersiveVendors.esp
+[A1]     The Eyes Of Beauty.esp
+[A2]     TheEyesOfBeauty.esp
+[A3]     KSHairdos.esp
+[A4]     Mysterious BIG.esp
+[A5]     Raider Overhaul - AE Patch-Restored Content.esp
+[A6]     Weapons of Fate.esp
+[A7]     DarkerNights.esp
+[A8]     Hellfirenew.esp
+[A9]     SKKHandyFarmers.esp
+[AA]     9x39ProjectAWKCR.esp
+[AB]     SKKHackProtectronSettlers.esp
+[AC]     Elysium.esp
+[AD]     ImmersiveFastTravel.esp
+[AE]     NickValentinesDay.esp
+[AF]     AA LMSE_FarHarbor.esp
+[B0]     CompanionStatus.esp
+[B1]     SnapBeds.esp
+[B2]     SKKSettlementAttackSystem.esp
+[B3]     SKKDynamicTimescale.esp
+[B4]     MisriahArmoryExtended.esp
+[FE:000] PPF.esm
+[FE:001] SettlerGearPack.esl
+[FE:002] CROSS_CoA.esl
+[FE:003] CROSS_Wasteland_Ronin.esl
+[FE:004] ConfigurableHotkeys.esl
+[FE:005] Loot Detector.esl
+[FE:006] Geckos.esl
+[FE:007] T65PA.esl
+[FE:008] ClassicMeleePack.esl
+[FE:009] NCRArmourPack.esl
+[FE:00A] Bighorner.esl
+[FE:00B] Cazadors.esl
+[FE:00C] Centaur.esl
+[FE:00D] HellcatPA.esl
+[FE:00E] Mantis.esl
+[FE:00F] CWRadscorpions.esl
+[FE:010] SynthDetector.esl
+[FE:011] OVT.esp
+[FE:012] RagdollCollision.esp
+[FE:013] Immediate Knockdown.esp
+[FE:014] CROSS_VertibirdFlightsuit.esp
+[FE:015] Shatter.esp
+[FE:016] EAMR.esp
+[FE:017] CROSS_2077.esp
+[FE:018] Better Locational Damage - DLC_Far_Harbor.esp
+[FE:019] BLD - Leveled Lists - DLC.esp
+[FE:01A] Meliora - Clothing Redistribution.esp
+[FE:01B] More Armor Slots - All Dlc.esp
+[FE:01C] Fallout4-Anti-Laser+DLC.esp
+[FE:01D] SuperMutantRedux_AE-WSE-VIS-G-Insanity_AIO_Patch.esp
+[FE:01E] AWHD2KFull.esp
+[FE:01F] Look At Me AE.esp
+[FE:020] dD-Enhanced Blood Basic.esp
+[FE:021] Fallout4-Anti-Laser.esp
+[FE:022] Fog Remover II (AIO) Recommended.esp
+[FE:023] AWKCR-R.esp
+[FE:024] LOST Super Mutant Redux Patch.esp
+[FE:025] LOST CHEF Patch.esp
+[FE:026] CHEF - VIS Patch.esp
+[FE:027] Fog Remover II (AIO) - Interior Fog Remover.esp
+[FE:028] LOST Raider Overhaul Patch.esp
+[FE:029] DeadlierDeathclaws_Insanity.esp
+[FE:02A] Better Locational Damage - DLC_Nuka_World.esp
+[FE:02B] WulfRaiderAccessories.esp
+[FE:02C] LOST WATM Patch.esp
+[FE:02D] Better Locational Damage - DLC_Automatron.esp
+[FE:02E] AzarPonytailHairstyles.esp
+[FE:02F] BetterSettlersCleanFacePack.esp
+[FE:030] BetterSettlersCCAPack2.0.esp
+[FE:031] Clothing Of The Commonwealth.esp
+[FE:032] Look At Me RAE.esp
+[FE:033] Keep Radiants In Commonwealth.esp
+[FE:034] SuperMutantRedux_Insanity.esp
+[FE:035] Hard Legendary Giant Creatures.esp
+[FE:036] LOST Skibadaa Pack Patch.esp
+[FE:037] Better Locational Damage - Valdacil's Item Sorting - Patch.esp
+[FE:038] Dank_ECO.esp
+[FE:039] CROSS_MojaveManhunter.esp
+[FE:03A] SRO - Syringer Overhaul.esp
+[FE:03B] SynthPA.esp
+[FE:03C] CagebreakerPowerArmor.esp
+[FE:03D] CoAPowerArmor.esp
+[FE:03E] TacticalReloadDLC.esp
+[FE:03F] HitmanNukaworldAK_TacticalReloadPatch.esp
+[FE:040] CombinedArmsNV_TacticalReloadPatch.esp
+[FE:041] MK18_TacticalReloadPatch.esp
+[FE:042] CROSS_BrotherhoodRecon.esp
+[FE:043] CROSS_InstituteExpeditionarySuit.esp
+[FE:044] CROSS_CourserStrigidae.esp
+[FE:045] Look At Me IE.esp
+[FE:046] Look At Me BE.esp
+[FE:047] LOST Combat Stalkers Patch.esp
+[FE:048] LOST Hellcat PA Patch.esp
+[FE:049] LOST Mosin Patch.esp
+[FE:04A] LOST Vault Tec Patch.esp
+[FE:04B] LOST Ultracite Patch.esp
+[FE:04C] LOST Midwest Evolution Patch.esp
+[FE:04D] LOST Storyteller PA Patch.esp
+[FE:04E] LOST Liberty Patch.esp
+[FE:04F] LOST T51c AirForce Patch.esp
+[FE:050] LOST Institute PA Patch.esp
+[FE:051] LOST MP5 Patch.esp
+[FE:052] HK_MP5_TacticalReloadPatch.esp
+[FE:053] LOST Giat Famas Patch.esp
+[FE:054] GIAT_FAMAS_TacticalReloadPatch.esp
+[FE:055] LOST 9x39 Patch.esp
+[FE:056] 9x39Project_TacticalReloadPatch.esp
+[FE:057] LOST KREBS Patch.esp
+[FE:058] Krebs_TacticalReloadPatch.esp
+[FE:059] LOST OTs-33 Patch.esp
+[FE:05A] OTs33Pernach_TacticalReloadPatch.esp
+[FE:05B] LOST Random Encounter Patch.esp
+[FE:05C] LOST Recon Pack Patch.esp
+[FE:05D] ReconPack_TacticalReloadPatch.esp
+[FE:05E] LOST Ronin Patch.esp
+[FE:05F] LOST SCDO Patch.esp
+[FE:060] jDS__HP_Skull_Mask.esp
+[FE:061] LOST Skull Mask Patch.esp
+[FE:062] LOST Smokeable Cigars Patch.esp
+[FE:063] LOST True Storms Patch.esp
+[FE:064] LOST Visible Companion Affinity Patch.esp
+[FE:065] LOST Workshop Framework Patch.esp
+[FE:066] LOST CROSS 2077 Patch.esp
+[FE:067] LOST See Through Scopes Patch.esp
+[FE:068] LOST Eyewear and Mask Patch.esp
+[FE:069] Unique NPCs - Creatures and Monsters - AE & VIS-G Patch.esp
+[FE:06A] LOST Unique Creatures Patch.esp
+[FE:06B] LOST Unique NPCs Patch.esp
+[FE:06C] LOST Deadlier Deathclaws Patch.esp
+[FE:06D] TheKite_Railroad_Handmaiden.esp
+[FE:06E] Look At Me RE.esp
+[FE:06F] LOST Handmaiden Patch.esp
+[FE:070] LOST Raider Accessories Patch.esp
+[FE:071] LOST More Ghouls Patch.esp
+[FE:072] LOST Settler Vigilante PA Patch.esp
+[FE:073] SuperMutantRedux_WeaponsmithExtended_Patch.esp
+[FE:074] LOST Modular Simonov Patch.esp
+[FE:075] LOST Amazing Follower Patch.esp
+[FE:076] LOST Synth Overhaul Patch.esp
+[FE:077] LOST Cheat Terminal Patch.esp
+[FE:078] LOST Syringer Overhaul Patch.esp
+[FE:079] LOST Militarized BLUE Patch.esp
+[FE:07A] LOST DOOM Merged Patch.esp
+[FE:07B] LOST MREs Patch.esp
+[FE:07C] LOST Manhunter Patch.esp
+[FE:07D] LOST Service Rifle Patch.esp
+[FE:07E] LOST Tribal PA Patch.esp
+[FE:07F] LOST SKK Survival Util Patch.esp
+[FE:080] LOST TES-51 Patch.esp
+[FE:081] Meliora - Clothing Redistribution x BLD.esp
+[FE:082] LOST NPC Travel Patch.esp
+[FE:083] LOST RU556 Patch.esp
+[FE:084] LOST AK74M Patch.esp
+[FE:085] LOST Black Widow Armor Patch.esp
+[FE:086] LOST MP7 Patch.esp
+[FE:087] MP7_TacticalReloadPatch.esp
+[FE:088] LOST Combat Settlers Patch.esp
+[FE:089] LOST Children Atom PA Patch.esp
+[FE:08A] LOST Excavator Patch.esp
+[FE:08B] LOST Old World Radio Patch.esp
+[FE:08C] LOST Springfield M1A Patch.esp
+[FE:08D] M1A_TacticalReloadPatch.esp
+[FE:08E] Interview.esp
+[FE:08F] OWR_CraftableDecor.esp
+[FE:090] OWR_CraftableDecor_CW.esp
+[FE:091] BetterSettlersNoLollygagging.esp
+[FE:092] TransferSettlements.esp
+[FE:093] Nexus_PMC.esp
+[FE:094] Look At Me GNR RDX.esp
+[FE:095] LOST PMC Patch.esp
+[FE:096] PMC_extended.esp
+[FE:097] LOST PMC Extended Patch.esp
+[FE:098] Elvani's Track Pack - FIX.esp
+[FE:099] LOST PreWar Binoculars Patch.esp
+[FE:09A] IcebreakerCDO-Settlements.esp
+[FE:09B] Realistic_conversations - More_NPCs.esp
+[FE:09C] K9TacticalHarness.esp
+[FE:09D] LOST K9 Harness Patch.esp
+[FE:09E] LOST Cybernetics Patch.esp
+[FE:09F] LOST Enclave X02 Patch.esp
+[FE:0A0] combat_PA.esp
+[FE:0A1] tumbajamba Advanced Engineering.esp
+[FE:0A2] combat_PA - tAE - AWKCR.esp
+[FE:0A3] tank_PA - tAE - AWKCR.esp
+[FE:0A4] strong_PA.esp
+[FE:0A5] strong_PA - tAE - AWKCR.esp
+[FE:0A6] GunnerOverhaul_UniqueNPCs.esp
+[FE:0A7] Unique NPCs_SpecialSettlers_All.esp
+[FE:0A8] LightsDontCastShadows.esp
+[FE:0A9] More Realistic Knockdown.esp
+[FE:0AA] CMPA +300.esp
+[FE:0AB] FoodGenerators.esp
+[FE:0AC] RadiantBirdsv05.esp
+[FE:0AD] HappyMaker.esp
+[FE:0AE] WET.esp
+[FE:0AF] DD_bleu_Ump_Extreme_Lore_friendly_edition.esp
+[FE:0B0] Unique NPCs - Creatures and Monsters - NonLore.esp
+[FE:0B1] pipes_be_gone.esp
+[FE:0B2] More Power Armour Mods.esp
+[FE:0B3] LegendaryModification.esp
+[FE:0B4] wastelandwoundcare.esp
+[FE:0B5] Live Dismemberment - BrutalNoHeadshots.esp
+[FE:0B6] Live Dismemberment - LiebermodeNoHeadshots.esp
+[FE:0B7] Live Dismemberment - RegularNoHeadshots.esp
+[FE:0B8] Realistic Crippled Limbs Effects No Autoheal.esp
+[FE:0B9] DiscreteFemaleSkeleton.esp
+[FE:0BA] Unique NPCs FarHarbor.esp
+[FE:0BB] Unique NPCs Essential Pack.esp
+[FE:0BC] BetterSettlersMostlyFemale.esp
+[FE:0BD] Synth Overhaul - No level requirements Patch.esp
+[FE:0BE] Dank_ECO-INNR.esp
+[FE:0BF] Dank_ECO_DLCCoast.esp
+[FE:0C0] Dank_ECO_DLCNukaWorld.esp
+[FE:0C1] Dank_ECO_DLCRobot.esp
+[FE:0C2] Eli Armor Compendium AE VIS Patch.esp
+[FE:0C3] LOST Eli Compendium Patch.esp
+[FE:0C4] llamaCompanionHeatherV2-VIS-AE Patch.esp
+[FE:0C5] Look At Me TE.esp
+[FE:0C6] LOST Institute Expeditionary Patch.esp
+[FE:0C7] Look At Me NE.esp
+[FE:0C8] EV_CPA10_LL.esp
+[FE:0C9] Look At Me GNR RDX x PMC Extended.esp
+[FE:0CA] WES-AE.esp
+[FE:0CB] WES-VIS.esp
+[FE:0CC] LOST Gunner Outfit Pack Patch.esp
+[FE:0CD] Unique NPCs - Creatures and Monsters_SMR_AE.esp
+[FE:0CE] Nuka-Cola Flavors for the Commonwealth.esp
+[FE:0CF] Crimsomrider's Convenient Resources.esp
+[FE:0D0] ASVektor.esp
+[FE:0D1] BattleRifle.esp
+[FE:0D2] TacticalReloadVanilla.esp
+[FE:0D3] HitmanHuntingRifle_TacticalReloadPatch.esp
+[FE:0D4] WD10mm_TacticalReloadPatch.esp
+[FE:0D5] WDSubmachineGun_TacticalReloadPatch.esp
+[FE:0D6] BetterGenerators.esp
+[FE:0D7] More Durable Power Armor - 90%.esp
+[FE:0D8] TurretStands.esp
+[FE:0D9] SuperMutantRedux VIS Patch.esp
+[FE:0DA] BLD_Agony_Patch.esp
+[FE:0DB] MK_Agony_VIS Patch.esp
+[FE:0DC] Better Chems - Valdacils Item Sorting.esp
+[FE:0DD] CHEF - WastelandImports Patch.esp
+[FE:0DE] Glowing Animals Emit Light.esp
+[FE:0DF] Better Locational Damage - DLC_WWorkshop.esp
+[FE:0E0] Better Locational Damage - Ghoul Edition.esp
+[FE:0E1] Better Locational Damage_ Raider Overhaul_Valdacil_Patch.esp
+[FE:0E2] Better Perks.esp
+[FE:0E3] BLD - AI Tweaks.esp
+[FE:0E4] LOST FGEP Patch.esp
+[FE:0E5] CHEF - WI - VIS Patch.esp
+[FE:0E6] 4estGimp - FGEP_TankTweakFix.esp
+[FE:0E7] LOST DECAY Patch.esp
+[FE:0E8] [ARRETH] FGEP - DECAY Patch.esp
+[FE:0E9] [ARRETH] FGEP SKK Feral Nights Patch.esp
+[FE:0EA] [ARRETH] NoExploderKnowckdown.esp
+[FE:0EB] ImmersiveAnimationFramework.esp
+[FE:0EC] LOST IAF Patch.esp
+[FE:0ED] IAF - Far Harbor & Nuka World.esp
+[FE:0EE] LOST Church of Atom Patch.esp
+[FE:0EF] Realistic Death Physics - ALL DLC.esp
+[FE:0F0] BLD_Nightstriker.esp
+[FE:0F1] Faster Terminal Displays (20x).esp
+[FE:0F2] ShellRain.esp
+[FE:0F3] Child Posters.esp
+[FE:0F4] KSHairdos_oel for Kids.esp
+[FE:0F5] PA-Quick Animations.esp
+[FE:0F6] UGO_1HSupport.esp
+[FE:0F7] CGOsoundsplugin.esp
+[FE:0F8] BetterSettlersMortalSoldiersPack.esp
+[FE:0F9] Unique_NPCs_SuperMutantRedux.esp
+[FE:0FA] Bufandmyst.esp
+[FE:0FB] Yona_Weapon_DefenseGun_TacticalReloadPatch.esp
+[FE:0FC] SimpleFinishersRE.esp
+[FE:0FD] Arbitration - Automatron AI.esp
+[FE:0FE] Lots More Facial Hair.esp
+[FE:0FF] BrighterSettlementLights_ExtraBrightv1.1.esp
+[FE:100] Larger Spotlight.esp
+[FE:101] SpotlightFix-300-Shadow.esp
+[FE:102] Lots More Female Hairstyles.esp
+[FE:103] WastelandFashionAccessories.esp
+[FE:104] Lots More Male Hairstyles.esp
+[FE:105] Quieter Settlements - Contraptions.esp
+[FE:106] Quieter Settlements - Vanilla.esp
+[FE:107] Quieter Settlements - Wasteland Workshop.esp
+[FE:108] HalfAffinityCooldown.esp
+[FE:109] NoNegativeAffinity.esp
+[FE:10A] Insignificant Object Remover.esp
+[FE:10B] More Where That Came From Diamond City.esp
+[FE:10C] AnS Wearable Backpacks and Pouches.esp
+[FE:10D] LOST Backpacks and Pouches Patch.esp
+[FE:10E] AnS Wearable Backpacks and Pouches - Ballistic Weave.esp
+[FE:10F] AnS Wearable Backpacks and Pouches - No Crafting Perks.esp
+[FE:110] AnS Wearable Backpacks and Pouches - Power Armor Carry Capacity.esp
+[FE:111] TrueStormsFO4-EarlierSunsets.esp
+[FE:112] TrueStormsFO4-FarHarbor.esp
+[FE:113] TrueStormsFO4-NukaWorld-FH-Compat.esp
+[FE:114] TrueStormsFO4-EarlierSunsetsFH.esp
+[FE:115] TrueStormsFO4-FarHarborExtraRads.esp
+[FE:116] TrueStormsFO4-GlowingSeaExtraRads.esp
+[FE:117] dD - Screen Blood Duration Long.esp
+[FE:118] MortalYouths.esp
+[FE:119] Loads of Ammo - Leveled Lists.esp
+[FE:11A] DV-Very Durable Vertibirds.esp
+[FE:11B] MegaExplosions_x2.esp
+[FE:11C] LOST Courser Strigidae Patch.esp
+[FE:11D] SuperMutantRedux_VIS-G_Patch.esp
+[FE:11E] BLD_Armor_Overhaul.esp
+[FE:11F] SuperMutantRedux_ArmorSmithExtended.esp
+[FE:120] CompRedo.esp
+[FE:121] Burst Impact Blast FX.esp
+[FE:122] Weapons of Fate - Reduced Bullet Speed.esp
+[FE:123] LOST Campsite Patch.esp
+[FE:124] Crossbow.esp
+[FE:125] LOST Crossbow Patch.esp
+[FE:126] BetterNightVision.esp
+[FE:127] Radiant Clouds and Fogs.esp
+[FE:128] DarkerNightsDetection.esp
+[FE:129] LegendaryModification2LM.esp
+[FE:12A] LegendaryModification2LMAKPatch.esp
+[FE:12B] LegendaryModificationCSA.esp
+[FE:12C] LegendaryModificationGroknak.esp
+[FE:12D] LegendaryModificationMisc.esp
+[FE:12E] LooksMenu.esp
+[FE:12F] CBBE.esp
+[FE:130] LongerPowerLines3x.esp
+[FE:131] Pip-Boy Flashlight.esp
+[FE:132] X-02 PipboyLight Patch.esp
+[FE:133] M14.esp
+[FE:134] M2216.esp
+[FE:135] LOST Hellfire X03 Patch.esp
+[FE:136] OWR_SKEPatch.esp
+[FE:137] OWR_noclutter.esp
+[FE:138] RAO - OWR patch.esp
+[FE:139] LOST Elysium Patch.esp
+[FE:13A] Agony_IAF_Patch.esp
+[FE:13B] Northland Diggers.esp
+[FE:13C] IFT_Automatron.esp
+[FE:13D] IFT_NoFuel.esp
+[FE:13E] IFT_NoQuest.esp
+[FE:13F] IFT_Worker.esp
+[FE:140] ValdacilsItemSorting - Smoke-able Cigars TAGS.esp
+[FE:141] LOST Companion Status Patch.esp
+[FE:142] CompanionStatus-Settings.esp
+[FE:143] MK_Agony_Unofficial_Patch.esp
+[FE:144] PRP.esp
+[FE:145] WorkshopFramework_ScriptOverride.esp

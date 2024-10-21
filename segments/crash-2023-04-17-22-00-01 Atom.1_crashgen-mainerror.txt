@@ -1,0 +1,4 @@
+Buffout 4 v1.31.1 Feb 28 2023 00:32:02
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF609A231EA Fallout4.exe+26E31EA	mov eax, [rdx+0x10] 
+  BSScript::ObjectBindPolicy::AddBoundInfo(unsigned___int64,BSScrapArray<BSTSmartPointer<BSScript::BoundScript,BSTSmartPointerIntrusiveRefCount>>&)_26E31EA)

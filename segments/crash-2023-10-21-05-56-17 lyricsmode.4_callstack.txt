@@ -1,0 +1,1179 @@
+[0] 0x7FFAE5B85CE2   Buffout4.dll+0085CE2
+[1] 0x7FFAE5B79E7F   Buffout4.dll+0079E7F
+[2] 0x7FFAE5B834F5   Buffout4.dll+00834F5
+[3] 0x7FFB34F5DD31 KERNELBASE.dll+014DD31
+[4] 0x7FFB375EAD6C      ntdll.dll+00AAD6C
+[5] 0x7FFB375D3CC6      ntdll.dll+0093CC6
+[6] 0x7FFB375E8CDF      ntdll.dll+00A8CDF
+[7] 0x7FFB37575BEA      ntdll.dll+0035BEA
+[8] 0x7FFB375E7CCE      ntdll.dll+00A7CCE
+
+REGISTERS:
+RBX 0x0                (size_t)
+RDI 0x2341877BE00      (void*)
+R11 0xD77B36DDF0       (void*)
+R15 0x2338F97B820      (char*) "<],"
+
+STACK:
+[RSP+0   ] 0x7FF6606654F0     (void* -> Fallout4.exe+02F54F0)
+[RSP+18  ] 0x234175F1B80      (NiNode*)
+Name: "AA_Leather_Torso_1_Lite (0007B9C8)[0]/Armor_Leather_Torso (0007B9C6)"
+[RSP+30  ] 0x7FF660663F91     (void* -> Fallout4.exe+02F3F91)
+[RSP+50  ] 0x2341E63A060      (BSConnectPoint::Parents*)
+[RSP+70  ] 0x7FF66066542C     (void* -> Fallout4.exe+02F542C)
+[RSP+80  ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+88  ] 0x234175F1B80      (NiNode*)
+Name: "AA_Leather_Torso_1_Lite (0007B9C8)[0]/Armor_Leather_Torso (0007B9C6)"
+[RSP+A8  ] 0x2338F979DA8      (void*)
+[RSP+B0  ] 0x7FF6606639A6     (void* -> Fallout4.exe+02F39A6)
+[RSP+C8  ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+D8  ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+E0  ] 0x7FF66052E2CB     (void* -> Fallout4.exe+01BE2CB)
+[RSP+100 ] 0x2338F979DA8      (void*)
+[RSP+120 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+140 ] 0xCE4277DF00000012 (size_t)
+[RSP+148 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+168 ] 0x0                (size_t)
+[RSP+180 ] 0x7FF665E2D8F0     (GameVM*)
+[RSP+188 ] 0x233EB01AB40      (BGSRefAlias*)
+[RSP+190 ] 0x2344D5BAD10      (char*) "e"
+[RSP+1A8 ] 0x7FF665E2DAD0     (GameScript::HandlePolicy*)
+[RSP+1C8 ] 0x2338F979DA8      (void*)
+[RSP+1E8 ] 0x23360DAE6F0      (BGSModelMaterialSwap*)
+[RSP+1F0 ] 0x7FF66052E578     (void* -> Fallout4.exe+01BE578)
+[RSP+200 ] 0x7FF661E80900     (void* -> Fallout4.exe+1B10900)
+[RSP+220 ] 0x23360DAE6A0      (TESObjectARMA*)
+File: "Dank_ArmorOverrides.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C8
+Form Type: 105
+[RSP+228 ] 0x2335F17C130      (TESNPC*)
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+Full Name: "Slim"
+[RSP+230 ] 0x7FF66052EAB6     (void* -> Fallout4.exe+01BEAB6)
+[RSP+238 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+250 ] 0x23360DAE6F0      (BGSModelMaterialSwap*)
+[RSP+258 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+260 ] 0x2335F17C130      (TESNPC*)
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+Full Name: "Slim"
+[RSP+280 ] 0x7FF661E8093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+288 ] 0x2344D5BAC70      (ScrapHeap*)
+[RSP+290 ] 0x7FF661E84913     (void* -> Fallout4.exe+1B14913)
+[RSP+2B0 ] 0x233E1E704D8      (void*)
+[RSP+2B8 ] 0x23360DAE6A0      (TESObjectARMA*)
+File: "Dank_ArmorOverrides.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C8
+Form Type: 105
+[RSP+2C0 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+2C8 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+2D0 ] 0x7FF66069EF7F     (void* -> Fallout4.exe+032EF7F)
+[RSP+2F0 ] 0x23360DAE6F0      (BGSModelMaterialSwap*)
+[RSP+310 ] 0x1                (size_t)
+[RSP+330 ] 0x233E1E704D8      (void*)
+[RSP+340 ] 0x7FF6606A2B69     (void* -> Fallout4.exe+0332B69)
+[RSP+348 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+368 ] 0x233E1E704D8      (void*)
+[RSP+370 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+378 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+398 ] 0x2335F17C130      (TESNPC*)
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+Full Name: "Slim"
+[RSP+3A0 ] 0x7FF6609293A6     (void* -> Fallout4.exe+05B93A6)
+[RSP+3B0 ] 0x2335EC1D910      (TESRace*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x000EAFB6
+Form Type: 17
+Full Name: "Ghoul"
+[RSP+3D0 ] 0x23412DE0370      (TESObjectARMO::InstanceData*)
+[RSP+3E0 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+3E8 ] 0x23412DE0370      (TESObjectARMO::InstanceData*)
+[RSP+400 ] 0x7FF660513400     (void* -> Fallout4.exe+01A3400)
+[RSP+410 ] 0x7FF6611312B7     (void* -> Fallout4.exe+0DC12B7)
+[RSP+418 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+438 ] 0x1                (size_t)
+[RSP+440 ] 0x7FF661130CF7     (void* -> Fallout4.exe+0DC0CF7)
+[RSP+460 ] 0xFFFFFFFF         (size_t)
+[RSP+470 ] 0x7FF663435A00     (void* -> Fallout4.exe+30C5A00)
+[RSP+480 ] 0x7FF661E8093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+488 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+498 ] 0x7FF663A3B140     (type_info*)
+[RSP+4A8 ] 0x23400000020      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x000D9B88
+Form Type: 36
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00000408
+Form ID: 0x2A003963
+Form Type: 64
+[RSP+4C0 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+4D0 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+4D8 ] 0x23412DE0370      (TESObjectARMO::InstanceData*)
+[RSP+4E0 ] 0x7FF660408FDB     (void* -> Fallout4.exe+0098FDB)
+[RSP+4E8 ] 0x2335EDD7DC0      (TESObjectARMO*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x000EAFB8
+Form Type: 29
+Full Name: ""
+[RSP+508 ] 0x23412BC7A40      (void*)
+[RSP+510 ] 0x7FF66118876F     (void* -> Fallout4.exe+0E1876F)
+[RSP+528 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+530 ] 0x23412DE0370      (TESObjectARMO::InstanceData*)
+[RSP+538 ] 0x23400000000      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x000D9B88
+Form Type: 36
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00000408
+Form ID: 0x2A003963
+Form Type: 64
+[RSP+540 ] 0x233E1F84C80      (ActorValueInfo*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x000002E3
+Form Type: 98
+Full Name: "Damage Resistance"
+[RSP+548 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+550 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+558 ] 0x23412BC7838      (BGSInventoryItem::Stack*)
+[RSP+578 ] 0x65               (size_t)
+[RSP+590 ] 0x7FF66112F241     (void* -> Fallout4.exe+0DBF241)
+[RSP+5A0 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+5C0 ] 0x7FF600000000     (size_t)
+[RSP+5E0 ] 0x0                (size_t)
+[RSP+5F0 ] 0x23412BC7838      (BGSInventoryItem::Stack*)
+[RSP+5F8 ] 0x2335EDE40C0      (TESObjectARMO*)
+File: "StoryWealth-SorterAddOn.esp"
+Flags: 0x00000009
+Form ID: 0x000A36C0
+Form Type: 29
+Full Name: "[Hat] Trilby Hat"
+[RSP+600 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+608 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+610 ] 0x7FF661EB2FE8     (void* -> Fallout4.exe+1B42FE8)
+[RSP+630 ] 0x7FF6611DA945     (void* -> Fallout4.exe+0E6A945)
+[RSP+650 ] 0x0                (size_t)
+[RSP+658 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+660 ] 0x7FF661127E9E     (void* -> Fallout4.exe+0DB7E9E)
+[RSP+670 ] 0x7FF66119C133     (void* -> Fallout4.exe+0E2C133)
+[RSP+690 ] 0x42A02E1400000000 (size_t)
+[RSP+6B0 ] 0x7FF660A83C48     (void* -> Fallout4.exe+0713C48)
+[RSP+6B8 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+6D8 ] 0x0                (size_t)
+[RSP+6F8 ] 0x0                (size_t)
+[RSP+710 ] 0x7FF661170811     (void* -> Fallout4.exe+0E00811)
+[RSP+718 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+730 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+750 ] 0x7FF6FFFFFFFF     (size_t)
+[RSP+760 ] 0x7FF6603944E3     (void* -> Fallout4.exe+00244E3)
+[RSP+780 ] 0x7FF665E238D0     (void* -> Fallout4.exe+5AB38D0)
+[RSP+790 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+7A0 ] 0x7FF66118D70C     (void* -> Fallout4.exe+0E1D70C)
+[RSP+7C0 ] 0x2335EDE9701      (void*)
+[RSP+7D0 ] 0x7FF66118EFFB     (void* -> Fallout4.exe+0E1EFFB)
+[RSP+7E0 ] 0x23412BFBE28      (BGSInventoryItem::Stack*)
+[RSP+7F0 ] 0x2335EDE40C0      (TESObjectARMO*)
+File: "StoryWealth-SorterAddOn.esp"
+Flags: 0x00000009
+Form ID: 0x000A36C0
+Form Type: 29
+Full Name: "[Hat] Trilby Hat"
+[RSP+810 ] 0x0                (size_t)
+[RSP+830 ] 0x7FF661170811     (void* -> Fallout4.exe+0E00811)
+[RSP+838 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+858 ] 0x0                (size_t)
+[RSP+878 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+880 ] 0x7FF661629863     (void* -> Fallout4.exe+12B9863)
+[RSP+890 ] 0x7FF6604B1358     (void* -> Fallout4.exe+0141358)
+[RSP+898 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+8A0 ] 0x23412DE0370      (TESObjectARMO::InstanceData*)
+[RSP+8A8 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+8B0 ] 0x23412DE0370      (TESObjectARMO::InstanceData*)
+[RSP+8C0 ] 0x7FF665E238D0     (void* -> Fallout4.exe+5AB38D0)
+[RSP+8E0 ] 0x234195ACF00      (void*)
+[RSP+900 ] 0x7FF66118BE6B     (void* -> Fallout4.exe+0E1BE6B)
+[RSP+908 ] 0x7FF665E238D0     (void* -> Fallout4.exe+5AB38D0)
+[RSP+910 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+928 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+930 ] 0x23412DE0370      (TESObjectARMO::InstanceData*)
+[RSP+938 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+940 ] 0x23412DE0370      (TESObjectARMO::InstanceData*)
+[RSP+948 ] 0x7FF663C3C980     (void* -> Fallout4.exe+38CC980)
+[RSP+968 ] 0x0                (size_t)
+[RSP+988 ] 0xD77B36E7D8       (void*)
+[RSP+990 ] 0x7FF661E8093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+998 ] 0x2335EDE40C0      (TESObjectARMO*)
+File: "StoryWealth-SorterAddOn.esp"
+Flags: 0x00000009
+Form ID: 0x000A36C0
+Form Type: 29
+Full Name: "[Hat] Trilby Hat"
+[RSP+9A0 ] 0x7FF660667B8A     (void* -> Fallout4.exe+02F7B8A)
+[RSP+9A8 ] 0xD77B36E7D0       (EquipActorOutfitItemsFunctor*)
+[RSP+9C0 ] 0xD77B36E7D0       (EquipActorOutfitItemsFunctor*)
+[RSP+9C8 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+9D0 ] 0x7FF661155F20     (void* -> Fallout4.exe+0DE5F20)
+[RSP+9D8 ] 0xD77B36E7D0       (EquipActorOutfitItemsFunctor*)
+[RSP+9E0 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+A00 ] 0x0                (size_t)
+[RSP+A10 ] 0x7FF661148200     (void* -> Fallout4.exe+0DD8200)
+[RSP+A18 ] 0x7FF662FB9600     (void* -> Fallout4.exe+2C49600)
+[RSP+A38 ] 0x2335EDE97C0      (TESObjectARMO*)
+File: "StoryWealth-eXoSorterPatch.esp"
+Flags: 0x00000009
+Form ID: 0x0007B9C6
+Form Type: 29
+Full Name: "[LeatherTorso] Leather Chest Piece"
+[RSP+A50 ] 0x7FF66078D42B     (void* -> Fallout4.exe+041D42B)
+[RSP+A60 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+A80 ] 0x7FF661130450     (void* -> Fallout4.exe+0DC0450)
+[RSP+A90 ] 0x233EBA39C70      (BGSOutfit*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x0015DCE3
+Form Type: 128
+[RSP+AA0 ] 0x7FF6603944E3     (void* -> Fallout4.exe+00244E3)
+[RSP+AB0 ] 0x7FF66076AEEA     (void* -> Fallout4.exe+03FAEEA)
+[RSP+AB8 ] 0x7FF6630B0D80     (void* -> Fallout4.exe+2D40D80)
+[RSP+AD8 ] 0x15DCE300000001   (size_t)
+[RSP+AE0 ] 0x2335EE44BB0      (TESObjectWEAP*)
+File: "StoryWealth-CPLX-Sorter-WithWeight.esp"
+Flags: 0x40000009
+Form ID: 0x0010C3C6
+Form Type: 43
+Full Name: "[Molotov] Molotov Cocktail"
+[RSP+AE8 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+AF0 ] 0x7FF66079EFA0     (void* -> Fallout4.exe+042EFA0)
+[RSP+B00 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+B08 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+B10 ] 0x2335F17C130      (TESNPC*)
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+Full Name: "Slim"
+[RSP+B18 ] 0xD77B36E940       (BSTArrayAllocatorFunctor<BSScrapArrayAllocator>*)
+[RSP+B20 ] 0x7FF66112AB6C     (void* -> Fallout4.exe+0DBAB6C)
+[RSP+B30 ] 0x233EBA39C70      (BGSOutfit*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x0015DCE3
+Form Type: 128
+[RSP+B50 ] 0x23300000000      (void*)
+[RSP+B70 ] 0x445D4EA000000000 (size_t)
+[RSP+B90 ] 0x23300000000      (void*)
+[RSP+BB0 ] 0x7FF600000000     (size_t)
+[RSP+BB8 ] 0x7FF662FB96C8     (void* -> Fallout4.exe+2C496C8)
+[RSP+BD8 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+BE8 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+BF0 ] 0xD77B36E7D0       (EquipActorOutfitItemsFunctor*)
+[RSP+BF8 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+C08 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+C18 ] 0x2340F749DD0      (MovementControllerNPC*)
+[RSP+C28 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+C38 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+C48 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+C58 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+C78 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+C88 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+C98 ] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+CA8 ] 0x7FF66339EF78     (void* -> Fallout4.exe+302EF78)
+[RSP+CB0 ] 0x7FF6630B79AC     (void* -> Fallout4.exe+2D479AC)
+[RSP+CB8 ] 0x7FF6630B79AC     (void* -> Fallout4.exe+2D479AC)
+[RSP+CC8 ] 0x7FF66339EF78     (void* -> Fallout4.exe+302EF78)
+[RSP+CD0 ] 0x7FF665E24A18     (void* -> Fallout4.exe+5AB4A18)
+[RSP+CD8 ] 0x7FF665E24A19     (void* -> Fallout4.exe+5AB4A19)
+[RSP+CF0 ] 0x7FF661E8EDF6     (void* -> Fallout4.exe+1B1EDF6)
+[RSP+D10 ] 0x7FF661EB2FE8     (void* -> Fallout4.exe+1B42FE8)
+[RSP+D30 ] 0x7FFB126E6529     (void* -> MSVCR110.dll+0036529)
+[RSP+D38 ] 0x233EE471710      (MovementHandlerAgentStandard*)
+[RSP+D40 ] 0x2340F749E18      (char*) ","
+[RSP+D60 ] 0x7FF661E8C503     (void* -> Fallout4.exe+1B1C503)
+[RSP+D68 ] 0x7FF665EC9900     (BSSmallBlockAllocator*)
+[RSP+D70 ] 0x7FF661E7F0B4     (void* -> Fallout4.exe+1B0F0B4)
+[RSP+D78 ] 0x2344D5BAC70      (ScrapHeap*)
+[RSP+D80 ] 0x7FF661E84913     (void* -> Fallout4.exe+1B14913)
+[RSP+DA0 ] 0x7FF665E23E01     (void* -> Fallout4.exe+5AB3E01)
+[RSP+DB0 ] 0x7FF661E8093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+DC8 ] 0x2344D5BAC70      (ScrapHeap*)
+[RSP+DD8 ] 0x2335F17C130      (TESNPC*)
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+Full Name: "Slim"
+[RSP+DE8 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+DF8 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+E00 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+E10 ] 0x7FF660928EA0     (void* -> Fallout4.exe+05B8EA0)
+[RSP+E18 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+E30 ] 0x7FF665C51401     (void* -> Fallout4.exe+58E1401)
+[RSP+E38 ] 0x2344D5BAD10      (char*) "e"
+[RSP+E40 ] 0x2335F17C130      (TESNPC*)
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+Full Name: "Slim"
+[RSP+E50 ] 0x7FF6604563A2     (void* -> Fallout4.exe+00E63A2)
+[RSP+E58 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+E60 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+E80 ] 0x0                (size_t)
+[RSP+E90 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+E98 ] 0x2344D5BAD10      (char*) "e"
+[RSP+EB8 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+EC8 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+ED0 ] 0x7FF660455E63     (void* -> Fallout4.exe+00E5E63)
+[RSP+EE0 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+EF0 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+EF8 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+F00 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+F10 ] 0x7FF665C41B88     (char*) "<Z"
+[RSP+F28 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+F30 ] 0x7FF6620189AF     (void* -> Fallout4.exe+1CA89AF)
+[RSP+F50 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+F58 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+F60 ] 0x7FF662017D82     (void* -> Fallout4.exe+1CA7D82)
+[RSP+F68 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+F70 ] 0x7FF665C41B30     (void* -> Fallout4.exe+58D1B30)
+[RSP+F78 ] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+F88 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+F90 ] 0x7FF660454151     (void* -> Fallout4.exe+00E4151)
+[RSP+F98 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+FB0 ] 0x7FF665C41B88     (char*) "<Z"
+[RSP+FD0 ] 0x233786C1B90      (QueuedCharacter*)
+[RSP+FF0 ] 0x7FF6612799FA     (void* -> Fallout4.exe+0F099FA)
+[RSP+1010] 0x233E1E700B0      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x0015DCE2
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x0015DCE1
+Form Type: 65
+[RSP+1030] 0x7FF660777EFF     (void* -> Fallout4.exe+0407EFF)
+[RSP+1038] 0x7FF665C41B20     (void* -> Fallout4.exe+58D1B20)
+[RSP+1040] 0x7FF665C41B20     (void* -> Fallout4.exe+58D1B20)
+[RSP+1060] 0xD77B36EE28       (void*)
+[RSP+1070] 0x7FF661E81325     (void* -> Fallout4.exe+1B11325)
+[RSP+1090] 0xD77B36EE00       (void*)
+[RSP+1098] 0x233FCABBEF0      (TESObjectCELL*)
+File: "LootableCars-Exiguous.esp"
+Flags: 0x0004000B
+Form ID: 0x0000E114
+Form Type: 63
+Full Name: ""
+[RSP+10A0] 0x7FF66072980F     (void* -> Fallout4.exe+03B980F)
+[RSP+10A8] 0x234158EAE70      (BSMultiBoundNode*)
+Name: ""
+[RSP+10C8] 0x7FF662FB96C8     (void* -> Fallout4.exe+2C496C8)
+[RSP+10D8] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+10E8] 0x2344D5BAC70      (ScrapHeap*)
+[RSP+1108] 0x0                (size_t)
+[RSP+1120] 0x234158EAE70      (BSMultiBoundNode*)
+Name: ""
+[RSP+1130] 0x7FF660729A68     (void* -> Fallout4.exe+03B9A68)
+[RSP+1138] 0x233FCABBEF0      (TESObjectCELL*)
+File: "LootableCars-Exiguous.esp"
+Flags: 0x0004000B
+Form ID: 0x0000E114
+Form Type: 63
+Full Name: ""
+[RSP+1140] 0x233FCABBEF0      (TESObjectCELL*)
+File: "LootableCars-Exiguous.esp"
+Flags: 0x0004000B
+Form ID: 0x0000E114
+Form Type: 63
+Full Name: ""
+[RSP+1160] 0x0                (size_t)
+[RSP+1180] 0x233E652A3A8      (TES*)
+[RSP+1188] 0x233FCABBEF0      (TESObjectCELL*)
+File: "LootableCars-Exiguous.esp"
+Flags: 0x0004000B
+Form ID: 0x0000E114
+Form Type: 63
+Full Name: ""
+[RSP+11A0] 0x7FF66047002B     (void* -> Fallout4.exe+010002B)
+[RSP+11C0] 0x0                (size_t)
+[RSP+11E0] 0x1                (size_t)
+[RSP+11F0] 0x7FF6603D697A     (void* -> Fallout4.exe+006697A)
+[RSP+1200] 0x7FF660542810     (void* -> Fallout4.exe+01D2810)
+[RSP+1218] 0x233E652A3A8      (TES*)
+[RSP+1238] 0xFFFFFFFF         (size_t)
+[RSP+1258] 0x233E652A3A8      (TES*)
+[RSP+1260] 0x7FF6604660DA     (void* -> Fallout4.exe+00F60DA)
+[RSP+1268] 0x233E652A301      (char*) "out of here. My uptight brother drives me nuts sometimes, but family sticks together, through thick and thin. We've got a lot of work to do, I need a cup of coffee."
+[RSP+1288] 0x4075BE43         (size_t)
+[RSP+12A8] 0x0                (size_t)
+[RSP+12C8] 0x233E652A3A8      (TES*)
+[RSP+12D0] 0x7FF660465D06     (void* -> Fallout4.exe+00F5D06)
+[RSP+12F0] 0x2334A4C0330      (hknpBSWorld*)
+[RSP+12F8] 0x233E0EEB820      (ShadowSceneNode*)
+Name: "shadow scene node"
+[RSP+1300] 0x233E652A3A8      (TES*)
+[RSP+1310] 0x2334A9FA620      (PlayerCharacter*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00440448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+1330] 0xD77B36F130       (void*)
+[RSP+1340] 0x233E652A3A8      (TES*)
+[RSP+1348] 0x233E65F92B0      (GridCellArray*)
+[RSP+1350] 0x7FF66046850A     (void* -> Fallout4.exe+00F850A)
+[RSP+1360] 0x233E8C87770      (TESObjectCELL*)
+File: "ELFX-OAR.esp"
+Flags: 0x0004000B
+Form ID: 0x0009F0A2
+Form Type: 63
+Full Name: "Harbormaster Hotel"
+[RSP+1368] 0x2334A9FA620      (PlayerCharacter*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00440448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+1380] 0x7FF660467D36     (void* -> Fallout4.exe+00F7D36)
+[RSP+13A0] 0x7FF600000000     (size_t)
+[RSP+13A8] 0x233FE1B71D0      (TESObjectCELL*)
+File: "PLI-MoreRaiders.esp"
+Flags: 0x0004000B
+Form ID: 0x0000E0D4
+Form Type: 63
+Full Name: ""
+[RSP+13B0] 0x2334A9FA620      (PlayerCharacter*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00440448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+13C0] 0x2334A9FA620      (PlayerCharacter*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00440448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+13D0] 0x7FF66122C9AA     (void* -> Fallout4.exe+0EBC9AA)
+[RSP+13F0] 0x233FE1B7101      (void*)
+[RSP+1400] 0x233F1043040      (BSScript::Internal::RawFuncCallQuery*)
+[RSP+1408] 0x23416757440      (NiAlphaProperty*)
+Name: ""
+[RSP+1428] 0xD77B36F4E0       (void*)
+[RSP+1448] 0xD77B36F174       (void*)
+[RSP+1460] 0x2341EFDE900      (bhkWorld*)
+[RSP+1470] 0x407919           (void* -> XINPUT1_3.dll+0007919)
+[RSP+1490] 0xBF248E6644349EE7 (size_t)
+[RSP+14A0] 0x23400000000      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x000D9B88
+Form Type: 36
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00000408
+Form ID: 0x2A003963
+Form Type: 64
+[RSP+14B0] 0x2334A9FA620      (PlayerCharacter*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00440448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+14B8] 0x7FF665E4D558     (void* -> Fallout4.exe+5ADD558)
+[RSP+14C0] 0x4083FC           (void* -> XINPUT1_3.dll+00083FC)
+[RSP+14E0] 0x7FF6604FD27B     (void* -> Fallout4.exe+018D27B)
+[RSP+1500] 0x7FF661EB2FE8     (void* -> Fallout4.exe+1B42FE8)
+[RSP+1510] 0x7FF6603944E3     (void* -> Fallout4.exe+00244E3)
+[RSP+1518] 0x7FF662FB9DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+1530] 0x2334A9FA620      (PlayerCharacter*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00440448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+1540] 0x7FF6604FC85D     (void* -> Fallout4.exe+018C85D)
+[RSP+1550] 0x7FF661E809C3     (void* -> Fallout4.exe+1B109C3)
+[RSP+1560] 0x7FF661EB1F2C     (void* -> Fallout4.exe+1B41F2C)
+[RSP+1580] 0x7FF66104859A     (void* -> Fallout4.exe+0CD859A)
+[RSP+1590] 0x7FF6603944E3     (void* -> Fallout4.exe+00244E3)
+[RSP+15A0] 0x7FF661E8093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+15C0] 0x0                (size_t)
+[RSP+15E0] 0x0                (size_t)
+[RSP+1600] 0x0                (size_t)
+[RSP+1618] 0x2344D5BAD10      (char*) "e"
+[RSP+1620] 0x2334A9FA620      (PlayerCharacter*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00440448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+1630] 0x233FE1B71D0      (TESObjectCELL*)
+File: "PLI-MoreRaiders.esp"
+Flags: 0x0004000B
+Form ID: 0x0000E0D4
+Form Type: 63
+Full Name: ""
+[RSP+1638] 0x233E17A65C0      (TESWorldSpace*)
+File: "StoryWealth-CellDataPatch.esp"
+Flags: 0x0000000B
+Form ID: 0x0000003C
+Form Type: 74
+Full Name: "Commonwealth"
+[RSP+1648] 0x2334A9FA620      (PlayerCharacter*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00440448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+1660] 0x7FF66122D2C9     (void* -> Fallout4.exe+0EBD2C9)
+[RSP+1670] 0x2344D5BAD10      (char*) "e"
+[RSP+1678] 0x233E17A65C0      (TESWorldSpace*)
+File: "StoryWealth-CellDataPatch.esp"
+Flags: 0x0000000B
+Form ID: 0x0000003C
+Form Type: 74
+Full Name: "Commonwealth"
+[RSP+1680] 0x233E17A65C0      (TESWorldSpace*)
+File: "StoryWealth-CellDataPatch.esp"
+Flags: 0x0000000B
+Form ID: 0x0000003C
+Form Type: 74
+Full Name: "Commonwealth"
+[RSP+16A0] 0xFFFFFFFF         (size_t)
+[RSP+16C0] 0x7FF66120B80F     (void* -> Fallout4.exe+0E9B80F)
+[RSP+16D8] 0x2334A9FA620      (PlayerCharacter*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00440448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+16F8] 0xD77B360001       (void*)
+[RSP+1708] 0x233EB97F7C0      (BGSLocation*)
+File: "3DNPC_FO4.esp"
+Flags: 0x00000009
+Form ID: 0x00218104
+Form Type: 107
+Full Name: "Waterfront Hotel"
+[RSP+1728] 0x233E17A65C0      (TESWorldSpace*)
+File: "StoryWealth-CellDataPatch.esp"
+Flags: 0x0000000B
+Form ID: 0x0000003C
+Form Type: 74
+Full Name: "Commonwealth"
+[RSP+1748] 0x44140000         (size_t)
+[RSP+1760] 0x7FF6606AD9C0     (void* -> Fallout4.exe+033D9C0)
+[RSP+1768] 0x233E8C95430      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x0006FF48
+Form Type: 32
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x0021810B
+Form Type: 64
+[RSP+1788] 0x7FF662FBA948     (void* -> Fallout4.exe+2C4A948)
+[RSP+1790] 0x7FF666A93AD8     (void* -> Fallout4.exe+6723AD8)
+[RSP+17B0] 0x0                (size_t)
+[RSP+17C8] 0x23400000000      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000009
+Form ID: 0x000D9B88
+Form Type: 36
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00000408
+Form ID: 0x2A003963
+Form Type: 64
+[RSP+17D0] 0x7FF666AA2840     (void* -> Fallout4.exe+6732840)
+[RSP+17F0] 0x0                (size_t)
+[RSP+1810] 0x0                (size_t)
+[RSP+1830] 0x2344D5BB8B8      (void*)
+[RSP+1848] 0x7FF665F58088     (void* -> Fallout4.exe+5BE8088)
+[RSP+1858] 0x233F9D1C0E8      (BSLightingShaderProperty*)
+Name: "Materials\AnimObjects\PipBoy\PipBoy01.BGSM"
+[RSP+1860] 0x7FF662B9D337     (void* -> Fallout4.exe+282D337)
+[RSP+1868] 0x23343371980      (BSShaderAccumulator*)
+[RSP+1870] 0x23416736E60      (BSTriShape*)
+Name: "EjectButton_mesh:0"
+[RSP+1890] 0x4000000001       (size_t)
+[RSP+18A8] 0x234198A3B90      (NiAlphaProperty*)
+Name: ""
+[RSP+18C8] 0x0                (size_t)
+[RSP+18E8] 0x2344D5BB8B8      (void*)
+[RSP+18F8] 0x7FF665F58080     (void* -> Fallout4.exe+5BE8080)
+[RSP+1918] 0x0                (size_t)
+[RSP+1920] 0x7FF662BD1B67     (void* -> Fallout4.exe+2861B67)
+[RSP+1940] 0x0                (size_t)
+[RSP+1958] 0x7FF665F58084     (void* -> Fallout4.exe+5BE8084)
+[RSP+1960] 0x7FF665F58080     (void* -> Fallout4.exe+5BE8080)
+[RSP+1968] 0x7FF665F58088     (void* -> Fallout4.exe+5BE8088)
+[RSP+1988] 0x0                (size_t)
+[RSP+1990] 0x7FF6610B0D85     (void* -> Fallout4.exe+0D40D85)
+[RSP+19B0] 0x7FFB34E60E01     (void* -> KERNELBASE.dll+0050E01)
+[RSP+19B8] 0x7FF665F58B98     (void* -> Fallout4.exe+5BE8B98)
+[RSP+19C0] 0x7FF661EC0F26     (void* -> Fallout4.exe+1B50F26)
+[RSP+19C8] 0x7FF665F58B98     (void* -> Fallout4.exe+5BE8B98)
+[RSP+19D0] 0x7FF665F58B98     (void* -> Fallout4.exe+5BE8B98)
+[RSP+19E0] 0x7FFB34E7222D     (void* -> KERNELBASE.dll+006222D)
+[RSP+19F8] 0x7FF665F6E180     (void* -> Fallout4.exe+5BFE180)
+[RSP+1A08] 0x7FF665F58B48     (BSJobs::JobThread*)
+[RSP+1A10] 0x7FF661EC1432     (void* -> Fallout4.exe+1B51432)
+[RSP+1A20] 0x7FF665F58B48     (BSJobs::JobThread*)
+[RSP+1A40] 0x0                (size_t)
+[RSP+1A50] 0x7FF661EC3F67     (void* -> Fallout4.exe+1B53F67)
+[RSP+1A58] 0x7FF665F58B48     (BSJobs::JobThread*)
+[RSP+1A78] 0x7FF665F58B48     (BSJobs::JobThread*)
+[RSP+1A80] 0x7FF661E8CFED     (void* -> Fallout4.exe+1B1CFED)
+[RSP+1AA0] 0x0                (size_t)
+[RSP+1AA8] 0x7FF665F58B48     (BSJobs::JobThread*)
+[RSP+1AC0] 0x7FFB353D53E0     (void* -> KERNEL32.DLL+00153E0)
+[RSP+1AE0] 0x0                (size_t)
+[RSP+1AF0] 0x7FFB3754485B     (void* -> ntdll.dll+000485B)
+[RSP+1B10] 0x0                (size_t)
+[RSP+1B30] 0x0                (size_t)
+[RSP+1B40] 0x7FFB34F5DB40     (void* -> KERNELBASE.dll+014DB40)
+[RSP+1B60] 0xD77B36C780       (void*)
+[RSP+1B80] 0x0                (size_t)
+[RSP+1BA0] 0x0                (size_t)
+[RSP+1BC0] 0x0                (size_t)
+[RSP+1BE0] 0x0                (size_t)
+[RSP+1C00] 0x0                (size_t)
+[RSP+1C20] 0x0                (size_t)
+[RSP+1C40] 0x0                (size_t)
+[RSP+1C60] 0x0                (size_t)
+[RSP+1C80] 0x0                (size_t)
+[RSP+1CA0] 0x0                (size_t)
+[RSP+1CC0] 0x0                (size_t)
+[RSP+1CE0] 0x0                (size_t)
+[RSP+1D00] 0x0                (size_t)
+[RSP+1D20] 0x0                (size_t)
+[RSP+1D40] 0x0                (size_t)
+[RSP+1D60] 0x0                (size_t)
+[RSP+1D80] 0x0                (size_t)
+[RSP+1DA0] 0x0                (size_t)
+[RSP+1DC0] 0x0                (size_t)
+[RSP+1DE0] 0x0                (size_t)
+[RSP+1E00] 0x0                (size_t)
+[RSP+1E20] 0x0                (size_t)
+[RSP+1E40] 0x0                (size_t)
+[RSP+1E60] 0x0                (size_t)
+[RSP+1E80] 0x0                (size_t)
+[RSP+1EA0] 0x0                (size_t)
+[RSP+1EC0] 0x0                (size_t)
+[RSP+1EE0] 0x0                (size_t)
+[RSP+1F00] 0x0                (size_t)
+[RSP+1F20] 0x0                (size_t)
+[RSP+1F40] 0x0                (size_t)
+[RSP+1F60] 0x0                (size_t)
+[RSP+1F80] 0x0                (size_t)
+[RSP+1FA0] 0x0                (size_t)
+[RSP+1FC0] 0x0                (size_t)
+[RSP+1FE0] 0x0                (size_t)
+[RSP+2000] 0x0                (size_t)
+[RSP+2020] 0x0                (size_t)
+[RSP+2040] 0x0                (size_t)
+[RSP+2060] 0x0                (size_t)
+[RSP+2080] 0x0                (size_t)
+[RSP+20A0] 0x0                (size_t)
+[RSP+20C0] 0x0                (size_t)
+[RSP+20E0] 0x0                (size_t)
+[RSP+2100] 0x0                (size_t)
+[RSP+2120] 0x0                (size_t)
+[RSP+2140] 0x0                (size_t)
+[RSP+2160] 0x0                (size_t)
+[RSP+2180] 0x0                (size_t)
+[RSP+21A0] 0x0                (size_t)
+[RSP+21C0] 0x0                (size_t)
+[RSP+21E0] 0x0                (size_t)
+[RSP+2200] 0x0                (size_t)
+[RSP+2220] 0x0                (size_t)
+[RSP+2240] 0x0                (size_t)
+[RSP+2260] 0x0                (size_t)
+[RSP+2280] 0x0                (size_t)
+[RSP+22A0] 0x0                (size_t)
+[RSP+22C0] 0x0                (size_t)
+[RSP+22E0] 0x0                (size_t)

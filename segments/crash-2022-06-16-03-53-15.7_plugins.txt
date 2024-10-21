@@ -1,0 +1,685 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     ccrzrfo4001-tunnelsnakes.esm
+[08]     ccswkfo4001-astronautpowerarmor.esm
+[09]     cczsef04001-bhouse.esm
+[0A]     cctosfo4001-neosky.esm
+[0B]     cczsefo4002-smanor.esm
+[0C]     cctosfo4002_neonflats.esm
+[0D]     CleanMySettlement.esm
+[0E]     Unofficial Fallout 4 Patch.esp
+[0F]     WorkshopFramework.esm
+[10]     HUDFramework.esm
+[11]     XDI.esm
+[12]     SS2.esm
+[13]     SS2_XPAC_Chapter2.esm
+[14]     PACE.esm
+[15]     PANPC.esm
+[16]     AGNISNikaCola01.esp
+[17]     Depravity.esp
+[18]     AA FusionCityRising.esp
+[19]     OutcastsAndRemnants.esp
+[1A]     AA FusionCityRising - HotC.esp
+[1B]     ProjectValkyrie.esp
+[1C]     CompanionIvy.esm
+[1D]     CompanionIvy_quest.esp
+[1E]     CompanionIvy_Nuka.esp
+[1F]     ProjectZeta.esm
+[20]     Ketaros_Treasures.esp
+[21]     Vault4.esp
+[22]     NoSharedDogmeatTemplate.esp
+[23]     LooksMenu Customization Compendium.esp
+[24]     ESPExplorerFO4.esp
+[25]     Playable Synth Eyes.esp
+[26]     KSHairdos.esp
+[27]     KSHairdos_oel.esp
+[28]     TBOS-AntoHairPack.esp
+[29]     KSHairsFemsheppingRadbeetle.esp
+[2A]     HN66Fo4_Nails.esp
+[2B]     AllSetsExtended.esp
+[2C]     ECO.esp
+[2D]     KetPatch01.esp
+[2E]     CROSS_PlasRail.esp
+[2F]     SuperMutantRedux.esp
+[30]     Fusion Gun.esp
+[31]     Lightweight Lighting.esp
+[32]     The Eyes Of Beauty.esp
+[33]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
+[34]     RoundGlasses.esp
+[35]     WestTekTacticalOptics.esp
+[36]     CF_AtomicWarlord.esp
+[37]     F3metalarmor.esp
+[38]     ss2radiantpower.esp
+[39]     skkunlockcompanions.esp
+[3A]     Liga.esp
+[3B]     Raider Gang Extended NPC (Fixed & Cleaned).esp
+[3C]     Altyn Assault Helmet.esp
+[3D]     Metro Gas Masks.esp
+[3E]     RaiderOverhaul.esp
+[3F]     WattzLaserGun.esp
+[40]     CheatTerminal.esp
+[41]     InstituteSettlements2.esp
+[42]     Croup Manor Navmesh - retakrew7.esp
+[43]     SS2_FDK_TinyLiving.esp
+[44]     Eli_Armour_Compendium.esp
+[45]     skkfastreunions.esp
+[46]     SS2-PraRandomAddon.esp
+[47]     W.A.T.Minutemen.esp
+[48]     pulsecarbine.esp
+[49]     Lost Souls No Hostility.esp
+[4A]     autoweapons.esp
+[4B]     AutomatronUnlockedNukaParts.esp
+[4C]     CobaltForge.esp
+[4D]     skkfastbos.esp
+[4E]     rfortaleza2.esp
+[4F]     rpampas.esp
+[50]     HN66Fo4_EasyGirl_BS.esp
+[51]     Reload Sounds.esp
+[52]     Liberator.esp
+[53]     Ak5C.esp
+[54]     QuickTrade.esp
+[55]     X12Plasmacaster.esp
+[56]     USP 45.esp
+[57]     MG69.esp
+[58]     CorvalhoWidowShotgun.esp
+[59]     CreationClubDelay.esp
+[5A]     SS2Extended.esp
+[5B]     SS2_SIMPDDDD.esp
+[5C]     9mmPistol.esp
+[5D]     F4NVServiceRifleRedux.esp
+[5E]     AER15.esp
+[5F]     HandmadeSMG.esp
+[60]     DesertEagleNV.esp
+[61]     AtomsGloryThreads.esp
+[62]     SS2WastelandVenturers.esp
+[63]     SS2_Addon_R2R.esp
+[64]     [SS20Addon] SimSettlements SuperStructures.esp
+[65]     FO4 NPCs Travel.esp
+[66]     LARGrizzly.esp
+[67]     AK74M.esp
+[68]     SS2-Jampads2.esp
+[69]     SS2_ruined_simsettlement_addonpack.esp
+[6A]     JunkTownTwo.esp
+[6B]     skkcombatsettlers.esp
+[6C]     RU556.esp
+[6D]     FNX45.esp
+[6E]     BullpupBozar.esp
+[6F]     Zapgun.esp
+[70]     P220.esp
+[71]     Bulldog_308_SRSS.esp
+[72]     127SMG.esp
+[73]     SCAR-L.esp
+[74]     DP_CaravanShotgun.esp
+[75]     Sjogren.esp
+[76]     skkfastminutemen.esp
+[77]     P90.esp
+[78]     SigSauer127.esp
+[79]     F4CW10mmSMG.esp
+[7A]     AQUILA.esp
+[7B]     MP7.esp
+[7C]     FnScar.esp
+[7D]     M1A.esp
+[7E]     TotalHackRevisited.esp
+[7F]     HuntingRevolver.esp
+[80]     G36Complex.esp
+[81]     GIAT_FAMAS.esp
+[82]     HRP_Mk23.esp
+[83]     22LR_SilentPistol_ENG.esp
+[84]     ElMudoStore.esp
+[85]     WinCowbowRepeater.esp
+[86]     HomemadeLasRevolver.esp
+[87]     HK_UMP.esp
+[88]     Fallschirmjagergewehr.esp
+[89]     GreaseGunSMG.esp
+[8A]     Glock17.esp
+[8B]     CROSS_RugerMkV.esp
+[8C]     WD_44.esp
+[8D]     Cranky.esp
+[8E]     QBZ191.esp
+[8F]     Mk41GyrojetHMG.esp
+[90]     LeeEnfieldNo4MkI.esp
+[91]     M72GaussRifle.esp
+[92]     1CAS_ServiceRifle.esp
+[93]     HKUSP9mm.esp
+[94]     win1897.esp
+[95]     HK_MP5.esp
+[96]     American180nv.esp
+[97]     G3Family.esp
+[98]     Skb_RiflesRebirth.esp
+[99]     llamaCompanionHeatherv2.esp
+[9A]     SettlementMenuManager.esp
+[9B]     Vault-Tec Workshop Overhaul Redux.esp
+[9C]     Vault88 - Essentials.esp
+[9D]     BetterSettlers.esp
+[9E]     M2045MagnumRevolverRifle.esp
+[9F]     X13_ScrapOTron.esp
+[A0]     Ghoulish this is Child of the Atom.esp
+[A1]     OWR.esp
+[A2]     OWR2.esp
+[A3]     3dscopes.esp
+[A4]     DeadlierDeathclaws.esp
+[A5]     44MBF4.esp
+[A6]     Eli_NukaStuff.esp
+[A7]     Patch Ivy-XDI.esp
+[A8]     ChineseStealthSuit.esp
+[A9]     ZetaWorkshop.esp
+[AA]     HoloTime.esp
+[AB]     NoSettlementQuestsAIODLC.esp
+[AC]     Better_Settlement_Defence.esp
+[AD]     skkfaststartnewgame.esp
+[AE]     NukaWorldReborn.esp
+[AF]     VivaNukaWorldQuests.esp
+[B0]     FaceMaxson.esp
+[B1]     VivaNukaWorld.esp
+[B2]     InstituteReformation.esp
+[B3]     FatherCompanion.esp
+[B4]     VivaNukaWorldQuests - Depravity Integration.esp
+[FE:000] ccbgsfo4016-prey.esl
+[FE:001] ccbgsfo4018-gaussrifleprototype.esl
+[FE:002] ccbgsfo4019-chinesestealtharmor.esl
+[FE:003] ccbgsfo4042-bfg.esl
+[FE:004] ccfrsfo4001-handmadeshotgun.esl
+[FE:005] ccbgsfo4045-advarccab.esl
+[FE:006] ccfrsfo4002-antimaterielrifle.esl
+[FE:007] cceejfo4002-nuka.esl
+[FE:008] ccrzrfo4002-disintegrate.esl
+[FE:009] ccbgsfo4035-pint.esl
+[FE:00A] ccbgsfo4047-qthund.esl
+[FE:00B] ccfrsfo4003-cr75l.esl
+[FE:00C] ccsbjfo4002_manwellrifle.esl
+[FE:00D] ccbgsfo4046-tescan.esl
+[FE:00E] IDEKsLogisticsStation2.esl
+[FE:00F] CanarySaveFileMonitor.esl
+[FE:010] ConfigurableHotkeys.esl
+[FE:011] DDLL.esl
+[FE:012] EasyLockpicking.esl
+[FE:013] IceStormsHair.esl
+[FE:014] CROSS_VertibirdFlightsuit.esl
+[FE:015] PPF.esm
+[FE:016] Bunker Hill Mega City.esl
+[FE:017] BunkerHillSkymall.esl
+[FE:018] Cafe88JamaicaPlains.esl
+[FE:019] Castle Restoration Project 1.1.esl
+[FE:01A] Cho1_Vault88_Metro_Plan.esl
+[FE:01B] GavMan_Zimonja_Cityplan.esl
+[FE:01C] CC2_CoastalCottageVacationCityPlan.esl
+[FE:01D] CC2_CoastalNukaCade_Ch2.esl
+[FE:01E] coastalcottageWG.esl
+[FE:01F] GavMan_CovenantSep21_CityPlan.esl
+[FE:020] FortifiedCroupManorHub.esl
+[FE:021] CroupManorChemlab.esl
+[FE:022] EchoLakeRestoration.esl
+[FE:023] GavMan_Egret_CityPlan.esl
+[FE:024] GavMan_Finch_Feb22_CityPlan.esl
+[FE:025] Finch Farm Arms Fair.esl
+[FE:026] Gavman_JamaicaAPR21_Cityplan.esl
+[FE:027] JamaicaplainMinutemenBase.esl
+[FE:028] CSC_NeonFlats_Base.esl
+[FE:029] Murkburgers.esl
+[FE:02A] Murwater Observatory.esl
+[FE:02B] regretwg.esl
+[FE:02C] Reina_CroupMar2021.esl
+[FE:02D] Reina_Vault88-SS2.esl
+[FE:02E] sanctuaryWG.esl
+[FE:02F] CroumanVil_V2.esl
+[FE:030] Echo Lake Lumber - EchoVil.esl
+[FE:031] Kingsport Lighthouse - KingsVil.esl
+[FE:032] Murkwater Construction Site - DozerVil.esl
+[FE:033] Summervil.esl
+[FE:034] Tenpines Bluff - PinesVil.esl
+[FE:035] CSC_CharlestonCondo_Bar.esl
+[FE:036] CSC_NoirPenthouse_Base.esl
+[FE:037] CSC_NuCafeOlaOutpost.esl
+[FE:038] CSC_ShroudManor_Base.esl
+[FE:039] SLOG BOG.esl
+[FE:03A] SpectacleIslandWG.esl
+[FE:03B] ZJ - TenpinesInn.esl
+[FE:03C] ZJ PerfPlan - Abernathy.esl
+[FE:03D] ZJ PerfPlan - RedRocket.esl
+[FE:03E] ZJ PerfPlan - Sanctuary.esl
+[FE:03F] ZJ PerfPlan - Sunshine.esl
+[FE:040] ZJ PerfPlan - Taffington.esl
+[FE:041] ZJ PerfPlan - Tenpinesv2.esl
+[FE:042] ZJ PerfPlan - Zimonja.esl
+[FE:043] ZJ-Starlight-PerfPlan.esl
+[FE:044] MM-Castle-HQ-By-Tarkkh-V2.6.esl
+[FE:045] GavMan_Vault88_CityPlan.esl
+[FE:046] Mors Shortcut to Curie.esl
+[FE:047] Earlier Pipboy.esl
+[FE:048] GavMan_NordhagenApr22_CityPlan.esl
+[FE:049] NukaExplosiveFix.esl
+[FE:04A] SilverSidearmLegend.esl
+[FE:04B] Trinity Church-Abandoned nursery-SadMusic.esl
+[FE:04C] LongerPowerLinesInf.esl
+[FE:04D] KezzDaddy Dalton_Church_City_Plan.esl
+[FE:04E] StarlightHive.esl
+[FE:04F] ChineseStealthPatch.esl
+[FE:050] TeslaCannonPatch.esl
+[FE:051] Cho1_CPC_April_2022_Port_Dalton.esl
+[FE:052] Warwick Correctional Facility.esl
+[FE:053] DaltonGardens.esl
+[FE:054] Starlight The ron tower.nocc.esl
+[FE:055] StandaloneWorkbenches.esl
+[FE:056] NeonFlatsCompleteNavmeshFix.esl
+[FE:057] Skb_MachinegunsRebirth.esl
+[FE:058] BulldogRevolver.esl
+[FE:059] TeslaHeavyGun.esl
+[FE:05A] HandmadeAntiMaterielRifle.esl
+[FE:05B] JamaicaPlainPathing.esl
+[FE:05C] NoirPenthouseNavmeshFix.esl
+[FE:05D] Goodneighor Warehouses - No Trespass.esl
+[FE:05E] WG City Plans Pack ESL.esl
+[FE:05F] MeanMachineEyes.esl
+[FE:060] Skb-MinigunsRebirth.esl
+[FE:061] SelectAssaultRifle.esl
+[FE:062] SS2WorkshopHUDOverride.esl
+[FE:063] GunGS.esl
+[FE:064] GunGSSideAiming.esl
+[FE:065] HoloGlow100.esl
+[FE:066] CovenantHelp.esl
+[FE:067] Visible Galaxy and Skystars.esl
+[FE:068] CoAPowerArmor.esp
+[FE:069] CW32Pistol.esl
+[FE:06A] BerettaM9FS.esl
+[FE:06B] SW1905.esl
+[FE:06C] CW10mmPistol.esl
+[FE:06D] SelectRevolver.esl
+[FE:06E] MGHP.esl
+[FE:06F] CPDHP.esl
+[FE:070] VaultTecHQHelipad.esl
+[FE:071] ArcJetHelipad.esl
+[FE:072] MedTekHelipad.esl
+[FE:073] FixRobotVisualEffects.esl
+[FE:074] Gatorclaw Revamp.esl
+[FE:075] LegendaryDropBugfix.esl
+[FE:076] Rusty Face Fix.esl
+[FE:077] ColterFix.esp
+[FE:078] Protectron HD 4K.esp
+[FE:079] Vivid Fallout - All in One - Best Choice.esp
+[FE:07A] LUXORs Roads 4k.esp
+[FE:07B] LooksMenu.esp
+[FE:07C] 10SPECIAL.esp
+[FE:07D] CBBE.esp
+[FE:07E] 512StandaloneHairColors.esp
+[FE:07F] AzarPonytailHairstyles.esp
+[FE:080] Lots More Female Hairstyles.esp
+[FE:081] Lots More Facial Hair.esp
+[FE:082] Lots More Male Hairstyles.esp
+[FE:083] MoreHairstyles4Female.esp
+[FE:084] MoreHairstyles4Male.esp
+[FE:085] MiscHairstyle.esp
+[FE:086] Lil More Hair - Beatnik and Beards.esp
+[FE:087] Quad_Accelerator.esp
+[FE:088] Actor Scale Remover.esp
+[FE:089] AdvSettleTurretSet.esp
+[FE:08A] EBMD_AllInOne.esp
+[FE:08B] Gunsmith Overhaul.esp
+[FE:08C] EqualArmor.esp
+[FE:08D] AutomatronUnlocked.esp
+[FE:08E] BetterGenerators.esp
+[FE:08F] SS2_NobodysLeaders2.esp
+[FE:090] BobbleGirl.esp
+[FE:091] LookingStranger.esp
+[FE:092] VHCE.esp
+[FE:093] MoreBeards.esp
+[FE:094] BrighterSettlementLights.esp
+[FE:095] SS2AOP_VaultTecTools.esp
+[FE:096] SimHomestead2.esp
+[FE:097] JunkTown-FENCES2.esp
+[FE:098] IDEKsLogisticsStation2_SS2_Patch.esp
+[FE:099] SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
+[FE:09A] SS2WalledGardensAndMore.esp
+[FE:09B] SS2WhisperPowerPlots.esp
+[FE:09C] TacticalCourser_Standalone.esp
+[FE:09D] WTTO - Colour Targeting HUD.esp
+[FE:09E] CF_AtomicWarlord_CBBE.esp
+[FE:09F] SS2CoastalCottage-CSR.esp
+[FE:0A0] Synth Overhaul.esp
+[FE:0A1] CompanionStatus.esp
+[FE:0A2] ConstructionLight_Medium_Shadows_Wireless.esp
+[FE:0A3] CountryCrossing.esp
+[FE:0A4] CROSS_CryoLance.esp
+[FE:0A5] CROSS_CoA.esp
+[FE:0A6] LMBTOverlays.esp
+[FE:0A7] EssentialSlogNPCs.esp
+[FE:0A8] Easier Kill XP.esp
+[FE:0A9] FemsheppingsPorts_LeahLilithAndKalilies_AWKCR_AE.esp
+[FE:0AA] GammaOverhaul.esp
+[FE:0AB] LuckyYouPerk.esp
+[FE:0AC] HN66Fo4_Rings.esp
+[FE:0AD] HN66Fo4_EarringsV1.esp
+[FE:0AE] SS2LightweightMarkIBeacon.esp
+[FE:0AF] Lightweight-Vitomatic.esp
+[FE:0B0] Regening Life Giver.esp
+[FE:0B1] Settler Sandbox Overhaul.esp
+[FE:0B2] RutahTattooPack_FO4.esp
+[FE:0B3] [SS2] National Park Training Ground.esp
+[FE:0B4] SS2_CityPlanContestAssistant.esp
+[FE:0B5] SS2Tweaks.esp
+[FE:0B6] Children_of_Somerville.esp
+[FE:0B7] MyCityPlans.esp
+[FE:0B8] [CSR]SS2_Nordhagen_Beach.esp
+[FE:0B9] TaffingtonFishery.esp
+[FE:0BA] LooksMenu1stPersonViewItemsFix.esp
+[FE:0BB] WestTek Add-On.esp
+[FE:0BC] SS2_WestTek.esp
+[FE:0BD] Finch Farm by Karvoc.esp
+[FE:0BE] Molerat_Disease_Immunity_PA_Hazmat.esp
+[FE:0BF] Cho1_NW_SS2_Patch.esp
+[FE:0C0] NoNegativeAffinity.esp
+[FE:0C1] AffinityGainDouble.esp
+[FE:0C2] NoAffinityCooldown.esp
+[FE:0C3] Nuka Ants In The Commonwealth.esp
+[FE:0C4] ECO_CCNeonflats.esp
+[FE:0C5] ECO_CCNoirPentHouse.esp
+[FE:0C6] ECO_CCNukaCollector.esp
+[FE:0C7] ECO_CCShroudManor.esp
+[FE:0C8] ECO_CROSSVertbirdFlightsuit.esp
+[FE:0C9] ECO_MythicLegendaryModifications.esp
+[FE:0CA] ECO_LegendaryModificationEnhanced.esp
+[FE:0CB] SS2 XDI Perk Speech Checks.esp
+[FE:0CC] SS2_XDI Patch.esp
+[FE:0CD] SaveAcadiaFromBoS.esp
+[FE:0CE] Skip DIMA memories.esp
+[FE:0CF] 4estGimp Edit - Raider Gangs Extended.esp
+[FE:0D0] WattzLaserGun-UnofficialUpdate.esp
+[FE:0D1] NukaWorldRebalanced.esp
+[FE:0D2] Overboss-PA-NoChain.esp
+[FE:0D3] NWRebal-UFO4P.esp
+[FE:0D4] NWRebal-ECO.esp
+[FE:0D5] 4estGimp - CR-ECO_MM.esp
+[FE:0D6] InstituteGatlingLaser.esp
+[FE:0D7] W.A.T.MinutemenInstituteGatlingLaser.esp
+[FE:0D8] W.A.T.MinutemenInstitutePowerArmor.esp
+[FE:0D9] W.A.T.MinutemenInstituteWeaponsPulseCarbine.esp
+[FE:0DA] WhoIsTheGeneral.esp
+[FE:0DB] Keep Radiants In Commonwealth.esp
+[FE:0DC] WTG - KRIC Patch.esp
+[FE:0DD] Energy Weapon Replacer - Wattz Laser Gun - Institute Guns.esp
+[FE:0DE] ReceiversMuzzlesPruned.esp
+[FE:0DF] Energy Weapon Replacer - Wattz Laser Gun - Laser Muskets.esp
+[FE:0E0] 4estGimp_FusionGun_InstituteLaserGun_Peer.esp
+[FE:0E1] SS2_RobotMod.esp
+[FE:0E2] Natural Camouflage.esp
+[FE:0E3] Faster Terminal Displays (20x).esp
+[FE:0E4] The WARwicks Dock.esp
+[FE:0E5] Creation Club Neon Flats Unofficial Fallout 4 Patch Fixes.esp
+[FE:0E6] WD_BFG_ANIMATIONS.esp
+[FE:0E7] SS2 Junk Storage Capacity.esp
+[FE:0E8] PROJECTCLARITY.esp
+[FE:0E9] KKYpampas.esp
+[FE:0EA] HN66-SiriusArmor.esp
+[FE:0EB] Makeshiftshotgun.esp
+[FE:0EC] AmrTweaks.esp
+[FE:0ED] SRO - Syringer Overhaul.esp
+[FE:0EE] StoryWealth-SS2-DEP-Patch.esp
+[FE:0EF] X12Plasmacaster-FactionSkins.esp
+[FE:0F0] Jake'sMod.esp
+[FE:0F1] Jacq-CompanionPerkMags.esp
+[FE:0F2] SS2Extended_OutfitInjectionPatch.esp
+[FE:0F3] CROSS_InstituteExpeditionarySuit.esp
+[FE:0F4] ECO_CROSSInstituteExpeditionarySuit.esp
+[FE:0F5] F4NVServiceRifleRedux_Patch_Uniques.esp
+[FE:0F6] 4estGimp_CombatRifleReplacer_F4NVServiceRifleRedux.esp
+[FE:0F7] FasterTrinityTower.esp
+[FE:0F8] AtomsGloryThreadsPatch_CoAOverhaul.esp
+[FE:0F9] SelectAssaultRifle_LLInjector.esp
+[FE:0FA] SelectRevolver_LLInjector.esp
+[FE:0FB] SS2Addon_MS_BareEssentials.esp
+[FE:0FC] whisperExtraPieces.esp
+[FE:0FD] Mega Reggae(1).esp
+[FE:0FE] RU556_Balance_Patch.esp
+[FE:0FF] P220 Animation Overhaul.esp
+[FE:100] RCW.esp
+[FE:101] CROSS_BreakActionLaser.esp
+[FE:102] 4estGimp - CROSS_Institute_BreakActionLaser.esp
+[FE:103] USP .45_by_tooun.esp
+[FE:104] F4NVServiceRifleRedux_Patch_Survivalist127mm.esp
+[FE:105] PPS43.esp
+[FE:106] 127mmSMGAmmo.esp
+[FE:107] HK416.esp
+[FE:108] ECO_F4NVServiceRifleRedux.esp
+[FE:109] GreaseGun 9mm Receivers.esp
+[FE:10A] DualGun.esp
+[FE:10B] Sjorgen_vanilla_mods.esp
+[FE:10C] Sten.esp
+[FE:10D] R91M.esp
+[FE:10E] S&W_pack.esp
+[FE:10F] G3Family_308CalEdit.esp
+[FE:110] soakerfix.esp
+[FE:111] HeatherNewLook.esp
+[FE:112] 4estGimp _DoubleBarrel_LLPeer_Cranky.esp
+[FE:113] 4estGimp_DoubleBarrel_LLPeer_MakeshiftShotgun.esp
+[FE:114] FnScar_LvlListPatch.esp
+[FE:115] OARPVCustomFollowers.esp
+[FE:116] SS2_NobodysLeaders2_VaultTecWorkshop.esp
+[FE:117] SS2_NobodysLeaders2_Automatron.esp
+[FE:118] 4estGimp_Sjogren_Expanded.esp
+[FE:119] 4estGimp_SjogrenShorty_DoubleBarrel_Peer.esp
+[FE:11A] 4estGimp - MG69_Patch.esp
+[FE:11B] M8rDisablePipboyEffects.esp
+[FE:11C] 4estGimp_StandaloneWorkbenches_ECO_Patch.esp
+[FE:11D] SF BOS.esp
+[FE:11E] SF Deacon.esp
+[FE:11F] SF OldLongfellow.esp
+[FE:120] SF Danse.esp
+[FE:121] GKSinjinRaiders.esp
+[FE:122] Test.esp
+[FE:123] SF Gage.esp
+[FE:124] SS2_NobodysLeaders2_NukaWorld.esp
+[FE:125] GKKasumi.esp
+[FE:126] GKIsabel.esp
+[FE:127] GKAster.100463E.esp
+[FE:128] GKGlory.esp
+[FE:129] GKMagnolia.esp
+[FE:12A] OH_Kellogg.esp
+[FE:12B] KitCompanion_PACE.esp
+[FE:12C] PreCulling_Precombines_SCOL_settings.esp
+[FE:12D] TeleportThuggyverseCompanions.esp
+[FE:12E] Better_Notes.esp
+[FE:12F] WheelMenu.esp
+[FE:130] RaiderPerksFromKillingLeaders.esp
+[FE:131] BetterSettlersCleanFacePack.esp
+[FE:132] BetterSettlersNoLollygagging.esp
+[FE:133] BetterSettlerCutsFemale.esp
+[FE:134] BetterSettlersCCAPack2.0.esp
+[FE:135] BetterSettlerCutsMale.esp
+[FE:136] QuickHands - Lightning fast.esp
+[FE:137] DCRE.esp
+[FE:138] CorpseclearTimeReducer.esp
+[FE:139] DOOMCatalyst.esp
+[FE:13A] ECO_GunsmithOverhaul.esp
+[FE:13B] SigSauer127_craftable.esp
+[FE:13C] 9mmPistol_craftable.esp
+[FE:13D] AER15_craftable.esp
+[FE:13E] Ak5C_craftable.esp
+[FE:13F] AK74M_craftable.esp
+[FE:140] AQUILA_craftable.esp
+[FE:141] Bulldog_308_SRSS_craftable.esp
+[FE:142] BulldogRevolverESL_craftable.esp
+[FE:143] BullpupBozar_craftable.esp
+[FE:144] BullpupBozar_edits.esp
+[FE:145] ccbgsfo4018-gaussrifleprototype_craftable.esp
+[FE:146] ccbgsfo4042-bfg_craftable.esp
+[FE:147] ccfrsfo4001-handmadeshotgun_craftable.esp
+[FE:148] ccfrsfo4002-antimaterielrifle_craftable.esp
+[FE:149] ccfrsfo4003-cr75l_craftable.esp
+[FE:14A] ccrzrfo4002-disintegrate_craftable.esp
+[FE:14B] CorvalhoWidowShotgun_craftable.esp
+[FE:14C] Cranky_craftable.esp
+[FE:14D] CROSS_BreakActionLaser_craftable.esp
+[FE:14E] CROSS_CryoLance_craftable.esp
+[FE:14F] dlcammo_craftable.esp
+[FE:150] dlcweapons_craftable.esp
+[FE:151] DP_CaravanShotgun_craftable.esp
+[FE:152] F4CW10mmSMG_craftable.esp
+[FE:153] F4NVServiceRifleRedux_craftable.esp
+[FE:154] Fallschirmjagergewehr_craftable.esp
+[FE:155] FnScar_craftable.esp
+[FE:156] FNX45_craftable.esp
+[FE:157] Fusion Gun_craftable.esp
+[FE:158] Fusion Gun_edits.esp
+[FE:159] G36_craftable.esp
+[FE:15A] GIAT_FAMAS_craftable.esp
+[FE:15B] GreaseGunSMG_craftable.esp
+[FE:15C] GunGS-ESL_craftable.esp
+[FE:15D] HandmadeAntiMaterialRifle-ESL_craftable.esp
+[FE:15E] HK_MP5_craftable.esp
+[FE:15F] HK_UMP_craftable.esp
+[FE:160] HKUSP9mm_craftable.esp
+[FE:161] HRP_Mk23_craftable.esp
+[FE:162] HuntingRevolver_craftable.esp
+[FE:163] Liberator_craftable.esp
+[FE:164] M72GaussRifle_craftable.esp
+[FE:165] Makeshiftshotgun_craftable.esp
+[FE:166] MP7_craftable.esp
+[FE:167] P90_craftable.esp
+[FE:168] QBZ191_craftable.esp
+[FE:169] Quad_Accelerator_craftable.esp
+[FE:16A] R91M_craftable.esp
+[FE:16B] RCW_craftable.esp
+[FE:16C] RU556_craftable.esp
+[FE:16D] SCAR-L_craftable.esp
+[FE:16E] SelectAssaultRifle-ESL_craftable.esp
+[FE:16F] Sjogren_craftable.esp
+[FE:170] Skb-MinigunsRebirth_craftable.esp
+[FE:171] Skb_MachinegunsRebirth-ESL_craftable.esp
+[FE:172] SRO - Syringer Overhaul_craftable.esp
+[FE:173] Sten_craftable.esp
+[FE:174] TeslaHeavyGun_craftable.esp
+[FE:175] USP .45_by_tooun_craftable.esp
+[FE:176] vanillaammo_craftable.esp
+[FE:177] vanillaminesgrenades_craftable.esp
+[FE:178] vanillaweapons_craftable.esp
+[FE:179] vanillaworkbenchconditions.esp
+[FE:17A] WattzLaserGun_craftable.esp
+[FE:17B] X12Plasmacaster_craftable.esp
+[FE:17C] Zapgun_craftable.esp
+[FE:17D] LARGrizzly_craftable.esp
+[FE:17E] PPS43_craftable.esp
+[FE:17F] pulsecarbine_craftable.esp
+[FE:180] SelectRevolver-ESL_craftable.esp
+[FE:181] Sten-GW_craftable.esp
+[FE:182] 1CAS_serviceRifle_craftable.esp
+[FE:183] DOOMCatalyst_craftable.esp
+[FE:184] P220_craftable.esp
+[FE:185] M2045MagnumRevolverRifle_craftable.esp
+[FE:186] win1897_craftable.esp
+[FE:187] BerettaM9FS_craftable.esp
+[FE:188] CW32Pistol_craftable.esp
+[FE:189] DesertEagleNV_craftable.esp
+[FE:18A] WinCowbowRepeater_craftable.esp
+[FE:18B] M1A_craftable.esp
+[FE:18C] CROSS_RugerMkV_craftable.esp
+[FE:18D] CW10mmPistol_craftable.esp
+[FE:18E] DualGun-ESP_craftable.esp
+[FE:18F] Mk41GyrojetHMG_craftable.esp
+[FE:190] SW1905-ESL_craftable.esp
+[FE:191] LeeEnfieldNo4MkI_craftable.esp
+[FE:192] G3Family_craftable.esp
+[FE:193] S and W_Pack_LLInjector.esp
+[FE:194] TeslaHeavyAuto_LLInjector.esp
+[FE:195] SOCOM_Mark 23_LLInject.esp
+[FE:196] Hunting_LLInjector.esp
+[FE:197] [HN] Useful Weapons for Citizen.esp
+[FE:198] Mk41GyroHMG_LLInjector.esp
+[FE:199] P90_LLInjector.esp
+[FE:19A] AK74M_LLInjector.esp
+[FE:19B] Aquila_LLInjector.esp
+[FE:19C] CROSS_InstituteExpeditionSuit_ArmorLLI.esp
+[FE:19D] ECO_CROSSInstituteExpedLL.esp
+[FE:19E] Cryolance_LLInjector.esp
+[FE:19F] FNX-45_LLInjector.esp
+[FE:1A0] GunGS_LLInjector.esp
+[FE:1A1] HKUSP45Tooun_LLInjector.esp
+[FE:1A2] QBZ191_LLInjector.esp
+[FE:1A3] ServiceRifle_LLInjector.esp
+[FE:1A4] M2045MagnumRev_LLInjector.esp
+[FE:1A5] CowboyRepeater_LLInjector.esp
+[FE:1A6] AltynHelmet_ArmorLLI.esp
+[FE:1A7] MetroMask_LLInjector.esp
+[FE:1A8] 3dscopes-bullpupbozar.esp
+[FE:1A9] 3dscopes-ccpack.esp
+[FE:1AA] 3dscopes-cryophaser.esp
+[FE:1AB] 3dscopes-g3family.esp
+[FE:1AC] 3dscopes-gyrojet.esp
+[FE:1AD] 3dscopes-huntingrevolver.esp
+[FE:1AE] 3dscopes-leeenfield.esp
+[FE:1AF] 3dscopes-m1a.esp
+[FE:1B0] 3dscopes-R91M.esp
+[FE:1B1] 3dscopes-ru556.esp
+[FE:1B2] 3dscopes-servicerifle.esp
+[FE:1B3] 3dscopes-usp.esp
+[FE:1B4] 3dscopes-wattz.esp
+[FE:1B5] 3dscopes-wmsr.esp
+[FE:1B6] Mk41GyroHMG_LoreFriendly.esp
+[FE:1B7] Cranky_LoreFriendly.esp
+[FE:1B8] DesertEagleNV_LoreFriendly.esp
+[FE:1B9] F4CW10mmSMG_LoreFriendly.esp
+[FE:1BA] GreaseGunSMG_LoreFriendly.esp
+[FE:1BB] HandmadeAntiMaterialRifle_LoreFriendly.esp
+[FE:1BC] HandmadeSMG_LoreFriendly.esp
+[FE:1BD] HK_MP5_LoreFriendly.esp
+[FE:1BE] HomemadeLasRevolver_LoreFriendly.esp
+[FE:1BF] Makeshiftshotgun_LoreFriendly.esp
+[FE:1C0] P220_LoreFriendly.esp
+[FE:1C1] pulsecarbine_LoreFriendly.esp
+[FE:1C2] RCW_LoreFriendly.esp
+[FE:1C3] Skb-MinigunsRebirth_LoreFriendly.esp
+[FE:1C4] Sten_LoreFriendly.esp
+[FE:1C5] TeslaHeavyGun_LoreFriendly.esp
+[FE:1C6] WinCowboyRepeater_LoreFriendly.esp
+[FE:1C7] BerettaM9FS_LoreFriendly.esp
+[FE:1C8] M1A_LoreFriendly.esp
+[FE:1C9] LeeEnfieldNo4MkI_LoreFriendly.esp
+[FE:1CA] American180nv_LoreFriendly.esp
+[FE:1CB] G3Family_LoreFriendly.esp
+[FE:1CC] 4estGimp - RO_One_PA_INNR.esp
+[FE:1CD] COA-PowerArmor-StatsUpgradePatch.esp
+[FE:1CE] 4estGimp_DoubleBarrel_LLPeer_Win1897.esp
+[FE:1CF] EBMD-UF04P Patch.esp
+[FE:1D0] FPVertibird.esp
+[FE:1D1] FPVRings.esp
+[FE:1D2] PAVertibirdDockFix.esp
+[FE:1D3] PAVertibirdNoFSTFix.esp
+[FE:1D4] FPV_Armored.esp
+[FE:1D5] FPVllamaCHV2Patch.esp
+[FE:1D6] FPV_CPDHP_Patch.esp
+[FE:1D7] FPV_MGHP_Patch.esp
+[FE:1D8] MedfordMemorialHelipad.esp
+[FE:1D9] SkipHSH1_6.esp
+[FE:1DA] DX Courser X-92 Power Suit.esp
+[FE:1DB] AGNISNikaCola01-XDI patch.esp
+[FE:1DC] KitCompanionPerkNoFall.esp
+[FE:1DD] TMaH Atlantic Office fix.esp
+[FE:1DE] Pip-Boy Flashlight.esp
+[FE:1DF] Raze My Settlement.esp
+[FE:1E0] Leto's Faster Alien Projectiles.esp
+[FE:1E1] Zeta Invaders Test.esp
+[FE:1E2] Realistit BATFL Terminal entry.esp
+[FE:1E3] PACE - Less Combat Chatter.esp
+[FE:1E4] PRP.esp
+[FE:1E5] Thuggysmurf_Optimization.esp
+[FE:1E6] 4estGimp - CR-ECO_NWR.esp
+[FE:1E7] Vault4_CELL.esp
+[FE:1E8] Vault4_Precombines.esp
+[FE:1E9] NukaWorldReborn_PACE.esp
+[FE:1EA] AA FusionCityRising_PACE.esp
+[FE:1EB] PRP-SS2.esp
+[FE:1EC] PRP-SS2-Fixes.esp
+[FE:1ED] 4estGimp - FusionGunSentinalSitePrevis.esp
+[FE:1EE] ECO_INNRoverride.esp
+[FE:1EF] 4estGimp - FallUI_R88_PA_INNR.esp
+[FE:1F0] NeuraLOD.esp
+[FE:1F1] Bashed Patch, 0.esp
+[FE:1F2] Ion-CS-ARMO_INNR_WEAP.esp
+[FE:1F3] Ion-CS-ACTI_ALCH_AMMO_BOOK_CMPO_COBJ_KEYM_LVLI_MESG_NOTE_QUST.esp
+[FE:1F4] Ion-CS-ACTI_ALCH_AMMO_BOOK_CMPO_COBJ_KEYM_LVLI_MESG_NOTE_QUST-part2.esp
+[FE:1F5] Ion-CS-ECZN_NPC_.esp
+[FE:1F6] Ion-CS_MISC.esp
+[FE:1F7] Ion-CS_MISC-part2.esp

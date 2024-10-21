@@ -1,0 +1,323 @@
+[0] 0x7FF67A8A4B60 Fallout4.exe+0154B60 -> 1035838+0x20
+
+REGISTERS:
+RAX 0x7CFC2CF904       (void*)
+RCX 0x0                (size_t)
+RDX 0x524C4643         (size_t)
+RBX 0x62               (size_t)
+RSP 0x7CFC2CF868       (void*)
+RBP 0x7CFC2CF929       (void*)
+RSI 0x7CFC2CF920       (void*)
+RDI 0x24080377260      (Actor*)
+Object Reference: None
+File: "FROST - AccessibleFortHagen.esp"
+Flags: 0x00200000
+Form ID: 0x000CD46C
+Form Type: 65
+R8  0x8                (size_t)
+R9  0x24175797EF0      (ExtraLocationRefType*)
+R10 0x24171542468      (void*)
+R11 0x2416ED3F660      (void*)
+R12 0x7FF680338088     (void* -> Fallout4.exe+5BE8088)
+R13 0x7FF680338080     (void* -> Fallout4.exe+5BE8080)
+R14 0x4                (size_t)
+R15 0x15               (size_t)
+
+STACK:
+[RSP+0  ] 0x7FF67ABD0C55     (void* -> Fallout4.exe+0480C55)
+[RSP+8  ] 0x24171542480      (void*)
+[RSP+10 ] 0x2416E4F43C0      (BGSLocation*)
+File: "RedsFrostFixes.esp"
+Flags: 0x00000001
+Form ID: 0x000BAACA
+Form Type: 107
+Full Name: "Fort Hagen"
+[RSP+18 ] 0x7FF67DE1E430     (type_info*)
+[RSP+20 ] 0x0                (size_t)
+[RSP+28 ] 0x60               (size_t)
+[RSP+30 ] 0x7FF67AAD5585     (void* -> Fallout4.exe+0385585)
+[RSP+38 ] 0x0                (size_t)
+[RSP+40 ] 0x2416E4F5E00      (BGSLocation*)
+File: "Fallout4.esm"
+Flags: 0x00000001
+Form ID: 0x00148C5E
+Form Type: 107
+Full Name: "Fort Hagen"
+[RSP+48 ] 0x7CFC2CF920       (void*)
+[RSP+50 ] 0x7FF680338088     (void* -> Fallout4.exe+5BE8088)
+[RSP+58 ] 0x60               (size_t)
+[RSP+60 ] 0x7FF67AACEF26     (void* -> Fallout4.exe+037EF26)
+[RSP+68 ] 0x62               (size_t)
+[RSP+70 ] 0x2416E4F5E00      (BGSLocation*)
+File: "Fallout4.esm"
+Flags: 0x00000001
+Form ID: 0x00148C5E
+Form Type: 107
+Full Name: "Fort Hagen"
+[RSP+78 ] 0x2416E4F5E00      (BGSLocation*)
+File: "Fallout4.esm"
+Flags: 0x00000001
+Form ID: 0x00148C5E
+Form Type: 107
+Full Name: "Fort Hagen"
+[RSP+80 ] 0x7FF600000008     (size_t)
+[RSP+88 ] 0x0                (size_t)
+[RSP+90 ] 0x2416E4F5E00      (BGSLocation*)
+File: "Fallout4.esm"
+Flags: 0x00000001
+Form ID: 0x00148C5E
+Form Type: 107
+Full Name: "Fort Hagen"
+[RSP+98 ] 0x9D2C300154FB5    (size_t)
+[RSP+A0 ] 0x2400020AC4E      (size_t)
+[RSP+A8 ] 0x24080377260      (Actor*)
+Object Reference: None
+File: "FROST - AccessibleFortHagen.esp"
+Flags: 0x00200000
+Form ID: 0x000CD46C
+Form Type: 65
+[RSP+B0 ] 0x240A61FE640      (char*) "h"
+[RSP+B8 ] 0x7CFC2CF910       (void*)
+[RSP+C0 ] 0x7CFC2CF990       (void*)
+[RSP+C8 ] 0x7CFC2CF904       (void*)
+[RSP+D0 ] 0x7FF680338088     (void* -> Fallout4.exe+5BE8088)
+[RSP+D8 ] 0x7CFC2CF9B0       (void*)
+[RSP+E0 ] 0x7FF680338084     (void* -> Fallout4.exe+5BE8084)
+[RSP+E8 ] 0x1                (size_t)
+[RSP+F0 ] 0x7FF680338080     (void* -> Fallout4.exe+5BE8080)
+[RSP+F8 ] 0x7FF680338088     (void* -> Fallout4.exe+5BE8088)
+[RSP+100] 0x2416E4F5E00      (BGSLocation*)
+File: "Fallout4.esm"
+Flags: 0x00000001
+Form ID: 0x00148C5E
+Form Type: 107
+Full Name: "Fort Hagen"
+[RSP+108] 0x240A61FE640      (char*) "h"
+[RSP+110] 0x2                (size_t)
+[RSP+118] 0x0                (size_t)
+[RSP+120] 0x7FF67A8A2C3C     (void* -> Fallout4.exe+0152C3C)
+[RSP+128] 0x2416E4F5E01      (void*)
+[RSP+130] 0x0                (size_t)
+[RSP+138] 0x24F9A            (size_t)
+[RSP+140] 0x24170F45E80      (BGSMaterialType*)
+File: "DLCNukaWorld.esm"
+Flags: 0x00000009
+Form ID: 0x0604E4C1
+Form Type: 102
+[RSP+148] 0x2416E4F5E00      (BGSLocation*)
+File: "Fallout4.esm"
+Flags: 0x00000001
+Form ID: 0x00148C5E
+Form Type: 107
+Full Name: "Fort Hagen"
+[RSP+150] 0x0                (size_t)
+[RSP+158] 0x0                (size_t)
+[RSP+160] 0x0                (size_t)
+[RSP+168] 0x0                (size_t)
+[RSP+170] 0x0                (size_t)
+[RSP+178] 0x0                (size_t)
+[RSP+180] 0x0                (size_t)
+[RSP+188] 0x2416E4F5E20      (BGSLocation*)
+File: "Fallout4.esm"
+Flags: 0x00000001
+Form ID: 0x00148C5E
+Form Type: 107
+Full Name: "Fort Hagen"
+[RSP+190] 0x0                (size_t)
+[RSP+198] 0x0                (size_t)
+[RSP+1A0] 0x0                (size_t)
+[RSP+1A8] 0x0                (size_t)
+[RSP+1B0] 0x0                (size_t)
+[RSP+1B8] 0x0                (size_t)
+[RSP+1C0] 0x0                (size_t)
+[RSP+1C8] 0x0                (size_t)
+[RSP+1D0] 0x0                (size_t)
+[RSP+1D8] 0x0                (size_t)
+[RSP+1E0] 0x0                (size_t)
+[RSP+1E8] 0x0                (size_t)
+[RSP+1F0] 0x0                (size_t)
+[RSP+1F8] 0x0                (size_t)
+[RSP+200] 0x0                (size_t)
+[RSP+208] 0x0                (size_t)
+[RSP+210] 0x0                (size_t)
+[RSP+218] 0x0                (size_t)
+[RSP+220] 0x0                (size_t)
+[RSP+228] 0x0                (size_t)
+[RSP+230] 0x2416E4F5E30      (BGSLocation*)
+File: "Fallout4.esm"
+Flags: 0x00000001
+Form ID: 0x00148C5E
+Form Type: 107
+Full Name: "Fort Hagen"
+[RSP+238] 0x0                (size_t)
+[RSP+240] 0x0                (size_t)
+[RSP+248] 0x0                (size_t)
+[RSP+250] 0x0                (size_t)
+[RSP+258] 0x0                (size_t)
+[RSP+260] 0x0                (size_t)
+[RSP+268] 0x0                (size_t)
+[RSP+270] 0x0                (size_t)
+[RSP+278] 0x0                (size_t)
+[RSP+280] 0x0                (size_t)
+[RSP+288] 0x0                (size_t)
+[RSP+290] 0x0                (size_t)
+[RSP+298] 0x0                (size_t)
+[RSP+2A0] 0x0                (size_t)
+[RSP+2A8] 0x0                (size_t)
+[RSP+2B0] 0x0                (size_t)
+[RSP+2B8] 0x240F81944F8      (void*)
+[RSP+2C0] 0x7FF67A8784CD     (void* -> Fallout4.exe+01284CD)
+[RSP+2C8] 0x240F81939B8      (void*)
+[RSP+2D0] 0x0                (size_t)
+[RSP+2D8] 0x0                (size_t)
+[RSP+2E0] 0x7FFD59711ACE     (void* -> KERNELBASE.dll+0021ACE)
+[RSP+2E8] 0x2417A05CD00      (void*)
+[RSP+2F0] 0x7FF67C2A0F26     (void* -> Fallout4.exe+1B50F26)
+[RSP+2F8] 0x7FF680339610     (void* -> Fallout4.exe+5BE9610)
+[RSP+300] 0x0                (size_t)
+[RSP+308] 0x0                (size_t)
+[RSP+310] 0x7FF67C4CC6DE     (void* -> Fallout4.exe+1D7C6DE)
+[RSP+318] 0x0                (size_t)
+[RSP+320] 0x0                (size_t)
+[RSP+328] 0x0                (size_t)
+[RSP+330] 0x0                (size_t)
+[RSP+338] 0x7FF6803395C0     (BSJobs::JobThread*)
+[RSP+340] 0x7FF67C2A1432     (void* -> Fallout4.exe+1B51432)
+[RSP+348] 0x0                (size_t)
+[RSP+350] 0x7FF6803395C0     (BSJobs::JobThread*)
+[RSP+358] 0x0                (size_t)
+[RSP+360] 0x7CFC2CFC20       (void*)
+[RSP+368] 0x0                (size_t)
+[RSP+370] 0x0                (size_t)
+[RSP+378] 0x0                (size_t)
+[RSP+380] 0x7FF67C2A3F67     (void* -> Fallout4.exe+1B53F67)
+[RSP+388] 0x7FF6803395C0     (BSJobs::JobThread*)
+[RSP+390] 0x0                (size_t)
+[RSP+398] 0x0                (size_t)
+[RSP+3A0] 0x0                (size_t)
+[RSP+3A8] 0x7FF6803395C0     (BSJobs::JobThread*)
+[RSP+3B0] 0x7FF67C26CFED     (void* -> Fallout4.exe+1B1CFED)
+[RSP+3B8] 0x4B8C             (size_t)
+[RSP+3C0] 0x7CFC2CFC40       (void*)
+[RSP+3C8] 0x2416636EE70      (void*)
+[RSP+3D0] 0x0                (size_t)
+[RSP+3D8] 0x7FF6803395C0     (BSJobs::JobThread*)
+[RSP+3E0] 0x0                (size_t)
+[RSP+3E8] 0x0                (size_t)
+[RSP+3F0] 0x7FFD5A067034     (void* -> KERNEL32.DLL+0017034)
+[RSP+3F8] 0x0                (size_t)
+[RSP+400] 0x0                (size_t)
+[RSP+408] 0x0                (size_t)
+[RSP+410] 0x0                (size_t)
+[RSP+418] 0x0                (size_t)
+[RSP+420] 0x7FFD5BAC2651     (void* -> ntdll.dll+0052651)
+[RSP+428] 0x0                (size_t)
+[RSP+430] 0x0                (size_t)
+[RSP+438] 0x0                (size_t)
+[RSP+440] 0x0                (size_t)
+[RSP+448] 0x0                (size_t)
+[RSP+450] 0x0                (size_t)
+[RSP+458] 0x3EC1228E00000000 (size_t)
+[RSP+460] 0x0                (size_t)
+[RSP+468] 0x0                (size_t)
+[RSP+470] 0x7FFD597FFD40     (void* -> KERNELBASE.dll+010FD40)
+[RSP+478] 0x7CFC2CE9C0       (void*)
+[RSP+480] 0x7F380001FFF59EFB (size_t)
+[RSP+488] 0x7FFD67BEDFCE     (size_t)
+[RSP+490] 0x7CFC2CE9C0       (void*)
+[RSP+498] 0x0                (size_t)
+[RSP+4A0] 0x0                (size_t)
+[RSP+4A8] 0x0                (size_t)
+[RSP+4B0] 0x0                (size_t)
+[RSP+4B8] 0x0                (size_t)
+[RSP+4C0] 0x0                (size_t)
+[RSP+4C8] 0x0                (size_t)
+[RSP+4D0] 0x0                (size_t)
+[RSP+4D8] 0x0                (size_t)
+[RSP+4E0] 0x0                (size_t)
+[RSP+4E8] 0x0                (size_t)
+[RSP+4F0] 0x0                (size_t)
+[RSP+4F8] 0x0                (size_t)
+[RSP+500] 0x0                (size_t)
+[RSP+508] 0x0                (size_t)
+[RSP+510] 0x0                (size_t)
+[RSP+518] 0x0                (size_t)
+[RSP+520] 0x0                (size_t)
+[RSP+528] 0x0                (size_t)
+[RSP+530] 0x0                (size_t)
+[RSP+538] 0x0                (size_t)
+[RSP+540] 0x0                (size_t)
+[RSP+548] 0x0                (size_t)
+[RSP+550] 0x0                (size_t)
+[RSP+558] 0x0                (size_t)
+[RSP+560] 0x0                (size_t)
+[RSP+568] 0x0                (size_t)
+[RSP+570] 0x0                (size_t)
+[RSP+578] 0x0                (size_t)
+[RSP+580] 0x0                (size_t)
+[RSP+588] 0x0                (size_t)
+[RSP+590] 0x0                (size_t)
+[RSP+598] 0x0                (size_t)
+[RSP+5A0] 0x0                (size_t)
+[RSP+5A8] 0x0                (size_t)
+[RSP+5B0] 0x0                (size_t)
+[RSP+5B8] 0x0                (size_t)
+[RSP+5C0] 0x0                (size_t)
+[RSP+5C8] 0x0                (size_t)
+[RSP+5D0] 0x0                (size_t)
+[RSP+5D8] 0x0                (size_t)
+[RSP+5E0] 0x0                (size_t)
+[RSP+5E8] 0x0                (size_t)
+[RSP+5F0] 0x0                (size_t)
+[RSP+5F8] 0x0                (size_t)
+[RSP+600] 0x0                (size_t)
+[RSP+608] 0x0                (size_t)
+[RSP+610] 0x0                (size_t)
+[RSP+618] 0x0                (size_t)
+[RSP+620] 0x0                (size_t)
+[RSP+628] 0x0                (size_t)
+[RSP+630] 0x0                (size_t)
+[RSP+638] 0x0                (size_t)
+[RSP+640] 0x0                (size_t)
+[RSP+648] 0x0                (size_t)
+[RSP+650] 0x0                (size_t)
+[RSP+658] 0x0                (size_t)
+[RSP+660] 0x0                (size_t)
+[RSP+668] 0x0                (size_t)
+[RSP+670] 0x0                (size_t)
+[RSP+678] 0x0                (size_t)
+[RSP+680] 0x0                (size_t)
+[RSP+688] 0x0                (size_t)
+[RSP+690] 0x0                (size_t)
+[RSP+698] 0x0                (size_t)
+[RSP+6A0] 0x0                (size_t)
+[RSP+6A8] 0x0                (size_t)
+[RSP+6B0] 0x0                (size_t)
+[RSP+6B8] 0x0                (size_t)
+[RSP+6C0] 0x0                (size_t)
+[RSP+6C8] 0x0                (size_t)
+[RSP+6D0] 0x0                (size_t)
+[RSP+6D8] 0x0                (size_t)
+[RSP+6E0] 0x0                (size_t)
+[RSP+6E8] 0x0                (size_t)
+[RSP+6F0] 0x0                (size_t)
+[RSP+6F8] 0x0                (size_t)
+[RSP+700] 0x0                (size_t)
+[RSP+708] 0x0                (size_t)
+[RSP+710] 0x0                (size_t)
+[RSP+718] 0x0                (size_t)
+[RSP+720] 0x0                (size_t)
+[RSP+728] 0x0                (size_t)
+[RSP+730] 0x0                (size_t)
+[RSP+738] 0x0                (size_t)
+[RSP+740] 0x0                (size_t)
+[RSP+748] 0x0                (size_t)
+[RSP+750] 0x0                (size_t)
+[RSP+758] 0x0                (size_t)
+[RSP+760] 0x0                (size_t)
+[RSP+768] 0x0                (size_t)
+[RSP+770] 0x0                (size_t)
+[RSP+778] 0x0                (size_t)
+[RSP+780] 0x0                (size_t)
+[RSP+788] 0x0                (size_t)
+[RSP+790] 0x0                (size_t)

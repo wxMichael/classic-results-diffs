@@ -1,0 +1,423 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     unofficial fallout 4 patch.esp
+[08]     hudframework.esm
+[09]     WorkshopFramework.esm
+[0A]     XDI.esm
+[0B]     ArmorKeywords.esm
+[0C]     SS2.esm
+[0D]     ss2_xpac_chapter2.esm
+[0E]     DamageThresholdFramework.esm
+[0F]     AAF.esm
+[10]     cheat room.esm
+[11]     Homemaker.esm
+[12]     Darlene.esm
+[13]     TortureDevices.esm
+[14]     Devious Devices.esm
+[15]     behSlaveMarket.esm
+[16]     Knockout Framework.esm
+[17]     Damage Threshold.esm
+[18]     DiverseBodies.esp
+[19]     Reverb and Ambiance Overhaul.esp
+[1A]     Arborist's Paradise.esp
+[1B]     UltraInteriorLighting.esp
+[1C]     humanslivehere.esp
+[1D]     FemsheppingsDiamondSquareLoft.esp
+[1E]     UltraExteriorLighting.esp
+[1F]     moreuniques.esp
+[20]     WelcometoGoodneighbor.esp
+[21]     clean and simple - hangman's alley startup.esp
+[22]     3dnpc_fo4.esp
+[23]     clean and simple - starlight drive in startup.esp
+[24]     mysticpines-01.esp
+[25]     SS2WastelandReconstructionKit.esp
+[26]     DavesPoses.esp
+[27]     Drumlin Diner and La Garage.esp
+[28]     bestintheworldforest.esp
+[29]     PiersOfSalem.esp
+[2A]     clean and simple - longfellow's cabin startup.esp
+[2B]     MojaveImports.esp
+[2C]     Armorsmith Extended.esp
+[2D]     SuperMutantRedux.esp
+[2E]     bettersettlements.esp
+[2F]     settlementsalvagebot.esp
+[30]     FaceMaxson.esp
+[31]     clearly piper new place.esp.2.esp
+[32]     M8r_Tags_SimSettlements2_C1_C2.esp
+[33]     SS2Extended.esp
+[34]     SS2_CityPlanPack_RiseOfTheCommonwealth.esp
+[35]     VisibleCompanionAffinity.esp
+[36]     IcebreakerCDO-Piper.esp
+[37]     ImmersiveGenericDialogues.esp
+[38]     UltraInteriorLighting_DarkerAmbience.esp
+[39]     FallComplete.esp
+[3A]     NAC.esp
+[3B]     Vivid Weathers - FO4.esp
+[3C]     Stop Eating Scrap!.esp
+[3D]     rangercabinhome.esp
+[3E]     WDI.esp
+[3F]     HumanResources.esp
+[40]     DiverseChildren.esp
+[41]     Orphans.esp
+[42]     fusion gun.esp
+[43]     3dnpc_fo4_dlc.esp
+[44]     Vivid Weathers - FO4 - Quest.esp
+[45]     W.A.T.Minutemen.esp
+[46]     Diamond City Enhanced.esp
+[47]     BetterOpenSeason.esp
+[48]     DCGuard_Overhaul.esp
+[49]     shezloft.esp
+[4A]     militarizedminutemen.esp
+[4B]     Backpacks of the Commonwealth.esp
+[4C]     Better Cooking Stations.esp
+[4D]     NV4.esp
+[4E]     RussianAssaultPack.esp
+[4F]     True Shadows - All DLC.esp
+[50]     tdow_lc.esp
+[51]     SettlementOfSalem.esp
+[52]     ABundleofTape.esp
+[53]     RaiderOverhaul.esp
+[54]     Vivid Weathers - FO4 - Far Harbor.esp
+[55]     Vivid Weathers - FO4 - Winter.esp
+[56]     Scopes.esp
+[57]     QuickTrade.esp
+[58]     HN66Fo4_Nails.esp
+[59]     PersistentVolumeSliders.esp
+[5A]     FunctionalDisplays.esp
+[5B]     VtawWardrobe4.esp
+[5C]     Eli_AlecusRogueHD.esp
+[5D]     UniquePlayer.esp
+[5E]     LooksMenu.esp
+[5F]     LooksMenu Customization Compendium.esp
+[60]     woodysWastelandStuff.esp
+[61]     ZaZOut4.esp
+[62]     BuildableBurningCampfires.esp
+[63]     BadChildren.esp
+[64]     Nexus_PMC.esp
+[65]     WDIFarHarborDLC.esp
+[66]     WDINukaWorldDLC.esp
+[67]     Crimsomrider's 1950s Feminine Outfits.esp
+[68]     Animated Drinking.esp
+[69]     KSHairdos.esp
+[6A]     IWNPCsOnly.esp
+[6B]     IWCarrington.esp
+[6C]     IWDesdemona.esp
+[6D]     IWGlory.esp
+[6E]     IWMagnolia.esp
+[6F]     IWMamaMurphy.esp
+[70]     IWMaxson.esp
+[71]     IWSturges.esp
+[72]     IWTinaDeLuca.esp
+[73]     IWCait.esp
+[74]     IWCurie.esp
+[75]     IWDanse.esp
+[76]     IWLongfellow.esp
+[77]     IWPiper.esp
+[78]     See You Sleep CW editon - Beta.esp
+[79]     Campsite.esp
+[7A]     tinadelucasettlervoiced.esp
+[7B]     YouAreSPECIAL.esp
+[7C]     ilbtest.esp
+[7D]     SS2_FDK_TinyLiving.esp
+[7E]     RealHandcuffs.esp
+[7F]     MREs.esp
+[80]     minutemenarmory.esp
+[81]     rangergearnew.esp
+[82]     CombinedArmsNV.esp
+[83]     DOOMMerged.esp
+[84]     expchineserifle.esp
+[85]     corvalhowidowshotgun.esp
+[86]     ChiappaTripleThreat.esp
+[87]     mirelurks nest.esp
+[88]     LNDatingTheCommonwealth.esp
+[89]     f4nvservicerifleredux.esp
+[8A]     mk14.esp
+[8B]     wattzlasergun.esp
+[8C]     rxl_bp70_animations.esp
+[8D]     P90.esp
+[8E]     MP5.esp
+[8F]     tbi_railroadsafehouse.esp
+[90]     cwcreateabot.esp
+[91]     p99.esp
+[92]     FP_FamilyPlanningEnhanced.esp
+[93]     ellen.esp
+[94]     SS2WastelandVenturers.esp
+[95]     llamaCompanionHeatherv2.esp
+[96]     m2045magnumrevolverrifle.esp
+[97]     artilleryv6.esp
+[98]     claymoreswordmod.esp
+[99]     FO4 NPCs Travel.esp
+[9A]     FCOM.esp
+[9B]     AkaWaterWorld.esp
+[9C]     SS2-Jampads2.esp
+[9D]     SS2_Addon_FHE.esp
+[9E]     Hoamaii_SleepTogetherAnywhere.esp
+[9F]     arcadeworkshoppack-extras.esp
+[A0]     autofireworks.esp
+[A1]     catstuff.esp
+[A2]     curioinc_immersivelawnflamingos.esp
+[A3]     dogrug.esp
+[A4]     fn five-seven v3.0.esp
+[A5]     looksmirror.esp
+[A6]     settlementmenumanager.esp
+[A7]     solarpower.esp
+[A8]     unlimited jet pack.esp
+[A9]     workshopturretpack.esp
+[AA]     xmaslights.esp
+[AB]     unionblaster.esp
+[AC]     jaggedsthirdrail.esp
+[AD]     ANiceOakTree Hairs.esp
+[AE]     Ephla's Unique Chems.esp
+[AF]     AnimChemRedux.esp
+[B0]     Crackle.esp
+[B1]     Smoke-able Cigars.esp
+[B2]     AA Lets Dance.esp
+[B3]     AA Lets Dance - NPC Version.esp
+[B4]     LazmansPoses.esp
+[B5]     UAP Moans.esp
+[B6]     Vioxsis_Strap-Ons.esp
+[B7]     SavageCabbage_Animations.esp
+[B8]     GetDirty.esp
+[B9]     AAF_SEU.esp
+[BA]     Atomic Lust.esp
+[BB]     Commonwealth Captives.esp
+[BC]     NightDress.esp
+[BD]     FO4Hotkeys.esp
+[BE]     FO4_AnimationsByLeito.esp
+[BF]     HR_Non_Lethal_Enslavement.esp
+[C0]     DarleneDLC.esp
+[C1]     ImmersiveLoversEmbraceRemastered.esp
+[C2]     ImmersiveLoversEmbraceMagnolia.esp
+[C3]     SS2-Jampads2_ImportsPatch.esp
+[C4]     Lots More Female Hairstyles.esp
+[C5]     KSHairsFemsheppingRadbeetle.esp
+[C6]     RoamingDeacon.45AC9.esp
+[C7]     RoamingPreston.19FD9.esp
+[C8]     LookingStranger.esp
+[C9]     Lots More Facial Hair.esp
+[CA]     Lots More Male Hairstyles.esp
+[CB]     RoamingMacCready.2740E.esp
+[CC]     RoamingX688.BBEE6.esp
+[CD]     KSHairdos_oel.esp
+[CE]     More Where That Came From Diamond City.esp
+[CF]     NAC-FH.esp
+[D0]     NAC-NW.esp
+[D1]     Vivid Weathers - Nuka World.esp
+[D2]     Non-Lethal Armory.esp
+[D3]     Orphan's Beds.esp
+[D4]     ChildrenofBunkerHill.esp
+[D5]     settlementtidybot.esp
+[D6]     GIAT_FAMAS.esp
+[D7]     Journal.esp
+[D8]     NaughtyNightie.esp
+[D9]     ChildrenofGoodneighbor.esp
+[DA]     Pet - Call -Feed Dogmeat.esp
+[DB]     Eli_Pride.esp
+[DC]     RemoteExplosives.esp
+[DD]     SaveAcadiaFromBoS.esp
+[DE]     FPAttributes.esp
+[DF]     SimHomestead2.esp
+[E0]     SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
+[E1]     SimpleSettlers.esp
+[E2]     SkEyes.esp
+[E3]     Slave&ModelPinup.esp
+[E4]     SleekStylesPack.esp
+[E5]     Sun's Poses.esp
+[E6]     LureEnemies.esp
+[E7]     Tactical Flashlights.esp
+[E8]     Tactical Flashlights - Settings.esp
+[E9]     TakeCover.esp
+[EA]     TheMobileMechanic.esp
+[EB]     Femme Fatale Velvet Dress Collection.esp
+[EC]     VtawWardrobe1.esp
+[ED]     VtawWardrobe2.esp
+[EE]     VtawWardrobe6.esp
+[EF]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
+[F0]     HN66Fo4_Rings.esp
+[F1]     LookingStranger-PorterGage.esp
+[F2]     SS2-PraRandomAddon.esp
+[F3]     RustDevilRedux.esp
+[F4]     StartMeUp.esp
+[F5]     StartMeUpNukaWorldPatch.esp
+[F6]     EnhancedLightsandFX.esp
+[F7]     EFF.esp
+[FE:000] ccbgsfo4018-gaussrifleprototype.esl
+[FE:001] ccbgsfo4045-advarccab.esl
+[FE:002] ccawnfo4001-brandedattire.esl
+[FE:003] ccbgsfo4048-dovah.esl
+[FE:004] ccbgsfo4110-ws_enclave.esl
+[FE:005] BakaFramework.esm
+[FE:006] Bubba Shot the Jukebox (Again).esl
+[FE:007] KitcatsCampingGear_Portable.esl
+[FE:008] BodyTalk3-RaiderNormalsFix.esl
+[FE:009] AAFThemes.esl
+[FE:00A] SSTMinutemanWatchtowers.esl
+[FE:00B] DonnyKowalskiNewHome.esl
+[FE:00C] LMBTOverlays.esl
+[FE:00D] RecruitDarla.esl
+[FE:00E] WashOutThatCum.esl
+[FE:00F] IllumBillboardsAIO.esl
+[FE:010] tooun_Animationpack.esl
+[FE:011] clean and simple - vault 88 startup.esp
+[FE:012] hdreworkedprojectrevised.esp
+[FE:013] AWHD4KFull.esp
+[FE:014] clean and simple - spectacle island startup.esp
+[FE:015] clean and simple - bunker hill startup.esp
+[FE:016] clean and simple - mechanist lair startup.esp
+[FE:017] clean and simple - egret tours marina startup.esp
+[FE:018] clean and simple - graygarden startup.esp
+[FE:019] clean and simple - warwick startup.esp
+[FE:01A] Elzee Cut SFX Restored.esp
+[FE:01B] Actor Scale Remover.esp
+[FE:01C] LOST Audio Tweaks.esp
+[FE:01D] keep radiants in commonwealth.esp
+[FE:01E] clean and simple - croup manor startup.esp
+[FE:01F] clean and simple - sunshine tidings startup.esp
+[FE:020] clean and simple - the slog startup.esp
+[FE:021] clean and simple - jamaica plain startup.esp
+[FE:022] clean and simple - covenant startup.esp
+[FE:023] clean and simple - greentop nursery startup.esp
+[FE:024] clean and simple - nuka world red rocket startup.esp
+[FE:025] clean and simple - kingsport lighthouse startup.esp
+[FE:026] clean and simple - boston airport startup.esp
+[FE:027] clean and simple - coastal cottage startup.esp
+[FE:028] clean and simple - abernathy startup.esp
+[FE:029] clean and simple - taffington boat house startup.esp
+[FE:02A] clean and simple - murkwater construction startup.esp
+[FE:02B] clean and simple - finch farm startup.esp
+[FE:02C] clean and simple - nordhagen beach startup.esp
+[FE:02D] clean and simple - county crossing startup.esp
+[FE:02E] clean and simple - somerville place startup.esp
+[FE:02F] clean and simple - ten pines bluff startup.esp
+[FE:030] PeopleArentTheSameHeightTodd510.esp
+[FE:031] clean and simple - outpost zimonja startup.esp
+[FE:032] Cleaner Far Harbor Environment Indoor and Outdoor.esp
+[FE:033] weightlessaid.esp
+[FE:034] clean and simple - oberland station startup.esp
+[FE:035] Fr4nssonsLightTweaks.esp
+[FE:036] Child Outfits Vanilla Standalone.esp
+[FE:037] MergedChildModsWithExtras.esp
+[FE:038] SalemOutskirtsSettlement.esp
+[FE:039] weightless junk.esp
+[FE:03A] Dank_ECO.esp
+[FE:03B] SS2Extended_OutfitInjectionPatch.esp
+[FE:03C] Docile Radstags.esp
+[FE:03D] moddablerobotsettlers.esp
+[FE:03E] PushAwayCompanions.esp
+[FE:03F] PushAwayCompanions_QuickTradeCompatibility.esp
+[FE:040] LAT Expansion Creatures.esp
+[FE:041] BobbleGirl.esp
+[FE:042] ImmersiveAnimationFramework.esp
+[FE:043] IAF - Far Harbor & Nuka World.esp
+[FE:044] RBUPCPoses.esp
+[FE:045] M8rDisablePipboyEffects.esp
+[FE:046] GKX Gone Fishin.esp
+[FE:047] CleanSettlement Beds.esp
+[FE:048] CompanionActiveWait.esp
+[FE:049] CompanionsGoHome_A.esp
+[FE:04A] JNF_Dresses.esp
+[FE:04B] CBBE.esp
+[FE:04C] GLXRM - Classic Deathclaws Standalone.esp
+[FE:04D] BetterGenerators.esp
+[FE:04E] AnimatedIngestibles.esp
+[FE:04F] AnimatedInjestibles_RobotFix.esp
+[FE:050] blackpipboyclean.esp
+[FE:051] FunctionalDisplays-Patch-DLC-ALL-Weightless.esp
+[FE:052] Quieter Settlements - Recommended Settings.esp
+[FE:053] FunctionalDisplays-AID-VIS-WI.esp
+[FE:054] Leah's Partial Chems.esp
+[FE:055] FunctionalDisplays-AID-WI-Weightless.esp
+[FE:056] DRHNPCsAreNotCartoonsAIO.esp
+[FE:057] Great Actors - NPCs.esp
+[FE:058] AllBuffedCompanion.esp
+[FE:059] Clothing Of The Commonwealth.esp
+[FE:05A] FunctionalDisplays-Patch-DLC-ALL-VIS.esp
+[FE:05B] FunctionalDisplays-Collectibles.esp
+[FE:05C] FunctionalDisplays-MISC-Weightless.esp
+[FE:05D] FunctionalDisplays-MISC-VIS.esp
+[FE:05E] Diello_ExtraIconsForFIS.esp
+[FE:05F] FIS-Naming-Weap-Armo-EN.esp
+[FE:060] Better Cooking Stations - Far Harbor + Nuka World patch.esp
+[FE:061] Cleaner Railroad HQ Environment.esp
+[FE:062] artilleryrange.esp
+[FE:063] aesballisticweaveholotape.esp
+[FE:064] FCOM-MM.esp
+[FE:065] rb_protonaxe.esp
+[FE:066] morejumpsuitsandpips.esp
+[FE:067] [xb1]accuracyadjustment.esp
+[FE:068] advsettleturretset.esp
+[FE:069] azarponytailhairstyles.esp
+[FE:06A] console_enable.esp
+[FE:06B] creativeteddybears.esp
+[FE:06C] factionbandanas.esp
+[FE:06D] fireflies.esp
+[FE:06E] improved map with visible roads.esp
+[FE:06F] k9tacticalharness.esp
+[FE:070] powerlinephysics.esp
+[FE:071] the eyes of beauty.esp
+[FE:072] waterpower.esp
+[FE:073] lovelorn radio.esp
+[FE:074] Burst Impact Blast FX.esp
+[FE:075] CWR - Replacer.esp
+[FE:076] Headcrab_Bunny.esp
+[FE:077] Clean Water - Tropical.esp
+[FE:078] jdmCouchSleep.esp
+[FE:079] TurretStands.esp
+[FE:07A] FO4HHS_AAF.esp
+[FE:07B] DiscreteFemaleSkeleton.esp
+[FE:07C] SuperMutantRedux VIS Patch.esp
+[FE:07D] SuperMutantRedux_ArmorSmithExtended.esp
+[FE:07E] JNFA.esp
+[FE:07F] WastelandFashionAccessories.esp
+[FE:080] WastelandFashion.esp
+[FE:081] PenPos.esp
+[FE:082] Zaz Particle Effects.esp
+[FE:083] AAF_Dirty_Sex.esp
+[FE:084] SEU_Voiced_Extension.esp
+[FE:085] AAF_UniquePlayer_Patch.esp
+[FE:086] Alex_Stripper_Pole.esp
+[FE:087] dD-Enhanced Blood Basic.esp
+[FE:088] dD - Screen Blood Duration Medium.esp
+[FE:089] DV-Durable Vertibirds.esp
+[FE:08A] P90NPC.esp
+[FE:08B] HCFB_Wild_Gage.esp
+[FE:08C] Kat's New Hairstyles1.4.esp
+[FE:08D] llamaCompanionHeatherV2-VIS-G-AE Patch.esp
+[FE:08E] Lazmans_highheels_outfits.esp
+[FE:08F] IcebreakerCDO-Settlements.esp
+[FE:090] JNF_Kidswear.esp
+[FE:091] LMBTOverlays.esp
+[FE:092] Child Posters.esp
+[FE:093] Famas_Addon.esp
+[FE:094] Radiant Clouds and Fogs.esp
+[FE:095] RealHandcuffs_AWKCR_Compatibility.esp
+[FE:096] RealHandcuffs_DD_Compatibility.esp
+[FE:097] OMEGA - AI-2 Tweaks.esp
+[FE:098] RussianStimpack.esp
+[FE:099] SS2_XDI Patch.esp
+[FE:09A] SS2_MagnussonTerminalFix.esp
+[FE:09B] SimSettlements2ChildSupport.esp
+[FE:09C] misfitink.esp
+[FE:09D] SnapdragonAnimations.esp
+[FE:09E] StartMeUpShaunDefaultAppearance.esp
+[FE:09F] Stimpaks help you breathe.esp
+[FE:0A0] Tougher Vertibirds.esp
+[FE:0A1] TransferSettlements.esp
+[FE:0A2] Eli_Sleeveless Outfits.esp
+[FE:0A3] FemsheppingsLightBrawlerOutfits.esp
+[FE:0A4] NPCGreetingTweak90.esp
+[FE:0A5] FOVSlider.esp
+[FE:0A6] PeopleArentlmcpatch510.esp
+[FE:0A7] companion infinite ammo.esp
+[FE:0A8] SS2-PraRandomAddon-FIS.esp
+[FE:0A9] SS2-PraRandomAddon-VIS.esp
+[FE:0AA] BostonFPSFixAIO.esp
+[FE:0AB] ELFX-PreVis.esp
+[FE:0AC] ELFX-3DNPC.esp
+[FE:0AD] cas sanctuary and red rocket.esp
+[FE:0AE] WorkshopFramework_ScriptOverride.esp

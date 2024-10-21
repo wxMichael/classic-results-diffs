@@ -1,0 +1,4 @@
+Buffout 4 v1.31.1 Feb 28 2023 00:32:02
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF6593DC44B Fallout4.exe+0B2C44B	mov rdx, [rax] 
+  BGSTypedKeywordValueArray<2>::ForEachKeyword<_lambda_aaf486ae635a32037f39251aafe5c0ac_>(_lambda_aaf486ae635a32037f39251aafe5c0ac_&)_B2C44B)

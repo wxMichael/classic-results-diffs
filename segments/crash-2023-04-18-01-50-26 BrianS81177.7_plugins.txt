@@ -1,0 +1,259 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     HUDFramework.esm
+[09]     XDI.esm
+[0A]     Fallout 4 Fixes.esm
+[0B]     MutantMenagerie.esm
+[0C]     MutantMenagerie_FarHarbor.esm
+[0D]     SouthOfTheSea.esm
+[0E]     InstituteTechnologyOverhaul.esm
+[0F]     CWPointLookoutFO4.esm
+[10]     MutantMenagerie_NukaWorld.esm
+[11]     MutantMenagerie_PointLookout.esm
+[12]     FOLIP - After Generation.esp
+[13]     Luxor's Summer Pine Trees Edition.esp
+[14]     Hunkered Down - No AtomCatsGarage.esp
+[15]     NukaWorldReborn.esp
+[16]     VivaNukaWorldQuests.esp
+[17]     RED.esp
+[18]     3DNPC_FO4.esp
+[19]     Weightless Aid & Junk.esp
+[1A]     SuperMutantRedux.esp
+[1B]     The Train.esp
+[1C]     Vault4.esp
+[1D]     WattzLaserGun.esp
+[1E]     FarHarborStory.esp
+[1F]     superscrap.esp
+[20]     BetterDrumlinDiner.esp
+[21]     Raider Gang Extended NPC (Fixed & Cleaned).esp
+[22]     3DNPC_FO4_DLC.esp
+[23]     Capped Out.esp
+[24]     W.A.T.Minutemen.esp
+[25]     GhoulBlood.esp
+[26]     CheatTerminal.esp
+[27]     DT_GunnerOutfitPack.esp
+[28]     True Legendary Enemies.esp
+[29]     DTG_LeveledListIntegration.esp
+[2A]     RadiumInc.esp
+[2B]     3DNPC_FO4Settler.esp
+[2C]     BallisticWeaveUnlocked.esp
+[2D]     CBBE.esp
+[2E]     [ARRETH] FGEP.esp
+[2F]     Classic Combat Armor.esp
+[30]     Tribal Forged.esp
+[31]     Leveled Raiders.esp
+[32]     RustDevilRedux.esp
+[33]     InstitWeapPosit.esp
+[34]     More XP from quests.esp
+[35]     VeryRichMerchants.esp
+[36]     MoreShipments-x5_CWFiberOptics.esp
+[37]     GCM.esp
+[38]     MutantMenagerie_Scripts.esp
+[39]     ruined_handmadeturrets.esp
+[3A]     GrafsSecurityFences.esp
+[3B]     CappyRing.esp
+[3C]     GaS2BVTurretsBal.esp
+[3D]     Camping.esp
+[3E]     Craftable_Bobbypin_Steel.esp
+[3F]     AVBGuns.esp
+[40]     PipeShotgun.esp
+[41]     M72GaussRifle.esp
+[42]     M72GaussRifleAttachmentPack.esp
+[43]     WastelandMachete.esp
+[44]     MMDestiny_AnarchistsCookbookVol1.esp
+[45]     Mossberg500.esp
+[46]     NZ41.esp
+[47]     NZ41LL.esp
+[48]     4estGimp - SotS AS MMWatchtower.esp
+[49]     BoSStory.esp
+[4A]     cambridgefacility.esp
+[4B]     AtomsGloryThreads.esp
+[4C]     llamaCompanionHeatherv2.esp
+[4D]     SilverShroudRing.esp
+[4E]     Danuvia43M.esp
+[4F]     FO4 NPCs Travel.esp
+[50]     NPCSTRAVELFIXES.esp
+[51]     PBW-TheServicePack.esp
+[52]     Zanthir_TasteOfBlues.esp
+[53]     BradbertonInteriors.esp
+[54]     Radiation Protection Ring 10000.esp
+[55]     HogSplitter.esp
+[56]     GreaseRatGarbs.esp
+[57]     127mmSMG.esp
+[58]     OTs-02 Kiparis.esp
+[59]     SkipDiMAMemories.esp
+[5A]     RemoveBlur.esp
+[5B]     BH_StG44.esp
+[5C]     MSCCMRD.esp
+[5D]     Boston Bandits.esp
+[5E]     Desert Punk Raiders.esp
+[5F]     JUMod_Outfit_JUHelmets.esp
+[60]     The Long Fall.esp
+[61]     Type89 MWM.esp
+[62]     DOOMDesertEagle.esp
+[63]     MekanikaUru.esp
+[64]     Grasslands - Healthy.esp
+[65]     RemingtonM11.esp
+[66]     KrissVector.esp
+[67]     Another Components Crafting Mod.esp
+[68]     Perk Up.esp
+[69]     IthacaOverhaul.esp
+[6A]     InstituteReformation.esp
+[6B]     PJARPistol.esp
+[6C]     OTs33Pernach.esp
+[6D]     T6M_LurkerPistolv2.esp
+[6E]     T6M_LurkerV2_3DS.esp
+[6F]     FatherCompanion.esp
+[70]     winryTop.esp
+[71]     sarahRageArmor.esp
+[72]     Waxwing.esp
+[73]     MiscHairstyle.esp
+[74]     The Eyes Of Beauty.esp
+[75]     KSHairdos_oel.esp
+[76]     SF PiperWright.esp
+[77]     TheKite_MilitiaWoman.esp
+[78]     InstituteTechnologyOverhaul - FULL.esp
+[FE:000] LegendaryDropBugfix.esl
+[FE:001] PPF.esm
+[FE:002] ODT - Raider Armors Retextured.esl
+[FE:003] GCM_DLC_Automatron.esl
+[FE:004] GCM_DLC_Far_Harbor.esl
+[FE:005] SSTMinutemanWatchtowers.esl
+[FE:006] Munitions - An Ammo Expansion.esl
+[FE:007] MWSentryTurret.esl
+[FE:008] LaserTurretsWithInstituteLaser.esl
+[FE:009] DLCLondon_JunkieKnightArmor.esl
+[FE:00A] AC_Drone.esl
+[FE:00B] CWPointLookoutFO4Patch.esl
+[FE:00C] PhotonDisruptor.esl
+[FE:00D] Munitions - Vanilla Ammo Addon.esl
+[FE:00E] Zapgun.esl
+[FE:00F] LIF.esl
+[FE:010] Waxwing.esl
+[FE:011] IceStormsHair.esl
+[FE:012] Thrive Redone.esp
+[FE:013] WhoIsTheGeneral.esp
+[FE:014] Ownership Fixes.esp
+[FE:015] LOST Audio Tweaks.esp
+[FE:016] Vault4-eXoPatch.esp
+[FE:017] Wattz Laser Gun - Unofficial Update.esp
+[FE:018] Dank_LEO.esp
+[FE:019] Keep Radiants In Commonwealth.esp
+[FE:01A] Luxor's Clean Water.esp
+[FE:01B] 3DNPC_FO4[Previsibines].esp
+[FE:01C] 4estGimp - BDD_HunkeredDown.esp
+[FE:01D] Dank_ECO.esp
+[FE:01E] JamaicaPlainPathing.esp
+[FE:01F] Wetness Shader Fix.esp
+[FE:020] MiscAnimTweaks.esp
+[FE:021] LAT Expansion Announcements.esp
+[FE:022] WTG - KRIC Patch.esp
+[FE:023] 4estGimp - MFGEP_Merged.esp
+[FE:024] FGEP-Legendary.esp
+[FE:025] CROSS_InstituteExpeditionarySuit.esp
+[FE:026] CROSS_CourserStrigidae.esp
+[FE:027] Look At Me IE.esp
+[FE:028] CROSS_CoA.esp
+[FE:029] Look At Me TE.esp
+[FE:02A] CROSS_VertibirdFlightsuit.esp
+[FE:02B] TheKite_Railroad_Handmaiden.esp
+[FE:02C] M8rDisablePipboyEffects.esp
+[FE:02D] Makeshifttextures.esp
+[FE:02E] DCP23_BW.esp
+[FE:02F] UncappedSettlementSurplus.esp
+[FE:030] NewRecipes.esp
+[FE:031] NewRecipesFH.esp
+[FE:032] NewRecipesNW.esp
+[FE:033] JetpackAnimationNoPA.esp
+[FE:034] Dank_LEO-Automatron.esp
+[FE:035] EvilInstituteHD4K.esp
+[FE:036] LUXORs Roads 4k.esp
+[FE:037] wornplastic.esp
+[FE:038] Pipe Gun Improvements.esp
+[FE:039] TrueLegendary-MFGEP_Patch.esp
+[FE:03A] TrueLegendary-Compat-SMR-UFO4P.esp
+[FE:03B] Dank_ECO-Munitions.esp
+[FE:03C] AsShroud.esp
+[FE:03D] Pipe Shotgun - Munitions Patch.esp
+[FE:03E] HHrailwayRifle.esp
+[FE:03F] hh_rail_LL.esp
+[FE:040] Dynamite_by_Flarescale.esp
+[FE:041] Radium Rifle Improvements.esp
+[FE:042] 4estGimp - M72_GuassRifle_Edit.esp
+[FE:043] Munitions-Additional Ammo.esp
+[FE:044] MAA Mod Author Resources.esp
+[FE:045] Mossberg 500 - Munitions Patch.esp
+[FE:046] WulfRaiderAccessories.esp
+[FE:047] BBgunForMunitions.esp
+[FE:048] CROSS_BrotherhoodRecon.esp
+[FE:049] Look At Me BE.esp
+[FE:04A] Domenicus Better Generators.esp
+[FE:04B] TerrainUndersides.esp
+[FE:04C] XR92_Rifle.esp
+[FE:04D] XR92Optics.esp
+[FE:04E] Vault4-PreVis.esp
+[FE:04F] CoAPowerArmor.esp
+[FE:050] GreaseRatGarbs_SettlerPatch.esp
+[FE:051] GreaseRatGarbs_RaiderPatch.esp
+[FE:052] 12.7mm SMG - Munitions Patch.esp
+[FE:053] A Taste of Blues - Munitions Patch.esp
+[FE:054] Point Lookout - Munitions Patch.esp
+[FE:055] Munitions - Reduced Ammo Patch.esp
+[FE:056] BoS Story Typo Patch.esp
+[FE:057] BH_StG44_LL.esp
+[FE:058] BH_StG44_LowerSounds.esp
+[FE:059] BHSTG44_Munitions.esp
+[FE:05A] 3DNPC_FO4-UFO4P.esp
+[FE:05B] Desert Punks - JU Helms Redux patch.esp
+[FE:05C] DOOMPumpShotgun.esp
+[FE:05D] SelakiiRattleSnakeRevolver.esp
+[FE:05E] 3DNPCs Typo Patch.esp
+[FE:05F] 4estGimp - ZapGunESL_LL.esp
+[FE:060] RemingtonM11_LvlListPatch.esp
+[FE:061] KrissVector_munitions.esp
+[FE:062] 4estGimp - SotS Atoms Storm Atoms Glory Threads.esp
+[FE:063] OTs02_MAA.esp
+[FE:064] LC's UHD Stingwing.esp
+[FE:065] LC's UHD Mirelurk King.esp
+[FE:066] LC's UHD Gatorclaw.esp
+[FE:067] LC's UHD Bloatfly.esp
+[FE:068] LC's UHD Radroach.esp
+[FE:069] ACWARR.esp
+[FE:06A] Danuvia 43M - Munitions Patch.esp
+[FE:06B] Desert Eagle - Munitions Patch.esp
+[FE:06C] Mekanika Uru - Munitions Patch.esp
+[FE:06D] NZ41 - MUNITIONS PATCH.esp
+[FE:06E] R91 MUNITIONS PATCH.esp
+[FE:06F] 4estGimp - GOP NPC LL Integration Update.esp
+[FE:070] ArmorPenetrationBugFix.esp
+[FE:071] Weapon Scrapping Redone.esp
+[FE:072] Clothing Scrapping Redone.esp
+[FE:073] Less intrusive tutorial.esp
+[FE:074] VeryZen_MutantMenagerie.esp
+[FE:075] TYPE 89 - MUNITIONS PATCH.esp
+[FE:076] WastelandWideWarehouse.esp
+[FE:077] 4estGimp - ValveHandgunEdit and PipeBA Replacer Compacted.esp
+[FE:078] 4estGimp-PJAR_LLInject.esp
+[FE:079] OTs33MAA.esp
+[FE:07A] LC's UHD Deathclaw.esp
+[FE:07B] AIO 2K Edition.esp
+[FE:07C] SF Cait.esp
+[FE:07D] CombatRifleReduxMica_STANDALONE.esp
+[FE:07E] Look At Me RE.esp
+[FE:07F] SF Curie.esp
+[FE:080] PRP.esp
+[FE:081] SouthOfTheSea[Previs].esp
+[FE:082] PRP-Compat-PointLookout.esp
+[FE:083] Dank_ECO-INNR.esp
+[FE:084] Dank_ECO_DLCCoast.esp
+[FE:085] Dank_ECO_DLCNukaWorld.esp
+[FE:086] Dank_ECO_DLCRobot.esp
+[FE:087] Dank_ECO-LEO.esp
+[FE:088] Dank_LEO_DLCCoast.esp
+[FE:089] Dank_LEO_DLCNukaWorld.esp

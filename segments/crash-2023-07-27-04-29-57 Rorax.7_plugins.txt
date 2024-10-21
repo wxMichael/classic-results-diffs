@@ -1,0 +1,290 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     cczsef04001-bhouse.esm
+[08]     cctosfo4001-neosky.esm
+[09]     cctosfo4002_neonflats.esm
+[0A]     Unofficial Fallout 4 Patch.esp
+[0B]     HUDFramework.esm
+[0C]     XDI.esm
+[0D]     WorkshopFramework.esm
+[0E]     SouthOfTheSea.esm
+[0F]     CWPointLookoutFO4.esm
+[10]     SS2.esm
+[11]     SS2_XPAC_Chapter2.esm
+[12]     InstituteTechnologyOverhaul.esm
+[13]     Vault-Tec Workshop Overhaul Redux.esp
+[14]     LooksMenu.esp
+[15]     SettlementMenuManager.esp
+[16]     CreationClubDelay.esp
+[17]     StartMeUp.esp
+[18]     StartMeUpNukaWorldPatch.esp
+[19]     ImmersiveAnimationFramework.esp
+[1A]     QuickTrade.esp
+[1B]     Be Exceptional.esp
+[1C]     RED.esp
+[1D]     Crafting Mastery 2.esp
+[1E]     BeExceptionalIntCorrection.esp
+[1F]     CherchezAndABachelor.esp
+[20]     NAC.esp
+[21]     NAC-FH.esp
+[22]     NAC-NW.esp
+[23]     GCM.esp
+[24]     SCM.esp
+[25]     VAFS Redux.esp
+[26]     VAFS Redux DLC Patch.esp
+[27]     Faster Terminal Displays (20x).esp
+[28]     RecycleBottles.esp
+[29]     3DNPC_FO4Settler.esp
+[2A]     FO4 NPCs Travel.esp
+[2B]     InstitWeapPosit.esp
+[2C]     CBBE.esp
+[2D]     RetroInstitute.esp
+[2E]     InstituteReformation.esp
+[2F]     InstituteTechnologyOverhaul - FULL.esp
+[30]     DT_GunnerOutfitPack.esp
+[31]     DT_GunnerOutfitPackCBBE.esp
+[32]     DTG_LeveledListIntegration.esp
+[33]     W.A.T.Minutemen.esp
+[34]     MGRemesh.esp
+[35]     F4NVServiceRifleRedux.esp
+[36]     PigAAMC96.esp
+[37]     F4CW10mmSMG.esp
+[38]     SigSauer127.esp
+[39]     127mmSMG.esp
+[3A]     GreaseGunSMG.esp
+[3B]     Nailer MKII.esp
+[3C]     RailwayPistol.esp
+[3D]     22LR_SilentPistol_ENG.esp
+[3E]     ABundleofTape.esp
+[3F]     F4NVServiceRifleRedux_Patch_Uniques.esp
+[40]     PhotonDisruptor.esp
+[41]     BetaWaveHarmonica.esp
+[42]     WattzLaserGun.esp
+[43]     Archimedes-II.esp
+[44]     GrenadeExpansionPack.esp
+[45]     ChinaLakeandHolorifle.esp
+[46]     GrenadeExpansionPackChinaLakePatch.esp
+[47]     RaiderArmorPaintsRedux.esp
+[48]     RoboArmorPaints.esp
+[49]     Secret Service Armor.esp
+[4A]     Dank_SynthUniformDistribution.esp
+[4B]     MercenaryOutfits.esp
+[4C]     MiscOutfitPackv2.esp
+[4D]     F3metalarmor.esp
+[4E]     WestTekTacticalOptics.esp
+[4F]     Tactical Flashlights.esp
+[50]     Tactical Flashlights - Settings.esp
+[51]     Backpacks of the Commonwealth.esp
+[52]     Consistent Power Armor Overhaul.esp
+[53]     PAMAP.esp
+[54]     Brotherhood Power Armor Overhaul.esp
+[55]     GhoulBlood.esp
+[56]     Reinforcements.esp
+[57]     Radical.esp
+[58]     ruined_handmadeturrets.esp
+[59]     AEWS.esp
+[5A]     SuperMutantRedux.esp
+[5B]     EveryonesBestFriend.esp
+[5C]     CazadorsOnly.esp
+[5D]     AEWS_NukaWorldPatch.esp
+[5E]     CF_AtomicWarlord.esp
+[5F]     CF_AtomicWarlord_CBBE.esp
+[60]     AtomsGloryThreads.esp
+[61]     Antagonist.esp
+[62]     Miami Misadventures EP1.esp
+[63]     SS2Extended.esp
+[64]     SS2_CityPlanPack_RiseOfTheCommonwealth.esp
+[65]     SS2_Addon_3DNPC_SotC.esp
+[66]     SS2_ruined_simsettlement_addonpack.esp
+[67]     0_Vault120.esp
+[68]     WorkshopRearranged.esp
+[69]     WorkshopRearranged_ArcadeCabinets_Patch.esp
+[6A]     WorkshopRearranged_DecorationsPack_Patch.esp
+[6B]     WorkshopRearranged_MidCentury_Patch.esp
+[6C]     WorkshopRearranged_NukaCollector_Patch.esp
+[6D]     WorkshopRearranged_SlocumsJoe_Patch.esp
+[6E]     retakrew7 - automatron synth 1 2.esp
+[6F]     KURO.esp
+[70]     GrafsSecurityFencesNoMenu.esp
+[71]     Thematic and Practical.esp
+[72]     Thematic and Practical - DLC.esp
+[73]     CoASettlers.esp
+[74]     EvilViking13_PatchworkSanctuaryBridge.esp
+[75]     SS2UI.esp
+[76]     M8r Complex Sorter.esp
+[77]     FO4LODGen-DLCCoast-WindTurbines.esp
+[FE:000] ccbgsfo4016-prey.esl
+[FE:001] ccbgsfo4018-gaussrifleprototype.esl
+[FE:002] ccbgsfo4019-chinesestealtharmor.esl
+[FE:003] ccbgsfo4033-powerarmorskinwhite.esl
+[FE:004] ccfsvfo4002-midcenturymodern.esl
+[FE:005] cceejfo4001-decorationpack.esl
+[FE:006] ccbgsfo4045-advarccab.esl
+[FE:007] ccfsvfo4003-slocum.esl
+[FE:008] ccgcafo4008-factionws08inst.esl
+[FE:009] ccgcafo4013-factionas02bos.esl
+[FE:00A] ccgcafo4017-factionas06inst.esl
+[FE:00B] ccgcafo4018-factionas07mm.esl
+[FE:00C] ccgcafo4020-factionas09rr.esl
+[FE:00D] ccgcafo4022-factionas11vt.esl
+[FE:00E] ccgcafo4023-factionas12army.esl
+[FE:00F] ccbgsfo4050-dgbcoll.esl
+[FE:010] ccbgsfo4051-dgbox.esl
+[FE:011] ccbgsfo4052-dgdal.esl
+[FE:012] ccbgsfo4053-dggoldr.esl
+[FE:013] ccbgsfo4054-dggreatd.esl
+[FE:014] ccbgsfo4055-dghusk.esl
+[FE:015] ccbgsfo4056-dglabb.esl
+[FE:016] ccbgsfo4057-dglaby.esl
+[FE:017] ccbgsfo4058-dglabc.esl
+[FE:018] ccbgsfo4059-dgpit.esl
+[FE:019] ccbgsfo4060-dgrot.esl
+[FE:01A] ccbgsfo4061-dgshiinu.esl
+[FE:01B] ccbgsfo4036-trnsdg.esl
+[FE:01C] ccrzrfo4004-pipinst.esl
+[FE:01D] cceejfo4002-nuka.esl
+[FE:01E] ccbgsfo4116-heavyflamer.esl
+[FE:01F] ccacxfo4001-vsuit.esl
+[FE:020] Munitions - An Ammo Expansion.esl
+[FE:021] Munitions - Vanilla Ammo Addon.esl
+[FE:022] FATE Core - Fixes.esl
+[FE:023] PPF.esm
+[FE:024] LIF.esl
+[FE:025] StandaloneWorkbenches.esl
+[FE:026] GCM_DLC_Far_Harbor.esl
+[FE:027] GCM_DLC_Automatron.esl
+[FE:028] RunningWithHandsAnim.esl
+[FE:029] LARGE_Immersive_Molotovs_Flamer_Ruddy88ExtendedESL.esl
+[FE:02A] CWPointLookoutFO4Patch.esl
+[FE:02B] PMWorkshopPack.esl
+[FE:02C] Centaur.esl
+[FE:02D] Cazadors.esl
+[FE:02E] Geckos.esl
+[FE:02F] VTRMojaveGeckosEggsAreNotSpecial.esl
+[FE:030] Dilapidated Roads - Charcoal.esl
+[FE:031] HandmadeAntiMaterielRifle.esl
+[FE:032] ClassicUnarmedPack.esl
+[FE:033] Skb_MachinegunsRebirth.esl
+[FE:034] CWOutfitPackPart2.esl
+[FE:035] PMOutfitPack.esl
+[FE:036] TD - Point Lookout.esp
+[FE:037] Rusty Face Fix.esp
+[FE:038] FATE Module - Basketball Crash Fix.esp
+[FE:039] M8rDisablePipboyEffects.esp
+[FE:03A] StartMeUpShaunDefaultAppearance.esp
+[FE:03B] FATE Patch - Start Me Up Redux.esp
+[FE:03C] IAF - Far Harbor & Nuka World.esp
+[FE:03D] Dank_ECO.esp
+[FE:03E] Dank_ECO_DLCRobot.esp
+[FE:03F] Dank_ECO_DLCCoast.esp
+[FE:040] Dank_ECO_DLCNukaWorld.esp
+[FE:041] Dank_ECO-Munitions.esp
+[FE:042] Dank_LEO.esp
+[FE:043] Dank_ECO-LEO.esp
+[FE:044] Dank_LEO-Automatron.esp
+[FE:045] Dank_LEO_DLCCoast.esp
+[FE:046] Dank_LEO_DLCNukaWorld.esp
+[FE:047] NAC-RemoveMenuItem.esp
+[FE:048] FATE Patch - VAFS VANS Redux.esp
+[FE:049] FATE Patch - VAFS Redux + LEO.esp
+[FE:04A] ClassicRadiationPoisoning2.esp
+[FE:04B] Consistent Crops.esp
+[FE:04C] performout.esp
+[FE:04D] Fixed Gobo Effects.esp
+[FE:04E] Wetness Shader Fix.esp
+[FE:04F] Holly Fix.esp
+[FE:050] Gloomy Glass.esp
+[FE:051] FO4ParticlePatch.esp
+[FE:052] Makeshifttextures.esp
+[FE:053] CROSS_CourserStrigidae.esp
+[FE:054] CROSS_InstituteExpeditionarySuit.esp
+[FE:055] Dank_CrossArmorIntegration.esp
+[FE:056] Desert Punk Raiders.esp
+[FE:057] Rax_RaiderPatch.esp
+[FE:058] 4estGimp - GOP NPC LL Integration Update.esp
+[FE:059] Crafting-GunnerOutfitPack-Standard.esp
+[FE:05A] Rax_GunnerPatch.esp
+[FE:05B] TheKite_Railroad_Handmaiden.esp
+[FE:05C] Look At Me RE.esp
+[FE:05D] SRO - Syringer Overhaul.esp
+[FE:05E] Pipe Gun Improvements.esp
+[FE:05F] Pipe Gun Improvements - Syringer Addon.esp
+[FE:060] Radium Rifle Improvements.esp
+[FE:061] A Bundle of Tape - Unofficial Update.esp
+[FE:062] A Bundle of Tape - Varmint Rifle .22 Ammo Patch.esp
+[FE:063] Service Rifle - Unofficial Update.esp
+[FE:064] 12.7mm Pistol - Unofficial Update.esp
+[FE:065] F4CW10mmSMG_Addon.esp
+[FE:066] 4estGimp - F3_10mmSMG_Edit.esp
+[FE:067] 22 Pistol - Unofficial Update.esp
+[FE:068] HeavySupportWeapons.esp
+[FE:069] Radvolver.esp
+[FE:06A] CROSS_BreakActionLaser.esp
+[FE:06B] SelectPhoton_ITOinjectPatch.esp
+[FE:06C] 4estGimp - CROSS_Institute_BreakActionLaser.esp
+[FE:06D] Wattz Laser Gun - Unofficial Update.esp
+[FE:06E] CROSS_CryoLance.esp
+[FE:06F] Munitions - Fusion Cell Grenades.esp
+[FE:070] CUP_BallisticFist_Patch.esp
+[FE:071] 12.7mm SMG - Munitions Patch.esp
+[FE:072] Machineguns Rebirth - Munitions Patch.esp
+[FE:073] Nailer MKII - Munitions Patch.esp
+[FE:074] Point Lookout - Munitions Patch.esp
+[FE:075] Dank_SynthArmorExtension.esp
+[FE:076] Backback_TeddyBearByFeather.esp
+[FE:077] STALKER_Backpack.esp
+[FE:078] Scavver's Backpacks.esp
+[FE:079] AnS Wearable Backpacks and Pouches.esp
+[FE:07A] Diacute's Backpack Of The Commonwealth.esp
+[FE:07B] 4estGimp - WestTekTac_Injection.esp
+[FE:07C] FasterCazador.esp
+[FE:07D] ImmersiveHandmadeTurretsReplacer.esp
+[FE:07E] OMEGA - IAF Geckos Patch.esp
+[FE:07F] 4estGimp - SotS Atoms Storm Atoms Glory Threads.esp
+[FE:080] SOTS Atom's Storm - IAF Patch.esp
+[FE:081] AUR_Rebuild_Shared.esp
+[FE:082] AUR_Rebuild_AIO_Pt01.esp
+[FE:083] AUR_RebuildAIO_PatchworkBridgePatch.esp
+[FE:084] Crafting Mastery 2 - Patch ECO.esp
+[FE:085] Crafting Mastery 2 - Patch ECO Recipe Remover.esp
+[FE:086] Crafting Mastery 2 - Fair Nuka Mixes.esp
+[FE:087] Crafting Mastery 2 - CC Chinese Stealth Armor Patch.esp
+[FE:088] Crafting Mastery 2 - CC Gauss Rifle Patch.esp
+[FE:089] Crafting Mastery 2 - CC Nuka Cola Collector Patch.esp
+[FE:08A] Crafting Mastery 2 - Syringer Upgrades.esp
+[FE:08B] Crafting Mastery 2 - Throwables in the Explosives Bench.esp
+[FE:08C] Crafting Mastery 2 - Patch Grenade Expansion Pack 2.esp
+[FE:08D] Dank_ECO-INNR.esp
+[FE:08E] SCOURGE - Vanilla.esp
+[FE:08F] SCOURGE - Automatron.esp
+[FE:090] SCOURGE - Far Harbor.esp
+[FE:091] SCOURGE - Nuka World.esp
+[FE:092] SCOURGE - Patch - Point Lookout.esp
+[FE:093] True Damage.esp
+[FE:094] True Damage - DLC.esp
+[FE:095] True Damage - Munitions.esp
+[FE:096] True Damage - Vehicle Module.esp
+[FE:097] TD - 22LR Silenced Pistol.esp
+[FE:098] TD - Machineguns Rebirth ESL.esp
+[FE:099] TD - ChinaLakeandHolorifle.esp
+[FE:09A] MAIM Distributor.esp
+[FE:09B] MAIM 2.esp
+[FE:09C] MAIM 2 - Dismemberment Patch.esp
+[FE:09D] MAIM 2 - Point Lookout.esp
+[FE:09E] True Damage - Perk Module.esp
+[FE:09F] True Damage - Perk Module DLC.esp
+[FE:0A0] PRP.esp
+[FE:0A1] PRP-Compat-PointLookout.esp
+[FE:0A2] SouthOfTheSea[Previs].esp
+[FE:0A3] 0_Vault120_PRP.esp
+[FE:0A4] AUR_Rebuild_AIO_Pt01_PRP.esp
+[FE:0A5] PRP-SS2.esp
+[FE:0A6] PRP-SS2-Fixes.esp
+[FE:0A7] PRP-SS2-Fixes-Ch2.esp
+[FE:0A8] WestonWaterLOD.esp
+[FE:0A9] FOLIP - New LODs.esp

@@ -1,0 +1,62 @@
+[0] 0x7FF923375CE2   Buffout4.dll+0085CE2
+[1] 0x7FF923369E7F   Buffout4.dll+0079E7F
+[2] 0x7FF9233734F5   Buffout4.dll+00834F5
+[3] 0x7FF95ABAE017 KERNELBASE.dll+012E017
+[4] 0x7FF95D2D54B0      ntdll.dll+00A54B0
+[5] 0x7FF95D2BCA06      ntdll.dll+008CA06
+[6] 0x7FF95D2D23AF      ntdll.dll+00A23AF
+[7] 0x7FF95D2814B4      ntdll.dll+00514B4
+[8] 0x7FF95D2D0EBE      ntdll.dll+00A0EBE
+
+REGISTERS:
+
+STACK:
+[RSP+0  ] 0x7FF9211CEEE1     (void* -> FakeThroughScope.dll+003EEE1)
+[RSP+28 ] 0x7FF92125F84C     (void* -> FakeThroughScope.dll+00CF84C)
+[RSP+30 ] 0x7FF92125F850     (void* -> FakeThroughScope.dll+00CF850)
+[RSP+40 ] 0x7FF9573E8F2E     (void* -> d3d11.dll+0128F2E)
+[RSP+80 ] 0x7FF9573EC708     (void* -> d3d11.dll+012C708)
+[RSP+A8 ] 0x7FF702D5E450     (void* -> Fallout4.exe+609E450)
+[RSP+D0 ] 0x7FF6FE9DBAE0     (void* -> Fallout4.exe+1D1BAE0)
+[RSP+138] 0x146FC088D00      (NiCamera*)
+Name: "WorldRoot Camera"
+[RSP+170] 0x7FF6FE9D2DAE     (void* -> Fallout4.exe+1D12DAE)
+[RSP+178] 0x7FF702D5E450     (void* -> Fallout4.exe+609E450)
+[RSP+190] 0x7FF701327600     (void* -> Fallout4.exe+4667600)
+[RSP+290] 0x0                (size_t)
+[RSP+300] 0x7FF6FF510E9C     (void* -> Fallout4.exe+2850E9C)
+[RSP+3A0] 0x7FF6FF517604     (void* -> Fallout4.exe+2857604)
+[RSP+420] 0x7FF6FD9FCCBF     (void* -> Fallout4.exe+0D3CCBF)
+[RSP+450] 0x7FF6FD9F8906     (void* -> Fallout4.exe+0D38906)
+[RSP+480] 0x7FF6FCD53A1B     (void* -> Fallout4.exe+0093A1B)
+[RSP+498] 0x1461EF7B820      (ShadowSceneNode*)
+Name: "shadow scene node"
+[RSP+4A0] 0x7FF6FCDBE71F     (void* -> Fallout4.exe+00FE71F)
+[RSP+4B0] 0x7FF6FD1407E3     (void* -> Fallout4.exe+04807E3)
+[RSP+4E0] 0x7FF6FDA01B0A     (void* -> Fallout4.exe+0D41B0A)
+[RSP+530] 0x7FF6FD9FAA75     (void* -> Fallout4.exe+0D3AA75)
+[RSP+550] 0x1461FE9BB50      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF003024
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00420409
+Form ID: 0x001BBEB2
+Form Type: 65
+[RSP+5A0] 0x7FF6FD9F9551     (void* -> Fallout4.exe+0D39551)
+[RSP+5A8] 0x7FF702726DD0     (UI*)
+[RSP+5B8] 0x7FF702726DD0     (UI*)
+[RSP+5F0] 0x7FF6FD9F6E10     (void* -> Fallout4.exe+0D36E10)
+[RSP+620] 0x7FF6FD9F5950     (void* -> Fallout4.exe+0D35950)
+[RSP+650] 0x7FF6FF5F7157     (void* -> Fallout4.exe+2937157)
+[RSP+658] 0x1465EDD7056      (char*) """
+[RSP+690] 0x7FF95BEB7344     (void* -> KERNEL32.DLL+0017344)
+[RSP+6C0] 0x7FF95D2826B1     (void* -> ntdll.dll+00526B1)
+[RSP+710] 0x7FF95ABADE30     (void* -> KERNELBASE.dll+012DE30)
+[RSP+810] 0x0                (size_t)
+[RSP+910] 0x0                (size_t)
+[RSP+A10] 0x0                (size_t)
+[RSP+B10] 0x0                (size_t)
+[RSP+C10] 0x0                (size_t)

@@ -1,0 +1,210 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     XDI.esm
+[09]     ArmorKeywords.esm
+[0A]     TacticalReload.esm
+[0B]     Fallout 4 Fixes.esm
+[0C]     PANPC.esm
+[0D]     PACE.esm
+[0E]     Arbitration - Resources.esm
+[0F]     Armorsmith Extended.esp
+[10]     PiperCaitCurieDialogueOverhaul.esp
+[11]     CUYC_CleanUpYourCorpses.esp
+[12]     MutilatedDeadBodies.esp
+[13]     Raider Children.esp
+[14]     3dscopes-replacer.esp
+[15]     3dscopes-framework.esp
+[16]     Classic Combat Armor.esp
+[17]     Reverb and Ambiance Overhaul.esp
+[18]     VisibleCompanionAffinity.esp
+[19]     jsrs.esp
+[1A]     Raider Gang Extended NPC (Fixed & Cleaned).esp
+[1B]     CombinedArmsNV.esp
+[1C]     CombinedArmsEXPack.esp
+[1D]     W.A.T.Minutemen.esp
+[1E]     CheatTerminal.esp
+[1F]     MMSquads.esp
+[20]     MilitarizedMinutemen.esp
+[21]     MilitarisedMinutemen_PatchesAddon.esp
+[22]     Eli_Sanctuary Bunker.esp
+[23]     Eli_Armour_Compendium.esp
+[24]     BetterOpenSeason.esp
+[25]     Zapgun.esp
+[26]     QBZ191.esp
+[27]     LAER.esp
+[28]     1CAS_ServiceRifle.esp
+[29]     MWEagle.esp
+[2A]     9mmPistol.esp
+[2B]     Wana_SA58.esp
+[2C]     WattzLaserGun.esp
+[2D]     GIAT_FAMAS.esp
+[2E]     Heavy BoS.esp
+[2F]     Fallout 4 Consistency Tweaks.esp
+[30]     Laser Weapon Reanimated.esp
+[31]     DT_GunnerOutfitPack.esp
+[32]     LeeEnfieldNo4MkI.esp
+[33]     FO4 NPCs Travel.esp
+[34]     DT_MercOutfitPack.esp
+[35]     ESPExplorerFO4.esp
+[36]     BetterSettlers.esp
+[37]     RealNameSettlers.esp
+[38]     DCG.esp
+[39]     CROSS_GoreCrits.esp
+[3A]     WorkshopGrinder.esp
+[3B]     pulsecarbine.esp
+[3C]     _00Stingray.esp
+[3D]     GreaseGunSMG.esp
+[3E]     MG69.esp
+[3F]     X12Plasmacaster.esp
+[40]     OCDecorator.esp
+[41]     DarkerNights.esp
+[42]     WD_44.esp
+[43]     DaksCombatRifle.esp
+[44]     SettlementMenuManager.esp
+[45]     PIP-Pad.esp
+[46]     NVR_FIX.esp
+[47]     Inst_Exoskeleton_R-20.esp
+[48]     BetterCompanions.esp
+[49]     mr Loot Logic and Reduction.esp
+[4A]     StartMeUp.esp
+[4B]     StartMeUpNukaWorldPatch.esp
+[4C]     CastleRestored.esp
+[4D]     Minutekeep.esp
+[4E]     A Sensible Prydwen Overhaul.esp
+[4F]     RailroadRedone.esp
+[50]     DCVendorOverhaulAIO.esp
+[51]     BetterPublickOccurrences.esp
+[52]     VALENTINE.esp
+[53]     M8r Complex Sorter.esp
+[FE:000] BakaFramework.esm
+[FE:001] AORobcoReconScope.esl
+[FE:002] M84FlashBang.esl
+[FE:003] FOVSlider.esl
+[FE:004] LIF.esl
+[FE:005] VCM_LibrarySupportPlugin_F-ESL.esl
+[FE:006] RunningWithHandsAnim.esl
+[FE:007] SwimmingAnims.esl
+[FE:008] PPF.esm
+[FE:009] Skb_MachinegunsRebirth.esl
+[FE:00A] Skb-MinigunsRebirth.esl
+[FE:00B] Immersive_Molotovs_FlamerESL.esl
+[FE:00C] CROSS_VertibirdFlightsuit.esl
+[FE:00D] Arbitration - Button Lowered Weapons.esp
+[FE:00E] Fog Remover II (AIO) Recommended.esp
+[FE:00F] R88_SimpleSorter.esp
+[FE:010] CBBE.esp
+[FE:011] Nox Outfit.esp
+[FE:012] PACE - Less Combat Chatter.esp
+[FE:013] TheKite_Railroad_Handmaiden.esp
+[FE:014] Look At Me RE.esp
+[FE:015] Keep Radiants In Commonwealth.esp
+[FE:016] JSRS_Regions.esp
+[FE:017] WhoIsTheGeneral.esp
+[FE:018] WTG - MRS Patch.esp
+[FE:019] CROSS_InstituteExpeditionarySuit.esp
+[FE:01A] CROSS_MojaveManhunter.esp
+[FE:01B] WanaSA58ArmoryProject.esp
+[FE:01C] Wana SA58 TR.esp
+[FE:01D] GIAT_FAMAS_TacticalReloadPatch.esp
+[FE:01E] CROSS_BrotherhoodRecon.esp
+[FE:01F] CROSS_CourserStrigidae.esp
+[FE:020] Look At Me IE.esp
+[FE:021] DD_Wasteland_Children_done_right.esp
+[FE:022] StartMeUpShaunDefaultAppearance.esp
+[FE:023] Pip-Boy Flashlight.esp
+[FE:024] CROSS_VertibirdFlightsuit.esp
+[FE:025] Look At Me BE.esp
+[FE:026] Look At Me BE x B35C.esp
+[FE:027] BF1 Animations - Deliverer v1.0.esp
+[FE:028] Stimpaks help you breathe.esp
+[FE:029] RussianStimpack.esp
+[FE:02A] Durable Vehicles x10.esp
+[FE:02B] Clothing Of The Commonwealth.esp
+[FE:02C] Gunner Outfit Extreme Overhaul.esp
+[FE:02D] Mercenary Outfit Extreme Overhaul.esp
+[FE:02E] NPC Travel-MercOutfit-Patch.esp
+[FE:02F] AzarPonytailHairstyles.esp
+[FE:030] BetterSettlersCleanFacePack.esp
+[FE:031] BetterSettlersMortalSoldiersPack.esp
+[FE:032] BetterSettlersNoLollygagging.esp
+[FE:033] BetterSettlersCCAPack2.0.esp
+[FE:034] Project Reality Footsteps FO4.esp
+[FE:035] Realistic Death Physics - ALL DLC.esp
+[FE:036] ImmersiveAnimationFramework.esp
+[FE:037] IAF - Far Harbor & Nuka World.esp
+[FE:038] LovingCait.esp
+[FE:039] WATM-MM-MMUPAIA_CustomPatch.esp
+[FE:03A] BetterGenerators.esp
+[FE:03B] CROSS_GoreCrits_FarHarborPatch.esp
+[FE:03C] Lots More Facial Hair.esp
+[FE:03D] Lots More Male Hairstyles.esp
+[FE:03E] NukaRadBans.esp
+[FE:03F] RNS-MMSquads-CompPatch.esp
+[FE:040] LongRangeBulletHoles.esp
+[FE:041] Suit Up.esp
+[FE:042] realpowerarmorv3main.esp
+[FE:043] realpowerarmorv3_10xfc.esp
+[FE:044] SkjAlert_All_DLC.esp
+[FE:045] 3dscopes-fnfal.esp
+[FE:046] 3dscopes-laer.esp
+[FE:047] Burst Impact Blast FX.esp
+[FE:048] dD - Limited Blood Decals.esp
+[FE:049] dD - Screen Blood Duration Medium.esp
+[FE:04A] dD - Small Splatter Size.esp
+[FE:04B] dD-Enhanced Blood Basic.esp
+[FE:04C] zzzzzzenhcancedblood.esp
+[FE:04D] 3dscopes-replacer-leeenfield.esp
+[FE:04E] 3dscopes-replacer-robcorecon.esp
+[FE:04F] MMSREP.esp
+[FE:050] QBZ191_TR_patch.esp
+[FE:051] QBZ191 Laser Musket Replacer.esp
+[FE:052] QBZ191_NO_LL_Patch.esp
+[FE:053] 3dscopes-replacer-wattz.esp
+[FE:054] 9mmPistol_TacticalReloadPatch.esp
+[FE:055] CombinedArmsNV_TacticalReloadPatch.esp
+[FE:056] GreaseGunSMG_TacticalReloadPatch.esp
+[FE:057] Synths Revamped.esp
+[FE:058] SCOURGE - Vanilla.esp
+[FE:059] SCOURGE - Automatron.esp
+[FE:05A] SCOURGE - Far Harbor.esp
+[FE:05B] SCOURGE - Nuka World.esp
+[FE:05C] 3rd Person Cam SmallFix.esp
+[FE:05D] Crimsomrider's Affinity.esp
+[FE:05E] Insignificant Object Remover.esp
+[FE:05F] MoreRealisticMovement.esp
+[FE:060] You Talk Too Much.esp
+[FE:061] WheelMenu.esp
+[FE:062] Curie_Emma_W.1647C6.esp
+[FE:063] OCDispenser.esp
+[FE:064] BAM-BetterArmoryMod.esp
+[FE:065] No Bloody Mess.esp
+[FE:066] DarkerNightsDetection.esp
+[FE:067] MOEO-CaravanGuard.esp
+[FE:068] MOEO-EdwardDeegan.esp
+[FE:069] MOEO-MiscGuard.esp
+[FE:06A] MOEO-Parsons.esp
+[FE:06B] BF1 Animations - Hunting Rifle v1.3.esp
+[FE:06C] 10mmAnims.esp
+[FE:06D] EvenMoreImmersiveMolotovsFlamersESL.esp
+[FE:06E] InstitutePlasmaRifle.esp
+[FE:06F] InstituteRifleDebulked.esp
+[FE:070] LongerPowerLinesInf.esp
+[FE:071] NPC Accuracy Revised.esp
+[FE:072] DV-Vertibird Explosive Minigun.esp
+[FE:073] DV-Very Durable Vertibirds.esp
+[FE:074] M8rDisablePipboyEffects.esp
+[FE:075] AlexSleevePatcher.esp
+[FE:076] PIP-Pad_Pip-BoyFlashlight.esp
+[FE:077] Vivid Fallout - All in One - Best Performance.esp
+[FE:078] BlurKillerComplete.esp
+[FE:079] FAR.esp
+[FE:07A] PRP.esp
+[FE:07B] EgretTours_DCnR_F-ESL.esp
+[FE:07C] PRP-Compat-JSRS-Regions.esp
+[FE:07D] SatelliteWorldMap.esp

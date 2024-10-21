@@ -1,0 +1,4 @@
+Buffout 4 v1.34.0 Jun 25 2024 22:39:58
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF7C5749300 Fallout4.exe+0DB9300	mov edx, [rax+0x1A0] 
+  Actor::ShouldCutNavmesh(void)_DB9300)

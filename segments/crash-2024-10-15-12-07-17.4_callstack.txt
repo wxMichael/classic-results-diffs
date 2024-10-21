@@ -1,0 +1,580 @@
+
+REGISTERS:
+RAX 0x2                (size_t) [2]
+RCX 0x7FFAF624D574     (void* -> ntdll.dll+009D574	ret)
+RDX 0x0                (size_t) [0]
+RBX 0xE19A9FFEE0       (char*) " S"
+RSP 0xE19A9FF240       (void*)
+RBP 0x0                (size_t) [0]
+RSI 0xE19A9FF3C8       (void*)
+RDI 0x2                (size_t) [2]
+R8  0xE19A9FF128       (void*)
+R9  0x7FF6DB117DE0     (BSSystemFileStreamer::Streamer*)
+R10 0x0                (size_t) [0]
+R11 0x246              (size_t) [582]
+R12 0x26E8D57A580      (BSTextureStreamer::zlibStreamDetail*)
+R13 0x26DDA545090      (char*) "*"
+R14 0x3                (size_t) [3]
+R15 0x0                (size_t) [0]
+
+STACK:
+[RSP+0  ] 0xE19A9FFEE0       (char*) " S"
+[RSP+8  ] 0x0                (size_t) [0]
+[RSP+10 ] 0xE19A9FF3C8       (void*)
+[RSP+18 ] 0xE19A9FFEE0       (char*) " S"
+[RSP+20 ] 0xE19A9FF340       (void*)
+[RSP+28 ] 0x7FF6D71DFA4E     (void* -> Fallout4.exe+1CAFA4E	mov eax, [rbx+0x4C])
+[RSP+30 ] 0xE19A9FF3A0       (void*)
+[RSP+38 ] 0xE19A9FF3D0       (void*)
+[RSP+40 ] 0xE19A9FF340       (void*)
+[RSP+48 ] 0x7FFA3F63E56C     (void* -> Buffout4.dll+010E56C	mov rbx, rax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2934 scalable_malloc E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2995 scalable_malloc)
+[RSP+50 ] 0x0                (size_t) [0]
+[RSP+58 ] 0xE19A9FF3C8       (void*)
+[RSP+60 ] 0xE19A9FF3D0       (void*)
+[RSP+68 ] 0xE19A9FFEE0       (char*) " S"
+[RSP+70 ] 0x3                (size_t) [3]
+[RSP+78 ] 0x7FF6D7265B9E     (void* -> Fallout4.exe+1D35B9E	mov r9d, [rsp+0x58])
+[RSP+80 ] 0x155570           (size_t) [1398128]
+[RSP+88 ] 0x26EFBD881C0      (void*)
+[RSP+90 ] 0x26F7EB7C0C0      (void*)
+[RSP+98 ] 0xE19A9FF340       (void*)
+[RSP+A0 ] 0xE10000000A       (size_t) [966367641610]
+[RSP+A8 ] 0xE19A9FF4A8       (void*)
+[RSP+B0 ] 0x5A               (size_t) [90]
+[RSP+B8 ] 0xE19A9FF410       (void*)
+[RSP+C0 ] 0x26E96BB55A0      (BSResource::`anonymous namespace'::LooseFileStream*)
+[RSP+C8 ] 0x7FF6D71E7EBA     (void* -> Fallout4.exe+1CB7EBA	mov rcx, [rsp+0x30])
+[RSP+D0 ] 0x7FF6DB5C7F10     (void* -> Fallout4.exe+6097F10	add [rax], al)
+[RSP+D8 ] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+E0 ] 0xE19A9FF590       (void*)
+[RSP+E8 ] 0x7FF600000003     (size_t) [140694538682371]
+[RSP+F0 ] 0x26E8D53A580      (void*)
+[RSP+F8 ] 0xE19A9FF4B8       (void*)
+[RSP+100] 0x26E8D57A580      (BSTextureStreamer::zlibStreamDetail*)
+[RSP+108] 0xE19A9FF5A8       (void*)
+[RSP+110] 0xE19A9FF4A8       (void*)
+[RSP+118] 0x0                (size_t) [0]
+[RSP+120] 0xE19A9FF3A0       (void*)
+[RSP+128] 0xE19A9FFEE0       (char*) " S"
+[RSP+130] 0x26E8D55A580      (void*)
+[RSP+138] 0x20000            (size_t) [131072]
+[RSP+140] 0x3                (size_t) [3]
+[RSP+148] 0x0                (size_t) [0]
+[RSP+150] 0x2                (size_t) [2]
+[RSP+158] 0xE19A9FF590       (void*)
+[RSP+160] 0x26E8D53A580      (void*)
+[RSP+168] 0x26E8D54A580      (void*)
+[RSP+170] 0x26E96BB55A0      (BSResource::`anonymous namespace'::LooseFileStream*)
+[RSP+178] 0x26F7EB7C0C0      (void*)
+[RSP+180] 0x13B923BF         (size_t) [330900415]
+[RSP+188] 0x200000002        (size_t) [8589934594]
+[RSP+190] 0x200000002        (size_t) [8589934594]
+[RSP+198] 0xA2B300010000     (size_t) [178889682911232]
+[RSP+1A0] 0xE10002A2B3       (size_t) [966367814323]
+[RSP+1A8] 0x1                (size_t) [1]
+[RSP+1B0] 0x300010000        (size_t) [12884967424]
+[RSP+1B8] 0x3                (size_t) [3]
+[RSP+1C0] 0x0                (size_t) [0]
+[RSP+1C8] 0x26E8C66D22F      (char*) "dds"
+[RSP+1D0] 0x26E8C66D210      (char*) "Data/Textures/Sky/Secunda_full.dds"
+[RSP+1D8] 0xE19A9FF590       (void*)
+[RSP+1E0] 0xE19A9FF908       (void*)
+[RSP+1E8] 0x26F72F75120      (NiTexture*)
+Name: "Data/Textures/Sky/Secunda_full.dds"
+RTTIName: "NiTexture"
+[RSP+1F0] 0xE19A9FF7F0       (void*)
+[RSP+1F8] 0x7FF6DB52F160     (BSTextureStreamer::Manager*)
+[RSP+200] 0xE19A9FF768       (void*)
+[RSP+208] 0x7FF6D71E6492     (void* -> Fallout4.exe+1CB6492	mov rcx, [0x00007FF6DAE00800])
+[RSP+210] 0x0                (size_t) [0]
+[RSP+218] 0x26F72F75120      (NiTexture*)
+Name: "Data/Textures/Sky/Secunda_full.dds"
+RTTIName: "NiTexture"
+[RSP+220] 0x0                (size_t) [0]
+[RSP+228] 0xE19A9FF4A8       (void*)
+[RSP+230] 0x3                (size_t) [3]
+[RSP+238] 0x0                (size_t) [0]
+[RSP+240] 0x0                (size_t) [0]
+[RSP+248] 0x4D0B00000002     (size_t) [84709639979010]
+[RSP+250] 0x0                (size_t) [0]
+[RSP+258] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+260] 0x7FF600000001     (size_t) [140694538682369]
+[RSP+268] 0x4000000100000    (size_t) [1125899907891200]
+[RSP+270] 0x4000000015570    (size_t) [1125899906930032]
+[RSP+278] 0xE19A9FF4A8       (void*)
+[RSP+280] 0x0                (size_t) [0]
+[RSP+288] 0x2000000000003    (size_t) [562949953421315]
+[RSP+290] 0x26F72CBA2F0      (void*)
+[RSP+298] 0x7FF6D71DEEDF     (void* -> Fallout4.exe+1CAEEDF	add rsp, 0x48)
+[RSP+2A0] 0x0                (size_t) [0]
+[RSP+2A8] 0xE19A9FF630       (BSAutoQueuedResourceCollection<BSMaterialDB::QueuedHandles>*)
+[RSP+2B0] 0x3                (size_t) [3]
+[RSP+2B8] 0x1                (size_t) [1]
+[RSP+2C0] 0xE19A9FF701       (void*)
+[RSP+2C8] 0x26E00000000      (void*)
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x3                (size_t) [3]
+[RSP+2E0] 0xE19A9FF630       (BSAutoQueuedResourceCollection<BSMaterialDB::QueuedHandles>*)
+[RSP+2E8] 0x7FF6D71C65D8     (void* -> Fallout4.exe+1C965D8	mov edi, esi)
+[RSP+2F0] 0xE120000001       (size_t) [966904512513]
+[RSP+2F8] 0xE100000001       (size_t) [966367641601]
+[RSP+300] 0x0                (size_t) [0]
+[RSP+308] 0x1                (size_t) [1]
+[RSP+310] 0x0                (size_t) [0]
+[RSP+318] 0x7FF6D56C8500     (void* -> Fallout4.exe+0198500	mov edi, [rsp+0x48])
+[RSP+320] 0x0                (size_t) [0]
+[RSP+328] 0xE19A9FF7E0       (char*) "H"
+[RSP+330] 0x736464F0FB05B1   (size_t) [32480007024215473]
+[RSP+338] 0x26F4FAE90A3      (void*)
+[RSP+340] 0xE19A9FF7C0       (void*)
+[RSP+348] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+350] 0x736464F0FB05B1   (size_t) [32480007024215473]
+[RSP+358] 0x1803004FAE90A3   (size_t) [6758699312779427]
+[RSP+360] 0x4D0B04000400     (size_t) [84709707088896]
+[RSP+368] 0x13B723BF         (size_t) [330769343]
+[RSP+370] 0x1000000002A2B3   (size_t) [4503599627543219]
+[RSP+378] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+380] 0x13B9C672         (size_t) [330942066]
+[RSP+388] 0x400000000979D    (size_t) [1125899906881437]
+[RSP+390] 0xE100010001       (size_t) [966367707137]
+[RSP+398] 0x13BA5E0F         (size_t) [330980879]
+[RSP+3A0] 0x1557000003297    (size_t) [375414501421719]
+[RSP+3A8] 0xE1000A0002       (size_t) [966368296962]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x26E9186A980      (void*)
+[RSP+3D0] 0x26EFC87E940      (BGSArtObjectCloneTask*)
+[RSP+3D8] 0xE19A9FF7E0       (char*) "H"
+[RSP+3E0] 0xE19A9FF7C0       (void*)
+[RSP+3E8] 0x7FF6D71D4802     (void* -> Fallout4.exe+1CA4802	cmp rbp, [rsp+0x40])
+[RSP+3F0] 0x7FF6D8187C00     (void* -> Fallout4.exe+2C57C00	loopne 0x00007FF6D8187C7E)
+[RSP+3F8] 0x7FFA00000001     (size_t) [140711718551553]
+[RSP+400] 0xE19A9FF7C0       (void*)
+[RSP+408] 0x7FFA3F63DAD5     (void* -> Buffout4.dll+010DAD5	mov r8d, eax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2567 ?getTLS@MemoryPool@internal@rml@@QEAAPEAVTLSData@23@_N@Z)
+[RSP+410] 0x66696E4D43D00E   (size_t) [28826370088095758]
+[RSP+418] 0xB836873F         (size_t) [3090581311]
+[RSP+420] 0x26E9D6C4100      (IOManager*)
+[RSP+428] 0x7FF6D71D3315     (void* -> Fallout4.exe+1CA3315	mov rbp, [rsp+0x30])
+[RSP+430] 0x455C73656873656D (size_t) [4997996565855692141]
+[RSP+438] 0x415C737463656666 (size_t) [4709766254043686502]
+[RSP+440] 0x4D58466863617474 (size_t) [5573281953028863092]
+[RSP+448] 0x696E2E3130747369 (size_t) [7597060410221818729]
+[RSP+450] 0x26EC53B0066      (void*)
+[RSP+458] 0x7FFAF3D26B2D     (void* -> KERNELBASE.dll+0066B2D	nop [rax+rax*1], eax)
+[RSP+460] 0x26EFC87C800      (BSTextureDB::QueuedHandles*)
+[RSP+468] 0xE19A9FF7C0       (void*)
+[RSP+470] 0x26EFC87E9E8      (void*)
+[RSP+478] 0x7FF6D7040DBA     (void* -> Fallout4.exe+1B10DBA	test al, al)
+[RSP+480] 0x26EFC87C800      (BSTextureDB::QueuedHandles*)
+[RSP+488] 0x7FF6D71D7E30     (void* -> Fallout4.exe+1CA7E30	mov edx, esi)
+[RSP+490] 0x26F72E80401      (void*)
+[RSP+498] 0x7FFA3F63DAD5     (void* -> Buffout4.dll+010DAD5	mov r8d, eax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2567 ?getTLS@MemoryPool@internal@rml@@QEAAPEAVTLSData@23@_N@Z)
+[RSP+4A0] 0x4                (size_t) [4]
+[RSP+4A8] 0x5                (size_t) [5]
+[RSP+4B0] 0x26EFC87E9C8      (void*)
+[RSP+4B8] 0x7FF6D58168A9     (void* -> Fallout4.exe+02E68A9	mov eax, [rdi+0x10])
+[RSP+4C0] 0x26E9DA61A30      (SkyEffectController*)
+[RSP+4C8] 0x26DDA545090      (char*) "*"
+[RSP+4D0] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+4D8] 0x26E8C66D215      (char*) "Textures/Sky/Secunda_full.dds"
+[RSP+4E0] 0xE19A9FF908       (void*)
+[RSP+4E8] 0x1                (size_t) [1]
+[RSP+4F0] 0x7FF6DBA72000     (void* -> Fallout4.exe+6542000	xor [r14+rbp*2+0x02], r13b)
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x26E8C66D210      (char*) "Data/Textures/Sky/Secunda_full.dds"
+[RSP+508] 0x5A               (size_t) [90]
+[RSP+510] 0x1                (size_t) [1]
+[RSP+518] 0x7FF6D7D0630B     (void* -> Fallout4.exe+27D630B	jmp 0x00007FF6D7D0631D)
+[RSP+520] 0x26E9D6C4100      (IOManager*)
+[RSP+528] 0x26F72CBA2F0      (void*)
+[RSP+530] 0x26EFC87C801      (void*)
+[RSP+538] 0x7FF6DBA71FF8     (void* -> Fallout4.exe+6541FF8	nop)
+[RSP+540] 0x0                (size_t) [0]
+[RSP+548] 0x7FF6D6281C00     (void* -> Fallout4.exe+0D51C00	cdq)
+[RSP+550] 0x26DE21A7E01      (void*)
+[RSP+558] 0x26EFC87DC00      (void*)
+[RSP+560] 0x0                (size_t) [0]
+[RSP+568] 0x26DDA5446D0      (void*)
+[RSP+570] 0x26E6C2041C0      (BSSkyShaderProperty*)
+Flags: 0x8000000000
+RTTIName: "BSSkyShaderProperty"
+[RSP+578] 0x9C0              (size_t) [2496]
+[RSP+580] 0x26E9DA61600      (Sky*)
+[RSP+588] 0x26DE218D520      (Moon*)
+[RSP+590] 0xE19A9FF9F0       (void*)
+[RSP+598] 0x7FF6D5B78156     (void* -> Fallout4.exe+0648156	mov r15, [rsp+0x128])
+[RSP+5A0] 0x48               (size_t) [72]
+[RSP+5A8] 0x5A               (size_t) [90]
+[RSP+5B0] 0x0                (size_t) [0]
+[RSP+5B8] 0x0                (size_t) [0]
+[RSP+5C0] 0x1                (size_t) [1]
+[RSP+5C8] 0x0                (size_t) [0]
+[RSP+5D0] 0x3F800000         (size_t) [1065353216]
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5E0] 0x3F80000000000000 (size_t) [4575657221408423936]
+[RSP+5E8] 0x0                (size_t) [0]
+[RSP+5F0] 0x0                (size_t) [0]
+[RSP+5F8] 0x3F800000         (size_t) [1065353216]
+[RSP+600] 0x0                (size_t) [0]
+[RSP+608] 0x0                (size_t) [0]
+[RSP+610] 0x0                (size_t) [0]
+[RSP+618] 0x0                (size_t) [0]
+[RSP+620] 0x0                (size_t) [0]
+[RSP+628] 0x0                (size_t) [0]
+[RSP+630] 0x0                (size_t) [0]
+[RSP+638] 0x0                (size_t) [0]
+[RSP+640] 0x3F800000         (size_t) [1065353216]
+[RSP+648] 0x0                (size_t) [0]
+[RSP+650] 0x0                (size_t) [0]
+[RSP+658] 0x0                (size_t) [0]
+[RSP+660] 0x0                (size_t) [0]
+[RSP+668] 0x0                (size_t) [0]
+[RSP+670] 0x0                (size_t) [0]
+[RSP+678] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+680] 0x26E9DA61600      (Sky*)
+[RSP+688] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+690] 0x0                (size_t) [0]
+[RSP+698] 0x2                (size_t) [2]
+[RSP+6A0] 0x0                (size_t) [0]
+[RSP+6A8] 0x7FF6D5B7E276     (void* -> Fallout4.exe+064E276	mov rcx, [r14+0xA0])
+[RSP+6B0] 0xE19A9FF9F0       (void*)
+[RSP+6B8] 0x26E9DA61600      (Sky*)
+[RSP+6C0] 0xE19A9FF9F0       (void*)
+[RSP+6C8] 0x0                (size_t) [0]
+[RSP+6D0] 0x0                (size_t) [0]
+[RSP+6D8] 0x26DDA5446D0      (void*)
+[RSP+6E0] 0x0                (size_t) [0]
+[RSP+6E8] 0x0                (size_t) [0]
+[RSP+6F0] 0x0                (size_t) [0]
+[RSP+6F8] 0x7FF6DAF096B0     (void* -> Fallout4.exe+59D96B0	add [rax], al)
+[RSP+700] 0x0                (size_t) [0]
+[RSP+708] 0x0                (size_t) [0]
+[RSP+710] 0x7FFA3DD3FDD0     (void* -> steamclient64.dll+00CFDD0	xor al, al)
+[RSP+718] 0x7FFA3E8FCA20     (void* -> steamclient64.dll+0C8CA20	mov [rsp+0x08], rbx)
+[RSP+720] 0x0                (size_t) [0]
+[RSP+728] 0x0                (size_t) [0]
+[RSP+730] 0x0                (size_t) [0]
+[RSP+738] 0x0                (size_t) [0]
+[RSP+740] 0x0                (size_t) [0]
+[RSP+748] 0x0                (size_t) [0]
+[RSP+750] 0x0                (size_t) [0]
+[RSP+758] 0x0                (size_t) [0]
+[RSP+760] 0x0                (size_t) [0]
+[RSP+768] 0x0                (size_t) [0]
+[RSP+770] 0x0                (size_t) [0]
+[RSP+778] 0x0                (size_t) [0]
+[RSP+780] 0x0                (size_t) [0]
+[RSP+788] 0x0                (size_t) [0]
+[RSP+790] 0x0                (size_t) [0]
+[RSP+798] 0x0                (size_t) [0]
+[RSP+7A0] 0x0                (size_t) [0]
+[RSP+7A8] 0x0                (size_t) [0]
+[RSP+7B0] 0x0                (size_t) [0]
+[RSP+7B8] 0x0                (size_t) [0]
+[RSP+7C0] 0x0                (size_t) [0]
+[RSP+7C8] 0x0                (size_t) [0]
+[RSP+7D0] 0x0                (size_t) [0]
+[RSP+7D8] 0x0                (size_t) [0]
+[RSP+7E0] 0x0                (size_t) [0]
+[RSP+7E8] 0x0                (size_t) [0]
+[RSP+7F0] 0x0                (size_t) [0]
+[RSP+7F8] 0x0                (size_t) [0]
+[RSP+800] 0x0                (size_t) [0]
+[RSP+808] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+810] 0xFFFFFFFFFFFFFFFE (size_t) [uint: 18446744073709551614 int: -2]
+[RSP+818] 0x9C0              (size_t) [2496]
+[RSP+820] 0x0                (size_t) [0]
+[RSP+828] 0x56152A44         (void* -> steam_api64.dll+0002A44	movzx r8d, bl)
+[RSP+830] 0x0                (size_t) [0]
+[RSP+838] 0x0                (size_t) [0]
+[RSP+840] 0x2                (size_t) [2]
+[RSP+848] 0x7FF6DB118088     (void* -> Fallout4.exe+5BE8088	add [rax], al)
+[RSP+850] 0x7FF6DBAA74D0     (void* -> Fallout4.exe+65774D0	add [rax], al)
+[RSP+858] 0x7FF6D562B731     (void* -> Fallout4.exe+00FB731	lea r11, [rsp+0x60])
+[RSP+860] 0x2                (size_t) [2]
+[RSP+868] 0xE19A9FFAE0       (void*)
+[RSP+870] 0x0                (size_t) [0]
+[RSP+878] 0x0                (size_t) [0]
+[RSP+880] 0x0                (size_t) [0]
+[RSP+888] 0x0                (size_t) [0]
+[RSP+890] 0x0                (size_t) [0]
+[RSP+898] 0x0                (size_t) [0]
+[RSP+8A0] 0x7FF6DB118084     (void* -> Fallout4.exe+5BE8084	add [rax], al)
+[RSP+8A8] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+8B0] 0x7FF6DB118088     (void* -> Fallout4.exe+5BE8088	add [rax], al)
+[RSP+8B8] 0x2                (size_t) [2]
+[RSP+8C0] 0x26E9D4ED0C0      (PlayerCharacter*)
+Flags: 0x00400408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+File: "You Are Exceptional.esp"
+Modified by: Fallout4.esm -> You Are Exceptional.esp
+Flags: 0x00040009
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00400408
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+8C8] 0x0                (size_t) [0]
+[RSP+8D0] 0xE19A9FFC20       (void*)
+[RSP+8D8] 0x7FF6D63CBCF5     (void* -> Fallout4.exe+0E9BCF5	mov rcx, [r14+0x100])
+[RSP+8E0] 0x0                (size_t) [0]
+[RSP+8E8] 0xE19A9FFC20       (void*)
+[RSP+8F0] 0x7FF6DAF096B0     (void* -> Fallout4.exe+59D96B0	add [rax], al)
+[RSP+8F8] 0x2                (size_t) [2]
+[RSP+900] 0x7FF6D8C14000     (void* -> Fallout4.exe+36E4000	add [rax], al)
+[RSP+908] 0x0                (size_t) [0]
+[RSP+910] 0x1                (size_t) [1]
+[RSP+918] 0x0                (size_t) [0]
+[RSP+920] 0x26EC54C0F40      (BGSLocation*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "PrewarSanctuaryHillsLocation"
+FormID: 0x000A7D39
+FormType: kLCTN (107)
+GetFullName: "Sanctuary Hills"
+[RSP+928] 0x7FF600000001     (size_t) [140694538682369]
+[RSP+930] 0x0                (size_t) [0]
+[RSP+938] 0x7FFA5369FB8F     (void* -> MSVCR110.dll+005FB8F	jmp 0x00007FFA5369FB96)
+[RSP+940] 0x26EC19CA200      (TESWorldSpace*)
+File: "prp.esp"
+Modified by: Fallout4.esm -> unofficial fallout 4 patch.esp -> ppf.esm -> 1ECHO.esp -> AGNISNikaCola01.esp -> BeMineValentine.esp -> prp.esp
+Flags: 0x0008000B
+EditorID: "SanctuaryHillsWorld"
+FormID: 0x000A7FF4
+FormType: kWRLD (74)
+GetFullName: "Sanctuary Hills"
+[RSP+948] 0x0                (size_t) [0]
+[RSP+950] 0x0                (size_t) [0]
+[RSP+958] 0x47B165F9C79CD76E (size_t) [5166022371040876398]
+[RSP+960] 0x45F58000         (size_t) [1173716992]
+[RSP+968] 0x4022681300000000 (size_t) [4621370598449217536]
+[RSP+970] 0x0                (size_t) [0]
+[RSP+978] 0x0                (size_t) [0]
+[RSP+980] 0x0                (size_t) [0]
+[RSP+988] 0x20F510           (size_t) [2159888]
+[RSP+990] 0x10100000000      (size_t) [1103806595072]
+[RSP+998] 0x7FF6D5682D01     (void* -> Fallout4.exe+0152D01	cmp rax, [rbx+0x18])
+[RSP+9A0] 0x7FF6DB118084     (void* -> Fallout4.exe+5BE8084	add [rax], al)
+[RSP+9A8] 0x1                (size_t) [1]
+[RSP+9B0] 0x26F737149C0      (BSAnimationGraphManager*)
+[RSP+9B8] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+9C0] 0x3                (size_t) [3]
+[RSP+9C8] 0x7F0000000004     (size_t) [139637976727556]
+[RSP+9D0] 0x26EC262C7C0      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x0080000D
+EditorID: "XmarkerHeading"
+FormID: 0x00000034
+FormType: kSTAT (36)
+File: "Fallout4.esm"
+Flags: 0x00400409
+EditorID: "MQ101PlayerStartMarker01"
+FormID: 0x000A7D33
+FormType: kREFR (64)
+[RSP+9D8] 0x20000000000      (size_t) [2199023255552]
+[RSP+9E0] 0x0                (size_t) [0]
+[RSP+9E8] 0xE19A9FFD90       (void*)
+[RSP+9F0] 0x26E00000000      (void*)
+[RSP+9F8] 0x26D8509B621      (void*)
+[RSP+A00] 0x2                (size_t) [2]
+[RSP+A08] 0x7FF6D5682C3C     (void* -> Fallout4.exe+0152C3C	or dword ptr [rdi+0x10], 0x08)
+[RSP+A10] 0x26EFE1E60F1      (void*)
+[RSP+A18] 0x0                (size_t) [0]
+[RSP+A20] 0x26DDA545090      (char*) "*"
+[RSP+A28] 0x26EEE4F5C00      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+A30] 0x26EEE4F5C00      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+A38] 0x0                (size_t) [0]
+[RSP+A40] 0x0                (size_t) [0]
+[RSP+A48] 0x0                (size_t) [0]
+[RSP+A50] 0x26EEE4F5CC8      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+A58] 0x0                (size_t) [0]
+[RSP+A60] 0x26EEE4F5E28      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+A68] 0x26EEE4F5C88      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+A70] 0x26EEE4F5C68      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+A78] 0x0                (size_t) [0]
+[RSP+A80] 0x0                (size_t) [0]
+[RSP+A88] 0x0                (size_t) [0]
+[RSP+A90] 0x0                (size_t) [0]
+[RSP+A98] 0x0                (size_t) [0]
+[RSP+AA0] 0x26EEE4F5C78      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+AA8] 0x26EEE4F5DE0      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+AB0] 0x0                (size_t) [0]
+[RSP+AB8] 0x0                (size_t) [0]
+[RSP+AC0] 0x0                (size_t) [0]
+[RSP+AC8] 0x0                (size_t) [0]
+[RSP+AD0] 0x0                (size_t) [0]
+[RSP+AD8] 0x26EEE4F5CA0      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+AE0] 0x26EEE4F5DD0      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+AE8] 0x0                (size_t) [0]
+[RSP+AF0] 0x0                (size_t) [0]
+[RSP+AF8] 0x0                (size_t) [0]
+[RSP+B00] 0x0                (size_t) [0]
+[RSP+B08] 0x26EEE4F5CB0      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+B10] 0x0                (size_t) [0]
+[RSP+B18] 0x26EEE4F5E08      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+B20] 0x26EEE4F5DF0      (TESObjectARMO*)
+File: "NavyPistol.esp"
+Flags: 0x00000008
+EditorID: "Armor_GunnerCog_Helmet"
+FormID: 0xFE1E60F0
+FormType: kARMO (29)
+GetFullName: "Trooper's Helmet"
+[RSP+B28] 0x0                (size_t) [0]
+[RSP+B30] 0x0                (size_t) [0]
+[RSP+B38] 0x0                (size_t) [0]
+[RSP+B40] 0x0                (size_t) [0]
+[RSP+B48] 0x0                (size_t) [0]
+[RSP+B50] 0x0                (size_t) [0]
+[RSP+B58] 0x0                (size_t) [0]
+[RSP+B60] 0x0                (size_t) [0]
+[RSP+B68] 0x0                (size_t) [0]
+[RSP+B70] 0x7FF6DB118084     (void* -> Fallout4.exe+5BE8084	add [rax], al)
+[RSP+B78] 0x7FF6DB118080     (void* -> Fallout4.exe+5BE8080	add [rax], al)
+[RSP+B80] 0x7FF6DB118088     (void* -> Fallout4.exe+5BE8088	add [rax], al)
+[RSP+B88] 0x1                (size_t) [1]
+[RSP+B90] 0x26DE218FE40      (void*)
+[RSP+B98] 0xE19894FA30       (void*)
+[RSP+BA0] 0x0                (size_t) [0]
+[RSP+BA8] 0x7FF6D6270D85     (void* -> Fallout4.exe+0D40D85	mov [rbx], al)
+[RSP+BB0] 0x0                (size_t) [0]
+[RSP+BB8] 0x0                (size_t) [0]
+[RSP+BC0] 0x1                (size_t) [1]
+[RSP+BC8] 0x7FFAF3CE9201     (void* -> KERNELBASE.dll+0029201	movzx edx, bl)
+[RSP+BD0] 0x7FF6DB118120     (void* -> Fallout4.exe+5BE8120	)
+[RSP+BD8] 0x7FF6D7080F26     (void* -> Fallout4.exe+1B50F26	mov ecx, [rbx+0x0C])
+[RSP+BE0] 0x7FF6DB118120     (void* -> Fallout4.exe+5BE8120	)
+[RSP+BE8] 0x7FF6DB1180D0     (BSJobs::JobThread*)
+[RSP+BF0] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+BF8] 0x7FFAF3D26B2D     (void* -> KERNELBASE.dll+0066B2D	nop [rax+rax*1], eax)
+[RSP+C00] 0x0                (size_t) [0]
+[RSP+C08] 0x0                (size_t) [0]
+[RSP+C10] 0x7FF6DB12D5C0     (void* -> Fallout4.exe+5BFD5C0	)
+[RSP+C18] 0x0                (size_t) [0]
+[RSP+C20] 0x7FF6DB1180D0     (BSJobs::JobThread*)
+[RSP+C28] 0x7FF6D7081432     (void* -> Fallout4.exe+1B51432	mov r14d, eax)
+[RSP+C30] 0x0                (size_t) [0]
+[RSP+C38] 0x7FF6DB1180D0     (BSJobs::JobThread*)
+[RSP+C40] 0x0                (size_t) [0]
+[RSP+C48] 0xE19A9FFEE0       (char*) " S"
+[RSP+C50] 0x0                (size_t) [0]
+[RSP+C58] 0x0                (size_t) [0]
+[RSP+C60] 0x0                (size_t) [0]
+[RSP+C68] 0x7FF6D7083F67     (void* -> Fallout4.exe+1B53F67	movzx eax, byte ptr [rbx+0xA74])
+[RSP+C70] 0x7FF6DB1180D0     (BSJobs::JobThread*)
+[RSP+C78] 0x0                (size_t) [0]
+[RSP+C80] 0x0                (size_t) [0]
+[RSP+C88] 0x0                (size_t) [0]
+[RSP+C90] 0x7FF6DB1180D0     (BSJobs::JobThread*)
+[RSP+C98] 0x7FF6D704CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF6DB08BD38])
+[RSP+CA0] 0x5320             (size_t) [21280]
+[RSP+CA8] 0xE19A9FFF00       (void*)
+[RSP+CB0] 0x26DE216BC90      (void*)
+[RSP+CB8] 0x0                (size_t) [0]
+[RSP+CC0] 0x7FF6DB1180D0     (BSJobs::JobThread*)
+[RSP+CC8] 0x0                (size_t) [0]
+[RSP+CD0] 0x0                (size_t) [0]
+[RSP+CD8] 0x7FFAF5F27374     (void* -> KERNEL32.DLL+0017374	mov ecx, eax)
+[RSP+CE0] 0x0                (size_t) [0]
+[RSP+CE8] 0x0                (size_t) [0]
+[RSP+CF0] 0x0                (size_t) [0]
+[RSP+CF8] 0x0                (size_t) [0]
+[RSP+D00] 0x0                (size_t) [0]
+[RSP+D08] 0x7FFAF61FCC91     (void* -> ntdll.dll+004CC91	jmp 0x00007FFAF61FCCB3)
+[RSP+D10] 0x0                (size_t) [0]
+[RSP+D18] 0x0                (size_t) [0]
+[RSP+D20] 0x0                (size_t) [0]
+[RSP+D28] 0x0                (size_t) [0]
+[RSP+D30] 0x0                (size_t) [0]
+[RSP+D38] 0x0                (size_t) [0]
+[RSP+D40] 0xBAB025DF00000000 (size_t) [uint: 13452293726663606272 int: -4994450347045945344]
+[RSP+D48] 0x0                (size_t) [0]
+[RSP+D50] 0x0                (size_t) [0]
+[RSP+D58] 0x7FFAF3DF3E40     (void* -> KERNELBASE.dll+0133E40	mov [rsp+0x10], rbx)
+[RSP+D60] 0xE19A9FE3C0       (void*)
+[RSP+D68] 0x92DE373E0000FFF4 (size_t) [uint: 10582956913794809844 int: -7863787159914741772]
+[RSP+D70] 0x7FFA496F1B9F     (size_t) [140712950569887]
+[RSP+D78] 0xE19A9FE3C0       (void*)
+[RSP+D80] 0x0                (size_t) [0]
+[RSP+D88] 0x0                (size_t) [0]
+[RSP+D90] 0x0                (size_t) [0]
+[RSP+D98] 0x0                (size_t) [0]
+[RSP+DA0] 0x0                (size_t) [0]
+[RSP+DA8] 0x0                (size_t) [0]
+[RSP+DB0] 0x0                (size_t) [0]
+[RSP+DB8] 0x0                (size_t) [0]

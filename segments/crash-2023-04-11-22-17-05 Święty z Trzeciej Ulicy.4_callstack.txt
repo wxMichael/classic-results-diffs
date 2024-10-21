@@ -1,0 +1,702 @@
+[ 0] 0x7FFF599811E2    ntdll.dll+00311E2
+[ 1] 0x7FFF2D2D336F MSVCP140.dll+001336F
+[ 2] 0x7FFEE3D6C0F0 Buffout4.dll+00BC0F0	mov rax, rsi |  E:\Documents\source\repos\Buffout4\src\Patches\MemoryManagerPatch.h:145 ?DbgReallocate@MemoryManager@detail@MemoryManagerPatch@Patches@@YAPEAXPEAV1RE@@PEAX_KI_N@Z
+[ 3] 0x7FFEE3D6B1DC Buffout4.dll+00BB1DC	add rsp, 0x38 |  E:\Documents\source\repos\Buffout4\src\Patches\HavokMemorySystemPatch.h:40 ?BufRealloc@hkMemoryAllocator@detail@HavokMemorySystemPatch@Patches@@UEAAPEAXPEAXHAEAH@Z E:\Documents\source\repos\Buffout4\src\Patches\WorkshopMenuPatch.h:556 ?BufRealloc@hkMemoryAllocator@detail@HavokMemorySystemPatch@Patches@@UEAAPEAXPEAXHAEAH@Z
+[ 4] 0x7FF70E0A7249 Fallout4.exe+14D7249	mov [rdi], rax |  hkArrayUtil::_reserveMore(hkMemoryAllocator&,void*,int)_14D7249 -> 92548+0x49	mov [rdi], rax
+[ 5] 0x7FF70E59BB27 Fallout4.exe+19CBB27	movsxd rcx, dword ptr [rbx+0x08] |  hkRelocationInfo::addGlobal(int,void*,hkClass*,uint)_19CBB27 -> 873099+0x47	movsxd rcx, dword ptr [rbx+0x08]
+[ 6] 0x7FF70E59A29E Fallout4.exe+19CA29E	mov r8d, [rsp+0x50] |  hkObjectCopier::saveExtras(void*,hkClass&,hkOArchive&,hkClass&,int,int,hkRelocationInfo&,hkLocalArray<char>&,int)_19CA29E -> 1030426+0x2FE	mov r8d, [rsp+0x50]
+[ 7] 0x7FF70E599013 Fallout4.exe+19C9013	mov rax, [rsi] |  hkObjectCopier::copyObject(void*,hkClass&,hkStreamWriter*,hkClass&,hkRelocationInfo&)_19C9013 -> 719067+0x213	mov rax, [rsi]
+[ 8] 0x7FF70E4B1307 Fallout4.exe+18E1307	mov rdi, rsi |  hkDeepCopier::deepCopy(void*,hkClass&,hkPointerMap<void*,void*,hkContainerHeapAllocator>*,hkVtableClassRegistry*,hkTypeInfoRegistry*,hkFlags<hkObjectCopier::ObjectCopierFlagBits,uint>)_18E1307 -> 448784+0x257	mov rdi, rsi
+[ 9] 0x7FF70E30C2E2 Fallout4.exe+173C2E2	movsxd r11, dword ptr [rbp-0x25] |  hkbBehaviorGraph::cloneDeep(bool,bool,bool,hkVtableClassRegistry*,hkTypeInfoRegistry*,hkbGenerator*,hkPointerMap<hkbBehaviorGraph*,hkbBehaviorGraph*,hkContainerHeapAllocator>*)_173C2E2 -> 601838+0xE2	movsxd r11, dword ptr [rbp-0x25]
+[10] 0x7FF70E2EA5A6 Fallout4.exe+171A5A6	xor r8d, r8d |  UniqueBehaviorServerHelper::GetUniqueBehaviors(BSTSmallArray<LoadedBehavior,1>&)_171A5A6 -> 104582+0x156	xor r8d, r8d
+[11] 0x7FF70E2E7974 Fallout4.exe+1717974	mov [rdi], ebx |  UniqueBehaviorServer::GetUniqueBehaviors(BSTSmallArray<LoadedBehavior,1>&)_1717974 -> 1159267+0x44	mov [rdi], ebx
+[12] 0x7FF70E2E610E Fallout4.exe+171610E	mov ecx, [rsi+0x118] |  BSSubBehaviorGraphSingletonData::OnLoadFinished(void)_171610E -> 1368301+0x2E	mov ecx, [rsi+0x118]
+[13] 0x7FF70E2E1282 Fallout4.exe+1711282	mov rcx, [rsp+0x40] |  BSSubBehaviorGraphSingleton::GetDataIfLoaded(SubgraphHandle&,IO_TASK_PRIORITY&)_1711282 -> 1374178+0x132	mov rcx, [rsp+0x40]
+[14] 0x7FF70E877E53 Fallout4.exe+1CA7E53	cmp qword ptr [rbx+0x48], 0x00 |  QueuedFile::CheckFinished(void)_1CA7E53 -> 1362677+0xA3	cmp qword ptr [rbx+0x48], 0x00
+[15] 0x7FF70E8749E0 Fallout4.exe+1CA49E0	mov rdx, rbx |  IOManager::FinishTask(IOTask*)_1CA49E0 -> 679918+0x20	mov rdx, rbx
+[16] 0x7FF70E877701 Fallout4.exe+1CA7701	jmp 0x00007FF70E877790 |  IOManagerThread::ThreadProc(void)_1CA7701 -> 1034198+0x261	jmp 0x00007FF70E877790
+[17] 0x7FF70E6ECFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF71272BD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF71272BD38]
+[18] 0x7FFF587D269D KERNEL32.DLL+001269D
+[19] 0x7FFF599AA9F8    ntdll.dll+005A9F8
+
+REGISTERS:
+RAX 0x2B9922E93B       (void*)
+RCX 0x2B9922E930       (void*)
+RDX 0x2B9922E93E       (void*)
+RBX 0x1575CA32901      (void*)
+RSP 0x2B9942EB50       (void*)
+RBP 0x2B9942EC41       (void*)
+RSI 0x15849D9B600      (void*)
+RDI 0x7FFEE3F60660     (void* -> Buffout4.dll+02B0660	add [rax], al |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0660)
+R8  0x1                (size_t) [1]
+R9  0x7FFEE3F60620     (void* -> Buffout4.dll+02B0620	jmp 0x00007FFEE4219F48 |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0620)
+R10 0x2B9922E930       (void*)
+R11 0x0                (size_t) [0]
+R12 0x0                (size_t) [0]
+R13 0x6666666666666667 (size_t) [7378697629483820647]
+R14 0x2B9942F308       (void*)
+R15 0x1                (size_t) [1]
+
+STACK:
+[RSP+0   ] 0x40000            (size_t) [262144]
+[RSP+8   ] 0x20000            (size_t) [131072]
+[RSP+10  ] 0x1                (size_t) [1]
+[RSP+18  ] 0x2B9942F308       (void*)
+[RSP+20  ] 0x1575CA32917      (void*)
+[RSP+28  ] 0x7FFF2D2D336F     (void* -> MSVCP140.dll+001336F	xor eax, eax)
+[RSP+30  ] 0x156FB57D400      (void*)
+[RSP+38  ] 0x2B9942EC41       (void*)
+[RSP+40  ] 0x10               (size_t) [16]
+[RSP+48  ] 0x40000            (size_t) [262144]
+[RSP+50  ] 0x156FB57D400      (void*)
+[RSP+58  ] 0x7FFEE3D6C0F0     (void* -> Buffout4.dll+00BC0F0	mov rax, rsi |  E:\Documents\source\repos\Buffout4\src\Patches\MemoryManagerPatch.h:145 ?DbgReallocate@MemoryManager@detail@MemoryManagerPatch@Patches@@YAPEAXPEAV1RE@@PEAX_KI_N@Z)
+[RSP+60  ] 0x156FB57D400      (void*)
+[RSP+68  ] 0x2B9942EC40       (void*)
+[RSP+70  ] 0x7FFEE3F60660     (void* -> Buffout4.dll+02B0660	add [rax], al |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0660)
+[RSP+78  ] 0x1575F14D840      (void*)
+[RSP+80  ] 0x15700000000      (void*)
+[RSP+88  ] 0x7FFEE3F60610     (void* -> Buffout4.dll+02B0610	add al, [rax] |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0610)
+[RSP+90  ] 0x15700000000      (void*)
+[RSP+98  ] 0x10000            (size_t) [65536]
+[RSP+A0  ] 0x1575CA22818      (void*)
+[RSP+A8  ] 0x1575CA32917      (void*)
+[RSP+B0  ] 0x1581B6733C0      (void*)
+[RSP+B8  ] 0x2B9942EC90       (void*)
+[RSP+C0  ] 0x15849D9B600      (void*)
+[RSP+C8  ] 0x7FFEE3F60660     (void* -> Buffout4.dll+02B0660	add [rax], al |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0660)
+[RSP+D0  ] 0x59BB27C1E4C4     (size_t) [98660360774852]
+[RSP+D8  ] 0x2B9942ECC9       (void*)
+[RSP+E0  ] 0x1575F14D840      (void*)
+[RSP+E8  ] 0x7FF70FA190B0     (void* -> Fallout4.exe+2E490B0	loopne 0x00007FF70FA19045 |  aDiveBombChance_2E490B0)
+[RSP+F0  ] 0x7FFEE3F60610     (void* -> Buffout4.dll+02B0610	add al, [rax] |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0610)
+[RSP+F8  ] 0x7FFEE3F60660     (void* -> Buffout4.dll+02B0660	add [rax], al |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0660)
+[RSP+100 ] 0x59BB27C1E4F4     (size_t) [98660360774900]
+[RSP+108 ] 0x2B9942EDA8       (void*)
+[RSP+110 ] 0x2B9942F288       (hkObjectCopier*)
+[RSP+118 ] 0x15824A12BE0      (hkbStateMachine::StateInfo*)
+[RSP+120 ] 0x7FF713139520     (void* -> Fallout4.exe+6569520	mov eax, 0xF70F9AEE |  aDiveBombChance_6569520)
+[RSP+128 ] 0x2B9942F230       (void*)
+[RSP+130 ] 0x20               (size_t) [32]
+[RSP+138 ] 0x2B9942F230       (void*)
+[RSP+140 ] 0x2B9942EE60       (void*)
+[RSP+148 ] 0x7FFEE3D6B1DC     (void* -> Buffout4.dll+00BB1DC	add rsp, 0x38 |  E:\Documents\source\repos\Buffout4\src\Patches\HavokMemorySystemPatch.h:40 ?BufRealloc@hkMemoryAllocator@detail@HavokMemorySystemPatch@Patches@@UEAAPEAXPEAXHAEAH@Z E:\Documents\source\repos\Buffout4\src\Patches\WorkshopMenuPatch.h:556 ?BufRealloc@hkMemoryAllocator@detail@HavokMemorySystemPatch@Patches@@UEAAPEAXPEAXHAEAH@Z)
+[RSP+150 ] 0x2                (size_t) [2]
+[RSP+158 ] 0x7FF70E0D4FC4     (void* -> Fallout4.exe+1504FC4	mov r9, rbx |  hkContainerHeapAllocator::Allocator::bufRealloc(void*,int,int&)_1504FC4)
+[RSP+160 ] 0x2B9942EDA8       (void*)
+[RSP+168 ] 0x7FF70E4B32B4     (void* -> Fallout4.exe+18E32B4	add [rbx+0x20], esi |  hkArrayStreamWriter::write(void*,int)_18E32B4)
+[RSP+170 ] 0x7FF7126DB101     (void* -> Fallout4.exe+5B0B101	add [rax], al |  aDiveBombChance_5B0B101)
+[RSP+178 ] 0x2B9942F240       (void*)
+[RSP+180 ] 0x2B9942F230       (void*)
+[RSP+188 ] 0x7FF70E0A7249     (void* -> Fallout4.exe+14D7249	mov [rdi], rax |  hkArrayUtil::_reserveMore(hkMemoryAllocator&,void*,int)_14D7249)
+[RSP+190 ] 0x2B9942F230       (void*)
+[RSP+198 ] 0x20               (size_t) [32]
+[RSP+1A0 ] 0x8                (size_t) [8]
+[RSP+1A8 ] 0x8                (size_t) [8]
+[RSP+1B0 ] 0x15824A12C70      (hkbStateMachine::EventPropertyArray*)
+[RSP+1B8 ] 0x7FF70E59BB27     (void* -> Fallout4.exe+19CBB27	movsxd rcx, dword ptr [rbx+0x08] |  hkRelocationInfo::addGlobal(int,void*,hkClass*,uint)_19CBB27)
+[RSP+1C0 ] 0x2B9942F288       (hkObjectCopier*)
+[RSP+1C8 ] 0x7FF7131394A0     (void* -> Fallout4.exe+65694A0	mov al, 0xDC |  aDiveBombChance_65694A0)
+[RSP+1D0 ] 0x15700040000      (void*)
+[RSP+1D8 ] 0x7FF70E39477F     (void* -> Fallout4.exe+17C477F	test eax, eax |  hkClassMember::getSizeInBytes(void)_17C477F)
+[RSP+1E0 ] 0x15700089080      (void*)
+[RSP+1E8 ] 0x2B00000010       (size_t) [184683593744]
+[RSP+1F0 ] 0x2B9942F308       (void*)
+[RSP+1F8 ] 0x2B00000000       (size_t) [184683593728]
+[RSP+200 ] 0x40               (size_t) [64]
+[RSP+208 ] 0x7FF70E59A29E     (void* -> Fallout4.exe+19CA29E	mov r8d, [rsp+0x50] |  hkObjectCopier::saveExtras(void*,hkClass&,hkOArchive&,hkClass&,int,int,hkRelocationInfo&,hkLocalArray<char>&,int)_19CA29E)
+[RSP+210 ] 0x15824A12C20      (void*)
+[RSP+218 ] 0x2B9942F288       (hkObjectCopier*)
+[RSP+220 ] 0x15824A12C20      (void*)
+[RSP+228 ] 0x2B9942F288       (hkObjectCopier*)
+[RSP+230 ] 0x0                (size_t) [0]
+[RSP+238 ] 0x2B9942F220       (void*)
+[RSP+240 ] 0x7FF700088F30     (size_t) [140698834210608]
+[RSP+248 ] 0x0                (size_t) [0]
+[RSP+250 ] 0x8000000000000000 (size_t) [uint: 9223372036854775808 int: -9223372036854775808]
+[RSP+258 ] 0x2                (size_t) [2]
+[RSP+260 ] 0x0                (size_t) [0]
+[RSP+268 ] 0x8                (size_t) [8]
+[RSP+270 ] 0x7FF70FA2CD48     (void* -> Fallout4.exe+2E5CD48	or bl, bl |  aDiveBombChance_2E5CD48)
+[RSP+278 ] 0x7FF70FA2CD48     (void* -> Fallout4.exe+2E5CD48	or bl, bl |  aDiveBombChance_2E5CD48)
+[RSP+280 ] 0x1                (size_t) [1]
+[RSP+288 ] 0x15824A12C70      (hkbStateMachine::EventPropertyArray*)
+[RSP+290 ] 0xF00000006        (size_t) [64424509446]
+[RSP+298 ] 0x89040            (size_t) [561216]
+[RSP+2A0 ] 0x0                (size_t) [0]
+[RSP+2A8 ] 0x7FFE00000000     (size_t) [140728898420736]
+[RSP+2B0 ] 0x7FF70FA190B0     (void* -> Fallout4.exe+2E490B0	loopne 0x00007FF70FA19045 |  aDiveBombChance_2E490B0)
+[RSP+2B8 ] 0x7FF70F9A33D0     (char*) "EVENT_MODE_DEFAULT"
+[RSP+2C0 ] 0xA6000            (size_t) [679936]
+[RSP+2C8 ] 0x15820434040      (void*)
+[RSP+2D0 ] 0x0                (size_t) [0]
+[RSP+2D8 ] 0x2B9942F348       (void*)
+[RSP+2E0 ] 0x0                (size_t) [0]
+[RSP+2E8 ] 0x7FFF599878C9     (void* -> ntdll.dll+00378C9	prefetchw byte ptr [rsi])
+[RSP+2F0 ] 0x7FFE00000006     (size_t) [140728898420742]
+[RSP+2F8 ] 0x7FFE00000000     (size_t) [140728898420736]
+[RSP+300 ] 0x1                (size_t) [1]
+[RSP+308 ] 0x7FFEE3DB3270     (void* -> Buffout4.dll+0103270	nop |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\large_objects.cpp:450 ?ExecuteOperation@CacheBin@?$LargeObjectCacheImpl@U?$LargeObjectCacheProps@U?$LargeBinStructureProps@$0CAAA@$0IAAAAA@@internal@rml@@$01$01$0BA@@internal@rml@@@internal@rml@@AEAAXPEAUCacheBinOperation@34@PEAUExtMemoryPool@34@PEAV?$BitMaskMax@$0DPP@@34@H_N@Z)
+[RSP+310 ] 0x2B9942EE80       (void*)
+[RSP+318 ] 0x2B9942EE60       (void*)
+[RSP+320 ] 0x0                (size_t) [0]
+[RSP+328 ] 0x19E0             (size_t) [6624]
+[RSP+330 ] 0x3FFFFFFFE        (size_t) [17179869182]
+[RSP+338 ] 0x7FFEE3F95510     (void* -> Buffout4.dll+02E5510	adc [rbp-0x07], dl |  ?memPoolListLock@MemoryPool@internal@rml@@2VMallocMutex@@A_2E5510)
+[RSP+340 ] 0x0                (size_t) [0]
+[RSP+348 ] 0x7FFEE3F60610     (void* -> Buffout4.dll+02B0610	add al, [rax] |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0610)
+[RSP+350 ] 0x2B9942F010       (void*)
+[RSP+358 ] 0x7FFEE3DAB53E     (void* -> Buffout4.dll+00FB53E	cmp eax, ebx |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2537 ?freeOwnObject@Block@internal@rml@@QEAAXPEAX@Z)
+[RSP+360 ] 0x0                (size_t) [0]
+[RSP+368 ] 0xFFFFFFFFFFFFFFFF (size_t) [uint: 18446744073709551615 int: -1]
+[RSP+370 ] 0x157EF335540      (void*)
+[RSP+378 ] 0x15750A647C0      (void*)
+[RSP+380 ] 0x157EF335540      (void*)
+[RSP+388 ] 0x7FFF2D2D336F     (void* -> MSVCP140.dll+001336F	xor eax, eax)
+[RSP+390 ] 0x157EF335540      (void*)
+[RSP+398 ] 0x7FFEE3F95500     (void* -> Buffout4.dll+02E5500	add [rax], al |  ?memPoolListLock@MemoryPool@internal@rml@@2VMallocMutex@@A_2E5500)
+[RSP+3A0 ] 0x2B9942F288       (hkObjectCopier*)
+[RSP+3A8 ] 0x2B9942F308       (void*)
+[RSP+3B0 ] 0x7FFEE3F60610     (void* -> Buffout4.dll+02B0610	add al, [rax] |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0610)
+[RSP+3B8 ] 0x7FFEE3D5F8DF     (void* -> Buffout4.dll+00AF8DF	lea r11, [rsp+0x140] |  E:\Documents\source\repos\Buffout4\src\Patches\MemoryManagerPatch.cpp:146 ?DbgDeallocate@MemoryManager@detail@MemoryManagerPatch@Patches@@YAXPEAV1RE@@PEAX_N@Z)
+[RSP+3C0 ] 0x7FFEE3F60660     (void* -> Buffout4.dll+02B0660	add [rax], al |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0660)
+[RSP+3C8 ] 0x157EF335540      (void*)
+[RSP+3D0 ] 0x157EF335540      (void*)
+[RSP+3D8 ] 0x7FFEE3F60610     (void* -> Buffout4.dll+02B0610	add al, [rax] |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0610)
+[RSP+3E0 ] 0x2B00000000       (size_t) [184683593728]
+[RSP+3E8 ] 0x1A000            (size_t) [106496]
+[RSP+3F0 ] 0x1575CA22818      (void*)
+[RSP+3F8 ] 0x1575CA32917      (void*)
+[RSP+400 ] 0x7FFEE3F95510     (void* -> Buffout4.dll+02E5510	adc [rbp-0x07], dl |  ?memPoolListLock@MemoryPool@internal@rml@@2VMallocMutex@@A_2E5510)
+[RSP+408 ] 0x7FFEE3DB3A8C     (void* -> Buffout4.dll+0103A8C	mov r9, rax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\large_objects.cpp:982 ?mallocLargeObject@ExtMemoryPool@internal@rml@@QEAAPEAULargeMemoryBlock@23@PEAVMemoryPool@23@_K@Z)
+[RSP+410 ] 0x1A000            (size_t) [106496]
+[RSP+418 ] 0x15754A3E040      (void*)
+[RSP+420 ] 0x0                (size_t) [0]
+[RSP+428 ] 0x7FFEE3F60610     (void* -> Buffout4.dll+02B0610	add al, [rax] |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0610)
+[RSP+430 ] 0x0                (size_t) [0]
+[RSP+438 ] 0x7FFEE3DABC22     (void* -> Buffout4.dll+00FBC22	mov rax, rsi |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2331 ?getFromLLOCache@MemoryPool@internal@rml@@QEAAPEAXPEAVTLSData@23@_K1@Z)
+[RSP+440 ] 0x7FFE00000000     (size_t) [140728898420736]
+[RSP+448 ] 0x1562EC45600      (void*)
+[RSP+450 ] 0x40               (size_t) [64]
+[RSP+458 ] 0x7FFEE3F95500     (void* -> Buffout4.dll+02E5500	add [rax], al |  ?memPoolListLock@MemoryPool@internal@rml@@2VMallocMutex@@A_2E5500)
+[RSP+460 ] 0x15820435370      (void*)
+[RSP+468 ] 0x7FFEE3DAC493     (void* -> Buffout4.dll+00FC493	jmp 0x00007FFEE3DAC49D |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2444 ?putToLLOCache@MemoryPool@internal@rml@@QEAAXPEAVTLSData@23@PEAX@Z)
+[RSP+470 ] 0x15820435380      (void*)
+[RSP+478 ] 0x7FF70E4B32B4     (void* -> Fallout4.exe+18E32B4	add [rbx+0x20], esi |  hkArrayStreamWriter::write(void*,int)_18E32B4)
+[RSP+480 ] 0x18000            (size_t) [98304]
+[RSP+488 ] 0xC000             (size_t) [49152]
+[RSP+490 ] 0x7FFEE3F60610     (void* -> Buffout4.dll+02B0610	add al, [rax] |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0610)
+[RSP+498 ] 0x7FFEE3F60660     (void* -> Buffout4.dll+02B0660	add [rax], al |  ?singleton@?1??get@MemoryTraces@detail@MemoryManagerPatch@Patches@@SAAEAV2345@XZ@4V2345@A_2B0660)
+[RSP+4A0 ] 0x0                (size_t) [0]
+[RSP+4A8 ] 0x7FFF2D2D336F     (void* -> MSVCP140.dll+001336F	xor eax, eax)
+[RSP+4B0 ] 0x15750A64850      (void*)
+[RSP+4B8 ] 0x7FF70E59B00B     (void* -> Fallout4.exe+19CB00B	lea r8d, [rdi+0x0F] |  objectCopierPadUp_19CB00B)
+[RSP+4C0 ] 0x8                (size_t) [8]
+[RSP+4C8 ] 0x890B8            (size_t) [561336]
+[RSP+4D0 ] 0x15820435380      (void*)
+[RSP+4D8 ] 0x157EF335BD0      (hkArrayStreamWriter*)
+[RSP+4E0 ] 0x15820435380      (void*)
+[RSP+4E8 ] 0x7FF70E4B32B4     (void* -> Fallout4.exe+18E32B4	add [rbx+0x20], esi |  hkArrayStreamWriter::write(void*,int)_18E32B4)
+[RSP+4F0 ] 0x15750A64840      (void*)
+[RSP+4F8 ] 0x8000001000000000 (size_t) [uint: 9223372105574252544 int: -9223371968135299072]
+[RSP+500 ] 0x15750A64840      (void*)
+[RSP+508 ] 0x89040            (size_t) [561216]
+[RSP+510 ] 0x157EF335BD0      (hkArrayStreamWriter*)
+[RSP+518 ] 0x7FF713139520     (void* -> Fallout4.exe+6569520	mov eax, 0xF70F9AEE |  aDiveBombChance_6569520)
+[RSP+520 ] 0x2B9942F141       (void*)
+[RSP+528 ] 0x7FF70E599013     (void* -> Fallout4.exe+19C9013	mov rax, [rsi] |  hkObjectCopier::copyObject(void*,hkClass&,hkStreamWriter*,hkClass&,hkRelocationInfo&)_19C9013)
+[RSP+530 ] 0x2B9942F288       (hkObjectCopier*)
+[RSP+538 ] 0x15824A12BE0      (hkbStateMachine::StateInfo*)
+[RSP+540 ] 0x7FF713139520     (void* -> Fallout4.exe+6569520	mov eax, 0xF70F9AEE |  aDiveBombChance_6569520)
+[RSP+548 ] 0x2B9942F138       (hkOArchive*)
+[RSP+550 ] 0x7FF713139520     (void* -> Fallout4.exe+6569520	mov eax, 0xF70F9AEE |  aDiveBombChance_6569520)
+[RSP+558 ] 0x2B00089040       (size_t) [184684154944]
+[RSP+560 ] 0x59BB000890C0     (size_t) [98659694317760]
+[RSP+568 ] 0x2B9942F220       (void*)
+[RSP+570 ] 0x2B9942F0F0       (void*)
+[RSP+578 ] 0x7FFE00000001     (size_t) [140728898420737]
+[RSP+580 ] 0x15750A643C0      (void*)
+[RSP+588 ] 0x8000040000000010 (size_t) [uint: 9223376434901286928 int: -9223367638808264688]
+[RSP+590 ] 0x15750A643C0      (void*)
+[RSP+598 ] 0x2B00000400       (size_t) [184683594752]
+[RSP+5A0 ] 0x15750A647C0      (void*)
+[RSP+5A8 ] 0x8000001000000006 (size_t) [uint: 9223372105574252550 int: -9223371968135299066]
+[RSP+5B0 ] 0x15750A647C0      (void*)
+[RSP+5B8 ] 0x7FF700000010     (size_t) [140698833649680]
+[RSP+5C0 ] 0x7FF70F993DC8     (void* -> Fallout4.exe+2DC3DC8	sbb dh, 0x31 |  aDiveBombChance_2DC3DC8)
+[RSP+5C8 ] 0x7FFEFFFF0002     (size_t) [140733193322498]
+[RSP+5D0 ] 0x2B9942F0D0       (void*)
+[RSP+5D8 ] 0x7FF7103FA4D0     (hkContainerHeapAllocator::Allocator*)
+[RSP+5E0 ] 0x100000010        (size_t) [4294967312]
+[RSP+5E8 ] 0x7FF70F9975A8     (void* -> Fallout4.exe+2DC75A8	adc [rax+0x39], ah |  aDiveBombChance_2DC75A8)
+[RSP+5F0 ] 0x2BFFFF0001       (size_t) [188978495489]
+[RSP+5F8 ] 0x2B9942F110       (hkArrayStreamWriter*)
+[RSP+600 ] 0x2B9942F100       (void*)
+[RSP+608 ] 0x7FF70E0CFACB     (void* -> Fallout4.exe+14FFACB	test rax, rax |  hkClass::hasVtable(void)_14FFACB)
+[RSP+610 ] 0xAEF              (size_t) [2799]
+[RSP+618 ] 0x1562ED0A560      (hkVtableClassRegistry*)
+[RSP+620 ] 0x2B9942F348       (void*)
+[RSP+628 ] 0xAEF0             (size_t) [44784]
+[RSP+630 ] 0x2B9942F290       (void*)
+[RSP+638 ] 0x7FF70E4B1307     (void* -> Fallout4.exe+18E1307	mov rdi, rsi |  hkDeepCopier::deepCopy(void*,hkClass&,hkPointerMap<void*,void*,hkContainerHeapAllocator>*,hkVtableClassRegistry*,hkTypeInfoRegistry*,hkFlags<hkObjectCopier::ObjectCopierFlagBits,uint>)_18E1307)
+[RSP+640 ] 0x7FF713139520     (void* -> Fallout4.exe+6569520	mov eax, 0xF70F9AEE |  aDiveBombChance_6569520)
+[RSP+648 ] 0x7FF713139520     (void* -> Fallout4.exe+6569520	mov eax, 0xF70F9AEE |  aDiveBombChance_6569520)
+[RSP+650 ] 0xFFF              (size_t) [4095]
+[RSP+658 ] 0x15824A12BE0      (hkbStateMachine::StateInfo*)
+[RSP+660 ] 0x157EF335BD0      (hkArrayStreamWriter*)
+[RSP+668 ] 0x7FF713139520     (void* -> Fallout4.exe+6569520	mov eax, 0xF70F9AEE |  aDiveBombChance_6569520)
+[RSP+670 ] 0x2B9942F220       (void*)
+[RSP+678 ] 0x1E4BD            (size_t) [124093]
+[RSP+680 ] 0x15754A3F580      (void*)
+[RSP+688 ] 0x100000000AF0     (size_t) [17592186047216]
+[RSP+690 ] 0x158439574C0      (void*)
+[RSP+698 ] 0x100000000BBE     (size_t) [17592186047422]
+[RSP+6A0 ] 0x1582FEE1200      (void*)
+[RSP+6A8 ] 0xA4800000890C0    (size_t) [2893914604867776]
+[RSP+6B0 ] 0x157CA773500      (void*)
+[RSP+6B8 ] 0x1FFF00000BBE     (size_t) [35180077124542]
+[RSP+6C0 ] 0x15750C0B540      (void*)
+[RSP+6C8 ] 0x1FFF00000AF0     (size_t) [35180077124336]
+[RSP+6D0 ] 0x157C1D4B440      (char*) "8"
+[RSP+6D8 ] 0x100000000E7C     (size_t) [17592186048124]
+[RSP+6E0 ] 0x156FB57D400      (void*)
+[RSP+6E8 ] 0x100000001000     (size_t) [17592186048512]
+[RSP+6F0 ] 0x158439335C0      (void*)
+[RSP+6F8 ] 0x100000000AF0     (size_t) [17592186047216]
+[RSP+700 ] 0x0                (size_t) [0]
+[RSP+708 ] 0x8000000000000000 (size_t) [uint: 9223372036854775808 int: -9223372036854775808]
+[RSP+710 ] 0x0                (size_t) [0]
+[RSP+718 ] 0x1562ED1D750      (hkTypeInfoRegistry*)
+[RSP+720 ] 0x7FF70F993D28     (void* -> Fallout4.exe+2DC3D28	nop |  aDiveBombChance_2DC3D28)
+[RSP+728 ] 0x156FFFF0001      (void*)
+[RSP+730 ] 0x157EF335BD0      (hkArrayStreamWriter*)
+[RSP+738 ] 0x7FF70F9BCC38     (void* -> Fallout4.exe+2DECC38	cmp byte ptr [rax+0x7FF70E59], 0x00 |  aDiveBombChance_2DECC38)
+[RSP+740 ] 0x15FFFF0001       (size_t) [94489214977]
+[RSP+748 ] 0x100010801000108  (size_t) [72058727926071560]
+[RSP+750 ] 0x8000000000000002 (size_t) [uint: 9223372036854775810 int: -9223372036854775806]
+[RSP+758 ] 0x7FFE00089040     (size_t) [140728898981952]
+[RSP+760 ] 0x28D2             (size_t) [10450]
+[RSP+768 ] 0x7FFEE3DABDB5     (void* -> Buffout4.dll+00FBDB5	mov r8d, eax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2567 ?getTLS@MemoryPool@internal@rml@@QEAAPEAVTLSData@23@_N@Z)
+[RSP+770 ] 0x7FF7126D57A8     (void* -> Fallout4.exe+5B057A8	add [rax], al |  aDiveBombChance_5B057A8)
+[RSP+778 ] 0x8                (size_t) [8]
+[RSP+780 ] 0x156CAACE2E0      (char*) "z"
+[RSP+788 ] 0x7FF7126D5790     (void* -> Fallout4.exe+5B05790	add [rax], al |  aDiveBombChance_5B05790)
+[RSP+790 ] 0x158249E3120      (hkbStateMachine*)
+[RSP+798 ] 0x158249E2F50      (hkbBehaviorGraph*)
+[RSP+7A0 ] 0x2B9942F379       (void*)
+[RSP+7A8 ] 0x7FF70E30C2E2     (void* -> Fallout4.exe+173C2E2	movsxd r11, dword ptr [rbp-0x25] |  hkbBehaviorGraph::cloneDeep(bool,bool,bool,hkVtableClassRegistry*,hkTypeInfoRegistry*,hkbGenerator*,hkPointerMap<hkbBehaviorGraph*,hkbBehaviorGraph*,hkContainerHeapAllocator>*)_173C2E2)
+[RSP+7B0 ] 0x1000101          (size_t) [16777473]
+[RSP+7B8 ] 0x7FFE00000000     (size_t) [140728898420736]
+[RSP+7C0 ] 0x1562ED0A560      (hkVtableClassRegistry*)
+[RSP+7C8 ] 0x1562ED0A560      (hkVtableClassRegistry*)
+[RSP+7D0 ] 0x1562ED1D750      (hkTypeInfoRegistry*)
+[RSP+7D8 ] 0x7FF700000002     (size_t) [140698833649666]
+[RSP+7E0 ] 0x2B9942F420       (void*)
+[RSP+7E8 ] 0x7FF70E6E1325     (void* -> Fallout4.exe+1B11325	mov [rbx+0x08], rax |  BSScrapArrayAllocator::Allocate(uint,uint)_1B11325)
+[RSP+7F0 ] 0x6F747369505C6E6F (size_t) [8031170931665432175]
+[RSP+7F8 ] 0x0                (size_t) [0]
+[RSP+800 ] 0xFFFFFFFF00000000 (size_t) [uint: 18446744069414584320 int: -4294967296]
+[RSP+808 ] 0x2B9942F360       (void*)
+[RSP+810 ] 0x0                (size_t) [0]
+[RSP+818 ] 0xFFFFFFFF00000000 (size_t) [uint: 18446744069414584320 int: -4294967296]
+[RSP+820 ] 0x15878E43A08      (void*)
+[RSP+828 ] 0x7FF70E2E7D03     (void* -> Fallout4.exe+1717D03	mov rdx, [rbx] |  BSTArray<LoadedBehavior,BSTSmallArrayHeapAllocator<8>>::Add<hkRefPtr<hkbBehaviorGraph>>(hkRefPtr<hkbBehaviorGraph>)_1717D03)
+[RSP+830 ] 0x2B00000002       (size_t) [184683593730]
+[RSP+838 ] 0x0                (size_t) [0]
+[RSP+840 ] 0x7FF70F8196C8     (void* -> Fallout4.exe+2C496C8	 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C496C8)
+[RSP+848 ] 0x6                (size_t) [6]
+[RSP+850 ] 0x73               (size_t) [115]
+[RSP+858 ] 0x158249E2F50      (hkbBehaviorGraph*)
+[RSP+860 ] 0x2B9942F449       (void*)
+[RSP+868 ] 0x7FF70E2EA5A6     (void* -> Fallout4.exe+171A5A6	xor r8d, r8d |  UniqueBehaviorServerHelper::GetUniqueBehaviors(BSTSmallArray<LoadedBehavior,1>&)_171A5A6)
+[RSP+870 ] 0x158249E2F50      (hkbBehaviorGraph*)
+[RSP+878 ] 0x80000000         (size_t) [2147483648]
+[RSP+880 ] 0x15878E43A01      (void*)
+[RSP+888 ] 0x7FF70E0D4F00     (void* -> Fallout4.exe+1504F00	mov ebx, r8d |  hkContainerHeapAllocator::Allocator::blockFree(void*,int)_1504F00)
+[RSP+890 ] 0x1562ED0A560      (hkVtableClassRegistry*)
+[RSP+898 ] 0x1562ED1D750      (hkTypeInfoRegistry*)
+[RSP+8A0 ] 0x0                (size_t) [0]
+[RSP+8A8 ] 0x0                (size_t) [0]
+[RSP+8B0 ] 0x79F36E48C8C94F00 (size_t) [8787488556815306496]
+[RSP+8B8 ] 0x8                (size_t) [8]
+[RSP+8C0 ] 0x7085093ECAACE2E0 (size_t) [8107896869443396320]
+[RSP+8C8 ] 0x2B9942F310       (void*)
+[RSP+8D0 ] 0x156CAACE240      (ScrapHeap*)
+[RSP+8D8 ] 0x157EF335990      (void*)
+[RSP+8E0 ] 0x5                (size_t) [5]
+[RSP+8E8 ] 0x7FF700000005     (size_t) [140698833649669]
+[RSP+8F0 ] 0x40               (size_t) [64]
+[RSP+8F8 ] 0x0                (size_t) [0]
+[RSP+900 ] 0x7FF7126D5794     (void* -> Fallout4.exe+5B05794	loopne 0x00007FF7126D57AF |  aDiveBombChance_5B05794)
+[RSP+908 ] 0x157EF0CAD10      (LOCALNAMESPACE::hkNativeResource*)
+[RSP+910 ] 0x157EF2DB440      (BSResource::Archive2::ReaderStream*)
+[RSP+918 ] 0x7FF70F992020     (void* -> Fallout4.exe+2DC2020	and [rbx+0x2E], cl |  aDiveBombChance_2DC2020)
+[RSP+920 ] 0x7FFFFFFFFFFFFFF  (size_t) [576460752303423487]
+[RSP+928 ] 0x156CAACE2E0      (char*) "z"
+[RSP+930 ] 0x15878E43900      (BSSubBehaviorGraphSingletonData*)
+[RSP+938 ] 0x73               (size_t) [115]
+[RSP+940 ] 0x156CAACE2E0      (char*) "z"
+[RSP+948 ] 0x1A1              (size_t) [417]
+[RSP+950 ] 0x2B9942F539       (void*)
+[RSP+958 ] 0x7FF70E2E7974     (void* -> Fallout4.exe+1717974	mov [rdi], ebx |  UniqueBehaviorServer::GetUniqueBehaviors(BSTSmallArray<LoadedBehavior,1>&)_1717974)
+[RSP+960 ] 0x7FF7126D5790     (void* -> Fallout4.exe+5B05790	add [rax], al |  aDiveBombChance_5B05790)
+[RSP+968 ] 0x15878E43A08      (void*)
+[RSP+970 ] 0x157EF0CA501      (void*)
+[RSP+978 ] 0x7FF700000001     (size_t) [140698833649665]
+[RSP+980 ] 0x15878E72900      (`anonymous namespace'::QueuedSubBehaviorHandles*)
+[RSP+988 ] 0x7FF70E2E610E     (void* -> Fallout4.exe+171610E	mov ecx, [rsi+0x118] |  BSSubBehaviorGraphSingletonData::OnLoadFinished(void)_171610E)
+[RSP+990 ] 0x15878E43A08      (void*)
+[RSP+998 ] 0x7FF70D37C290     (void* -> Fallout4.exe+07AC290	mov rbx, rax |  BSResource::Streamer<BSResource::RHandleType<BSResource::Entry<BGSDistantObjectBlock*,BSResource::EntryDBTraits<BGSBtoDB::DBTraits,BSResource::EntryDB<BGSBtoDB::DBTraits>>::CArgs>,BSResource::EntryDB<BGSBtoDB::DBTraits>>,512>::ConsumeToSchedule(BSResource::StreamerTraits<BSResource::RHandleType<BSResource::Entry<BGSDistantObjectBlock*,BSResource::EntryDBTraits<BGSBtoDB::DBTraits,BSResource::EntryDB<BGSBtoDB::DBTraits>>::CArgs>,BSResource::EntryDB<BGSBtoDB::DBTraits>>,512>::StreamRequest**)_7AC290)
+[RSP+9A0 ] 0x59BB27C1FB14     (size_t) [98660360780564]
+[RSP+9A8 ] 0x7FF70E712FE8     (void* -> Fallout4.exe+1B42FE8	mov r10, rax |  BSStringPool::Entry::Release(BSStringPool::Entry*&)_1B42FE8)
+[RSP+9B0 ] 0x157EF0CB030      (void*)
+[RSP+9B8 ] 0x2B9942F628       (void*)
+[RSP+9C0 ] 0x156CAACE2E0      (char*) "z"
+[RSP+9C8 ] 0x157EF0CB010      (void*)
+[RSP+9D0 ] 0x157EF331D38      (char*) "Meshes\AnimTextData\AnimationSpeedInfo\13102873860017958379.txt"
+[RSP+9D8 ] 0x7FF70E21BFAC     (void* -> Fallout4.exe+164BFAC	mov rax, rbx |  BSTDerivedCreator<AnimationSpeedInformationDBData,BSAnimationDBData>::Create(void)_164BFAC)
+[RSP+9E0 ] 0x2                (size_t) [2]
+[RSP+9E8 ] 0x2B9942F430       (void*)
+[RSP+9F0 ] 0x0                (size_t) [0]
+[RSP+9F8 ] 0x7FF70E712FE8     (void* -> Fallout4.exe+1B42FE8	mov r10, rax |  BSStringPool::Entry::Release(BSStringPool::Entry*&)_1B42FE8)
+[RSP+A00 ] 0x156CAACE2E0      (char*) "z"
+[RSP+A08 ] 0x7FF70E076088     (void* -> Fallout4.exe+14A6088	test al, al |  BShkbHkxDB::DBTraits::Create(BSTSmartPointer<BSResource::Stream,BSTSmartPointerIntrusiveRefCount>&,char*,BShkbHkxDB::DBTraits::ArgsType&,BSAnimationDBData*&,uint&)_14A6088)
+[RSP+A10 ] 0x156CAACE2E0      (char*) "z"
+[RSP+A18 ] 0x1A0              (size_t) [416]
+[RSP+A20 ] 0x7FF70F992020     (void* -> Fallout4.exe+2DC2020	and [rbx+0x2E], cl |  aDiveBombChance_2DC2020)
+[RSP+A28 ] 0x15878E72900      (`anonymous namespace'::QueuedSubBehaviorHandles*)
+[RSP+A30 ] 0x15878E43900      (BSSubBehaviorGraphSingletonData*)
+[RSP+A38 ] 0x2                (size_t) [2]
+[RSP+A40 ] 0x4                (size_t) [4]
+[RSP+A48 ] 0x7FF70E2E1282     (void* -> Fallout4.exe+1711282	mov rcx, [rsp+0x40] |  BSSubBehaviorGraphSingleton::GetDataIfLoaded(SubgraphHandle&,IO_TASK_PRIORITY&)_1711282)
+[RSP+A50 ] 0x7FFFFFFFFFFFFFF  (size_t) [576460752303423487]
+[RSP+A58 ] 0x7FF70E712FE8     (void* -> Fallout4.exe+1B42FE8	mov r10, rax |  BSStringPool::Entry::Release(BSStringPool::Entry*&)_1B42FE8)
+[RSP+A60 ] 0x7FF712737580     (void* -> Fallout4.exe+5B67580	ror byte ptr [rsi], 0x4B |  aDiveBombChance_5B67580)
+[RSP+A68 ] 0x15878E72900      (`anonymous namespace'::QueuedSubBehaviorHandles*)
+[RSP+A70 ] 0x15878E43900      (BSSubBehaviorGraphSingletonData*)
+[RSP+A78 ] 0x2B9942F5D8       (BSAutoQueuedResourceCollection<`anonymous namespace'::QueuedSubBehaviorHandles>*)
+[RSP+A80 ] 0x0                (size_t) [0]
+[RSP+A88 ] 0x7FF70F992020     (void* -> Fallout4.exe+2DC2020	and [rbx+0x2E], cl |  aDiveBombChance_2DC2020)
+[RSP+A90 ] 0x0                (size_t) [0]
+[RSP+A98 ] 0x15878E72900      (`anonymous namespace'::QueuedSubBehaviorHandles*)
+[RSP+AA0 ] 0x15700000001      (void*)
+[RSP+AA8 ] 0x7FF70E0789E8     (void* -> Fallout4.exe+14A89E8	mov eax, [rsi+0x0C] |  BSQueuedResourceCollection<BSResource::EntryDB<BShkbHkxDB::DBTraits>,2>::ProcessBusyHandles<_lambda_3c21e23128e5622f3d69d6b7918ba9d4_>(_lambda_3c21e23128e5622f3d69d6b7918ba9d4_&)_14A89E8)
+[RSP+AB0 ] 0x0                (size_t) [0]
+[RSP+AB8 ] 0x10200014A924A92  (size_t) [72620549537417874]
+[RSP+AC0 ] 0x5                (size_t) [5]
+[RSP+AC8 ] 0x4                (size_t) [4]
+[RSP+AD0 ] 0x15878E72900      (`anonymous namespace'::QueuedSubBehaviorHandles*)
+[RSP+AD8 ] 0x7FF70E877E53     (void* -> Fallout4.exe+1CA7E53	cmp qword ptr [rbx+0x48], 0x00 |  QueuedFile::CheckFinished(void)_1CA7E53)
+[RSP+AE0 ] 0x0                (size_t) [0]
+[RSP+AE8 ] 0x7FF70CBD0000     (void*)
+[RSP+AF0 ] 0x156C8C94F00      (IOManagerThread*)
+[RSP+AF8 ] 0x0                (size_t) [0]
+[RSP+B00 ] 0x156CA280100      (IOManager*)
+[RSP+B08 ] 0x7FF70E8749E0     (void* -> Fallout4.exe+1CA49E0	mov rdx, rbx |  IOManager::FinishTask(IOTask*)_1CA49E0)
+[RSP+B10 ] 0x3                (size_t) [3]
+[RSP+B18 ] 0x15878E72900      (`anonymous namespace'::QueuedSubBehaviorHandles*)
+[RSP+B20 ] 0x3                (size_t) [3]
+[RSP+B28 ] 0x1                (size_t) [1]
+[RSP+B30 ] 0x15878E72900      (`anonymous namespace'::QueuedSubBehaviorHandles*)
+[RSP+B38 ] 0x7FF70E877701     (void* -> Fallout4.exe+1CA7701	jmp 0x00007FF70E877790 |  IOManagerThread::ThreadProc(void)_1CA7701)
+[RSP+B40 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+B48 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+B50 ] 0x156CA280100      (IOManager*)
+[RSP+B58 ] 0x1                (size_t) [1]
+[RSP+B60 ] 0x156000019E0      (void*)
+[RSP+B68 ] 0x0                (size_t) [0]
+[RSP+B70 ] 0x7FFFFFFFFFFFFFF  (size_t) [576460752303423487]
+[RSP+B78 ] 0x156C99B64D0      (void*)
+[RSP+B80 ] 0x156C99B64D0      (void*)
+[RSP+B88 ] 0x0                (size_t) [0]
+[RSP+B90 ] 0x0                (size_t) [0]
+[RSP+B98 ] 0x0                (size_t) [0]
+[RSP+BA0 ] 0x0                (size_t) [0]
+[RSP+BA8 ] 0x0                (size_t) [0]
+[RSP+BB0 ] 0x0                (size_t) [0]
+[RSP+BB8 ] 0x0                (size_t) [0]
+[RSP+BC0 ] 0x0                (size_t) [0]
+[RSP+BC8 ] 0x0                (size_t) [0]
+[RSP+BD0 ] 0x156C8C94F00      (IOManagerThread*)
+[RSP+BD8 ] 0x7FF70E6ECFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF71272BD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+BE0 ] 0x156C8C94F00      (IOManagerThread*)
+[RSP+BE8 ] 0x2B9942F700       (void*)
+[RSP+BF0 ] 0x1562ED0BC00      (NiTPrimitiveArray<void (*)(NiStream &,NiObject *)>*)
+[RSP+BF8 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+C00 ] 0x156C8C94F00      (IOManagerThread*)
+[RSP+C08 ] 0x0                (size_t) [0]
+[RSP+C10 ] 0x0                (size_t) [0]
+[RSP+C18 ] 0x7FFF587D269D     (void* -> KERNEL32.DLL+001269D	mov ecx, eax)
+[RSP+C20 ] 0x0                (size_t) [0]
+[RSP+C28 ] 0x0                (size_t) [0]
+[RSP+C30 ] 0x0                (size_t) [0]
+[RSP+C38 ] 0x0                (size_t) [0]
+[RSP+C40 ] 0x0                (size_t) [0]
+[RSP+C48 ] 0x7FFF599AA9F8     (void* -> ntdll.dll+005A9F8	jmp 0x00007FFF599AAA19)
+[RSP+C50 ] 0x0                (size_t) [0]
+[RSP+C58 ] 0x0                (size_t) [0]
+[RSP+C60 ] 0x0                (size_t) [0]
+[RSP+C68 ] 0x0                (size_t) [0]
+[RSP+C70 ] 0x0                (size_t) [0]
+[RSP+C78 ] 0x0                (size_t) [0]
+[RSP+C80 ] 0x4FCE728800000000 (size_t) [5750659702639820800]
+[RSP+C88 ] 0x0                (size_t) [0]
+[RSP+C90 ] 0x4F0FFFFFB30      (size_t) [5433133628208]
+[RSP+C98 ] 0x7FFF57345B00     (void* -> KERNELBASE.dll+0155B00	mov [rsp+0x10], rbx)
+[RSP+CA0 ] 0x2B9942DC80       (void*)
+[RSP+CA8 ] 0x8800007FFF18FA29 (size_t) [uint: 9799833338898872873 int: -8646910734810678743]
+[RSP+CB0 ] 0x7FFF18FA2988     (size_t) [140733612435848]
+[RSP+CB8 ] 0x2B9942DC80       (void*)
+[RSP+CC0 ] 0x0                (size_t) [0]
+[RSP+CC8 ] 0x0                (size_t) [0]
+[RSP+CD0 ] 0x0                (size_t) [0]
+[RSP+CD8 ] 0x0                (size_t) [0]
+[RSP+CE0 ] 0x0                (size_t) [0]
+[RSP+CE8 ] 0x0                (size_t) [0]
+[RSP+CF0 ] 0x0                (size_t) [0]
+[RSP+CF8 ] 0x0                (size_t) [0]
+[RSP+D00 ] 0x0                (size_t) [0]
+[RSP+D08 ] 0x0                (size_t) [0]
+[RSP+D10 ] 0x0                (size_t) [0]
+[RSP+D18 ] 0x0                (size_t) [0]
+[RSP+D20 ] 0x0                (size_t) [0]
+[RSP+D28 ] 0x0                (size_t) [0]
+[RSP+D30 ] 0x0                (size_t) [0]
+[RSP+D38 ] 0x0                (size_t) [0]
+[RSP+D40 ] 0x0                (size_t) [0]
+[RSP+D48 ] 0x0                (size_t) [0]
+[RSP+D50 ] 0x0                (size_t) [0]
+[RSP+D58 ] 0x0                (size_t) [0]
+[RSP+D60 ] 0x0                (size_t) [0]
+[RSP+D68 ] 0x0                (size_t) [0]
+[RSP+D70 ] 0x0                (size_t) [0]
+[RSP+D78 ] 0x0                (size_t) [0]
+[RSP+D80 ] 0x0                (size_t) [0]
+[RSP+D88 ] 0x0                (size_t) [0]
+[RSP+D90 ] 0x0                (size_t) [0]
+[RSP+D98 ] 0x0                (size_t) [0]
+[RSP+DA0 ] 0x0                (size_t) [0]
+[RSP+DA8 ] 0x0                (size_t) [0]
+[RSP+DB0 ] 0x0                (size_t) [0]
+[RSP+DB8 ] 0x0                (size_t) [0]
+[RSP+DC0 ] 0x0                (size_t) [0]
+[RSP+DC8 ] 0x0                (size_t) [0]
+[RSP+DD0 ] 0x0                (size_t) [0]
+[RSP+DD8 ] 0x0                (size_t) [0]
+[RSP+DE0 ] 0x0                (size_t) [0]
+[RSP+DE8 ] 0x0                (size_t) [0]
+[RSP+DF0 ] 0x0                (size_t) [0]
+[RSP+DF8 ] 0x0                (size_t) [0]
+[RSP+E00 ] 0x0                (size_t) [0]
+[RSP+E08 ] 0x0                (size_t) [0]
+[RSP+E10 ] 0x0                (size_t) [0]
+[RSP+E18 ] 0x0                (size_t) [0]
+[RSP+E20 ] 0x0                (size_t) [0]
+[RSP+E28 ] 0x0                (size_t) [0]
+[RSP+E30 ] 0x0                (size_t) [0]
+[RSP+E38 ] 0x0                (size_t) [0]
+[RSP+E40 ] 0x0                (size_t) [0]
+[RSP+E48 ] 0x0                (size_t) [0]
+[RSP+E50 ] 0x0                (size_t) [0]
+[RSP+E58 ] 0x0                (size_t) [0]
+[RSP+E60 ] 0x0                (size_t) [0]
+[RSP+E68 ] 0x0                (size_t) [0]
+[RSP+E70 ] 0x0                (size_t) [0]
+[RSP+E78 ] 0x0                (size_t) [0]
+[RSP+E80 ] 0x0                (size_t) [0]
+[RSP+E88 ] 0x0                (size_t) [0]
+[RSP+E90 ] 0x0                (size_t) [0]
+[RSP+E98 ] 0x0                (size_t) [0]
+[RSP+EA0 ] 0x0                (size_t) [0]
+[RSP+EA8 ] 0x0                (size_t) [0]
+[RSP+EB0 ] 0x0                (size_t) [0]
+[RSP+EB8 ] 0x0                (size_t) [0]
+[RSP+EC0 ] 0x0                (size_t) [0]
+[RSP+EC8 ] 0x0                (size_t) [0]
+[RSP+ED0 ] 0x0                (size_t) [0]
+[RSP+ED8 ] 0x0                (size_t) [0]
+[RSP+EE0 ] 0x0                (size_t) [0]
+[RSP+EE8 ] 0x0                (size_t) [0]
+[RSP+EF0 ] 0x0                (size_t) [0]
+[RSP+EF8 ] 0x0                (size_t) [0]
+[RSP+F00 ] 0x0                (size_t) [0]
+[RSP+F08 ] 0x0                (size_t) [0]
+[RSP+F10 ] 0x0                (size_t) [0]
+[RSP+F18 ] 0x0                (size_t) [0]
+[RSP+F20 ] 0x0                (size_t) [0]
+[RSP+F28 ] 0x0                (size_t) [0]
+[RSP+F30 ] 0x0                (size_t) [0]
+[RSP+F38 ] 0x0                (size_t) [0]
+[RSP+F40 ] 0x0                (size_t) [0]
+[RSP+F48 ] 0x0                (size_t) [0]
+[RSP+F50 ] 0x0                (size_t) [0]
+[RSP+F58 ] 0x0                (size_t) [0]
+[RSP+F60 ] 0x0                (size_t) [0]
+[RSP+F68 ] 0x0                (size_t) [0]
+[RSP+F70 ] 0x0                (size_t) [0]
+[RSP+F78 ] 0x0                (size_t) [0]
+[RSP+F80 ] 0x0                (size_t) [0]
+[RSP+F88 ] 0x0                (size_t) [0]
+[RSP+F90 ] 0x0                (size_t) [0]
+[RSP+F98 ] 0x0                (size_t) [0]
+[RSP+FA0 ] 0x0                (size_t) [0]
+[RSP+FA8 ] 0x0                (size_t) [0]
+[RSP+FB0 ] 0x0                (size_t) [0]
+[RSP+FB8 ] 0x0                (size_t) [0]
+[RSP+FC0 ] 0x0                (size_t) [0]
+[RSP+FC8 ] 0x0                (size_t) [0]
+[RSP+FD0 ] 0x0                (size_t) [0]
+[RSP+FD8 ] 0x0                (size_t) [0]
+[RSP+FE0 ] 0x0                (size_t) [0]
+[RSP+FE8 ] 0x0                (size_t) [0]
+[RSP+FF0 ] 0x0                (size_t) [0]
+[RSP+FF8 ] 0x0                (size_t) [0]
+[RSP+1000] 0x0                (size_t) [0]
+[RSP+1008] 0x0                (size_t) [0]
+[RSP+1010] 0x0                (size_t) [0]
+[RSP+1018] 0x0                (size_t) [0]
+[RSP+1020] 0x0                (size_t) [0]
+[RSP+1028] 0x0                (size_t) [0]
+[RSP+1030] 0x0                (size_t) [0]
+[RSP+1038] 0x0                (size_t) [0]
+[RSP+1040] 0x0                (size_t) [0]
+[RSP+1048] 0x0                (size_t) [0]
+[RSP+1050] 0x0                (size_t) [0]
+[RSP+1058] 0x0                (size_t) [0]
+[RSP+1060] 0x0                (size_t) [0]
+[RSP+1068] 0x0                (size_t) [0]
+[RSP+1070] 0x0                (size_t) [0]
+[RSP+1078] 0x0                (size_t) [0]
+[RSP+1080] 0x0                (size_t) [0]
+[RSP+1088] 0x0                (size_t) [0]
+[RSP+1090] 0x0                (size_t) [0]
+[RSP+1098] 0x0                (size_t) [0]
+[RSP+10A0] 0x0                (size_t) [0]
+[RSP+10A8] 0x0                (size_t) [0]
+[RSP+10B0] 0x0                (size_t) [0]
+[RSP+10B8] 0x0                (size_t) [0]
+[RSP+10C0] 0x0                (size_t) [0]
+[RSP+10C8] 0x0                (size_t) [0]
+[RSP+10D0] 0x0                (size_t) [0]
+[RSP+10D8] 0x0                (size_t) [0]
+[RSP+10E0] 0x0                (size_t) [0]
+[RSP+10E8] 0x0                (size_t) [0]
+[RSP+10F0] 0x0                (size_t) [0]
+[RSP+10F8] 0x0                (size_t) [0]
+[RSP+1100] 0x0                (size_t) [0]
+[RSP+1108] 0x0                (size_t) [0]
+[RSP+1110] 0x0                (size_t) [0]
+[RSP+1118] 0x0                (size_t) [0]
+[RSP+1120] 0x0                (size_t) [0]
+[RSP+1128] 0x0                (size_t) [0]
+[RSP+1130] 0x0                (size_t) [0]
+[RSP+1138] 0x0                (size_t) [0]
+[RSP+1140] 0x0                (size_t) [0]
+[RSP+1148] 0x0                (size_t) [0]
+[RSP+1150] 0x0                (size_t) [0]
+[RSP+1158] 0x0                (size_t) [0]
+[RSP+1160] 0x0                (size_t) [0]
+[RSP+1168] 0x0                (size_t) [0]
+[RSP+1170] 0x0                (size_t) [0]
+[RSP+1178] 0x0                (size_t) [0]
+[RSP+1180] 0x0                (size_t) [0]
+[RSP+1188] 0x0                (size_t) [0]
+[RSP+1190] 0x0                (size_t) [0]
+[RSP+1198] 0x0                (size_t) [0]
+[RSP+11A0] 0x0                (size_t) [0]
+[RSP+11A8] 0x0                (size_t) [0]
+[RSP+11B0] 0x0                (size_t) [0]
+[RSP+11B8] 0x0                (size_t) [0]
+[RSP+11C0] 0x0                (size_t) [0]
+[RSP+11C8] 0x0                (size_t) [0]
+[RSP+11D0] 0x0                (size_t) [0]
+[RSP+11D8] 0x0                (size_t) [0]
+[RSP+11E0] 0x0                (size_t) [0]
+[RSP+11E8] 0x0                (size_t) [0]
+[RSP+11F0] 0x0                (size_t) [0]
+[RSP+11F8] 0x0                (size_t) [0]
+[RSP+1200] 0x0                (size_t) [0]
+[RSP+1208] 0x0                (size_t) [0]
+[RSP+1210] 0x0                (size_t) [0]
+[RSP+1218] 0x0                (size_t) [0]
+[RSP+1220] 0x0                (size_t) [0]
+[RSP+1228] 0x0                (size_t) [0]
+[RSP+1230] 0x0                (size_t) [0]
+[RSP+1238] 0x0                (size_t) [0]
+[RSP+1240] 0x0                (size_t) [0]
+[RSP+1248] 0x0                (size_t) [0]
+[RSP+1250] 0x0                (size_t) [0]
+[RSP+1258] 0x0                (size_t) [0]
+[RSP+1260] 0x0                (size_t) [0]
+[RSP+1268] 0x0                (size_t) [0]
+[RSP+1270] 0x0                (size_t) [0]
+[RSP+1278] 0x0                (size_t) [0]
+[RSP+1280] 0x0                (size_t) [0]
+[RSP+1288] 0x0                (size_t) [0]
+[RSP+1290] 0x0                (size_t) [0]
+[RSP+1298] 0x0                (size_t) [0]
+[RSP+12A0] 0x0                (size_t) [0]
+[RSP+12A8] 0x0                (size_t) [0]
+[RSP+12B0] 0x0                (size_t) [0]
+[RSP+12B8] 0x0                (size_t) [0]
+[RSP+12C0] 0x0                (size_t) [0]
+[RSP+12C8] 0x0                (size_t) [0]
+[RSP+12D0] 0x0                (size_t) [0]
+[RSP+12D8] 0x0                (size_t) [0]
+[RSP+12E0] 0x0                (size_t) [0]
+[RSP+12E8] 0x0                (size_t) [0]
+[RSP+12F0] 0x0                (size_t) [0]
+[RSP+12F8] 0x0                (size_t) [0]
+[RSP+1300] 0x0                (size_t) [0]
+[RSP+1308] 0x0                (size_t) [0]
+[RSP+1310] 0x0                (size_t) [0]
+[RSP+1318] 0x0                (size_t) [0]
+[RSP+1320] 0x0                (size_t) [0]
+[RSP+1328] 0x0                (size_t) [0]
+[RSP+1330] 0x0                (size_t) [0]
+[RSP+1338] 0x0                (size_t) [0]
+[RSP+1340] 0x0                (size_t) [0]
+[RSP+1348] 0x0                (size_t) [0]
+[RSP+1350] 0x0                (size_t) [0]
+[RSP+1358] 0x0                (size_t) [0]
+[RSP+1360] 0x0                (size_t) [0]
+[RSP+1368] 0x0                (size_t) [0]
+[RSP+1370] 0x0                (size_t) [0]
+[RSP+1378] 0x0                (size_t) [0]
+[RSP+1380] 0x0                (size_t) [0]
+[RSP+1388] 0x0                (size_t) [0]
+[RSP+1390] 0x0                (size_t) [0]
+[RSP+1398] 0x0                (size_t) [0]
+[RSP+13A0] 0x0                (size_t) [0]
+[RSP+13A8] 0x0                (size_t) [0]
+[RSP+13B0] 0x0                (size_t) [0]
+[RSP+13B8] 0x0                (size_t) [0]
+[RSP+13C0] 0x0                (size_t) [0]
+[RSP+13C8] 0x0                (size_t) [0]
+[RSP+13D0] 0x0                (size_t) [0]
+[RSP+13D8] 0x0                (size_t) [0]
+[RSP+13E0] 0x0                (size_t) [0]
+[RSP+13E8] 0x0                (size_t) [0]
+[RSP+13F0] 0x0                (size_t) [0]
+[RSP+13F8] 0x0                (size_t) [0]
+[RSP+1400] 0x0                (size_t) [0]
+[RSP+1408] 0x0                (size_t) [0]
+[RSP+1410] 0x0                (size_t) [0]
+[RSP+1418] 0x0                (size_t) [0]
+[RSP+1420] 0x0                (size_t) [0]
+[RSP+1428] 0x0                (size_t) [0]
+[RSP+1430] 0x0                (size_t) [0]
+[RSP+1438] 0x0                (size_t) [0]
+[RSP+1440] 0x0                (size_t) [0]
+[RSP+1448] 0x0                (size_t) [0]
+[RSP+1450] 0x0                (size_t) [0]
+[RSP+1458] 0x0                (size_t) [0]
+[RSP+1460] 0x0                (size_t) [0]
+[RSP+1468] 0x0                (size_t) [0]
+[RSP+1470] 0x0                (size_t) [0]
+[RSP+1478] 0x0                (size_t) [0]
+[RSP+1480] 0x0                (size_t) [0]
+[RSP+1488] 0x0                (size_t) [0]
+[RSP+1490] 0x0                (size_t) [0]
+[RSP+1498] 0x0                (size_t) [0]
+[RSP+14A0] 0x0                (size_t) [0]
+[RSP+14A8] 0x0                (size_t) [0]

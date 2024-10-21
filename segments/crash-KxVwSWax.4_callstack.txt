@@ -1,0 +1,170 @@
+[ 0] 0x7FF6C97346EB Fallout4VR.exe+12446EB -> 186907+0x88B
+[ 1] 0x7FF6C963981F Fallout4VR.exe+114981F -> 477005+0xAF
+[ 2] 0x7FF6C9631658 Fallout4VR.exe+1141658 -> 397055+0xF8
+[ 3] 0x7FF6C8D8019B Fallout4VR.exe+089019B -> 1187571+0xEB
+[ 4] 0x7FF6C9340516 Fallout4VR.exe+0E50516 -> 696609+0x176
+[ 5] 0x7FF6C95F90D8 Fallout4VR.exe+11090D8 -> 1562287+0x38
+[ 6] 0x7FF6CA0C0886 Fallout4VR.exe+1BD0886 -> 329005+0xC6
+[ 7] 0x7FF6CA0C0D92 Fallout4VR.exe+1BD0D92 -> 194800+0x202
+[ 8] 0x7FF6CA0C38C7 Fallout4VR.exe+1BD38C7 -> 96787+0x147
+[ 9] 0x7FF6CA08F94D Fallout4VR.exe+1B9F94D -> 495709+0x2CD
+[10] 0x7FFEE8347034   KERNEL32.DLL+0017034
+[11] 0x7FFEEA3226A1      ntdll.dll+00526A1
+
+REGISTERS:
+RAX 0x7FF6CBE1E884     (void* -> Fallout4VR.exe+392E884)
+RCX 0x0                (size_t) [0]
+RDX 0x15827802250      (Actor*)
+RBX 0x0                (size_t) [0]
+RSP 0x131989FBB0       (void*)
+RBP 0x8F0              (size_t) [2288]
+RSI 0x1598A1C4D90      (void*)
+RDI 0x158C717EEB4      (void*)
+R8  0x158CBBFBC20      (void*)
+R9  0xFFFFFF00         (size_t) [4294967040]
+R10 0x7FF6CE0AFF00     (void* -> Fallout4VR.exe+5BBFF00)
+R11 0x131989FBF8       (void*)
+R12 0x0                (size_t) [0]
+R13 0x8F0              (size_t) [2288]
+R14 0x1598A1C5750      (char*) "q"
+R15 0x0                (size_t) [0]
+
+STACK:
+[RSP+0  ] 0x15827802250      (Actor*)
+[RSP+8  ] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+10 ] 0x0                (size_t) [0]
+[RSP+18 ] 0x0                (size_t) [0]
+[RSP+20 ] 0x0                (size_t) [0]
+[RSP+28 ] 0x15827802250      (Actor*)
+[RSP+30 ] 0x15827802250      (Actor*)
+[RSP+38 ] 0x15800000000      (void*)
+[RSP+40 ] 0x158CA09BE48      (void*)
+[RSP+48 ] 0x7FF6C963981F     (void* -> Fallout4VR.exe+114981F)
+[RSP+50 ] 0x285644           (size_t) [2643524]
+[RSP+58 ] 0x71               (size_t) [113]
+[RSP+60 ] 0x0                (size_t) [0]
+[RSP+68 ] 0x158B1700F48      (void*)
+[RSP+70 ] 0x1598A1C5680      (void*)
+[RSP+78 ] 0x7FF6C9631658     (void* -> Fallout4VR.exe+1141658)
+[RSP+80 ] 0x158B1700F00      (void*)
+[RSP+88 ] 0x158B1700F48      (void*)
+[RSP+90 ] 0x158CA09BE48      (void*)
+[RSP+98 ] 0x7FF6C8D80032     (void* -> Fallout4VR.exe+0890032)
+[RSP+A0 ] 0xBF800000         (size_t) [3212836864]
+[RSP+A8 ] 0x15827802250      (Actor*)
+[RSP+B0 ] 0x7FF6CB16FFB8     (void* -> Fallout4VR.exe+2C7FFB8)
+[RSP+B8 ] 0x158B1700F48      (void*)
+[RSP+C0 ] 0x7FF6CE130A14     (void* -> Fallout4VR.exe+5C40A14)
+[RSP+C8 ] 0x0                (size_t) [0]
+[RSP+D0 ] 0x7FF6CE130A10     (void* -> Fallout4VR.exe+5C40A10)
+[RSP+D8 ] 0x7FF6CE130A18     (void* -> Fallout4VR.exe+5C40A18)
+[RSP+E0 ] 0x158CBBFBC50      (void*)
+[RSP+E8 ] 0x7FF6C8D8019B     (void* -> Fallout4VR.exe+089019B)
+[RSP+F0 ] 0x0                (size_t) [0]
+[RSP+F8 ] 0x0                (size_t) [0]
+[RSP+100] 0x158CBBFBC20      (void*)
+[RSP+108] 0x0                (size_t) [0]
+[RSP+110] 0x15827802250      (Actor*)
+[RSP+118] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+120] 0x0                (size_t) [0]
+[RSP+128] 0x15827802250      (Actor*)
+[RSP+130] 0x1598A1C5750      (char*) "q"
+[RSP+138] 0x158CBBFBC20      (void*)
+[RSP+140] 0x15827802250      (Actor*)
+[RSP+148] 0x7FF6C9340516     (void* -> Fallout4VR.exe+0E50516)
+[RSP+150] 0x2                (size_t) [2]
+[RSP+158] 0x285644           (size_t) [2643524]
+[RSP+160] 0x0                (size_t) [0]
+[RSP+168] 0x2                (size_t) [2]
+[RSP+170] 0x158A84B0DD0      (void*)
+[RSP+178] 0x7FF6C95F90D8     (void* -> Fallout4VR.exe+11090D8)
+[RSP+180] 0x15827802250      (Actor*)
+[RSP+188] 0x0                (size_t) [0]
+[RSP+190] 0x0                (size_t) [0]
+[RSP+198] 0x1                (size_t) [1]
+[RSP+1A0] 0x15827802250      (Actor*)
+[RSP+1A8] 0x7FFEE7FE1ACE     (void* -> KERNELBASE.dll+0021ACE)
+[RSP+1B0] 0x7FF6CE131FD0     (void* -> Fallout4VR.exe+5C41FD0)
+[RSP+1B8] 0x7FF6CA0C0886     (void* -> Fallout4VR.exe+1BD0886)
+[RSP+1C0] 0x7FF600285644     (size_t) [140694541325892]
+[RSP+1C8] 0x0                (size_t) [0]
+[RSP+1D0] 0x0                (size_t) [0]
+[RSP+1D8] 0x7FFEE80225CD     (void* -> KERNELBASE.dll+00625CD)
+[RSP+1E0] 0x0                (size_t) [0]
+[RSP+1E8] 0x0                (size_t) [0]
+[RSP+1F0] 0x7FF6CE149840     (void* -> Fallout4VR.exe+5C59840)
+[RSP+1F8] 0x2                (size_t) [2]
+[RSP+200] 0x7FF6CE131F40     (BSJobs::JobThread*)
+[RSP+208] 0x7FF6CA0C0D92     (void* -> Fallout4VR.exe+1BD0D92)
+[RSP+210] 0x2                (size_t) [2]
+[RSP+218] 0x7FF6CE131F80     (void* -> Fallout4VR.exe+5C41F80)
+[RSP+220] 0x0                (size_t) [0]
+[RSP+228] 0x131989FE30       (void*)
+[RSP+230] 0x0                (size_t) [0]
+[RSP+238] 0x0                (size_t) [0]
+[RSP+240] 0x0                (size_t) [0]
+[RSP+248] 0x7FF6CA0C38C7     (void* -> Fallout4VR.exe+1BD38C7)
+[RSP+250] 0x7FF6CE131F40     (BSJobs::JobThread*)
+[RSP+258] 0x0                (size_t) [0]
+[RSP+260] 0x0                (size_t) [0]
+[RSP+268] 0x0                (size_t) [0]
+[RSP+270] 0x7FF6CE131F40     (BSJobs::JobThread*)
+[RSP+278] 0x7FF6CA08F94D     (void* -> Fallout4VR.exe+1B9F94D)
+[RSP+280] 0x4D80             (size_t) [19840]
+[RSP+288] 0x131989FE50       (void*)
+[RSP+290] 0x158A84AEE70      (void*)
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A0] 0x7FF6CE131F40     (BSJobs::JobThread*)
+[RSP+2A8] 0x0                (size_t) [0]
+[RSP+2B0] 0x0                (size_t) [0]
+[RSP+2B8] 0x7FFEE8347034     (void* -> KERNEL32.DLL+0017034)
+[RSP+2C0] 0x0                (size_t) [0]
+[RSP+2C8] 0x0                (size_t) [0]
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x0                (size_t) [0]
+[RSP+2E0] 0x0                (size_t) [0]
+[RSP+2E8] 0x7FFEEA3226A1     (void* -> ntdll.dll+00526A1)
+[RSP+2F0] 0x0                (size_t) [0]
+[RSP+2F8] 0x0                (size_t) [0]
+[RSP+300] 0x0                (size_t) [0]
+[RSP+308] 0x0                (size_t) [0]
+[RSP+310] 0x0                (size_t) [0]
+[RSP+318] 0x0                (size_t) [0]
+[RSP+320] 0x34ABFF3B00000000 (size_t) [3795407739857928192]
+[RSP+328] 0x0                (size_t) [0]
+[RSP+330] 0x0                (size_t) [0]
+[RSP+338] 0x7FFEE80CFE70     (void* -> KERNELBASE.dll+010FE70)
+[RSP+340] 0x131989EC80       (void*)
+[RSP+348] 0xFFFDB94E02960    (size_t) [4503443211299168]
+[RSP+350] 0x7FFEDCA7014B     (size_t) [140732600353099]
+[RSP+358] 0x131989EC80       (void*)
+[RSP+360] 0x0                (size_t) [0]
+[RSP+368] 0x0                (size_t) [0]
+[RSP+370] 0x0                (size_t) [0]
+[RSP+378] 0x0                (size_t) [0]
+[RSP+380] 0x0                (size_t) [0]
+[RSP+388] 0x0                (size_t) [0]
+[RSP+390] 0x0                (size_t) [0]
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A0] 0x0                (size_t) [0]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D0] 0x0                (size_t) [0]
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E0] 0x0                (size_t) [0]
+[RSP+3E8] 0x0                (size_t) [0]
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+400] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+430] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+440] 0x0                (size_t) [0]
+[RSP+448] 0x0                (size_t) [0]

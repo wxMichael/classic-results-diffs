@@ -1,0 +1,456 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     AAF.esm
+[09]     ArmorKeywords.esm
+[0A]     HUDFramework.esm
+[0B]     TacticalReload.esm
+[0C]     MutantMenagerie.esm
+[0D]     MutantMenagerie_FarHarbor.esm
+[0E]     AnimeRace_Nanako.esp
+[0F]     ProjectMojave.esm
+[10]     CWPointLookoutFO4.esm
+[11]     WorkshopFramework.esm
+[12]     SouthOfTheSea.esm
+[13]     SS2.esm
+[14]     TortureDevices.esm
+[15]     PACE.esm
+[16]     PANPC.esm
+[17]     Darlene.esm
+[18]     SS2_XPAC_Chapter2.esm
+[19]     JonsMod.esm
+[1A]     TheWilderness.esm
+[1B]     Devious Devices.esm
+[1C]     NAF.esp
+[1D]     LooksMenu.esp
+[1E]     SideAim.esp
+[1F]     Armorsmith Extended.esp
+[20]     CarPhysicsDeathBugfix.esp
+[21]     VisibleCompanionAffinity.esp
+[22]     CompanionStatus.esp
+[23]     ValdacilsItemSorting-00-ValsPicks-DLCVersion-VanillaWeight.esp
+[24]     ValdacilsItemSorting-Junk+DEF_INV.esp
+[25]     ValdacilsItemSortingArmorFix.esp
+[26]     WheelMenu.esp
+[27]     NAC.esp
+[28]     NAC-NW.esp
+[29]     NAC-FH.esp
+[2A]     Nac X Fogline Fix.esp
+[2B]     The Collector's Guides AIO.esp
+[2C]     FO4LaserBolts - InstituteRoyalBlue.esp
+[2D]     FO4LaserBolts.esp
+[2E]     dD-Enhanced Blood.esp
+[2F]     MWHitFx.esp
+[30]     Liga.esp
+[31]     PIP-Pad.esp
+[32]     MinQuestReceiver.esp
+[33]     MilitarizedMinutemen.esp
+[34]     MilitarisedMinutemen_PatchesAddon.esp
+[35]     Running with Corpses.esp
+[36]     Nuke Screen Effect Remover.esp
+[37]     Sandbag Fortifications - Version 2C.esp
+[38]     DD_Khassar_De_Templari_Increased_build.esp
+[39]     ShootingTarget.esp
+[3A]     FlagsExtended.esp
+[3B]     PosterForYou.esp
+[3C]     LazmansPoses.esp
+[3D]     Slave&ModelPinup.esp
+[3E]     THPoses.esp
+[3F]     KziitdAnimationPoses.esp
+[40]     JNFA.esp
+[41]     ImmersiveAnimationFramework.esp
+[42]     jsrs.esp
+[43]     JSRS_Footsteps.esp
+[44]     AK400.esp
+[45]     Zenit.esp
+[46]     MWAN94.esp
+[47]     SigMCX.esp
+[48]     SIGMCXArmoryProject.esp
+[49]     MWRam7.esp
+[4A]     MWAUG.esp
+[4B]     MK18.esp
+[4C]     FnScar.esp
+[4D]     G3A3.esp
+[4E]     QBZ191.esp
+[4F]     BH_MCX_Spear.esp
+[50]     AX50_by_tooun.esp
+[51]     SPR300.esp
+[52]     Escape from Boston - M200 Intervention.esp
+[53]     XM2010_SniperRifle_by_tooun.esp
+[54]     XM2010_SniperRifle_STS.esp
+[55]     LeeEnfieldNo4MkI.esp
+[56]     mjp_PTRS41ATR.esp
+[57]     TeslaCannonRedux.esp
+[58]     FNX45.esp
+[59]     HKUSP9mm.esp
+[5A]     MWEagle.esp
+[5B]     Glock19x.esp
+[5C]     MWStriker.esp
+[5D]     M203.esp
+[5E]     Quad_RAWLauncher.esp
+[5F]     CazadorML.esp
+[60]     M2Agency.esp
+[61]     RemingtonM11.esp
+[62]     ImiUzi.esp
+[63]     Cyberpunk 2077 Malorian Arms 3516.esp
+[64]     Cyberpunk 2077 G-58 Dian.esp
+[65]     CombinedArmsNV.esp
+[66]     CombinedArmsEXPack.esp
+[67]     TacticalReloadDLC.esp
+[68]     BF1 Animations - Hunting Rifle v1.3.esp
+[69]     PipeGun.esp
+[6A]     DoubleBarrelShotgun.esp
+[6B]     10MMTF.esp
+[6C]     Scopes.esp
+[6D]     3dscopes-replacer-leeenfield.esp
+[6E]     3dscopes-replacer.esp
+[6F]     XM2010 Night Vision Brightness Patch.esp
+[70]     Sailor_662.esp
+[71]     662kx.esp
+[72]     Chole.esp
+[73]     6362.esp
+[74]     70.esp
+[75]     kalie.esp
+[76]     Aether Gazer Tiangou_662.esp
+[77]     662_XQTD.esp
+[78]     Yawl.esp
+[79]     amiya.esp
+[7A]     renou.esp
+[7B]     sailor.esp
+[7C]     tolass.esp
+[7D]     uniform.esp
+[7E]     Miku race.esp
+[7F]     QUQU Uniform.esp
+[80]     misaki.esp
+[81]     Synth Agent Outfit.esp
+[82]     slitsuit_662.esp
+[83]     NIKKE_662.esp
+[84]     GF2 662.esp
+[85]     Nemesis_662.esp
+[86]     Homura.esp
+[87]     Maya's Wardrobe.esp
+[88]     VCR_Mariel.esp
+[89]     VCR_Eri.esp
+[8A]     VRC_Binaco.esp
+[8B]     Maya.esp
+[8C]     VCR_Rgray.esp
+[8D]     (Booth) French Maid.esp
+[8E]     (HI3)Bronya.esp
+[8F]     BNS School Girl.esp
+[90]     Nyangsuit FO4.esp
+[91]     policeuniform.esp
+[92]     CODM_AN94.esp
+[93]     AK_Lappland.esp
+[94]     AK_Saileach.esp
+[95]     AK_Sora.esp
+[96]     AK_W.esp
+[97]     Canadian Joint Task Force 2.esp
+[98]     Survivalist.esp
+[99]     DOA Wedding Dress.esp
+[9A]     SA2MIYA.esp
+[9B]     BattleTowels.esp
+[9C]     TheNurse.esp
+[9D]     Tull Collection.esp
+[9E]     BZW_Collection.esp
+[9F]     Custom Kemono Hair.esp
+[A0]     TulliusHair.esp
+[A1]     CBBE.esp
+[A2]     512StandaloneHairColors.esp
+[A3]     BlueArchiveClothes.esp
+[A4]     TactiGirl.esp
+[A5]     AnimeRace_NanaKoEyes1.esp
+[A6]     AnimeRace_NanakoHarmonyPatch.esp
+[A7]     Sequel_Collection.esp
+[A8]     VTB.esp
+[A9]     lueduozhe.esp
+[AA]     Ldz Nanako-114.esp
+[AB]     Hezi Ldz Nanako-114.esp
+[AC]     Faxin NanaKo 114.esp
+[AD]     FeituNPC Nanako-114.esp
+[AE]     Qiangshou Nanako-114.esp
+[AF]     Anbao NanaKo-114.esp
+[B0]     Yuanz Nanako-114.esp
+[B1]     My little nick.esp
+[B2]     Gourou Nanako-114.esp
+[B3]     Live Dismemberment - POSTAL.esp
+[B4]     Teshu NPC Nanako 114.esp
+[B5]     SlowTime.esp
+[B6]     jiantihanhua.esp
+[B7]     nia.esp
+[B8]     P08_662.esp
+[B9]     Adolescent_U.esp
+[BA]     OutcastsAndRemnants.esp
+[BB]     ProjectValkyrie.esp
+[BC]     Depravity.esp
+[BD]     NukaWorldReborn.esp
+[BE]     VivaNukaWorld.esp
+[BF]     projectmojave-wolfes-expansion_beta.esp
+[C0]     FTS.esp
+[C1]     FTS-M249.esp
+[C2]     FTS_Vanilla.esp
+[C3]     ESPExplorerFO4.esp
+[C4]     Power Conduits and Pylons - Increased Radius x3.esp
+[C5]     AdvSettleTurretSet.esp
+[C6]     SKKPlayerUndead.esp
+[C7]     NPCs Use Items.esp
+[C8]     NoAffinityCooldown.esp
+[C9]     TheyWantThatAss.esp
+[CA]     Realistic Roads - Black Asphalt.esp
+[CB]     TrueGrass.esp
+[CC]     Armament.esp
+[CD]     MsAbominations.esp
+[CE]     The Deadly Commonwealth Expansion.esp
+[CF]     WorkingNCMachine.esp
+[D0]     Workshop_Planters.esp
+[D1]     WorkingFridges.esp
+[D2]     Crazy_Animations_Gun.esp
+[D3]     AAF_BadEnd_Animations.esp
+[D4]     VivaNukaWorldQuests.esp
+[D5]     VivaNukaWorldQuests - Depravity Integration.esp
+[D6]     Insignificant Object Remover.esp
+[D7]     RED.esp
+[D8]     DarleneDLC.esp
+[D9]     ellen.esp
+[DA]     llamaCompanionHeatherv2.esp
+[DB]     Northern Springs-expansion project.esp
+[DC]     AnimatedRadaway.esp
+[DD]     AnimChemRedux.esp
+[DE]     M8r Complex Sorter.esp
+[DF]     M8r Complex Sorter-part2.esp
+[E0]     MaxwellsWorl.esp
+[E1]     MaxwellsWorl XDI Patch.esp
+[E2]     AAF_Violate.esp
+[E3]     FPAttributes.esp
+[E4]     FP_SexualHarassment.esp
+[E5]     AAF_CreaturePack01.esp
+[E6]     SavageCabbage_Animations.esp
+[FE:000] AnimeRace - NPC replace.esp
+[FE:001] XDI.esm
+[FE:002] ZPoses.esl
+[FE:003] Drifter Pose Pack.esl
+[FE:004] Quick_Change_Armor_by_tooun.esl
+[FE:005] Cho1_UMP40_Outfit.esl
+[FE:006] Inspectweapons.esl
+[FE:007] Chiisana_Amai_Koi_by_tooun.esl
+[FE:008] IceStormsGRL45.esl
+[FE:009] Nanako - CBBE.esl
+[FE:00A] Black Qipao.esl
+[FE:00B] RR Yor.esl
+[FE:00C] VtawGamerGrill.esl
+[FE:00D] Munitions - An Ammo Expansion.esl
+[FE:00E] Munitions - Vanilla Ammo Addon.esl
+[FE:00F] FaceLight.esl
+[FE:010] tooun_Animationpack.esl
+[FE:011] Skb_MachinegunsRebirth.esl
+[FE:012] CWPointLookoutFO4Patch.esl
+[FE:013] Loot Detector.esl
+[FE:014] EsmeraldaPrefabMCMHouses.esl
+[FE:015] PPF.esm
+[FE:016] AAFThemes.esl
+[FE:017] IceStorms Poses.esl
+[FE:018] SimpleAttackReactions.esp
+[FE:019] PuddleReflectionFix.esp
+[FE:01A] SimpleDeathReactions.esp
+[FE:01B] M8rDisablePipboyEffects.esp
+[FE:01C] Region Names on Save Files.esp
+[FE:01D] NAC-RemoveMenuItem.esp
+[FE:01E] Gloomy Glass.esp
+[FE:01F] FO4ParticlePatch.esp
+[FE:020] DoomHeartBeat.esp
+[FE:021] SimpleImpact.esp
+[FE:022] MWHitFX - Automatron Patch.esp
+[FE:023] AnotherLife.esp
+[FE:024] PhotoMode.esp
+[FE:025] RichMerchants.esp
+[FE:026] Voice no slow down.esp
+[FE:027] WQSH.esp
+[FE:028] LongerPowerLines3x.esp
+[FE:029] CompactCrafting.esp
+[FE:02A] 10duckpose.esp
+[FE:02B] GSPosesFO4.esp
+[FE:02C] TTiKKeop poses.esp
+[FE:02D] Tullius Poses Pack.esp
+[FE:02E] VVPoses.esp
+[FE:02F] ScreenArcherMenu.esp
+[FE:030] DynamicPinup1.2_ESL.esp
+[FE:031] IAF - Far Harbor & Nuka World.esp
+[FE:032] JSRS_Regions.esp
+[FE:033] Fallout4_Debad_BGM_Pack.esp
+[FE:034] Stimpaks help you breathe.esp
+[FE:035] SprintStutterRemover.esp
+[FE:036] SigMCX_LvlListPatch.esp
+[FE:037] SigMCX_MaterialPack.esp
+[FE:038] FnScar_LvlListPatch.esp
+[FE:039] FnScar_TacticalReload.esp
+[FE:03A] QBZ191_TR_patch.esp
+[FE:03B] BH_MCX_Spear_TR.esp
+[FE:03C] BH_MCX_Spear_STS_Patch.esp
+[FE:03D] SPR300_LvlList.esp
+[FE:03E] SPR300_TacticalReload.esp
+[FE:03F] Escape from Boston - M200 Intervention TR.esp
+[FE:040] EFB M200 - Close Sights Pack.esp
+[FE:041] HKUSP9mmLvlList.esp
+[FE:042] HKUSP9mmTacReload.esp
+[FE:043] ImiUziLvlList.esp
+[FE:044] PPS43.esp
+[FE:045] M2AgencyLvlListPatch.esp
+[FE:046] M2AgencyTacticalReloadPatch.esp
+[FE:047] RemingtonM11_LvlListPatch.esp
+[FE:048] RemingtonM11_TacticalReloadPatch.esp
+[FE:049] SigMCX_TacticalReload.esp
+[FE:04A] AK400_TacticalReloadPatch.esp
+[FE:04B] CombinedArmsNV_TacticalReloadPatch.esp
+[FE:04C] Zenit_TacticalReloadPatch.esp
+[FE:04D] MK18_TacticalReloadPatch.esp
+[FE:04E] HitmanNukaworldAK_TacticalReloadPatch.esp
+[FE:04F] Glock19x_TacticalReloadPatch.esp
+[FE:050] ImiUzi_TacticalReloadPatch.esp
+[FE:051] baller_662.esp
+[FE:052] GF2 Nagant .esp
+[FE:053] GF2 lounge .esp
+[FE:054] Karin.esp
+[FE:055] Kikyo.esp
+[FE:056] Koyuki.esp
+[FE:057] Asym Skirt.esp
+[FE:058] (Maya)Z84 Zip Up Hoodie.esp
+[FE:059] Maya School Uniform.esp
+[FE:05A] Black Rose.esp
+[FE:05B] FOver_VRC_NUN.esp
+[FE:05C] Rindo.esp
+[FE:05D] Luruleah.esp
+[FE:05E] (Booth)EYO_Maid.esp
+[FE:05F] Tactical Maid.esp
+[FE:060] CTN_CNQP.esp
+[FE:061] CTN_platinum03.esp
+[FE:062] CTN_RIN.esp
+[FE:063] CTN_Starlight.esp
+[FE:064] CTN_WPcoat.esp
+[FE:065] Tactical_Bunny_64.esp
+[FE:066] LMY_64.esp
+[FE:067] Project_64.esp
+[FE:068] Pantyhosecollections.esp
+[FE:069] InoueFoxTails.esp
+[FE:06A] elf ear.esp
+[FE:06B] BA Halo.esp
+[FE:06C] Deep_Dark_ACC.esp
+[FE:06D] charolicSuit.esp
+[FE:06E] FO4 Cosplay_Sailor14.esp
+[FE:06F] ElinSailor.esp
+[FE:070] RR School Uniform.esp
+[FE:071] Venator.esp
+[FE:072] (FO4) Neko Meka.esp
+[FE:073] Neonix_Moe.esp
+[FE:074] StreetPE.esp
+[FE:075] Street_Agent.esp
+[FE:076] GFL 9A91.esp
+[FE:077] VepleySR.esp
+[FE:078] GFL AK-12.esp
+[FE:079] Gura_Outfit.esp
+[FE:07A] NunAiri.esp
+[FE:07B] ribbons.esp
+[FE:07C] Izumi Sagiri.esp
+[FE:07D] Mochizuki Anna SHS+.esp
+[FE:07E] [Hirosin] Vivian Witch Outfit.esp
+[FE:07F] Misuzu Aio.esp
+[FE:080] Prico Bishokuden AIO.esp
+[FE:081] AzurLane AIO Pack 1.esp
+[FE:082] The Rebel.esp
+[FE:083] [XHX] MW Domino Security Detail.esp
+[FE:084] [Tulius] 10duckHairpackFO4.esp
+[FE:085] lilia.esp
+[FE:086] MajoTabi.esp
+[FE:087] CTNHAIR.esp
+[FE:088] Tullius_HairProject.esp
+[FE:089] AG_Sculd.esp
+[FE:08A] Darkstar_Hel.esp
+[FE:08B] HailMary_Pack.esp
+[FE:08C] BluAka Hifumi.esp
+[FE:08D] BluAka Hoshino.esp
+[FE:08E] BluAka Shiroko.esp
+[FE:08F] BA Azusa.esp
+[FE:090] illya.esp
+[FE:091] GF2.esp
+[FE:092] AnimeRace_LittleNanakoPlayer.esp
+[FE:093] newnanako_patch.esp
+[FE:094] newnanako_patch2.esp
+[FE:095] [Tullius]10duck_Backparts.esp
+[FE:096] [Tullius]10duck_recipe.esp
+[FE:097] [Tullius]10duck_Backparts_VIS-F.esp
+[FE:098] [Tullius]10duck_wig_addon.esp
+[FE:099] [Nanako]NakonakoClothes.esp
+[FE:09A] SynthNanako-114.esp
+[FE:09B] Shigui Nanako 114.esp
+[FE:09C] AnimeRace_Children.esp
+[FE:09D] MyCustomNanako.esp
+[FE:09E] AnimeRace_Nanako Replace.esp
+[FE:09F] Nanako M_Plugin - MyCustomNanako.esp
+[FE:0A0] Nanako M_Patch - AnimeRace_Children.esp
+[FE:0A1] Nanako_Ex_Patch - nana4race 114.esp.esp
+[FE:0A2] FO4HHS_AAF.esp
+[FE:0A3] CheatTerminal.esp
+[FE:0A4] Weightless Ammo - All DLC.esp
+[FE:0A5] Dank_LEO.esp
+[FE:0A6] Dank_LEO-Automatron.esp
+[FE:0A7] Dank_LEO_DLCCoast.esp
+[FE:0A8] Dank_LEO_DLCNukaWorld.esp
+[FE:0A9] Dank_ECO.esp
+[FE:0AA] Dank_LEO-MLM.esp
+[FE:0AB] Dank_ECO-INNR.esp
+[FE:0AC] Dank_ECO_DLCCoast.esp
+[FE:0AD] Dank_ECO_DLCNukaWorld.esp
+[FE:0AE] Dank_ECO_DLCRobot.esp
+[FE:0AF] Dank_ECO-LEO.esp
+[FE:0B0] TAEPE - MWStriker.esp
+[FE:0B1] DR_03.esp
+[FE:0B2] act_662.esp
+[FE:0B3] FTS-AKM.esp
+[FE:0B4] FTS-ASVAL.esp
+[FE:0B5] FTS-CAM82A3.esp
+[FE:0B6] FTS-CAMK12.esp
+[FE:0B7] FTS-CASG550.esp
+[FE:0B8] FTS-G36.esp
+[FE:0B9] FTS-SV98.esp
+[FE:0BA] FTS-G3A3.esp
+[FE:0BB] MCXSpear_FTSPatch.esp
+[FE:0BC] XM2010_tooun_FTS.esp
+[FE:0BD] qbz_FTSPatch.esp
+[FE:0BE] SPR300_FTSPatch.esp
+[FE:0BF] Combined Arms EX_LLI.esp
+[FE:0C0] Combined Arms_LLI.esp
+[FE:0C1] MW-AN94_LLInjector.esp
+[FE:0C2] QBZ191_LLInjector.esp
+[FE:0C3] XM2010_LLInjector.esp
+[FE:0C4] Luxor's Clean Water.esp
+[FE:0C5] Dank_WOP-CombinedArms.esp
+[FE:0C6] The Sanctuary Bridge.esp
+[FE:0C7] CombinedArmsIntegrationProject - Armament.esp
+[FE:0C8] CombinedArmsIntegrationProject - Armament_TR.esp
+[FE:0C9] PRP.esp
+[FE:0CA] PRP-Compat-RegionNames.esp
+[FE:0CB] PRP-Compat-JSRS-Regions.esp
+[FE:0CC] SouthOfTheSea[Previs].esp
+[FE:0CD] OAR_CELL.esp
+[FE:0CE] OAR_Previsibines.esp
+[FE:0CF] PRP-Compat-PointLookout.esp
+[FE:0D0] Default AnimeRace - NanaHuman.esp
+[FE:0D1] Default AnimeRace - PenaHuman.esp
+[FE:0D2] PACE - Less Combat Chatter.esp
+[FE:0D3] PANPC - Explosion Responses.esp
+[FE:0D4] PANPC - Trap Alerts.esp
+[FE:0D5] AnimatedIngestibles.esp
+[FE:0D6] PRP-Compat-NWR-CR.esp
+[FE:0D7] PRP-Compat-NWR.esp
+[FE:0D8] PRP-Compat-VNW-CR.esp
+[FE:0D9] PRP-Compat-VNW.esp
+[FE:0DA] PRP-TheWilderness.esp
+[FE:0DB] Vivid Fallout - LOD.esp
+[FE:0DC] Vivid Fallout - Nuka World LOD.esp
+[FE:0DD] Vivid Fallout - Far Harbor LOD.esp
+[FE:0DE] PRP-MaxwellsWorl.esp
+[FE:0DF] MaxwellsWorl-eXoPatch.esp
+[FE:0E0] MaxwellsWorl-eXoXDIPatch.esp

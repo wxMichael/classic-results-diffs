@@ -1,0 +1,32 @@
+F4EE: true
+[Fixes]
+ActorIsHostileToActor: true
+CellInit: true
+CreateD3DAndSwapChain: true
+EncounterZoneReset: true
+GreyMovies: true
+MagicEffectApplyEvent: true
+MovementPlanner: true
+PackageAllocateLocation: true
+SafeExit: true
+TESObjectREFRGetEncounterZone: true
+UnalignedLoad: true
+UtilityShader: true
+[Patches]
+Achievements: true
+ArchiveLimit: true
+BSMTAManager: true
+BSPreCulledObjects: true
+BSTextureStreamerLocalHeap: false
+HavokMemorySystem: true
+INISettingCollection: true
+InputSwitch: false
+MaxStdIO: -1
+MemoryManager: true
+MemoryManagerDebug: false
+ScaleformAllocator: true
+SmallBlockAllocator: true
+WorkshopMenu: true
+[Warnings]
+CreateTexture2D: true
+ImageSpaceAdapter: true

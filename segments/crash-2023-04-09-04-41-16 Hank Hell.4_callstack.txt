@@ -1,0 +1,401 @@
+[ 0] 0x7FF6F4CC1E80 Fallout4.exe+03D1E80	call [rax+0x40] |  BSVisit::TraverseScenegraphGeometries<_lambda_27a7d64a6e564e677e0644a5f7a222ad_>(NiAVObject*,_lambda_27a7d64a6e564e677e0644a5f7a222ad_&)_3D1E80 -> 869027+0x20	call [rax+0x40]
+[ 1] 0x7FF6F4CA40F5 Fallout4.exe+03B40F5	test r14, r14 |  TESObjectCELL::AttachCombinedObjectArt(void)_3B40F5 -> 1491658+0x4D5	test r14, r14
+[ 2] 0x7FF6F4CA1B66 Fallout4.exe+03B1B66	mov rcx, rdi |  TESObjectCELL::AttachToWorld(NiNode*)_3B1B66 -> 1105920+0x76	mov rcx, rdi
+[ 3] 0x7FF6F4AC3A8E Fallout4.exe+01D3A8E	mov dl, 0x01 |  GridCellArray::PerformQueuedCellAttachDetach(bool)_1D3A8E -> 833533+0x1AE	mov dl, 0x01
+[ 4] 0x7FF6F49E5DA8 Fallout4.exe+00F5DA8	jmp 0x00007FF6F49E5DB4 |  TES::HandleQueuedLoadedAreaShift(void)_F5DA8 -> 431181+0x48	jmp 0x00007FF6F49E5DB4
+[ 5] 0x7FF6F562C080 Fallout4.exe+0D3C080	mov rcx, [0x00007FF6FA394288] |  Main::StartOfFrameUpdate(void)_D3C080 -> 826184+0x130	mov rcx, [0x00007FF6FA394288]
+[ 6] 0x7FF6F55AE5B0 Fallout4.exe+0CBE5B0	xor ecx, ecx |  JobListManager::AllRenderEndJob(void*)_CBE5B0 -> 169721+0x10	xor ecx, ecx
+[ 7] 0x7FF6F55AD20D Fallout4.exe+0CBD20D	add rbx, 0x08 |  JobListManager::ServingThread::RunJobLists(void)_CBD20D -> 151212+0x7D	add rbx, 0x08
+[ 8] 0x7FF6F55B07A7 Fallout4.exe+0CC07A7	mov rcx, [rbx+0x60] |  JobListManager::ServingThread::ThreadProc(void)_CC07A7 -> 1166392+0x87	mov rcx, [rbx+0x60]
+[ 9] 0x7FF6F640CFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF6FA44BD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF6FA44BD38]
+[10] 0x7FF961047614 KERNEL32.DLL+0017614
+[11] 0x7FF9626826A1    ntdll.dll+00526A1
+
+REGISTERS:
+RAX 0x0                (size_t) [0]
+RCX 0x2B614A1EE00      (void*)
+RDX 0xF4D8A4F890       (void*)
+RBX 0x0                (size_t) [0]
+RSP 0xF4D8A4F780       (void*)
+RBP 0xF4D8A4F889       (void*)
+RSI 0xF4D8A4F890       (void*)
+RDI 0x2B614A1EE00      (void*)
+R8  0x289              (size_t) [649]
+R9  0x8                (size_t) [8]
+R10 0xF4D8A4F840       (BSTArrayBase::IAllocatorFunctor*)
+R11 0xF4D8A4F908       (void*)
+R12 0xF2B39DA3         (size_t) [4071857571]
+R13 0x2B534A39A00      (TESObjectCELL*)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+R14 0x2B5DCF64F00      (bhkWorldM*)
+R15 0x2B614A1EE00      (void*)
+
+STACK:
+[RSP+0  ] 0x2B673910E00      (NiNode*)
+Name: "0000E4CB_Physics"
+RTTIName: "NiNode"
+Flags: 80000e
+Name: "0000E4CB_Physics"
+[RSP+8  ] 0x7FF6F49F9D1D     (void* -> Fallout4.exe+0109D1D	test rax, rax |  TESObjectCELL::GetChildNode(TESObjectCELL::CELLNODE)_109D1D)
+[RSP+10 ] 0xF4D8A4F889       (void*)
+[RSP+18 ] 0x2B707FAEA20      (void*)
+[RSP+20 ] 0x2B60A1D11C0      (void*)
+[RSP+28 ] 0x2B707FAEA20      (void*)
+[RSP+30 ] 0x2B6155258C0      (void*)
+[RSP+38 ] 0x7FF6F4CA40F5     (void* -> Fallout4.exe+03B40F5	test r14, r14 |  TESObjectCELL::AttachCombinedObjectArt(void)_3B40F5)
+[RSP+40 ] 0x2B60A1D11B4      (void*)
+[RSP+48 ] 0xF4D8A4F890       (void*)
+[RSP+50 ] 0x2B707FAEA20      (void*)
+[RSP+58 ] 0xF400000000       (size_t) [1047972020224]
+[RSP+60 ] 0x2B500000007      (void*)
+[RSP+68 ] 0x7FF82A2AA600     (void* -> Buffout4.dll+00AA600	call 0x00007FF82A273600 |  E:\Documents\source\repos\Buffout4\src\Fixes\EncounterZoneResetFix.h:32 ?ProcessEvent@Sink@detail@EncounterZoneResetFix@Fixes@@EEAA?AW4BSEventNotifyControl@RE@@AEBUCellAttachDetachEvent@6@PEAV?$BSTEventSource@UCellAttachDetachEvent@RE@@@6@@Z)
+[RSP+70 ] 0x0                (size_t) [0]
+[RSP+78 ] 0x7FF6F640093F     (void* -> Fallout4.exe+1B1093F	cmp [rdi], eax |  BSReadWriteLock::LockForRead(void)_1B1093F)
+[RSP+80 ] 0x2B6746211C0      (NiNode*)
+RTTIName: "NiNode"
+Flags: 80002000280f
+Checking Parent:
+RTTIName: "BSMultiBoundNode"
+Flags: 2000280e
+[RSP+88 ] 0x2B60A1D11C0      (void*)
+[RSP+90 ] 0x2B5DCF64F00      (bhkWorldM*)
+[RSP+98 ] 0x2B60A1D11B4      (void*)
+[RSP+A0 ] 0x67               (size_t) [103]
+[RSP+A8 ] 0x7FF6F49144E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+B0 ] 0x2B57671EB10      (void*)
+[RSP+B8 ] 0x2B5F31D67C8      (void*)
+[RSP+C0 ] 0x7FF6F75396C8     (void* -> Fallout4.exe+2C496C8	 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C496C8)
+[RSP+C8 ] 0x2B6155258C0      (void*)
+[RSP+D0 ] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+D8 ] 0x0                (size_t) [0]
+[RSP+E0 ] 0x0                (size_t) [0]
+[RSP+E8 ] 0x0                (size_t) [0]
+[RSP+F0 ] 0x0                (size_t) [0]
+[RSP+F8 ] 0x2B5F31D67E8      (char*) "ranslations\"
+[RSP+100] 0x2B57671EB10      (void*)
+[RSP+108] 0x0                (size_t) [0]
+[RSP+110] 0x2B534A39A00      (TESObjectCELL*)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+[RSP+118] 0xF2B39DA3         (size_t) [4071857571]
+[RSP+120] 0xF4D8A4F824       (void*)
+[RSP+128] 0xF4D8A4F800       (void*)
+[RSP+130] 0x9C0              (size_t) [2496]
+[RSP+138] 0x2B57671EB10      (void*)
+[RSP+140] 0x0                (size_t) [0]
+[RSP+148] 0x2B534A39A00      (TESObjectCELL*)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+[RSP+150] 0x2B550D5CCC0      (NiNode*)
+Name: "ObjectLODRoot"
+RTTIName: "NiNode"
+Flags: 8002000280e
+Checking Parent:
+Name: "shadow scene node"
+RTTIName: "ShadowSceneNode"
+Flags: 2000280e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 2000280e
+Name: "ObjectLODRoot"
+[RSP+158] 0x2                (size_t) [2]
+[RSP+160] 0x0                (size_t) [0]
+[RSP+168] 0x7FF6F4CA1B66     (void* -> Fallout4.exe+03B1B66	mov rcx, rdi |  TESObjectCELL::AttachToWorld(NiNode*)_3B1B66)
+[RSP+170] 0x0                (size_t) [0]
+[RSP+178] 0xF4D8A4F910       (void*)
+[RSP+180] 0x2B5F31D67E8      (char*) "ranslations\"
+[RSP+188] 0x7FF6364EF303     (size_t) [140695449826051]
+[RSP+190] 0x2B534A39A00      (TESObjectCELL*)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+[RSP+198] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+1A0] 0x2B60E359600      (void*)
+[RSP+1A8] 0x7FF6F49144E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+1B0] 0x0                (size_t) [0]
+[RSP+1B8] 0x2B5DCEED210      (GridCellArray*)
+[RSP+1C0] 0x0                (size_t) [0]
+[RSP+1C8] 0x7FF6FA35BDC0     (JobListManager::ServingThread*)
+[RSP+1D0] 0x2B534A39A00      (TESObjectCELL*)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+File: "DiamondNewVendors.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> DiamondNewVendors.esp
+Flags: 0x0004000B
+EditorID: "FensBrookelineBuildingExt"
+FormID: 0x0000E4CB
+FormType: kCELL (63)
+[RSP+1D8] 0x7FF6F4AC3A8E     (void* -> Fallout4.exe+01D3A8E	mov dl, 0x01 |  GridCellArray::PerformQueuedCellAttachDetach(bool)_1D3A8E)
+[RSP+1E0] 0x0                (size_t) [0]
+[RSP+1E8] 0x2B59DF88E50      (void*)
+[RSP+1F0] 0x0                (size_t) [0]
+[RSP+1F8] 0x0                (size_t) [0]
+[RSP+200] 0x7FF6FA35BDC0     (JobListManager::ServingThread*)
+[RSP+208] 0x2B59EE9EF20      (void*)
+[RSP+210] 0x2B5DCE5FEC0      (TES*)
+[RSP+218] 0x7FF6F49E5DA8     (void* -> Fallout4.exe+00F5DA8	jmp 0x00007FF6F49E5DB4 |  TES::HandleQueuedLoadedAreaShift(void)_F5DA8)
+[RSP+220] 0x2B5DCE5FEC0      (TES*)
+[RSP+228] 0x2B59DF88E50      (void*)
+[RSP+230] 0x2B550C52680      (SceneGraph*)
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 2000280e
+Name: "WorldRoot Node"
+[RSP+238] 0x7FF95FFC8DFB     (void* -> KERNELBASE.dll+0068DFB	nop [rax+rax*1], eax)
+[RSP+240] 0x0                (size_t) [0]
+[RSP+248] 0x7FF6FA35BDC0     (JobListManager::ServingThread*)
+[RSP+250] 0x0                (size_t) [0]
+[RSP+258] 0x7FF6FA35BDC0     (JobListManager::ServingThread*)
+[RSP+260] 0x0                (size_t) [0]
+[RSP+268] 0x7FF95FF8306E     (void* -> KERNELBASE.dll+002306E	nop [rax+rax*1], eax)
+[RSP+270] 0x6                (size_t) [6]
+[RSP+278] 0x2B550C5DC20      (void*)
+[RSP+280] 0x2B5FC063F00      (TESObjectCELL*)
+File: "MercsAndMusic.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> 3DNPC_FO4.esp -> DiamondNewVendors.esp -> MercsAndMusic.esp
+Flags: 0x0004000B
+EditorID: "DiamondCityExt"
+FormID: 0x0000E50C
+FormType: kCELL (63)
+File: "MercsAndMusic.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> DCGuard_Overhaul.esp -> 3DNPC_FO4.esp -> DiamondNewVendors.esp -> MercsAndMusic.esp
+Flags: 0x0004000B
+EditorID: "DiamondCityExt"
+FormID: 0x0000E50C
+FormType: kCELL (63)
+[RSP+288] 0x7FF6F562C080     (void* -> Fallout4.exe+0D3C080	mov rcx, [0x00007FF6FA394288] |  Main::StartOfFrameUpdate(void)_D3C080)
+[RSP+290] 0x2B500000000      (void*)
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A0] 0x48               (size_t) [72]
+[RSP+2A8] 0x1                (size_t) [1]
+[RSP+2B0] 0x0                (size_t) [0]
+[RSP+2B8] 0x0                (size_t) [0]
+[RSP+2C0] 0xC6F8D2A5C65FD792 (size_t) [uint: 14337441023173580690 int: -4109303050535970926]
+[RSP+2C8] 0x44A686E9         (size_t) [1151764201]
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x7FF6F55AE5B0     (void* -> Fallout4.exe+0CBE5B0	xor ecx, ecx |  JobListManager::AllRenderEndJob(void*)_CBE5B0)
+[RSP+2E0] 0x2B59DF88E48      (void*)
+[RSP+2E8] 0x0                (size_t) [0]
+[RSP+2F0] 0x7FF6FA35BDC0     (JobListManager::ServingThread*)
+[RSP+2F8] 0x2B59EE9EF20      (void*)
+[RSP+300] 0x0                (size_t) [0]
+[RSP+308] 0x7FF6F55AD20D     (void* -> Fallout4.exe+0CBD20D	add rbx, 0x08 |  JobListManager::ServingThread::RunJobLists(void)_CBD20D)
+[RSP+310] 0x2B59DF88E48      (void*)
+[RSP+318] 0x2B59DF88E50      (void*)
+[RSP+320] 0x0                (size_t) [0]
+[RSP+328] 0x4D2C             (size_t) [19756]
+[RSP+330] 0x0                (size_t) [0]
+[RSP+338] 0x0                (size_t) [0]
+[RSP+340] 0x7FF6FA35BDC0     (JobListManager::ServingThread*)
+[RSP+348] 0x7FF6F55B07A7     (void* -> Fallout4.exe+0CC07A7	mov rcx, [rbx+0x60] |  JobListManager::ServingThread::ThreadProc(void)_CC07A7)
+[RSP+350] 0x2B59DF88E00      (void*)
+[RSP+358] 0x2B59DF88E50      (void*)
+[RSP+360] 0x0                (size_t) [0]
+[RSP+368] 0x0                (size_t) [0]
+[RSP+370] 0x7FF6FA35BDC0     (JobListManager::ServingThread*)
+[RSP+378] 0x7FF6F640CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF6FA44BD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+380] 0x4D58             (size_t) [19800]
+[RSP+388] 0xF4D8A4FB20       (void*)
+[RSP+390] 0x2B550C3BC90      (void*)
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A0] 0x7FF6FA35BDC0     (JobListManager::ServingThread*)
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x7FF961047614     (void* -> KERNEL32.DLL+0017614	mov ecx, eax)
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D0] 0x0                (size_t) [0]
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E0] 0x0                (size_t) [0]
+[RSP+3E8] 0x7FF9626826A1     (void* -> ntdll.dll+00526A1	jmp 0x00007FF9626826C3)
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+400] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x107A8DFD00000000 (size_t) [1187417569531789312]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+430] 0x0                (size_t) [0]
+[RSP+438] 0x7FF960070020     (void* -> KERNELBASE.dll+0110020	mov [rsp+0x10], rbx)
+[RSP+440] 0xF4D8A4E880       (void*)
+[RSP+448] 0x3FFCB83EC6EE8    (size_t) [1125674486886120]
+[RSP+450] 0x7FF9707D8DDD     (size_t) [140709310860765]
+[RSP+458] 0xF4D8A4E880       (void*)
+[RSP+460] 0x0                (size_t) [0]
+[RSP+468] 0x0                (size_t) [0]
+[RSP+470] 0x0                (size_t) [0]
+[RSP+478] 0x0                (size_t) [0]
+[RSP+480] 0x0                (size_t) [0]
+[RSP+488] 0x0                (size_t) [0]
+[RSP+490] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A0] 0x0                (size_t) [0]
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B0] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]
+[RSP+4C0] 0x0                (size_t) [0]
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D0] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E0] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F0] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+510] 0x0                (size_t) [0]
+[RSP+518] 0x0                (size_t) [0]
+[RSP+520] 0x0                (size_t) [0]
+[RSP+528] 0x0                (size_t) [0]
+[RSP+530] 0x0                (size_t) [0]
+[RSP+538] 0x0                (size_t) [0]
+[RSP+540] 0x0                (size_t) [0]
+[RSP+548] 0x0                (size_t) [0]
+[RSP+550] 0x0                (size_t) [0]
+[RSP+558] 0x0                (size_t) [0]
+[RSP+560] 0x0                (size_t) [0]
+[RSP+568] 0x0                (size_t) [0]
+[RSP+570] 0x0                (size_t) [0]
+[RSP+578] 0x0                (size_t) [0]
+[RSP+580] 0x0                (size_t) [0]
+[RSP+588] 0x0                (size_t) [0]
+[RSP+590] 0x0                (size_t) [0]
+[RSP+598] 0x0                (size_t) [0]
+[RSP+5A0] 0x0                (size_t) [0]
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B0] 0x0                (size_t) [0]
+[RSP+5B8] 0x0                (size_t) [0]
+[RSP+5C0] 0x0                (size_t) [0]
+[RSP+5C8] 0x0                (size_t) [0]
+[RSP+5D0] 0x0                (size_t) [0]
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5E0] 0x0                (size_t) [0]
+[RSP+5E8] 0x0                (size_t) [0]
+[RSP+5F0] 0x0                (size_t) [0]
+[RSP+5F8] 0x0                (size_t) [0]
+[RSP+600] 0x0                (size_t) [0]
+[RSP+608] 0x0                (size_t) [0]
+[RSP+610] 0x0                (size_t) [0]
+[RSP+618] 0x0                (size_t) [0]
+[RSP+620] 0x0                (size_t) [0]
+[RSP+628] 0x0                (size_t) [0]
+[RSP+630] 0x0                (size_t) [0]
+[RSP+638] 0x0                (size_t) [0]
+[RSP+640] 0x0                (size_t) [0]
+[RSP+648] 0x0                (size_t) [0]
+[RSP+650] 0x0                (size_t) [0]
+[RSP+658] 0x0                (size_t) [0]
+[RSP+660] 0x0                (size_t) [0]
+[RSP+668] 0x0                (size_t) [0]
+[RSP+670] 0x0                (size_t) [0]
+[RSP+678] 0x0                (size_t) [0]
+[RSP+680] 0x0                (size_t) [0]
+[RSP+688] 0x0                (size_t) [0]
+[RSP+690] 0x0                (size_t) [0]
+[RSP+698] 0x0                (size_t) [0]
+[RSP+6A0] 0x0                (size_t) [0]
+[RSP+6A8] 0x0                (size_t) [0]
+[RSP+6B0] 0x0                (size_t) [0]
+[RSP+6B8] 0x0                (size_t) [0]
+[RSP+6C0] 0x0                (size_t) [0]
+[RSP+6C8] 0x0                (size_t) [0]
+[RSP+6D0] 0x0                (size_t) [0]
+[RSP+6D8] 0x0                (size_t) [0]
+[RSP+6E0] 0x0                (size_t) [0]
+[RSP+6E8] 0x0                (size_t) [0]
+[RSP+6F0] 0x0                (size_t) [0]
+[RSP+6F8] 0x0                (size_t) [0]
+[RSP+700] 0x0                (size_t) [0]
+[RSP+708] 0x0                (size_t) [0]
+[RSP+710] 0x0                (size_t) [0]
+[RSP+718] 0x0                (size_t) [0]
+[RSP+720] 0x0                (size_t) [0]
+[RSP+728] 0x0                (size_t) [0]
+[RSP+730] 0x0                (size_t) [0]
+[RSP+738] 0x0                (size_t) [0]
+[RSP+740] 0x0                (size_t) [0]
+[RSP+748] 0x0                (size_t) [0]
+[RSP+750] 0x0                (size_t) [0]
+[RSP+758] 0x0                (size_t) [0]
+[RSP+760] 0x0                (size_t) [0]
+[RSP+768] 0x0                (size_t) [0]
+[RSP+770] 0x0                (size_t) [0]
+[RSP+778] 0x0                (size_t) [0]
+[RSP+780] 0x0                (size_t) [0]
+[RSP+788] 0x0                (size_t) [0]
+[RSP+790] 0x0                (size_t) [0]
+[RSP+798] 0x0                (size_t) [0]
+[RSP+7A0] 0x0                (size_t) [0]
+[RSP+7A8] 0x0                (size_t) [0]
+[RSP+7B0] 0x0                (size_t) [0]
+[RSP+7B8] 0x0                (size_t) [0]
+[RSP+7C0] 0x0                (size_t) [0]
+[RSP+7C8] 0x0                (size_t) [0]
+[RSP+7D0] 0x0                (size_t) [0]
+[RSP+7D8] 0x0                (size_t) [0]
+[RSP+7E0] 0x0                (size_t) [0]
+[RSP+7E8] 0x0                (size_t) [0]
+[RSP+7F0] 0x0                (size_t) [0]
+[RSP+7F8] 0x0                (size_t) [0]
+[RSP+800] 0x0                (size_t) [0]
+[RSP+808] 0x0                (size_t) [0]
+[RSP+810] 0x0                (size_t) [0]
+[RSP+818] 0x0                (size_t) [0]
+[RSP+820] 0x0                (size_t) [0]
+[RSP+828] 0x0                (size_t) [0]
+[RSP+830] 0x0                (size_t) [0]
+[RSP+838] 0x0                (size_t) [0]
+[RSP+840] 0x0                (size_t) [0]
+[RSP+848] 0x0                (size_t) [0]
+[RSP+850] 0x0                (size_t) [0]
+[RSP+858] 0x0                (size_t) [0]
+[RSP+860] 0x0                (size_t) [0]
+[RSP+868] 0x0                (size_t) [0]
+[RSP+870] 0x0                (size_t) [0]
+[RSP+878] 0x0                (size_t) [0]

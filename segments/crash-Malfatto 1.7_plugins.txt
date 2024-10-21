@@ -1,0 +1,220 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     HUDFramework.esm
+[09]     AAF.esm
+[0A]     XDI.esm
+[0B]     CWPointLookoutFO4.esm
+[0C]     Penetration Framework.esp
+[0D]     Faster Terminal Displays (20x).esp
+[0E]     SkjAlert_All_DLC.esp
+[0F]     No Aggro Impact Landing.esp
+[10]     MorePowerfulWindmills7.esp
+[11]     CompanionStatus.esp
+[12]     RemoveHealthScaling.esp
+[13]     Skip DIMA memories.esp
+[14]     FadedTrenchcoat_Map.esp
+[15]     RealAI.esp
+[16]     Fallock.esp
+[17]     Configurable Artillery.esp
+[18]     Move (Get Out the Way).esp
+[19]     CBBE.esp
+[1A]     CBBEHeadRearFix.esp
+[1B]     Fallout4FasterRespawnRate1hr.esp
+[1C]     Fallout4FasterRespawnRateCleared1hr.esp
+[1D]     HoldToRun.esp
+[1E]     Unlimited Sprint.esp
+[1F]     2xPlayerDamage.esp
+[20]     1xEnemyDamage.esp
+[21]     RBMonogamy.esp
+[22]     Vats Camera Edit.esp
+[23]     NoRadscorpionTunneling.esp
+[24]     Set timescale to 6.esp
+[25]     LoweredJetpakAPDrain.esp
+[26]     TinaDeLucaSettlerAIVoiced.esp
+[27]     Third Person Movement Speed Fix.esp
+[28]     AnimatedCandles.esp
+[29]     TruePipBoyLight-PowerArmor.esp
+[2A]     TruePipBoyLight.esp
+[2B]     SKKCombatStalkers.esp
+[2C]     SKKRESystemManager.esp
+[2D]     Penetrating Ammo.esp
+[2E]     CompanionWhistle.esp
+[2F]     Ranging.esp
+[30]     Companion Infinite Ammo.esp
+[31]     SlowTime.esp
+[32]     Vault4.esp
+[33]     cambridgefacility.esp
+[34]     The Wild Key Chase.esp
+[35]     EM_HHQuest.esp
+[36]     TurretStands.esp
+[37]     WestTek.esp
+[38]     Reverb and Ambiance Overhaul.esp
+[39]     jsrs.esp
+[3A]     WndrrSounds.esp
+[3B]     Footstep_Sounds.esp
+[3C]     Damage Voice More Frequently.esp
+[3D]     Fixed Alpha Maps.esp
+[3E]     Docile Radstags.esp
+[3F]     NewOutfit.esp
+[40]     NewOutfitHHS.esp
+[41]     Rylee_New_Outfit.esp
+[42]     SOS - The True Nuka Girl.esp
+[43]     M38 Gas Mask Replacer.esp
+[44]     Laser Weapon Reanimated.esp
+[45]     Binoculars.esp
+[46]     9mmPistol.esp
+[47]     BetaWaveHarmonica.esp
+[48]     AKSounds.esp
+[49]     LAER.esp
+[4A]     M1Garand.esp
+[4B]     Zapgun.esp
+[4C]     1CAS_serviceRifle.esp
+[4D]     HuntingRevolver.esp
+[4E]     F4NVLaserPistol.esp
+[4F]     FOLON - LugerP08.esp
+[50]     WattzLaserGun.esp
+[51]     OTs-02 Kiparis.esp
+[52]     F4NVCrutchWeapon.esp
+[53]     American180nv.esp
+[54]     Mosin.esp
+[55]     50CalMachineGun.esp
+[56]     BH_Kar98k.esp
+[57]     Rosestorm_DL44.esp
+[58]     FlareGunReceiversV1c.esp
+[59]     TeslaCannonRedux.esp
+[5A]     Mauser.esp
+[5B]     Better Power Armor - Redux.esp
+[5C]     Classic_Handmade.esp
+[5D]     NoRandomGunShellEjectDirection.esp
+[5E]     Manual Leveled Items.esp
+[5F]     FakeKillcamRe.esp
+[60]     AimingMod02.esp
+[61]     Hydrate.esp
+[62]     More Ammo.esp
+[63]     Perk_Adjustments.esp
+[64]     Weapon Mods.esp
+[65]     Conflict Resolution.esp
+[66]     M8r Complex Sorter.esp
+[67]     BulletInTheChamber_Keywords.esp
+[68]     Sorter_Override.esp
+[69]     TrueDamage_Comp_Patch.esp
+[6A]     SCM.esp
+[FE:000] PPF.esm
+[FE:001] BakaFramework.esm
+[FE:002] CWPointLookoutFO4Patch.esl
+[FE:003] PLExpressivePlayer.esl
+[FE:004] FastTravelAIDetectionFix.esl
+[FE:005] CanarySaveFileMonitor.esl
+[FE:006] QuestTweaks-DLC04MS01.esl
+[FE:007] huntingrifleset2k.esl
+[FE:008] K198Recruit.esl
+[FE:009] Rylee_New_Inventory.esl
+[FE:00A] Rylee_NoGrime.esl
+[FE:00B] RecruitTraderRylee.esl
+[FE:00C] SwimmingAnims.esl
+[FE:00D] RunningWithHandsAnim.esl
+[FE:00E] LadderVanilla.esl
+[FE:00F] No Level Up Reminder.esl
+[FE:010] Munitions - An Ammo Expansion.esl
+[FE:011] Munitions - Vanilla Ammo Addon.esl
+[FE:012] nukaproject.esl
+[FE:013] 4estGimp - AI Edits.esp
+[FE:014] Keep Radiants In Commonwealth.esp
+[FE:015] More Quest Dungeons.esp
+[FE:016] RustyFaceFixRedux.esp
+[FE:017] Idle Poses Shotguns and Rifles.esp
+[FE:018] Animations VATS Old.esp
+[FE:019] Bodyslide Files.esp
+[FE:01A] MolotovTweak.esp
+[FE:01B] Movement Adjustments.esp
+[FE:01C] NPCs_Use_Grenades.esp
+[FE:01D] AshBeGone.esp
+[FE:01E] NewtonsRegards.esp
+[FE:01F] SSKRESystemManagerEdit.esp
+[FE:020] Bullet in the Chamber.esp
+[FE:021] Lightweight Lighting.esp
+[FE:022] eXoMagazineShelf.esp
+[FE:023] WestTek_Tweaks.esp
+[FE:024] Radium.esp
+[FE:025] Min_Radio_Ext_Alerts_Only_2_5min.esp
+[FE:026] Immersive_Squeaky_Doors.esp
+[FE:027] JSRS_Fallout4.esp
+[FE:028] JSRS Adjustments.esp
+[FE:029] JSRS_FarHarbor.esp
+[FE:02A] JSRS_NukaWorld.esp
+[FE:02B] Jump Grunt.esp
+[FE:02C] Hydraulica_Steps.esp
+[FE:02D] EvenLouderRainySound.esp
+[FE:02E] Modern UI Sounds My Edit.esp
+[FE:02F] Physics Sound Overhaul.esp
+[FE:030] Burst Impact Blast FX.esp
+[FE:031] SweetRollGross.esp
+[FE:032] PowerArmorSocketHoleFix.esp
+[FE:033] Bullet_Casing_Redone.esp
+[FE:034] Wetness Shader Fix.esp
+[FE:035] DoubleBarrelHD2k.esp
+[FE:036] EphlaUniqueChems.esp
+[FE:037] dpjetandxcell.esp
+[FE:038] dppsychoandmedx.esp
+[FE:039] dpbuffoutandradx.esp
+[FE:03A] MissileLauncherHD2k.esp
+[FE:03B] AntiqueGauss.esp
+[FE:03C] 10mmHD2k.esp
+[FE:03D] AssaultRifle_IronSight_Fix.esp
+[FE:03E] WBarrel_Shotgun_Reload_Animation.esp
+[FE:03F] M67_Grenade_Replacer.esp
+[FE:040] HD_Enhancement_Project_Bloodbugs_2k.esp
+[FE:041] HD_Enhancement_Project_Feral_Mirelurks_2k.esp
+[FE:042] HD_Enhancement_Project_Feral_Mirelurk_Queen_2k.esp
+[FE:043] Makeshifttextures.esp
+[FE:044] T-45_4K_UHD.esp
+[FE:045] X-01_4K_UHD.esp
+[FE:046] T-60_4k_UHD.esp
+[FE:047] T-51_4K_UHD.esp
+[FE:048] NF_Rocks_Fix.esp
+[FE:049] RedMilitaryCap.esp
+[FE:04A] Enhanced Vanilla Rocks.esp
+[FE:04B] Globes_2k.esp
+[FE:04C] NewBottleCapTin.esp
+[FE:04D] Transparent Glasses and Helmets.esp
+[FE:04E] CubemapFix.esp
+[FE:04F] Grenades.esp
+[FE:050] FO4ParticlePatch.esp
+[FE:051] InvisibleBottlesAndGlassFix.esp
+[FE:052] Misc Lead.esp
+[FE:053] PrewarDress_TPumps.esp
+[FE:054] DressFSequin_TPumps.esp
+[FE:055] DressF_Maxy_TPumps.esp
+[FE:056] Nun_Outfit.esp
+[FE:057] WMSR PA Quick Step Fix.esp
+[FE:058] WMSR_WTOptics_Patch.esp
+[FE:059] WM_Service_Rifle_New_Stock_Handle.esp
+[FE:05A] DOOMPumpShotgun.esp
+[FE:05B] PPS43.esp
+[FE:05C] Remington870.esp
+[FE:05D] ThompsonSMGReplacer.esp
+[FE:05E] Resized_10mm_Pistol.esp
+[FE:05F] SCOURGE - Vanilla.esp
+[FE:060] SCOURGE - Automatron.esp
+[FE:061] SCOURGE - Far Harbor.esp
+[FE:062] SCOURGE - Nuka World.esp
+[FE:063] SCOURGE - Patch - Point Lookout.esp
+[FE:064] True Damage.esp
+[FE:065] True Damage - DLC.esp
+[FE:066] True Damage - Munitions.esp
+[FE:067] True Damage - Vehicle Module.esp
+[FE:068] F4lloutNV - Killcam.esp
+[FE:069] Grenade_Throw.esp
+[FE:06A] PRP.esp
+[FE:06B] Vault4-eXoPatch.esp
+[FE:06C] Vault4-PreVis.esp
+[FE:06D] JSRS_Regions.esp
+[FE:06E] PRP-Compat-PointLookout.esp
+[FE:06F] PRP-CambridgeFacility.esp
+[FE:070] PRP-Compat-JSRS-Regions.esp

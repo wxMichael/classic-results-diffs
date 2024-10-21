@@ -1,0 +1,187 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     cczsef04001-bhouse.esm
+[08]     Unofficial Fallout 4 Patch.esp
+[09]     XDI.esm
+[0A]     YouAndWhatArmy2.esm
+[0B]     Homemaker.esm
+[0C]     SettlementKeywords.esm
+[0D]     Rebuild_Settlements.esp
+[0E]     Galaxy News Radio.esp
+[0F]     MoreLeavesFX-EN.esp
+[10]     3DNPC_FO4.esp
+[11]     3DNPC_FO4_DLC.esp
+[12]     3DNPC_FO4Settler.esp
+[13]     mr Loot Logic and Reduction.esp
+[14]     Eli_Armour_Compendium.esp
+[15]     CreationClubDelay.esp
+[16]     F4NVServiceRifleRedux.esp
+[17]     WeaponModFixes-GOTY.esp
+[18]     WattzLaserGun.esp
+[19]     GoodneighborRadio.esp
+[1A]     LeeEnfieldNo4MkI.esp
+[1B]     AtomicRadio.esp
+[1C]     AttachPack.esp
+[1D]     Better Vendor Stalls.esp
+[1E]     RAW INPUT.esp
+[1F]     BlockingOverhaul.esp
+[20]     CBBE.esp
+[21]     Complex Vendors.esp
+[22]     dcc-molotov-nerf.esp
+[23]     DLC Timing.esp
+[24]     PigAAM1911.esp
+[25]     Faded Glory - Soundtrack Expansion.esp
+[26]     FunctionalDisplays-Collectibles.esp
+[27]     FunctionalDisplays.esp
+[28]     FunctionalDisplays-Patch-DLC-ALL.esp
+[29]     FunctionalDisplays-MISC-Vanilla.esp
+[2A]     FunctionalDisplays-AID-Vanilla.esp
+[2B]     GeneralAtomicsMrGutsyGuards.esp
+[2C]     JumpFallPoseFix.esp
+[2D]     Less Annoying Berry Mentats.esp
+[2E]     M14.esp
+[2F]     OCDecorator - No Experience.esp
+[30]     OCDecorator.esp
+[31]     OCDecoratorDLC.esp
+[32]     OCDispenser.esp
+[33]     RemoveBlur.esp
+[34]     SettlementMenuManager.esp
+[35]     WoodenPrefabsExtended.esp
+[36]     Yona_Weapon_DefenseGun.esp
+[37]     CCV-MarineCombatArmor.esp
+[38]     RoboArmorPaints.esp
+[39]     Dogmeat's Backpack.esp
+[3A]     BetterCompanions.esp
+[3B]     PIP-Pad.esp
+[3C]     PIP-Pad Retexture.esp
+[3D]     AlexSleevePatcher.esp
+[3E]     StartMeUp.esp
+[3F]     StartMeUpNukaWorldPatch.esp
+[40]     3dscopes-defensegun.esp
+[41]     radionam.esp
+[42]     More Power Armour Mods.esp
+[43]     PAMAP.esp
+[44]     More Power Armour Mods - Automatron.esp
+[45]     PigScrapBattleRifle.esp
+[46]     Wana_SA58.esp
+[47]     BetterOpenSeason.esp
+[48]     W.A.T.Minutemen.esp
+[49]     EveryonesBestFriend.esp
+[4A]     dinoshelf.esp
+[4B]     msf.esp
+[FE:000] ccBGSFO4044-HellfirePowerArmor.esl
+[FE:001] ccfsvfo4001-modularmilitarybackpack.esl
+[FE:002] ccfrsfo4001-handmadeshotgun.esl
+[FE:003] cceejfo4001-decorationpack.esl
+[FE:004] ccbgsfo4045-advarccab.esl
+[FE:005] ccgcafo4001-factionws01army.esl
+[FE:006] ccgcafo4002-factionws02acat.esl
+[FE:007] ccgcafo4003-factionws03bos.esl
+[FE:008] ccgcafo4004-factionws04gun.esl
+[FE:009] ccgcafo4005-factionws05hrpink.esl
+[FE:00A] ccgcafo4006-factionws06hrshark.esl
+[FE:00B] ccgcafo4007-factionws07hrflames.esl
+[FE:00C] ccgcafo4008-factionws08inst.esl
+[FE:00D] ccgcafo4009-factionws09mm.esl
+[FE:00E] ccgcafo4010-factionws10rr.esl
+[FE:00F] ccgcafo4011-factionws11vt.esl
+[FE:010] ccgcafo4012-factionas01acat.esl
+[FE:011] ccgcafo4013-factionas02bos.esl
+[FE:012] ccgcafo4014-factionas03gun.esl
+[FE:013] ccgcafo4015-factionas04hrpink.esl
+[FE:014] ccgcafo4016-factionas05hrshark.esl
+[FE:015] ccgcafo4017-factionas06inst.esl
+[FE:016] ccgcafo4018-factionas07mm.esl
+[FE:017] ccgcafo4020-factionas09rr.esl
+[FE:018] ccgcafo4021-factionas10hrflames.esl
+[FE:019] ccgcafo4022-factionas11vt.esl
+[FE:01A] ccgcafo4023-factionas12army.esl
+[FE:01B] ccawnfo4001-brandedattire.esl
+[FE:01C] ccbgsfo4036-trnsdg.esl
+[FE:01D] ccfrsfo4002-antimaterielrifle.esl
+[FE:01E] cckgjfo4001-bastion.esl
+[FE:01F] ccBGSFO4115-X02.esl
+[FE:020] ccBGSFO4116-HeavyFlamer.esl
+[FE:021] ccBGSFO4110-WS_Enclave.esl
+[FE:022] ccBGSFO4096-AS_Enclave.esl
+[FE:023] ccfrsfo4003-cr75l.esl
+[FE:024] ccacxfo4001-vsuit.esl
+[FE:025] ccFSVFO4007-Halloween.esl
+[FE:026] ccsbjfo4002_manwellrifle.esl
+[FE:027] ccBGSFO4046-TesCan.esl
+[FE:028] ccgcafo4025-pagunmm.esl
+[FE:029] ccSBJFO4003-Grenade.esl
+[FE:02A] ccOTMFO4001-Remnants.esl
+[FE:02B] REFramework.esm
+[FE:02C] Papyrus Script Runner.esp
+[FE:02D] PPF.esm
+[FE:02E] Community Fixes Merged.esp
+[FE:02F] fakeInt.esp
+[FE:030] TMR_GlitchfinderAIO.esm
+[FE:031] Ownership Fixes.esp
+[FE:032] fakeInt_Boston.esp
+[FE:033] fakeInt_DLC.esp
+[FE:034] HandmadeAntiMaterielRifle.esl
+[FE:035] HoloDisplay.esl
+[FE:036] LIF.esl
+[FE:037] LIF_RandomPA.esl
+[FE:038] RunningWithHandsAnim.esl
+[FE:039] Rebuild_SharedResources.esm
+[FE:03A] Dank_ArmorPaintExtended.esl
+[FE:03B] PPF-HeavyFlamer-CR.esm
+[FE:03C] Enhanced Vanilla Armor and Clothing.esp
+[FE:03D] Fixed Gobo Effects.esp
+[FE:03E] DiamondCityBillboards.esp
+[FE:03F] Wetness Shader Fix.esp
+[FE:040] FO4ParticlePatch.esp
+[FE:041] Rebuild_Sanctuary_EasyScrapping.esp
+[FE:042] GoodneighborView.esp
+[FE:043] TerrainUndersides.esp
+[FE:044] Attach Pack Mod Description Fixes.esp
+[FE:045] Chemfluence AI Combat Dynamics.esp
+[FE:046] Community Fixes Merged - Weapon Mod Fixes Patch.esp
+[FE:047] Diamond City Supplements.esp
+[FE:048] DLC Timing - UFO4P Patch.esp
+[FE:049] Dogmeat Follow Behind.esp
+[FE:04A] PuddleReflectionFix.esp
+[FE:04B] Extended Fake Interior - CC Enclave Remnants Patch.esp
+[FE:04C] GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
+[FE:04D] WhoIsTheGeneral.esp
+[FE:04E] Keep Radiants In Commonwealth.esp
+[FE:04F] LegendariesTheyCanUse.esp
+[FE:050] Legendary Mutation Messages Fix.esp
+[FE:051] LIF_DLC_Ammo.esp
+[FE:052] LIF_DLC_Armor.esp
+[FE:053] LIF_DLC_Cola.esp
+[FE:054] LIF_DLC_Grenade.esp
+[FE:055] LIF_DLC_Guns.esp
+[FE:056] MiscAnimTweaks.esp
+[FE:057] Loot Logic and Reduction - CFM Patch.esp
+[FE:058] No Sneaking in Power Armor.esp
+[FE:059] Simple Creation Club Delayed NG.esp
+[FE:05A] SimplePowerArmorReductionSystem.esp
+[FE:05B] SolarPower.esp
+[FE:05C] StartMeUpShaunDefaultAppearance.esp
+[FE:05D] The Attachment Pack - Implementation WMF Patch.esp
+[FE:05E] WAVE.esp
+[FE:05F] WTG - KRIC Patch.esp
+[FE:060] YAWA2_NoArtillery.esp
+[FE:061] Defense Gun - Unofficial Update.esp
+[FE:062] StartMeUp-CC-CR74L.esp
+[FE:063] StopRemoveItems.esp
+[FE:064] Lightweight Lighting.esp
+[FE:065] WET.esp
+[FE:066] PRP.esp
+[FE:067] AlootHomePlate.esp
+[FE:068] Rebuild_Settlements_Previs.esp
+[FE:069] Dank_ArmorOverrides.esp
+[FE:06A] Dank_ArmorOverrides_DLCCoast.esp
+[FE:06B] Dank_ArmorOverrides_DLCNukaWorld.esp
+[FE:06C] Dank_ArmorOverrides_DLCRobot.esp
+[FE:06D] Eli_Armour_Compendium_LIF.esp
+[FE:06E] Eli_Armour_Compendium_Tweaks.esp

@@ -1,0 +1,4 @@
+Buffout 4 v1.35.1 Jul  5 2024 20:37:23
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FFB50F0D044 Buffout4.dll+010D044	mov byte ptr [rax+0x344], 0x00 
+  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:1372 ?freeOwnObject@Block@internal@rml@@QEAAXPEAX@Z)

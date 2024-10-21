@@ -1,0 +1,191 @@
+
+REGISTERS:
+RCX 0x1833F574100      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF00105F
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00450409
+EditorID: "DN092concordRaider03"
+FormID: 0x00046459
+FormType: kACHR (65)
+RBX 0x1                (size_t) [1]
+RBP 0x0                (size_t) [0]
+RSI 0x1833F574100      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF00105F
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00450409
+EditorID: "DN092concordRaider03"
+FormID: 0x00046459
+FormType: kACHR (65)
+R8  0x7FF6CBB70000     (void*)
+R10 0x23               (size_t) [35]
+R12 0x7FF6D1758088     (void* -> Fallout4.exe+5BE8088	add [rax], al |  aDiveBombChance_5BE8088)
+R13 0x7FF6D1758080     (void* -> Fallout4.exe+5BE8080	add [rax], al |  aDiveBombChance_5BE8080)
+R15 0x7FF6D1758084     (void* -> Fallout4.exe+5BE8084	add [rax], al |  aDiveBombChance_5BE8084)
+
+STACK:
+[RSP+0  ] 0x7FF6D1758084     (void* -> Fallout4.exe+5BE8084	add [rax], al |  aDiveBombChance_5BE8084)
+[RSP+10 ] 0x2                (size_t) [2]
+[RSP+18 ] 0x7FF6CC8EC871     (void* -> Fallout4.exe+0D7C871	mov eax, [rsi+0x43C] |  Actor::UpdateMovement(float)_D7C871)
+[RSP+20 ] 0x1833F574100      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF00105F
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00450409
+EditorID: "DN092concordRaider03"
+FormID: 0x00046459
+FormType: kACHR (65)
+[RSP+28 ] 0x7FF6D1758000     (void* -> Fallout4.exe+5BE8000	test al, 0x3C |  aDiveBombChance_5BE8000)
+[RSP+38 ] 0x1833F5F0900      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "CloudDistant04_O_25"
+FormID: 0x0002743A
+FormType: kSTAT (36)
+File: "Fallout4.esm"
+Flags: 0x00010409
+FormID: 0x000F7463
+FormType: kREFR (64)
+[RSP+48 ] 0x0                (size_t) [0]
+[RSP+58 ] 0x0                (size_t) [0]
+[RSP+68 ] 0x0                (size_t) [0]
+[RSP+78 ] 0x7FF6CCA8B118     (void* -> Fallout4.exe+0F1B118	mov rcx, [rbx] |  ProcessListJobs::ActorProcessData::Process(void)_F1B118)
+[RSP+88 ] 0x0                (size_t) [0]
+[RSP+98 ] 0x1831F961BC0      (void*)
+[RSP+A0 ] 0x7FF6D175B598     (void* -> Fallout4.exe+5BEB598	adc dl, 0x57 |  aDiveBombChance_5BEB598)
+[RSP+A8 ] 0x7FF6CD6C0F26     (void* -> Fallout4.exe+1B50F26	mov ecx, [rbx+0x0C] |  BSJobs::JobListLocal::RunJobsInternal(uint,BSJobs::ThreadJobListState&,bool)_1B50F26)
+[RSP+B0 ] 0x1833F5F0900      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "CloudDistant04_O_25"
+FormID: 0x0002743A
+FormType: kSTAT (36)
+File: "Fallout4.esm"
+Flags: 0x00010409
+FormID: 0x000F7463
+FormType: kREFR (64)
+[RSP+B8 ] 0x7FF6D175B598     (void* -> Fallout4.exe+5BEB598	adc dl, 0x57 |  aDiveBombChance_5BEB598)
+[RSP+C8 ] 0x0                (size_t) [0]
+[RSP+D8 ] 0x0                (size_t) [0]
+[RSP+E8 ] 0x1                (size_t) [1]
+[RSP+F0 ] 0x7FF6D175B528     (BSJobs::JobThread*)
+[RSP+F8 ] 0x7FF6CD6C1432     (void* -> Fallout4.exe+1B51432	mov r14d, eax |  BSJobs::JobThread::RunJob(void)_1B51432)
+[RSP+108] 0x7FF6D175B548     (void* -> Fallout4.exe+5BEB548	add [rax], al |  aDiveBombChance_5BEB548)
+[RSP+118] 0x491685F9B0       (void*)
+[RSP+128] 0x0                (size_t) [0]
+[RSP+138] 0x7FF6CD6C3F67     (void* -> Fallout4.exe+1B53F67	movzx eax, byte ptr [rbx+0xA74] |  BSJobs::JobThread::ThreadProc(void)_1B53F67)
+[RSP+140] 0x7FF6D175B528     (BSJobs::JobThread*)
+[RSP+150] 0x0                (size_t) [0]
+[RSP+160] 0x7FF6D175B528     (BSJobs::JobThread*)
+[RSP+168] 0x7FF6CD68CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF6D16CBD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+178] 0x491685F9D0       (void*)
+[RSP+188] 0x0                (size_t) [0]
+[RSP+190] 0x7FF6D175B528     (BSJobs::JobThread*)
+[RSP+1A0] 0x0                (size_t) [0]
+[RSP+1A8] 0x7FFABF347344     (void* -> KERNEL32.DLL+0017344	mov ecx, eax)
+[RSP+1B8] 0x0                (size_t) [0]
+[RSP+1C8] 0x0                (size_t) [0]
+[RSP+1D8] 0x7FFABF4826B1     (void* -> ntdll.dll+00526B1	jmp 0x00007FFABF4826D3)
+[RSP+1E8] 0x0                (size_t) [0]
+[RSP+1F8] 0x0                (size_t) [0]
+[RSP+208] 0x0                (size_t) [0]
+[RSP+218] 0x0                (size_t) [0]
+[RSP+228] 0x7FFABCD2DFB0     (void* -> KERNELBASE.dll+012DFB0	mov [rsp+0x10], rbx)
+[RSP+238] 0x7FFA8103D330     (size_t) [140713883063088]
+[RSP+248] 0x491685E9C0       (void*)
+[RSP+258] 0x0                (size_t) [0]
+[RSP+268] 0x0                (size_t) [0]
+[RSP+278] 0x0                (size_t) [0]
+[RSP+288] 0x0                (size_t) [0]
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A8] 0x0                (size_t) [0]
+[RSP+2B8] 0x0                (size_t) [0]
+[RSP+2C8] 0x0                (size_t) [0]
+[RSP+2D8] 0x0                (size_t) [0]
+[RSP+2E8] 0x0                (size_t) [0]
+[RSP+2F8] 0x0                (size_t) [0]
+[RSP+308] 0x0                (size_t) [0]
+[RSP+318] 0x0                (size_t) [0]
+[RSP+328] 0x0                (size_t) [0]
+[RSP+338] 0x0                (size_t) [0]
+[RSP+348] 0x0                (size_t) [0]
+[RSP+358] 0x0                (size_t) [0]
+[RSP+368] 0x0                (size_t) [0]
+[RSP+378] 0x0                (size_t) [0]
+[RSP+388] 0x0                (size_t) [0]
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E8] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+448] 0x0                (size_t) [0]
+[RSP+458] 0x0                (size_t) [0]
+[RSP+468] 0x0                (size_t) [0]
+[RSP+478] 0x0                (size_t) [0]
+[RSP+488] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+518] 0x0                (size_t) [0]
+[RSP+528] 0x0                (size_t) [0]
+[RSP+538] 0x0                (size_t) [0]
+[RSP+548] 0x0                (size_t) [0]
+[RSP+558] 0x0                (size_t) [0]
+[RSP+568] 0x0                (size_t) [0]
+[RSP+578] 0x0                (size_t) [0]
+[RSP+588] 0x0                (size_t) [0]
+[RSP+598] 0x0                (size_t) [0]
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B8] 0x0                (size_t) [0]
+[RSP+5C8] 0x0                (size_t) [0]
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5E8] 0x0                (size_t) [0]
+[RSP+5F8] 0x0                (size_t) [0]
+[RSP+608] 0x0                (size_t) [0]
+[RSP+618] 0x0                (size_t) [0]
+[RSP+628] 0x0                (size_t) [0]
+[RSP+638] 0x0                (size_t) [0]
+[RSP+648] 0x0                (size_t) [0]
+[RSP+658] 0x0                (size_t) [0]
+[RSP+668] 0x0                (size_t) [0]
+[RSP+678] 0x0                (size_t) [0]
+[RSP+688] 0x0                (size_t) [0]
+[RSP+698] 0x0                (size_t) [0]
+[RSP+6A8] 0x0                (size_t) [0]
+[RSP+6B8] 0x0                (size_t) [0]
+[RSP+6C8] 0x0                (size_t) [0]
+[RSP+6D8] 0x0                (size_t) [0]
+[RSP+6E8] 0x0                (size_t) [0]
+[RSP+6F8] 0x0                (size_t) [0]
+[RSP+708] 0x0                (size_t) [0]
+[RSP+718] 0x0                (size_t) [0]
+[RSP+728] 0x0                (size_t) [0]
+[RSP+738] 0x0                (size_t) [0]
+[RSP+748] 0x0                (size_t) [0]
+[RSP+758] 0x0                (size_t) [0]
+[RSP+768] 0x0                (size_t) [0]
+[RSP+778] 0x0                (size_t) [0]
+[RSP+788] 0x0                (size_t) [0]
+[RSP+798] 0x0                (size_t) [0]
+[RSP+7A8] 0x0                (size_t) [0]
+[RSP+7B8] 0x0                (size_t) [0]

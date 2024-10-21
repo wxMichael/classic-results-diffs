@@ -1,0 +1,217 @@
+[0] 0x7FFAB6DB5CE2   Buffout4.dll+0085CE2
+[1] 0x7FFAB6DA9E7F   Buffout4.dll+0079E7F
+[2] 0x7FFAB6DB34F5   Buffout4.dll+00834F5
+[3] 0x7FFB9840CD9C KERNELBASE.dll+015CD9C
+[4] 0x7FFB9B03907D      ntdll.dll+00A907D
+[5] 0x7FFB9B01F187      ntdll.dll+008F187
+[6] 0x7FFB9B0349FF      ntdll.dll+00A49FF
+[7] 0x7FFB9AFAE466      ntdll.dll+001E466
+[8] 0x7FFB9B0339EE      ntdll.dll+00A39EE
+
+REGISTERS:
+RAX 0x29C00000007      (void*)
+RCX 0x29CC0E2AE00      (void*)
+RDX 0x0                (size_t)
+RBX 0x29CC0E29200      (BGSStaticCollection::RootFacade*)
+Name: ""
+RSP 0xA0EFBFFB28       (void*)
+RBP 0xA0EFBFFCF0       (void*)
+RSI 0x4C8              (size_t)
+RDI 0x29CC0E29200      (BGSStaticCollection::RootFacade*)
+Name: ""
+R8  0x0                (size_t)
+R9  0x29BF6B7C250      (NiTPrimitiveArray<unsigned int>*)
+R10 0x29C35B76F80      (BSSkin::Instance*)
+R11 0xA0EFBFFA80       (void*)
+R12 0x0                (size_t)
+R13 0x29AC5266F40      (void*)
+R14 0x3E               (size_t)
+R15 0xD7               (size_t)
+
+STACK:
+[RSP+0  ] 0x7FF6F5919277     (void* -> Fallout4.exe+1B99277)
+[RSP+8  ] 0xA0EFBFFCF0       (void*)
+[RSP+10 ] 0x8                (size_t)
+[RSP+18 ] 0x29C19F11E40      (NiNode*)
+Name: ""
+[RSP+20 ] 0x0                (size_t)
+[RSP+28 ] 0xD7               (size_t)
+[RSP+30 ] 0x0                (size_t)
+[RSP+38 ] 0xA0EFBFFCF0       (void*)
+[RSP+40 ] 0x7FF6F6551AC5     (void* -> Fallout4.exe+27D1AC5)
+[RSP+48 ] 0xA0EFBFFCF0       (void*)
+[RSP+50 ] 0x4C8              (size_t)
+[RSP+58 ] 0x29CC0E29200      (BGSStaticCollection::RootFacade*)
+Name: ""
+[RSP+60 ] 0x0                (size_t)
+[RSP+68 ] 0x29CC0E29200      (BGSStaticCollection::RootFacade*)
+Name: ""
+[RSP+70 ] 0x7FF6F5919362     (void* -> Fallout4.exe+1B99362)
+[RSP+78 ] 0x29BA938AE80      (NiNode*)
+Name: ""
+[RSP+80 ] 0x0                (size_t)
+[RSP+88 ] 0x29BA938AD40      (NiNode*)
+Name: ""
+[RSP+90 ] 0x0                (size_t)
+[RSP+98 ] 0xA                (size_t)
+[RSP+A0 ] 0x7                (size_t)
+[RSP+A8 ] 0x29BA93BA200      (BSMultiBoundNode*)
+Name: ""
+[RSP+B0 ] 0x7FF6F5919362     (void* -> Fallout4.exe+1B99362)
+[RSP+B8 ] 0xA0EFBFFCF0       (void*)
+[RSP+C0 ] 0x18               (size_t)
+[RSP+C8 ] 0x29BA938AE80      (NiNode*)
+Name: ""
+[RSP+D0 ] 0x0                (size_t)
+[RSP+D8 ] 0x0                (size_t)
+[RSP+E0 ] 0x7FF6F97EBDC0     (JobListManager::ServingThread*)
+[RSP+E8 ] 0x29BA93BA200      (BSMultiBoundNode*)
+Name: ""
+[RSP+F0 ] 0x7FF6F5A58C58     (void* -> Fallout4.exe+1CD8C58)
+[RSP+F8 ] 0x9C0              (size_t)
+[RSP+100] 0x0                (size_t)
+[RSP+108] 0xA0EFBFFCF0       (void*)
+[RSP+110] 0x0                (size_t)
+[RSP+118] 0x3F800000         (size_t)
+[RSP+120] 0x0                (size_t)
+[RSP+128] 0x3F80000000000000 (size_t)
+[RSP+130] 0x0                (size_t)
+[RSP+138] 0x0                (size_t)
+[RSP+140] 0x3F800000         (size_t)
+[RSP+148] 0x0                (size_t)
+[RSP+150] 0x3F80000000000000 (size_t)
+[RSP+158] 0x0                (size_t)
+[RSP+160] 0x0                (size_t)
+[RSP+168] 0x29BA93BA200      (BSMultiBoundNode*)
+Name: ""
+[RSP+170] 0x7FF6F5923C05     (void* -> Fallout4.exe+1BA3C05)
+[RSP+178] 0x29B79AE6400      (TESObjectCELL*)
+File: "LO_Previsibines.esp"
+Flags: 0x0004000B
+Form ID: 0x0000DD60
+Form Type: 63
+Full Name: ""
+[RSP+180] 0xA0EFBFFCF0       (void*)
+[RSP+188] 0x29B79AE6400      (TESObjectCELL*)
+File: "LO_Previsibines.esp"
+Flags: 0x0004000B
+Form ID: 0x0000DD60
+Form Type: 63
+Full Name: ""
+[RSP+190] 0x9C0              (size_t)
+[RSP+198] 0x2                (size_t)
+[RSP+1A0] 0x7FF6F4139A60     (void* -> Fallout4.exe+03B9A60)
+[RSP+1A8] 0x29BA93BA200      (BSMultiBoundNode*)
+Name: ""
+[RSP+1B0] 0x29BFB6C3080      (AddCellGrassTask*)
+[RSP+1B8] 0x2                (size_t)
+[RSP+1C0] 0x29AC5266F40      (void*)
+[RSP+1C8] 0x29B00000000      (void*)
+[RSP+1D0] 0x0                (size_t)
+[RSP+1D8] 0x80000            (size_t)
+[RSP+1E0] 0x7FF600000001     (size_t)
+[RSP+1E8] 0x0                (size_t)
+[RSP+1F0] 0x0                (size_t)
+[RSP+1F8] 0x29B2C317DD0      (GridCellArray*)
+[RSP+200] 0x0                (size_t)
+[RSP+208] 0x0                (size_t)
+[RSP+210] 0x7FF6F3F53A98     (void* -> Fallout4.exe+01D3A98)
+[RSP+218] 0x29B79AE6400      (TESObjectCELL*)
+File: "LO_Previsibines.esp"
+Flags: 0x0004000B
+Form ID: 0x0000DD60
+Form Type: 63
+Full Name: ""
+[RSP+220] 0x29B79968401      (void*)
+[RSP+228] 0x0                (size_t)
+[RSP+230] 0x7FF6F97EBDC0     (JobListManager::ServingThread*)
+[RSP+238] 0x7FF6F97EBDC0     (JobListManager::ServingThread*)
+[RSP+240] 0x29AEF90B7E0      (void*)
+[RSP+248] 0x29B2C2EBEC0      (TES*)
+[RSP+250] 0x7FF6F3E75DA8     (void* -> Fallout4.exe+00F5DA8)
+[RSP+258] 0x29B2C2EBEC0      (TES*)
+[RSP+260] 0x29AEF9890D0      (void*)
+[RSP+268] 0x29A43742800      (SceneGraph*)
+Name: "WorldRoot Node"
+[RSP+270] 0x7FFB9831A3CB     (void* -> KERNELBASE.dll+006A3CB)
+[RSP+278] 0x0                (size_t)
+[RSP+280] 0x7FF6F97EBDC0     (JobListManager::ServingThread*)
+[RSP+288] 0x0                (size_t)
+[RSP+290] 0x7FF6F97EBDC0     (JobListManager::ServingThread*)
+[RSP+298] 0x0                (size_t)
+[RSP+2A0] 0x7FFB982E427E     (void* -> KERNELBASE.dll+003427E)
+[RSP+2A8] 0x6                (size_t)
+[RSP+2B0] 0x29A4374CD40      (void*)
+[RSP+2B8] 0x29B89C54400      (TESObjectCELL*)
+File: "Rebuild_Settlements_Previs.esp"
+Flags: 0x0004000B
+Form ID: 0x0000DDA0
+Form Type: 63
+Full Name: ""
+[RSP+2C0] 0x7FF6F4ABC080     (void* -> Fallout4.exe+0D3C080)
+[RSP+2C8] 0x29A00000000      (size_t)
+[RSP+2D0] 0x0                (size_t)
+[RSP+2D8] 0x48               (size_t)
+[RSP+2E0] 0x1                (size_t)
+[RSP+2E8] 0x0                (size_t)
+[RSP+2F0] 0x0                (size_t)
+[RSP+2F8] 0x479BD982C78C07DE (size_t)
+[RSP+300] 0x45EB0397         (size_t)
+[RSP+308] 0x0                (size_t)
+[RSP+310] 0x7FF6F4A3E5B0     (void* -> Fallout4.exe+0CBE5B0)
+[RSP+318] 0x29AEF9890C8      (void*)
+[RSP+320] 0x0                (size_t)
+[RSP+328] 0x7FF6F97EBDC0     (JobListManager::ServingThread*)
+[RSP+330] 0x29AEF90B7E0      (void*)
+[RSP+338] 0x0                (size_t)
+[RSP+340] 0x7FF6F4A3D20D     (void* -> Fallout4.exe+0CBD20D)
+[RSP+348] 0x29AEF9890C8      (void*)
+[RSP+350] 0x29AEF9890D0      (void*)
+[RSP+358] 0x0                (size_t)
+[RSP+360] 0x4F50             (size_t)
+[RSP+368] 0x0                (size_t)
+[RSP+370] 0x0                (size_t)
+[RSP+378] 0x7FF6F97EBDC0     (JobListManager::ServingThread*)
+[RSP+380] 0x7FF6F4A407A7     (void* -> Fallout4.exe+0CC07A7)
+[RSP+388] 0x29AEF989080      (void*)
+[RSP+390] 0x29AEF9890D0      (void*)
+[RSP+398] 0x0                (size_t)
+[RSP+3A0] 0x0                (size_t)
+[RSP+3A8] 0x7FF6F97EBDC0     (JobListManager::ServingThread*)
+[RSP+3B0] 0x7FF6F589CFED     (void* -> Fallout4.exe+1B1CFED)
+[RSP+3B8] 0x4F68             (size_t)
+[RSP+3C0] 0xA0EFBFFF00       (void*)
+[RSP+3C8] 0x29A4372BC90      (void*)
+[RSP+3D0] 0x0                (size_t)
+[RSP+3D8] 0x7FF6F97EBDC0     (JobListManager::ServingThread*)
+[RSP+3E0] 0x0                (size_t)
+[RSP+3E8] 0x0                (size_t)
+[RSP+3F0] 0x7FFB9973257D     (void* -> KERNEL32.DLL+001257D)
+[RSP+3F8] 0x0                (size_t)
+[RSP+400] 0x0                (size_t)
+[RSP+408] 0x0                (size_t)
+[RSP+410] 0x0                (size_t)
+[RSP+418] 0x0                (size_t)
+[RSP+420] 0x7FFB9AFEAA48     (void* -> ntdll.dll+005AA48)
+[RSP+428] 0x0                (size_t)
+[RSP+430] 0x0                (size_t)
+[RSP+438] 0x0                (size_t)
+[RSP+440] 0x0                (size_t)
+[RSP+448] 0x0                (size_t)
+[RSP+450] 0x0                (size_t)
+[RSP+458] 0x5536C0E900000000 (size_t)
+[RSP+460] 0x0                (size_t)
+[RSP+468] 0x4F0FFFFFB30      (size_t)
+[RSP+470] 0x7FFB9840CBB0     (void* -> KERNELBASE.dll+015CBB0)
+[RSP+478] 0xA0EFBFE600       (void*)
+[RSP+480] 0xFDE6BB05AC80003F (size_t)
+[RSP+488] 0x7FFBCD760B59     (size_t)
+[RSP+490] 0xA0EFBFE600       (void*)
+[RSP+498] 0x0                (size_t)
+[RSP+4A0] 0x0                (size_t)
+[RSP+4A8] 0x0                (size_t)
+[RSP+4B0] 0x0                (size_t)
+[RSP+4B8] 0x0                (size_t)
+[RSP+4C0] 0x0                (size_t)
+[RSP+4C8] 0x0                (size_t)
+[RSP+4D0] 0x0                (size_t)

@@ -1,0 +1,265 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     HUDFramework.esm
+[09]     Phoenix - Keywords.esp
+[0A]     XDI.esm
+[0B]     WorkshopFramework.esm
+[0C]     SettlementMenuManager.esp
+[0D]     Fixed Alpha Maps.esp
+[0E]     Nuka World Bottle Fix.esp
+[0F]     InstitWeapPosit.esp
+[10]     Immersive HUD.esp
+[11]     HoloTime.esp
+[12]     Clarity.esp
+[13]     dD-Enhanced Blood Basic.esp
+[14]     CROSS_GoreCrits.esp
+[15]     Better Landscape Grass.esp
+[16]     RRTV_RobotModelKits.esp
+[17]     RRTV_NukaRecipeRetextures.esp
+[18]     FOFW_ALL_IN_ONE_VANILLA.esp
+[19]     Mama Murphy.esp
+[1A]     SSNPC - KelloggNEW.esp
+[1B]     SSNPC - DCResidentsAIO.esp
+[1C]     BetterWeaponDiversityCHW-v2.1.esp
+[1D]     ConsumeWithoutPickup.esp
+[1E]     NPC Accuracy Revised.esp
+[1F]     AA Better Companions - No Conflicts.esp
+[20]     EveryonesBestFriend.esp
+[21]     PD_LowerWeapon.esp
+[22]     RAW INPUT.esp
+[23]     Perk Up.esp
+[24]     NPC LLD Rebalance.esp
+[25]     Workshop Scavenge tiered scrap only.esp
+[26]     mr Armor Overhaul.esp
+[27]     No Legendary Items From Creatures.esp
+[28]     SyringerAmmoSimplerIngredientsAlternate.esp
+[29]     RRTV_TeaganSellsBOSClothing.esp
+[2A]     More Sensible Mod Perk Req GOTY.esp
+[2B]     Consistent Power Armor Overhaul.esp
+[2C]     RestorePAFrames.esp
+[2D]     dcc-palock.esp
+[2E]     PAMAP.esp
+[2F]     Some Assembly Required.esp
+[30]     Minutemen Paint Job.esp
+[31]     PA-Quick Animations.esp
+[32]     One Minutemen Radiant Quest At A Time.esp
+[33]     PrestonNoRadiant.esp
+[34]     infinite_settlement_budget.esp
+[35]     Better_Settlement_Defence.esp
+[36]     Visible Idle Markers.esp
+[37]     extendedLightsWS - No shadows.esp
+[38]     Light Radius Redux AIO.esp
+[39]     Better Workshop Street Oil Lamps.esp
+[3A]     Un-Randomized Workshop Turrets.esp
+[3B]     RRShutters.esp
+[3C]     BetterGenerators.esp
+[3D]     scavengesandboxmod.esp
+[3E]     AEH_ShackinUp.esp
+[3F]     NaiRaeCozyScavver.esp
+[40]     Eli_Pride.esp
+[41]     Vault88 - Essentials.esp
+[42]     FWC_FourWallCorners.esp
+[43]     BetterJunkFences.esp
+[44]     GrafsSecurityFences.esp
+[45]     ruined_handmadeturrets.esp
+[46]     TurretStands.esp
+[47]     Wall Oil Lamps.esp
+[48]     Wall Oil Lamps - Real Light Patch.esp
+[49]     BluesMinutemenFlagsStandalone.esp
+[4A]     DogFurniture.esp
+[4B]     RealTroughs.esp
+[4C]     Ketaros_MissingMags.esp
+[4D]     DirtyPreWarClothesRestored.esp
+[4E]     Upgradeable Vault Suit.esp
+[4F]     K9TacticalHarness.esp
+[50]     Reverb and Ambiance Overhaul.esp
+[51]     Project Reality Footsteps FO4.esp
+[52]     DCRE.esp
+[53]     PhotoMode.esp
+[54]     StartMeUp.esp
+[55]     FO4LODGen.esp
+[56]     FO4LODGen-DLCCoast-WindTurbines.esp
+[57]     HasDistantLOD Synthesis Patch.esp
+[FE:000] BakaWaitAnywhere.esm
+[FE:001] SSTMinutemanWatchtowers.esl
+[FE:002] PPF.esm
+[FE:003] CanarySaveFileMonitor.esl
+[FE:004] Autorun Console Commands.esl
+[FE:005] WhatsYourName.esl
+[FE:006] NQAS - Automatron.esl
+[FE:007] NQAS - VaultTec.esl
+[FE:008] ScrapMachine.esl
+[FE:009] TuneTheRadios.esl
+[FE:00A] ConfigurableHotkeys.esl
+[FE:00B] Phoenix - Simple Crafting Stations.esp
+[FE:00C] Workshop Framework - WTP Patch.esp
+[FE:00D] What's Your Name - WTP Patch.esp
+[FE:00E] Settlement Menu Manager - WTP Patch.esp
+[FE:00F] Phoenix - Simple Sorting Overhaul.esp
+[FE:010] ValdacilsItemSorting-ExplosivesSortBottom.esp
+[FE:011] ValdacilsItemSorting-AidReducedWeight.esp
+[FE:012] ValdacilsItemSorting-Misc.esp
+[FE:013] ValdacilsItemSorting-Junk+DEF_INV.esp
+[FE:014] ValdacilsItemSorting-Mods.esp
+[FE:015] ValdacilsItemSorting-Ammo.esp
+[FE:016] spacefiddle_Follower-Stealth-Distance-Fixes.esp
+[FE:017] T60to51.esp
+[FE:018] Piezonucleic_Fix.esp
+[FE:019] Fixed Gobo Effects.esp
+[FE:01A] Wetness Shader Fix.esp
+[FE:01B] Less Ugly Intercom.esp
+[FE:01C] MTM-NukaTownEastArchwayFix.esp
+[FE:01D] MTM-GardenTerraceCeilingFixedByMonorail.esp
+[FE:01E] PerceptionBugFix.esp
+[FE:01F] CarPhysicsDeathBugfix.esp
+[FE:020] AutomatronLoadScreenFix.esp
+[FE:021] AtomCatsDragRaceStartFix.esp
+[FE:022] Ownership Fixes.esp
+[FE:023] DelivererNoBloomGlowSight50.esp
+[FE:024] Dismemberment Tweaks.esp
+[FE:025] Docile Radstags.esp
+[FE:026] Less Annoying Berry Mentats.esp
+[FE:027] No Aggro Impact Landing.esp
+[FE:028] Randomized DC Guard Outfits.esp
+[FE:029] NoNegativeAffinity.esp
+[FE:02A] NoNegativeAffinitySeason.esp
+[FE:02B] NoLollygagging.esp
+[FE:02C] MeleeFinishersRebalance.esp
+[FE:02D] Non-repeating player comments in Vault 111.esp
+[FE:02E] PoolRackFix.esp
+[FE:02F] NoCraftingExperience.esp
+[FE:030] NPC Protection Tweaks.esp
+[FE:031] SSTMinutemenOrganizedMilitiaOutfits.esp
+[FE:032] Gloomy Glass.esp
+[FE:033] FO4ParticlePatch.esp
+[FE:034] Lightweight Lighting.esp
+[FE:035] CROSS Crit Gore-verhaul - WTP Patch.esp
+[FE:036] TeslaImpact.esp
+[FE:037] Tesla Impact - WTP Patch.esp
+[FE:038] Natural Landscapes.esp
+[FE:039] Quintessential Quarries.esp
+[FE:03A] NF_Rocks_Fix.esp
+[FE:03B] Enhanced Vanilla Rocks.esp
+[FE:03C] Lush Landscapes.esp
+[FE:03D] Enhanced Vanilla Plants.esp
+[FE:03E] Targeted Textures.esp
+[FE:03F] Indubitable Ivy.esp
+[FE:040] WET.esp
+[FE:041] WAVE.esp
+[FE:042] Patch Job - Fill Those Holes.esp
+[FE:043] Langleys HD Texture Workshop.esp
+[FE:044] NMC Bundle HIGH.esp
+[FE:045] Dilapidated Roads - Faded.esp
+[FE:046] Better Settlements and Camps.esp
+[FE:047] Shack Floors Re-Done.esp
+[FE:048] Haul'd Out.esp
+[FE:049] Ultimate Window Overhaul.esp
+[FE:04A] Ultimate Window Overhaul Cubemaps.esp
+[FE:04B] True Caves.esp
+[FE:04C] Gritty Subway Stations.esp
+[FE:04D] Natural Bundle Masonry Set.esp
+[FE:04E] Natural Bundle Submarine Set.esp
+[FE:04F] Natural Bundle Bunker Set.esp
+[FE:050] Diamond City Wall Retexture.esp
+[FE:051] RedderRocket.esp
+[FE:052] Blasted Billboards.esp
+[FE:053] Peeling Posters.esp
+[FE:054] Military Vehicles Retextured.esp
+[FE:055] Train Engine - Game Jam 2015.esp
+[FE:056] Simple Yellow Forklift.esp
+[FE:057] NukaWorld HiRez Fakerocks.esp
+[FE:058] SSTRetexThicketExcavationSign.esp
+[FE:059] Transit Sign HD.esp
+[FE:05A] CC's Vertibirds.esp
+[FE:05B] CC's UHD APC.esp
+[FE:05C] CC's UHD UFO.esp
+[FE:05D] oHDTP - defined Hightech Floor Tiles 2K - Textures.esp
+[FE:05E] Workbench Replacer HD 2K.esp
+[FE:05F] No more Halloween decorations.esp
+[FE:060] Retro Radio Replacer.esp
+[FE:061] nukaproject.esp
+[FE:062] chem redux.esp
+[FE:063] MK_ComponentsRedone_VIS.esp
+[FE:064] Base Scrap Is Not Junk Jet Ammo.esp
+[FE:065] Sorting Patch - Robot Model Kits.esp
+[FE:066] Sorting Patch - Nuka Recipes Retextures.esp
+[FE:067] ODT - Raider Armors Retextured.esp
+[FE:068] SSTHazmatSuitImproved.esp
+[FE:069] Sorting Patch - Hazmat Suit Improved.esp
+[FE:06A] Crimsomrider's Transparent Cleanroom Suit.esp
+[FE:06B] Sorting Patch - Fixed Cleanroom Suit.esp
+[FE:06C] Makeshifttextures.esp
+[FE:06D] deathclawshd4k.esp
+[FE:06E] Fleshy FEV Hounds.esp
+[FE:06F] SSTImposingGunnerSkulls.esp
+[FE:070] Frame Job.esp
+[FE:071] Texture Pack - Clutter.esp
+[FE:072] Texture Pack - Apparel.esp
+[FE:073] Texture Pack - Power Armor.esp
+[FE:074] Texture Pack - Weapons.esp
+[FE:075] Texture Pack - Creatures.esp
+[FE:076] The Eyes Of Beauty - SHJ Edit.esp
+[FE:077] Curated Companions AIO.esp
+[FE:078] RB_SynthkindRedefined.esp
+[FE:079] Better Weapon Diversity for CHW - WTP Patch.esp
+[FE:07A] BetterBloatflies.esp
+[FE:07B] Companion Thoughts Overhaul.esp
+[FE:07C] mr Loot Logic and Reduction.esp
+[FE:07D] Loot Logic Scrounger Fortune Finder rebalance.esp
+[FE:07E] LootBalance_Armor.esp
+[FE:07F] LootBalance_Automatron.esp
+[FE:080] LootBalance - Less Chems and Medical Items.esp
+[FE:081] Fixed Creature Death Drops.esp
+[FE:082] No Empty Med Cabinets.esp
+[FE:083] More Sensible Mod Perk Requirements - WTP Patch.esp
+[FE:084] Perennial Power Armor.esp
+[FE:085] Perennial Power Armor - WTP Patch.esp
+[FE:086] Restore Power Armor Frames - Perk Up Patch.esp
+[FE:087] Restore Power Armor Frames - WTP Patch.esp
+[FE:088] Power Armor Lore-Friendly Distribution.esp
+[FE:089] Some Assembly Rquired - CPAO patch.esp
+[FE:08A] Some Assembly Required - WTP Patch.esp
+[FE:08B] whisperVaultTecPaintJob.esp
+[FE:08C] Sorting Patch - Locked Vault Tec Power Armor Paint.esp
+[FE:08D] whisperAbraxoSugarBombsPaintJobs.esp
+[FE:08E] Sorting Patch - Locked Abraxo and Sugar Bombs Power Armor Paints.esp
+[FE:08F] Phoenix - Power Armor Paint Jobs.esp
+[FE:090] Keep Radiants In Commonwealth.esp
+[FE:091] Visible Idle Markers - WTP Patch.esp
+[FE:092] Settler Sandbox Overhaul.esp
+[FE:093] whisperExtraPieces.esp
+[FE:094] SSTWorkshopPowerPack.esp
+[FE:095] Sorting Patch - Workshop Power Pack.esp
+[FE:096] Vault 88 Essentials - WTP Edits.esp
+[FE:097] Colorful Disco Ball.esp
+[FE:098] PRP-NukalurkRecipeBook.esp
+[FE:099] The Missing Nukalurk Recipe Book - Sorting Patch.esp
+[FE:09A] Ketaros Missing Magazines - Sorting Patch.esp
+[FE:09B] Ketaros Missing Magazines - WTP Patch.esp
+[FE:09C] Dirty Prewar Clothes Restored - Sorting Patch.esp
+[FE:09D] Sorting Patch - Upgradable Vault Suit.esp
+[FE:09E] ODT - Pip Boy Skins.esp
+[FE:09F] Sorting Patch - Pip Boy Retextured.esp
+[FE:0A0] K-9 Harness - Integration Patch.esp
+[FE:0A1] K-9 Harness - Sorting Patch.esp
+[FE:0A2] LOST Audio Tweaks.esp
+[FE:0A3] LAT - Keep Your Radiants In The Commonwealth Patch.esp
+[FE:0A4] Reverb and Ambiance Overhaul - WTP Patch.esp
+[FE:0A5] Music Merge.esp
+[FE:0A6] Diamond City Radio Extended - WTP Patch.esp
+[FE:0A7] LAT RAO - DCRE Patch.esp
+[FE:0A8] smudoor.esp
+[FE:0A9] WestonWaterLOD.esp
+[FE:0AA] FOLIP - New LODs.esp
+[FE:0AB] Optimized Vanilla Tree LODs.esp
+[FE:0AC] Far Harbor 3d Tree LODs.esp
+[FE:0AD] Conflict Resolution Patch.esp
+[FE:0AE] PRP.esp
+[FE:0AF] PuddleReflectionFix.esp
+[FE:0B0] Terrain and Object LOD.esp

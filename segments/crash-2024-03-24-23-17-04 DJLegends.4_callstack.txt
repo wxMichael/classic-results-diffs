@@ -1,0 +1,256 @@
+[ 0] 0x7FF653A5BA80 Fallout4.exe+27BBA80	mov rdi, [rbx+0x38] |  BSShaderProperty::RenderPassArray::Clear(void)_27BBA80 -> 1016072+0x20	mov rdi, [rbx+0x38]
+[ 1] 0x7FF653AC57B7 Fallout4.exe+28257B7	cmp qword ptr [rdi+0x118], 0x00 |  BSGrassShaderProperty::~BSGrassShaderProperty(void)_28257B7 -> 1322955+0x27	cmp qword ptr [rdi+0x118], 0x00
+[ 2] 0x7FF653AC5974 Fallout4.exe+2825974	test bl, 0x01 |  BSGrassShaderProperty::`scalar_deleting_destructor'(uint)_2825974 -> 1388661+0x14	test bl, 0x01
+[ 3] 0x7FF652E50CF9 Fallout4.exe+1BB0CF9	dec edi |  BSGeometry::~BSGeometry(void)_1BB0CF9 -> 381607+0x59	dec edi
+[ 4] 0x7FF652F65544 Fallout4.exe+1CC5544	test bl, 0x01 |  BSMultiStreamInstanceTriShape::`scalar_deleting_destructor'(uint)_1CC5544 -> 1224196+0x14	test bl, 0x01
+[ 5] 0x7FF651665C2F Fallout4.exe+03C5C2F	cmp qword ptr [rdi+0x18], 0x00 |  CellGrassData::~CellGrassData(void)_3C5C2F -> 257126+0x2F	cmp qword ptr [rdi+0x18], 0x00
+[ 6] 0x7FF651431945 Fallout4.exe+0191945	cmp dword ptr [0x00007FF654B6CE00], 0x02 |  BGSGrassManager::RemoveCellGrass(TESObjectCELL&)_191945 -> 334567+0x395	cmp dword ptr [0x00007FF654B6CE00], 0x02
+[ 7] 0x7FF65139615F Fallout4.exe+00F615F	inc edi |  TES::HandleQueuedLoadedAreaShift(void)_F615F -> 431181+0x3FF	inc edi
+[ 8] 0x7FF651FDC080 Fallout4.exe+0D3C080	mov rcx, [0x00007FF656D44288] |  Main::StartOfFrameUpdate(void)_D3C080 -> 826184+0x130	mov rcx, [0x00007FF656D44288]
+[ 9] 0x7FF651F5E5B0 Fallout4.exe+0CBE5B0	xor ecx, ecx |  JobListManager::AllRenderEndJob(void*)_CBE5B0 -> 169721+0x10	xor ecx, ecx
+[10] 0x7FF651F5D20D Fallout4.exe+0CBD20D	add rbx, 0x08 |  JobListManager::ServingThread::RunJobLists(void)_CBD20D -> 151212+0x7D	add rbx, 0x08
+[11] 0x7FF651F607A7 Fallout4.exe+0CC07A7	mov rcx, [rbx+0x60] |  JobListManager::ServingThread::ThreadProc(void)_CC07A7 -> 1166392+0x87	mov rcx, [rbx+0x60]
+[12] 0x7FF652DBCFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF656DFBD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF656DFBD38]
+[13] 0x7FFBD715257D KERNEL32.DLL+001257D
+[14] 0x7FFBD874AA58    ntdll.dll+005AA58
+
+REGISTERS:
+RAX 0x7FF654335B98     (void* -> Fallout4.exe+3095B98	 |  aDiveBombChance_3095B98)
+RCX 0x21E1B80E748      (void*)
+RDX 0x1                (size_t) [1]
+RBX 0xC                (size_t) [12]
+RSP 0xC7740EFAD0       (void*)
+RBP 0x2                (size_t) [2]
+RSI 0x21E1B80E748      (void*)
+RDI 0x21E1B80E618      (BSGrassShaderProperty*)
+Flags: 0x220014B180480209
+Name: "Materials\Landscape\Grass\MeadowGrassObj02.BGSM"
+RTTIName: "BSGrassShaderProperty"
+Name: "Materials\Landscape\Grass\MeadowGrassObj02.BGSM"
+R8  0x21E247EDAC0      (void*)
+R9  0x7FF656DF99E0     (void* -> Fallout4.exe+5B599E0	shl cl, 0x8C |  aDiveBombChance_5B599E0)
+R10 0x960900           (size_t) [9832704]
+R11 0xCF5535AA         (size_t) [3478468010]
+R12 0x1                (size_t) [1]
+R13 0x0                (size_t) [0]
+R14 0x7FF656D530E0     (void* -> Fallout4.exe+5AB30E0	add [rax], al |  aDiveBombChance_5AB30E0)
+R15 0x21E25F38D80      (void*)
+
+STACK:
+[RSP+0  ] 0x21E25F38D80      (void*)
+[RSP+8  ] 0x7FF656D530E0     (void* -> Fallout4.exe+5AB30E0	add [rax], al |  aDiveBombChance_5AB30E0)
+[RSP+10 ] 0x0                (size_t) [0]
+[RSP+18 ] 0x1                (size_t) [1]
+[RSP+20 ] 0x21E25B29CB0      (BSGeometry*)
+Name: "MeadowGrassObj02:0"
+RTTIName: "BSGeometry"
+Flags: 8000000080e
+Name: "MeadowGrassObj02:0"
+[RSP+28 ] 0x7FF653AC57B7     (void* -> Fallout4.exe+28257B7	cmp qword ptr [rdi+0x118], 0x00 |  BSGrassShaderProperty::~BSGrassShaderProperty(void)_28257B7)
+[RSP+30 ] 0x21E1B80E618      (BSGrassShaderProperty*)
+Flags: 0x220014B180480209
+Name: "Materials\Landscape\Grass\MeadowGrassObj02.BGSM"
+RTTIName: "BSGrassShaderProperty"
+Name: "Materials\Landscape\Grass\MeadowGrassObj02.BGSM"
+[RSP+38 ] 0x1                (size_t) [1]
+[RSP+40 ] 0x21E1FE3D020      (void*)
+[RSP+48 ] 0x21E1B80F380      (void*)
+[RSP+50 ] 0x21E1B80E618      (BSGrassShaderProperty*)
+Flags: 0x220014B180480209
+Name: "Materials\Landscape\Grass\MeadowGrassObj02.BGSM"
+RTTIName: "BSGrassShaderProperty"
+Name: "Materials\Landscape\Grass\MeadowGrassObj02.BGSM"
+[RSP+58 ] 0x7FF653AC5974     (void* -> Fallout4.exe+2825974	test bl, 0x01 |  BSGrassShaderProperty::`scalar_deleting_destructor'(uint)_2825974)
+[RSP+60 ] 0x1                (size_t) [1]
+[RSP+68 ] 0x0                (size_t) [0]
+[RSP+70 ] 0x0                (size_t) [0]
+[RSP+78 ] 0x0                (size_t) [0]
+[RSP+80 ] 0x1                (size_t) [1]
+[RSP+88 ] 0x7FF652E50CF9     (void* -> Fallout4.exe+1BB0CF9	dec edi |  BSGeometry::~BSGeometry(void)_1BB0CF9)
+[RSP+90 ] 0x21E25B29DE8      (void*)
+[RSP+98 ] 0x21E1FE3D020      (void*)
+[RSP+A0 ] 0x21E25B29CB0      (BSGeometry*)
+Name: "MeadowGrassObj02:0"
+RTTIName: "BSGeometry"
+Flags: 8000000080e
+Name: "MeadowGrassObj02:0"
+[RSP+A8 ] 0x1B               (size_t) [27]
+[RSP+B0 ] 0x21E25B29CB0      (BSGeometry*)
+Name: "MeadowGrassObj02:0"
+RTTIName: "BSGeometry"
+Flags: 8000000080e
+Name: "MeadowGrassObj02:0"
+[RSP+B8 ] 0x7FF652F65544     (void* -> Fallout4.exe+1CC5544	test bl, 0x01 |  BSMultiStreamInstanceTriShape::`scalar_deleting_destructor'(uint)_1CC5544)
+[RSP+C0 ] 0x21E1FE3D020      (void*)
+[RSP+C8 ] 0x1                (size_t) [1]
+[RSP+D0 ] 0x21E1FE3D020      (void*)
+[RSP+D8 ] 0x1                (size_t) [1]
+[RSP+E0 ] 0x21E25F38D80      (void*)
+[RSP+E8 ] 0x7FF651665C2F     (void* -> Fallout4.exe+03C5C2F	cmp qword ptr [rdi+0x18], 0x00 |  CellGrassData::~CellGrassData(void)_3C5C2F)
+[RSP+F0 ] 0x8                (size_t) [8]
+[RSP+F8 ] 0x2                (size_t) [2]
+[RSP+100] 0x7FF656D530E0     (void* -> Fallout4.exe+5AB30E0	add [rax], al |  aDiveBombChance_5AB30E0)
+[RSP+108] 0x21E1FE3D020      (void*)
+[RSP+110] 0x21E26FDF550      (void*)
+[RSP+118] 0x7FF651431945     (void* -> Fallout4.exe+0191945	cmp dword ptr [0x00007FF654B6CE00], 0x02 |  BGSGrassManager::RemoveCellGrass(TESObjectCELL&)_191945)
+[RSP+120] 0x21E25B617B0      (void*)
+[RSP+128] 0x8                (size_t) [8]
+[RSP+130] 0x21E1FE3D020      (void*)
+[RSP+138] 0x21E26FDF550      (void*)
+[RSP+140] 0x21D72BD7270      (TESWorldSpace*)
+File: "SatelliteWorldMap.esp"
+Modified by: Fallout4.esm -> DLCRobot.esm -> DLCCoast.esm -> DLCworkshop03.esm -> DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> WorkshopFramework.esm -> PPF.esm -> MutantMenagerie.esm -> Community Fixes Merged.esp -> CompanionIvy.esm -> TMR_GlitchfinderAIO.esm -> SS2.esm -> SS2_XPAC_Chapter2.esm -> SS2_XPAC_Chapter3.esm -> Ownership Fixes.esp -> VCM_Sanctuary_Navmesh_Update_W_Roof.esl -> VCM_RedRocket_Navmesh_Update.esl -> Q_DarkCommonwealth.esp -> SS2Extended.esp -> Thrive Redone.esp -> IKAROS-Androids.esp -> CompanionIvy_Mags.esp -> PRP-SS2-Fixes-Ch2.esp -> llamaCompanionHeatherv2.esp -> PRP-SS2-Fixes-Ch1.esp -> PuddleReflectionFix.esp -> PRP.esp -> PRP - Patches.esp -> SatelliteWorldMap.esp
+Flags: 0x0000000B
+EditorID: "Commonwealth"
+FormID: 0x0000003C
+FormType: kWRLD (74)
+GetFullName: "Commonwealth"
+[RSP+148] 0x7FF61C3E8B9B     (size_t) [140695012543387]
+[RSP+150] 0x7FF636CC1FC3     (size_t) [140695458029507]
+[RSP+158] 0x21E25B617B0      (void*)
+[RSP+160] 0x21E25F38D80      (void*)
+[RSP+168] 0x21E26FDF550      (void*)
+[RSP+170] 0x21D19356650      (char*) " "
+[RSP+178] 0x7FF651398A3B     (void* -> Fallout4.exe+00F8A3B	mov rbx, [rsp+0x40] |  TES::GetGridCellCell(int,int)_F8A3B)
+[RSP+180] 0xFFFFFFEA         (size_t) [4294967274]
+[RSP+188] 0x2                (size_t) [2]
+[RSP+190] 0x18               (size_t) [24]
+[RSP+198] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+1A0] 0x18               (size_t) [24]
+[RSP+1A8] 0xFFFFFFEE         (size_t) [4294967278]
+[RSP+1B0] 0x21E0E5F04E0      (TES*)
+[RSP+1B8] 0x7FF65139615F     (void* -> Fallout4.exe+00F615F	inc edi |  TES::HandleQueuedLoadedAreaShift(void)_F615F)
+[RSP+1C0] 0xFFFFFFEA         (size_t) [4294967274]
+[RSP+1C8] 0x21E1FE3CFF0      (TESObjectCELL*)
+File: "PRP.esp"
+Modified by: Fallout4.esm -> MutantMenagerie.esm -> PRP.esp
+Flags: 0x0004000B
+EditorID: "Wilderness"
+FormID: 0x0000DCFF
+FormType: kCELL (63)
+File: "PRP.esp"
+Modified by: Fallout4.esm -> MutantMenagerie.esm -> PRP.esp
+Flags: 0x0004000B
+EditorID: "Wilderness"
+FormID: 0x0000DCFF
+FormType: kCELL (63)
+[RSP+1D0] 0x21E00000008      (void*)
+[RSP+1D8] 0x21E36CC1FC3      (size_t) [2328791621571]
+[RSP+1E0] 0x0                (size_t) [0]
+[RSP+1E8] 0x7FF656D0BDC0     (JobListManager::ServingThread*)
+[RSP+1F0] 0x0                (size_t) [0]
+[RSP+1F8] 0x7FF656D0BDC0     (JobListManager::ServingThread*)
+[RSP+200] 0x0                (size_t) [0]
+[RSP+208] 0x0                (size_t) [0]
+[RSP+210] 0x21E0AFC89F0      (void*)
+[RSP+218] 0x0                (size_t) [0]
+[RSP+220] 0x21E1E8901E0      (TESObjectCELL*)
+File: "PRP.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> PPF.esm -> SS2.esm -> VCM_Sanctuary_Navmesh_Update_W_Roof.esl -> Q_DarkCommonwealth.esp -> Thrive Redone.esp -> PRP.esp
+Flags: 0x0004000B
+EditorID: "SanctuaryExt"
+FormID: 0x0000DD60
+FormType: kCELL (63)
+File: "PRP.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> PPF.esm -> SS2.esm -> VCM_Sanctuary_Navmesh_Update_W_Roof.esl -> Q_DarkCommonwealth.esp -> Thrive Redone.esp -> PRP.esp
+Flags: 0x0004000B
+EditorID: "SanctuaryExt"
+FormID: 0x0000DD60
+FormType: kCELL (63)
+[RSP+228] 0x7FF651FDC080     (void* -> Fallout4.exe+0D3C080	mov rcx, [0x00007FF656D44288] |  Main::StartOfFrameUpdate(void)_D3C080)
+[RSP+230] 0x47AC0000C79C0000 (size_t) [5164502876036005888]
+[RSP+238] 0x0                (size_t) [0]
+[RSP+240] 0x21E0AF81050      (void*)
+[RSP+248] 0x1                (size_t) [1]
+[RSP+250] 0x0                (size_t) [0]
+[RSP+258] 0x0                (size_t) [0]
+[RSP+260] 0x47ABFD36C79CB79A (size_t) [5164499809429403546]
+[RSP+268] 0x45F1E451         (size_t) [1173480529]
+[RSP+270] 0x0                (size_t) [0]
+[RSP+278] 0x7FF651F5E5B0     (void* -> Fallout4.exe+0CBE5B0	xor ecx, ecx |  JobListManager::AllRenderEndJob(void*)_CBE5B0)
+[RSP+280] 0x21E0AF81048      (void*)
+[RSP+288] 0x0                (size_t) [0]
+[RSP+290] 0x7FF656D0BDC0     (JobListManager::ServingThread*)
+[RSP+298] 0x21E0AFC89F0      (void*)
+[RSP+2A0] 0x0                (size_t) [0]
+[RSP+2A8] 0x7FF651F5D20D     (void* -> Fallout4.exe+0CBD20D	add rbx, 0x08 |  JobListManager::ServingThread::RunJobLists(void)_CBD20D)
+[RSP+2B0] 0x21E0AF81048      (void*)
+[RSP+2B8] 0x21E0AF81050      (void*)
+[RSP+2C0] 0x0                (size_t) [0]
+[RSP+2C8] 0x5BFC             (size_t) [23548]
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x0                (size_t) [0]
+[RSP+2E0] 0x7FF656D0BDC0     (JobListManager::ServingThread*)
+[RSP+2E8] 0x7FF651F607A7     (void* -> Fallout4.exe+0CC07A7	mov rcx, [rbx+0x60] |  JobListManager::ServingThread::ThreadProc(void)_CC07A7)
+[RSP+2F0] 0x21E0AF81000      (void*)
+[RSP+2F8] 0x21E0AF81050      (void*)
+[RSP+300] 0x0                (size_t) [0]
+[RSP+308] 0x0                (size_t) [0]
+[RSP+310] 0x7FF656D0BDC0     (JobListManager::ServingThread*)
+[RSP+318] 0x7FF652DBCFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF656DFBD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+320] 0x5C1C             (size_t) [23580]
+[RSP+328] 0xC7740EFE10       (void*)
+[RSP+330] 0x21E0AD4EE70      (void*)
+[RSP+338] 0x0                (size_t) [0]
+[RSP+340] 0x7FF656D0BDC0     (JobListManager::ServingThread*)
+[RSP+348] 0x0                (size_t) [0]
+[RSP+350] 0x0                (size_t) [0]
+[RSP+358] 0x7FFBD715257D     (void* -> KERNEL32.DLL+001257D	mov ecx, eax)
+[RSP+360] 0x0                (size_t) [0]
+[RSP+368] 0x0                (size_t) [0]
+[RSP+370] 0x0                (size_t) [0]
+[RSP+378] 0x0                (size_t) [0]
+[RSP+380] 0x0                (size_t) [0]
+[RSP+388] 0x7FFBD874AA58     (void* -> ntdll.dll+005AA58	jmp 0x00007FFBD874AA79)
+[RSP+390] 0x0                (size_t) [0]
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A0] 0x0                (size_t) [0]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0xD65A4AEC00000000 (size_t) [uint: 15445740249493274624 int: -3001003824216276992]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D0] 0x4F0FFFFFB30      (size_t) [5433133628208]
+[RSP+3D8] 0x7FFBD5F0CD30     (void* -> KERNELBASE.dll+015CD30	mov [rsp+0x10], rbx)
+[RSP+3E0] 0xC7740EEC00       (void*)
+[RSP+3E8] 0xFFB03AA87DC00007 (size_t) [uint: 18424290570911350791 int: -22453502798200825]
+[RSP+3F0] 0x7FFB03AA87DC     (size_t) [140716075026396]
+[RSP+3F8] 0xC7740EEC00       (void*)
+[RSP+400] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+430] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+440] 0x0                (size_t) [0]
+[RSP+448] 0x0                (size_t) [0]
+[RSP+450] 0x0                (size_t) [0]
+[RSP+458] 0x0                (size_t) [0]
+[RSP+460] 0x0                (size_t) [0]
+[RSP+468] 0x0                (size_t) [0]
+[RSP+470] 0x0                (size_t) [0]
+[RSP+478] 0x0                (size_t) [0]
+[RSP+480] 0x0                (size_t) [0]
+[RSP+488] 0x0                (size_t) [0]
+[RSP+490] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A0] 0x0                (size_t) [0]
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B0] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]
+[RSP+4C0] 0x0                (size_t) [0]
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D0] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E0] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F0] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+510] 0x0                (size_t) [0]
+[RSP+518] 0x0                (size_t) [0]
+[RSP+520] 0x0                (size_t) [0]
+[RSP+528] 0x0                (size_t) [0]

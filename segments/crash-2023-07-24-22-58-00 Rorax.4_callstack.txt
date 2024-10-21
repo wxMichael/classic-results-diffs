@@ -1,0 +1,367 @@
+[0] 0x7FF6BC2C89FF Fallout4.exe+05B89FF -> 250940+0x84F
+[1] 0x7FF6BBE2CFC7 Fallout4.exe+011CFC7 -> 867565+0x97
+[2] 0x7FF6BD860F26 Fallout4.exe+1B50F26 -> 329005+0xC6
+[3] 0x7FF6BD861432 Fallout4.exe+1B51432 -> 194800+0x202
+[4] 0x7FF6BD863F67 Fallout4.exe+1B53F67 -> 1492866+0x67
+[5] 0x7FF6BD82CFED Fallout4.exe+1B1CFED -> 1079791+0x3D
+[6] 0x7FFA534A26AD KERNEL32.DLL+00126AD
+[7] 0x7FFA5558AA68    ntdll.dll+005AA68
+
+REGISTERS:
+RAX 0x800              (size_t)
+RCX 0x11A24499E78      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000093
+Form Type: 45
+Full Name: "Glowing Gecko"
+RDX 0x0                (size_t)
+RBX 0x2                (size_t)
+RSP 0x965A4F810        (void*)
+RBP 0x965A4F860        (void*)
+RSI 0x9C0              (size_t)
+RDI 0x7FF6BE9C9DE8     (void* -> Fallout4.exe+2CB9DE8)
+R8  0x11A24499D68      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000093
+Form Type: 45
+Full Name: "Glowing Gecko"
+R9  0x11A24499D68      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000093
+Form Type: 45
+Full Name: "Glowing Gecko"
+R10 0x11A24499E00      (void*)
+R11 0x11A24499E00      (void*)
+R12 0x11A24499D00      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000093
+Form Type: 45
+Full Name: "Glowing Gecko"
+R13 0x114A9CC8970      (void*)
+R14 0x11A24499D68      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000093
+Form Type: 45
+Full Name: "Glowing Gecko"
+R15 0x0                (size_t)
+
+STACK:
+[RSP+0  ] 0x2                (size_t)
+[RSP+8  ] 0x9C0              (size_t)
+[RSP+10 ] 0x9C0              (size_t)
+[RSP+18 ] 0x9C0              (size_t)
+[RSP+20 ] 0x11A24499D00      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000093
+Form Type: 45
+Full Name: "Glowing Gecko"
+[RSP+28 ] 0x965A4F890        (void*)
+[RSP+30 ] 0x965A4F898        (void*)
+[RSP+38 ] 0x11A2449A080      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000092
+Form Type: 45
+Full Name: "Young Glowing Gecko"
+[RSP+40 ] 0x8                (size_t)
+[RSP+48 ] 0x1                (size_t)
+[RSP+50 ] 0x1                (size_t)
+[RSP+58 ] 0x11A2449A0B0      (BGSMod::Template::Items*)
+[RSP+60 ] 0x7FF6C15E0B00     (void* -> Fallout4.exe+58D0B00)
+[RSP+68 ] 0x11A20FF7748      (void*)
+[RSP+70 ] 0x11A3AA727A0      (void*)
+[RSP+78 ] 0x7FF6BBE2CFC7     (void* -> Fallout4.exe+011CFC7)
+[RSP+80 ] 0x11A2449A400      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000091
+Form Type: 45
+Full Name: "Glowing Gecko"
+[RSP+88 ] 0x0                (size_t)
+[RSP+90 ] 0x1                (size_t)
+[RSP+98 ] 0x11A25BD3938      (char*) "Skins"
+[RSP+A0 ] 0x11A00000000      (void*)
+[RSP+A8 ] 0x0                (size_t)
+[RSP+B0 ] 0x965A4FA28        (void*)
+[RSP+B8 ] 0x7FF6C15E0B00     (void* -> Fallout4.exe+58D0B00)
+[RSP+C0 ] 0x2027736E696B5327 (size_t)
+[RSP+C8 ] 0x4D20002900293028 (size_t)
+[RSP+D0 ] 0x302820274949496B (size_t)
+[RSP+D8 ] 0x3531002932280029 (size_t)
+[RSP+E0 ] 0x11A00290029      (void*)
+[RSP+E8 ] 0x0                (size_t)
+[RSP+F0 ] 0x0                (size_t)
+[RSP+F8 ] 0x0                (size_t)
+[RSP+100] 0x0                (size_t)
+[RSP+108] 0x11A24499738      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000095
+Form Type: 45
+Full Name: "Legendary Linus Gecko"
+[RSP+110] 0x0                (size_t)
+[RSP+118] 0x0                (size_t)
+[RSP+120] 0x0                (size_t)
+[RSP+128] 0x0                (size_t)
+[RSP+130] 0x0                (size_t)
+[RSP+138] 0x7FF6BD864016     (void* -> Fallout4.exe+1B54016)
+[RSP+140] 0x11A24499748      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000095
+Form Type: 45
+Full Name: "Legendary Linus Gecko"
+[RSP+148] 0x11A24499758      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000095
+Form Type: 45
+Full Name: "Legendary Linus Gecko"
+[RSP+150] 0x0                (size_t)
+[RSP+158] 0x0                (size_t)
+[RSP+160] 0x11A24499778      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000095
+Form Type: 45
+Full Name: "Legendary Linus Gecko"
+[RSP+168] 0x11A244997C0      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000095
+Form Type: 45
+Full Name: "Legendary Linus Gecko"
+[RSP+170] 0x11A1A119520      (void*)
+[RSP+178] 0x40000009F        (size_t)
+[RSP+180] 0x0                (size_t)
+[RSP+188] 0x300000003        (size_t)
+[RSP+190] 0x0                (size_t)
+[RSP+198] 0x0                (size_t)
+[RSP+1A0] 0x11A244997A0      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000095
+Form Type: 45
+Full Name: "Legendary Linus Gecko"
+[RSP+1A8] 0x11A244997F8      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000095
+Form Type: 45
+Full Name: "Legendary Linus Gecko"
+[RSP+1B0] 0x11A24499808      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000095
+Form Type: 45
+Full Name: "Legendary Linus Gecko"
+[RSP+1B8] 0x0                (size_t)
+[RSP+1C0] 0x11A24499660      (BGSSoundTagComponent*)
+[RSP+1C8] 0x0                (size_t)
+[RSP+1D0] 0x7FF6C18F8084     (void* -> Fallout4.exe+5BE8084)
+[RSP+1D8] 0x1                (size_t)
+[RSP+1E0] 0x7FF6C18F8080     (void* -> Fallout4.exe+5BE8080)
+[RSP+1E8] 0x7FF6C18F8088     (void* -> Fallout4.exe+5BE8088)
+[RSP+1F0] 0x11A1A119520      (void*)
+[RSP+1F8] 0x0                (size_t)
+[RSP+200] 0x7FF6C18FB578     (void* -> Fallout4.exe+5BEB578)
+[RSP+208] 0x7FF6BD860F26     (void* -> Fallout4.exe+1B50F26)
+[RSP+210] 0x7FF6C15E0B00     (void* -> Fallout4.exe+58D0B00)
+[RSP+218] 0x11A24499D00      (TESNPC*)
+File: "M8r Complex Sorter.esp"
+Flags: 0x00040008
+Form ID: 0x00000093
+Form Type: 45
+Full Name: "Glowing Gecko"
+[RSP+220] 0x11A20FF7760      (void*)
+[RSP+228] 0x0                (size_t)
+[RSP+230] 0x0                (size_t)
+[RSP+238] 0x0                (size_t)
+[RSP+240] 0x11               (size_t)
+[RSP+248] 0x0                (size_t)
+[RSP+250] 0x7FF6C18FB528     (BSJobs::JobThread*)
+[RSP+258] 0x7FF6BD861432     (void* -> Fallout4.exe+1B51432)
+[RSP+260] 0x0                (size_t)
+[RSP+268] 0x7FF6C18FB528     (BSJobs::JobThread*)
+[RSP+270] 0x0                (size_t)
+[RSP+278] 0x965A4FAE0        (char*) " M"
+[RSP+280] 0x0                (size_t)
+[RSP+288] 0x0                (size_t)
+[RSP+290] 0x0                (size_t)
+[RSP+298] 0x7FF6BD863F67     (void* -> Fallout4.exe+1B53F67)
+[RSP+2A0] 0x7FF6C18FB528     (BSJobs::JobThread*)
+[RSP+2A8] 0x0                (size_t)
+[RSP+2B0] 0x0                (size_t)
+[RSP+2B8] 0x0                (size_t)
+[RSP+2C0] 0x7FF6C18FB528     (BSJobs::JobThread*)
+[RSP+2C8] 0x7FF6BD82CFED     (void* -> Fallout4.exe+1B1CFED)
+[RSP+2D0] 0x4D20             (size_t)
+[RSP+2D8] 0x965A4FB00        (void*)
+[RSP+2E0] 0x114FCA7BC90      (void*)
+[RSP+2E8] 0x0                (size_t)
+[RSP+2F0] 0x7FF6C18FB528     (BSJobs::JobThread*)
+[RSP+2F8] 0x0                (size_t)
+[RSP+300] 0x0                (size_t)
+[RSP+308] 0x7FFA534A26AD     (void* -> KERNEL32.DLL+00126AD)
+[RSP+310] 0x0                (size_t)
+[RSP+318] 0x0                (size_t)
+[RSP+320] 0x0                (size_t)
+[RSP+328] 0x0                (size_t)
+[RSP+330] 0x0                (size_t)
+[RSP+338] 0x7FFA5558AA68     (void* -> ntdll.dll+005AA68)
+[RSP+340] 0x0                (size_t)
+[RSP+348] 0x0                (size_t)
+[RSP+350] 0x0                (size_t)
+[RSP+358] 0x0                (size_t)
+[RSP+360] 0x0                (size_t)
+[RSP+368] 0x0                (size_t)
+[RSP+370] 0x3EC8500300000000 (size_t)
+[RSP+378] 0x0                (size_t)
+[RSP+380] 0x4F0FFFFFB30      (size_t)
+[RSP+388] 0x7FFA52E7BB40     (void* -> KERNELBASE.dll+015BB40)
+[RSP+390] 0x965A4E940        (void*)
+[RSP+398] 0x60000FFF4D85FD68 (size_t)
+[RSP+3A0] 0x7FFA6C2FEB43     (size_t)
+[RSP+3A8] 0x965A4E940        (void*)
+[RSP+3B0] 0x0                (size_t)
+[RSP+3B8] 0x0                (size_t)
+[RSP+3C0] 0x0                (size_t)
+[RSP+3C8] 0x0                (size_t)
+[RSP+3D0] 0x0                (size_t)
+[RSP+3D8] 0x0                (size_t)
+[RSP+3E0] 0x0                (size_t)
+[RSP+3E8] 0x0                (size_t)
+[RSP+3F0] 0x0                (size_t)
+[RSP+3F8] 0x0                (size_t)
+[RSP+400] 0x0                (size_t)
+[RSP+408] 0x0                (size_t)
+[RSP+410] 0x0                (size_t)
+[RSP+418] 0x0                (size_t)
+[RSP+420] 0x0                (size_t)
+[RSP+428] 0x0                (size_t)
+[RSP+430] 0x0                (size_t)
+[RSP+438] 0x0                (size_t)
+[RSP+440] 0x0                (size_t)
+[RSP+448] 0x0                (size_t)
+[RSP+450] 0x0                (size_t)
+[RSP+458] 0x0                (size_t)
+[RSP+460] 0x0                (size_t)
+[RSP+468] 0x0                (size_t)
+[RSP+470] 0x0                (size_t)
+[RSP+478] 0x0                (size_t)
+[RSP+480] 0x0                (size_t)
+[RSP+488] 0x0                (size_t)
+[RSP+490] 0x0                (size_t)
+[RSP+498] 0x0                (size_t)
+[RSP+4A0] 0x0                (size_t)
+[RSP+4A8] 0x0                (size_t)
+[RSP+4B0] 0x0                (size_t)
+[RSP+4B8] 0x0                (size_t)
+[RSP+4C0] 0x0                (size_t)
+[RSP+4C8] 0x0                (size_t)
+[RSP+4D0] 0x0                (size_t)
+[RSP+4D8] 0x0                (size_t)
+[RSP+4E0] 0x0                (size_t)
+[RSP+4E8] 0x0                (size_t)
+[RSP+4F0] 0x0                (size_t)
+[RSP+4F8] 0x0                (size_t)
+[RSP+500] 0x0                (size_t)
+[RSP+508] 0x0                (size_t)
+[RSP+510] 0x0                (size_t)
+[RSP+518] 0x0                (size_t)
+[RSP+520] 0x0                (size_t)
+[RSP+528] 0x0                (size_t)
+[RSP+530] 0x0                (size_t)
+[RSP+538] 0x0                (size_t)
+[RSP+540] 0x0                (size_t)
+[RSP+548] 0x0                (size_t)
+[RSP+550] 0x0                (size_t)
+[RSP+558] 0x0                (size_t)
+[RSP+560] 0x0                (size_t)
+[RSP+568] 0x0                (size_t)
+[RSP+570] 0x0                (size_t)
+[RSP+578] 0x0                (size_t)
+[RSP+580] 0x0                (size_t)
+[RSP+588] 0x0                (size_t)
+[RSP+590] 0x0                (size_t)
+[RSP+598] 0x0                (size_t)
+[RSP+5A0] 0x0                (size_t)
+[RSP+5A8] 0x0                (size_t)
+[RSP+5B0] 0x0                (size_t)
+[RSP+5B8] 0x0                (size_t)
+[RSP+5C0] 0x0                (size_t)
+[RSP+5C8] 0x0                (size_t)
+[RSP+5D0] 0x0                (size_t)
+[RSP+5D8] 0x0                (size_t)
+[RSP+5E0] 0x0                (size_t)
+[RSP+5E8] 0x0                (size_t)
+[RSP+5F0] 0x0                (size_t)
+[RSP+5F8] 0x0                (size_t)
+[RSP+600] 0x0                (size_t)
+[RSP+608] 0x0                (size_t)
+[RSP+610] 0x0                (size_t)
+[RSP+618] 0x0                (size_t)
+[RSP+620] 0x0                (size_t)
+[RSP+628] 0x0                (size_t)
+[RSP+630] 0x0                (size_t)
+[RSP+638] 0x0                (size_t)
+[RSP+640] 0x0                (size_t)
+[RSP+648] 0x0                (size_t)
+[RSP+650] 0x0                (size_t)
+[RSP+658] 0x0                (size_t)
+[RSP+660] 0x0                (size_t)
+[RSP+668] 0x0                (size_t)
+[RSP+670] 0x0                (size_t)
+[RSP+678] 0x0                (size_t)
+[RSP+680] 0x0                (size_t)
+[RSP+688] 0x0                (size_t)
+[RSP+690] 0x0                (size_t)
+[RSP+698] 0x0                (size_t)
+[RSP+6A0] 0x0                (size_t)
+[RSP+6A8] 0x0                (size_t)
+[RSP+6B0] 0x0                (size_t)
+[RSP+6B8] 0x0                (size_t)
+[RSP+6C0] 0x0                (size_t)
+[RSP+6C8] 0x0                (size_t)
+[RSP+6D0] 0x0                (size_t)
+[RSP+6D8] 0x0                (size_t)
+[RSP+6E0] 0x0                (size_t)
+[RSP+6E8] 0x0                (size_t)
+[RSP+6F0] 0x0                (size_t)
+[RSP+6F8] 0x0                (size_t)
+[RSP+700] 0x0                (size_t)
+[RSP+708] 0x0                (size_t)
+[RSP+710] 0x0                (size_t)
+[RSP+718] 0x0                (size_t)
+[RSP+720] 0x0                (size_t)
+[RSP+728] 0x0                (size_t)
+[RSP+730] 0x0                (size_t)
+[RSP+738] 0x0                (size_t)
+[RSP+740] 0x0                (size_t)
+[RSP+748] 0x0                (size_t)
+[RSP+750] 0x0                (size_t)
+[RSP+758] 0x0                (size_t)
+[RSP+760] 0x0                (size_t)
+[RSP+768] 0x0                (size_t)
+[RSP+770] 0x0                (size_t)
+[RSP+778] 0x0                (size_t)
+[RSP+780] 0x0                (size_t)
+[RSP+788] 0x0                (size_t)
+[RSP+790] 0x0                (size_t)
+[RSP+798] 0x0                (size_t)
+[RSP+7A0] 0x0                (size_t)
+[RSP+7A8] 0x0                (size_t)
+[RSP+7B0] 0x0                (size_t)
+[RSP+7B8] 0x0                (size_t)
+[RSP+7C0] 0x0                (size_t)
+[RSP+7C8] 0x0                (size_t)
+[RSP+7D0] 0x0                (size_t)
+[RSP+7D8] 0x0                (size_t)
+[RSP+7E0] 0x0                (size_t)
+[RSP+7E8] 0x0                (size_t)

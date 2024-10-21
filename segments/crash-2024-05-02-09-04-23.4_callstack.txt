@@ -1,0 +1,161 @@
+[0] 0x7FF7D5887543 Fallout4.exe+1D37543	mov rax, [rcx] |  BSGraphics::LoadTextureDataToArraySlice(BSGraphics::Texture*,char*,uint,uint)_1D37543 -> 108203+0x23	mov rax, [rcx]
+[1] 0x7FF7D588613A Fallout4.exe+1D3613A	cmp dword ptr [0x00007FF7D741CE00], 0x02 |  BSGraphics::Renderer::ReadStreamingTextureDataToArraySlice(BSGraphics::Texture*,BSTextureStreamer::Stream&,uint)_1D3613A -> 9669+0xDA	cmp dword ptr [0x00007FF7D741CE00], 0x02
+[2] 0x7FF7D5806364 Fallout4.exe+1CB6364	jmp 0x00007FF7D580636C |  BSTextureStreamer::Manager::DecompressStreamedLoad(BSTextureStreamer::TextureRequest*)_1CB6364 -> 1296411+0x164	jmp 0x00007FF7D580636C
+[3] 0x7FF7D580A966 Fallout4.exe+1CBA966	mov ecx, [r14+0x104] |  BSTextureStreamer::Manager::ThreadProc(void)_1CBA966 -> 989173+0x326	mov ecx, [r14+0x104]
+[4] 0x7FF7D566CFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF7D96ABD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF7D96ABD38]
+[5] 0x7FF9AC3C257D KERNEL32.DLL+001257D
+[6] 0x7FF9AD78AA48    ntdll.dll+005AA48
+
+REGISTERS:
+RAX 0x1                (size_t) [1]
+RCX 0x0                (size_t) [0]
+RDX 0xB2B872FC20       (void*)
+RBX 0x2AAAB8           (size_t) [2796216]
+RSP 0xB2B872FBD0       (void*)
+RBP 0x201878DC6C0      (void*)
+RSI 0x2021EB80F80      (void*)
+RDI 0xB2B872FD20       (void*)
+R8  0x2AAAB8           (size_t) [2796216]
+R9  0x1                (size_t) [1]
+R10 0x2004E4F0A00      (void*)
+R11 0x2021EE20F80      (void*)
+R12 0x0                (size_t) [0]
+R13 0x7FF7D9B4F160     (BSTextureStreamer::Manager*)
+R14 0x1                (size_t) [1]
+R15 0x7FF7D9B5EFD0     (void* -> Fallout4.exe+600EFD0	cli |  aDiveBombChance_600EFD0)
+
+STACK:
+[RSP+0  ] 0x2004DCA3F30      (void*)
+[RSP+8  ] 0x7FF800000002     (size_t) [140703128616962]
+[RSP+10 ] 0x0                (size_t) [0]
+[RSP+18 ] 0x75548            (size_t) [480584]
+[RSP+20 ] 0xB2B872FD20       (void*)
+[RSP+28 ] 0x7FF7D5800295     (void* -> Fallout4.exe+1CB0295	test al, al |  BSTextureStreamer::DecompressThroughShadowBuffer(BSTextureStreamer::Stream&,char*&)_1CB0295)
+[RSP+30 ] 0x2A               (size_t) [42]
+[RSP+38 ] 0xAAB8             (size_t) [43704]
+[RSP+40 ] 0x2AAAB8           (size_t) [2796216]
+[RSP+48 ] 0x7FF7D5809D0D     (void* -> Fallout4.exe+1CB9D0D	test eax, eax |  BSTextureStreamer::zlibStreamDetail::Reset(void)_1CB9D0D)
+[RSP+50 ] 0x7FF7D9B5EFD0     (void* -> Fallout4.exe+600EFD0	cli |  aDiveBombChance_600EFD0)
+[RSP+58 ] 0xB2B872FD00       (void*)
+[RSP+60 ] 0x7FF7D9B4F160     (BSTextureStreamer::Manager*)
+[RSP+68 ] 0x0                (size_t) [0]
+[RSP+70 ] 0x2021EE20F80      (void*)
+[RSP+78 ] 0x7FF7D57FF3C2     (void* -> Fallout4.exe+1CAF3C2	cmp [rbx+0x44], ebp |  BSTextureStreamer::PreloadState::ReadMipsToTexture(BSTextureStreamer::Stream&,char*)_1CAF3C2)
+[RSP+80 ] 0x1                (size_t) [1]
+[RSP+88 ] 0xB2B872FD20       (void*)
+[RSP+90 ] 0x3                (size_t) [3]
+[RSP+98 ] 0x7FF7D9B4F160     (BSTextureStreamer::Manager*)
+[RSP+A0 ] 0x0                (size_t) [0]
+[RSP+A8 ] 0x2021EB80F80      (void*)
+[RSP+B0 ] 0x2AAAB8           (size_t) [2796216]
+[RSP+B8 ] 0x7FF7D588613A     (void* -> Fallout4.exe+1D3613A	cmp dword ptr [0x00007FF7D741CE00], 0x02 |  BSGraphics::Renderer::ReadStreamingTextureDataToArraySlice(BSGraphics::Texture*,BSTextureStreamer::Stream&,uint)_1D3613A)
+[RSP+C0 ] 0x2AAAB8           (size_t) [2796216]
+[RSP+C8 ] 0x2021EB80F80      (void*)
+[RSP+D0 ] 0x202002AAAB8      (void*)
+[RSP+D8 ] 0x7FF7D566093F     (void* -> Fallout4.exe+1B1093F	cmp [rdi], eax |  BSReadWriteLock::LockForRead(void)_1B1093F)
+[RSP+E0 ] 0xB00000000        (size_t) [47244640256]
+[RSP+E8 ] 0x7FF800000004     (size_t) [140703128616964]
+[RSP+F0 ] 0x7FF7D9B5F050     (void* -> Fallout4.exe+600F050	add [rax], al |  aDiveBombChance_600F050)
+[RSP+F8 ] 0x7FF7D9B5F2E8     (void* -> Fallout4.exe+600F2E8	add al, 0x00 |  aDiveBombChance_600F2E8)
+[RSP+100] 0x20075928750      (char*) "*"
+[RSP+108] 0x7FF7D5806364     (void* -> Fallout4.exe+1CB6364	jmp 0x00007FF7D580636C |  BSTextureStreamer::Manager::DecompressStreamedLoad(BSTextureStreamer::TextureRequest*)_1CB6364)
+[RSP+110] 0x7FF7D9BE7F10     (void* -> Fallout4.exe+6097F10	add [rax], al |  aDiveBombChance_6097F10)
+[RSP+118] 0x2018BFBFAC0      (BSResource::`anonymous namespace'::LooseFileStream*)
+[RSP+120] 0x2A               (size_t) [42]
+[RSP+128] 0x2A               (size_t) [42]
+[RSP+130] 0x202300F6180      (void*)
+[RSP+138] 0x202301B5D60      (void*)
+[RSP+140] 0x7FF7D9B5F1F0     (void* -> Fallout4.exe+600F1F0	or r13b, [rsi+0x18] |  aDiveBombChance_600F1F0)
+[RSP+148] 0x7FF7D5807086     (void* -> Fallout4.exe+1CB7086	mov rax, [r15+0x10] |  BSTextureStreamer::Manager::HandleLoadToArraySliceRequest(BSTextureStreamer::TextureModifyBatch&,BSTextureStreamer::LocalHeap&,BSTextureStreamer::TextureRequest*)_1CB7086)
+[RSP+150] 0x2004DCA3F20      (BSTextureStreamer::zlibStreamDetail*)
+[RSP+158] 0x7FF7D9B5EFE8     (void* -> Fallout4.exe+600EFE8	mov dl, 0x8B |  aDiveBombChance_600EFE8)
+[RSP+160] 0x7FF7D9B5F050     (void* -> Fallout4.exe+600F050	add [rax], al |  aDiveBombChance_600F050)
+[RSP+168] 0xB2B872FD00       (void*)
+[RSP+170] 0x0                (size_t) [0]
+[RSP+178] 0x0                (size_t) [0]
+[RSP+180] 0x2004E4F0A00      (void*)
+[RSP+188] 0x80000            (size_t) [524288]
+[RSP+190] 0x400000004        (size_t) [17179869188]
+[RSP+198] 0x0                (size_t) [0]
+[RSP+1A0] 0x3                (size_t) [3]
+[RSP+1A8] 0x0                (size_t) [0]
+[RSP+1B0] 0x7FF7D9B5F080     (void* -> Fallout4.exe+600F080	loopne 0x00007FF7D9B5F072 |  aDiveBombChance_600F080)
+[RSP+1B8] 0x7FF7D9B5EFD0     (void* -> Fallout4.exe+600EFD0	cli |  aDiveBombChance_600EFD0)
+[RSP+1C0] 0x0                (size_t) [0]
+[RSP+1C8] 0x7FF7D580A966     (void* -> Fallout4.exe+1CBA966	mov ecx, [r14+0x104] |  BSTextureStreamer::Manager::ThreadProc(void)_1CBA966)
+[RSP+1D0] 0x0                (size_t) [0]
+[RSP+1D8] 0xB2B872FEA0       (void*)
+[RSP+1E0] 0x20075928700      (void*)
+[RSP+1E8] 0x7FF7D9B5F0E0     (void* -> Fallout4.exe+600F0E0	 |  aDiveBombChance_600F0E0)
+[RSP+1F0] 0x2004DC5BD80      (void*)
+[RSP+1F8] 0x0                (size_t) [0]
+[RSP+200] 0x7FF7D9B5EFD0     (void* -> Fallout4.exe+600EFD0	cli |  aDiveBombChance_600EFD0)
+[RSP+208] 0x7FF7D9B5F0E0     (void* -> Fallout4.exe+600F0E0	 |  aDiveBombChance_600F0E0)
+[RSP+210] 0x20075928750      (char*) "*"
+[RSP+218] 0x5340DCEE         (size_t) [1396759790]
+[RSP+220] 0x0                (size_t) [0]
+[RSP+228] 0x0                (size_t) [0]
+[RSP+230] 0x0                (size_t) [0]
+[RSP+238] 0x7FF7D697EF68     (void* -> Fallout4.exe+2E2EF68	loopne 0x00007FF7D697EFA6 |  aDiveBombChance_2E2EF68)
+[RSP+240] 0x0                (size_t) [0]
+[RSP+248] 0xB2B872FE10       (void*)
+[RSP+250] 0x7FF7D697EF68     (void* -> Fallout4.exe+2E2EF68	loopne 0x00007FF7D697EFA6 |  aDiveBombChance_2E2EF68)
+[RSP+258] 0x0                (size_t) [0]
+[RSP+260] 0xB2B872FE28       (void*)
+[RSP+268] 0x7FF7D96ABD48     (void* -> Fallout4.exe+5B5BD48	add [rax], al |  aDiveBombChance_5B5BD48)
+[RSP+270] 0x2                (size_t) [2]
+[RSP+278] 0x7FF7D566D9F4     (void* -> Fallout4.exe+1B1D9F4	test eax, eax |  BSTEventSource<BSThreadEvent::ThreadEvent>::Notify(BSThreadEvent::ThreadEvent&)_1B1D9F4)
+[RSP+280] 0x7FF7D9B5F080     (void* -> Fallout4.exe+600F080	loopne 0x00007FF7D9B5F072 |  aDiveBombChance_600F080)
+[RSP+288] 0x7FF7D9B578CA     (void* -> Fallout4.exe+60078CA	add [rcx], al |  aDiveBombChance_60078CA)
+[RSP+290] 0x2004DC9BC90      (void*)
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A0] 0x0                (size_t) [0]
+[RSP+2A8] 0x0                (size_t) [0]
+[RSP+2B0] 0x0                (size_t) [0]
+[RSP+2B8] 0x0                (size_t) [0]
+[RSP+2C0] 0x0                (size_t) [0]
+[RSP+2C8] 0x0                (size_t) [0]
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x0                (size_t) [0]
+[RSP+2E0] 0x0                (size_t) [0]
+[RSP+2E8] 0x0                (size_t) [0]
+[RSP+2F0] 0x0                (size_t) [0]
+[RSP+2F8] 0x7FF7D9B4F160     (BSTextureStreamer::Manager*)
+[RSP+300] 0x0                (size_t) [0]
+[RSP+308] 0x7FF7D566CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF7D96ABD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+310] 0x0                (size_t) [0]
+[RSP+318] 0xB2B872FF00       (void*)
+[RSP+320] 0x20000000000      (void*)
+[RSP+328] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+330] 0x7FF7D9B4F160     (BSTextureStreamer::Manager*)
+[RSP+338] 0x0                (size_t) [0]
+[RSP+340] 0x0                (size_t) [0]
+[RSP+348] 0x7FF9AC3C257D     (void* -> KERNEL32.DLL+001257D	mov ecx, eax)
+[RSP+350] 0x0                (size_t) [0]
+[RSP+358] 0x0                (size_t) [0]
+[RSP+360] 0x0                (size_t) [0]
+[RSP+368] 0x0                (size_t) [0]
+[RSP+370] 0x0                (size_t) [0]
+[RSP+378] 0x7FF9AD78AA48     (void* -> ntdll.dll+005AA48	jmp 0x00007FF9AD78AA69)
+[RSP+380] 0x0                (size_t) [0]
+[RSP+388] 0x0                (size_t) [0]
+[RSP+390] 0x0                (size_t) [0]
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A0] 0x0                (size_t) [0]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0xAD97359700000000 (size_t) [uint: 12508525412701175808 int: -5938218661008375808]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0x4F0FFFFFB30      (size_t) [5433133628208]
+[RSP+3C8] 0x7FF9AAE0CBB0     (void* -> KERNELBASE.dll+015CBB0	mov [rsp+0x10], rbx)
+[RSP+3D0] 0xB2B872E6C0       (void*)
+[RSP+3D8] 0xEFFC4E0000FFF20E (size_t) [uint: 17292782431119602190 int: -1153961642589949426]
+[RSP+3E0] 0x7FF90777FE27     (size_t) [140707548888615]
+[RSP+3E8] 0xB2B872E6C0       (void*)
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+400] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]

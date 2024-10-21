@@ -1,0 +1,67 @@
+[ 0] 0x7FF9A15E4A9A    d3d11.dll+0034A9A
+[ 1] 0x7FF9A15E49DE    d3d11.dll+00349DE
+[ 2] 0x7FF9A15E4933    d3d11.dll+0034933
+[ 3] 0x7FF9A15C23F2    d3d11.dll+00123F2
+[ 4] 0x7FF9A16AE8E4    d3d11.dll+00FE8E4
+[ 5] 0x7FF78B3E6A21 Fallout4.exe+1D16A21 -> 361475+0x101
+[ 6] 0x7FF78B3E6CD1 Fallout4.exe+1D16CD1 -> 1557284+0xD1
+[ 7] 0x7FF78BB5544D Fallout4.exe+248544D -> 783050+0x13D
+[ 8] 0x7FF78BB5412B Fallout4.exe+248412B -> 830178+0x5B
+[ 9] 0x7FF78A4089A8 Fallout4.exe+0D389A8 -> 1075087+0x2A8
+[10] 0x7FF78A409551 Fallout4.exe+0D39551 -> 633524+0x6F1
+[11] 0x7FF78A406E10 Fallout4.exe+0D36E10 -> 1125396+0xC0
+[12] 0x7FF78A405950 Fallout4.exe+0D35950 -> 668528+0x20
+[13] 0x7FF78C007157 Fallout4.exe+2937157 -> 1104651+0x143
+[14] 0x7FF9A777257D KERNEL32.DLL+001257D
+[15] 0x7FF9A86CAA58    ntdll.dll+005AA58
+
+REGISTERS:
+
+STACK:
+[RSP+48 ] 0x7FF9A15E49DE     (void* -> d3d11.dll+00349DE)
+[RSP+78 ] 0x7FF9A15E4933     (void* -> d3d11.dll+0034933)
+[RSP+88 ] 0x7FF9A175A4C5     (void* -> d3d11.dll+01AA4C5)
+[RSP+A8 ] 0x7FF9A15C23F2     (void* -> d3d11.dll+00123F2)
+[RSP+D8 ] 0x7FF9A16AE8E4     (void* -> d3d11.dll+00FE8E4)
+[RSP+100] 0x7FF94FDAB300     (char*) "Bink global blit mutex"
+[RSP+108] 0x7FF94FD457CB     (void* -> bink2w64.dll+00157CB)
+[RSP+138] 0x7FF9A5CDA60B     (void* -> KERNELBASE.dll+006A60B)
+[RSP+148] 0x7FF78B3E6A21     (void* -> Fallout4.exe+1D16A21)
+[RSP+168] 0x7FF94FD47385     (void* -> bink2w64.dll+0017385)
+[RSP+1E8] 0x7FF78B3E6CD1     (void* -> Fallout4.exe+1D16CD1)
+[RSP+230] 0x1C8D5514400      (Movie*)
+[RSP+260] 0x1C87D69BE01      (char*) "4\DATA\INTERFACE\MainMenu.swf"
+[RSP+270] 0x1C8D5514400      (Movie*)
+[RSP+278] 0x7FF78BB5544D     (void* -> Fallout4.exe+248544D)
+[RSP+288] 0x1C8D5514400      (Movie*)
+[RSP+2B0] 0x7FF78F136DD0     (UI*)
+[RSP+2C8] 0x7FF78BB5412B     (void* -> Fallout4.exe+248412B)
+[RSP+2D0] 0x1C87D69BEE0      (BGSMoviePlayer*)
+[RSP+2D8] 0x1C78E877FC0      (char*) "F"
+[RSP+2F8] 0x7FF78A4089A8     (void* -> Fallout4.exe+0D389A8)
+[RSP+328] 0x7FF7896F44E3     (void* -> Fallout4.exe+00244E3)
+[RSP+330] 0x7FF78F170980     (void* -> Fallout4.exe+5AA0980)
+[RSP+338] 0x7FF7896F44E3     (void* -> Fallout4.exe+00244E3)
+[RSP+340] 0x7FF78F173400     (CleanupQueue<`anonymous namespace'::MovieResourceQueuePolicy,A0x488c7b61::MovieResourceCleanupPolicy,DoNothingProcessPolicy,A0x488c7b61::QueuePostCleanupPolicy>*)
+[RSP+348] 0x7FF78A401718     (void* -> Fallout4.exe+0D31718)
+[RSP+358] 0x7FF78A401718     (void* -> Fallout4.exe+0D31718)
+[RSP+360] 0x7FF78F174080     (void* -> Fallout4.exe+5AA4080)
+[RSP+368] 0x7FF78F173B00     (void* -> Fallout4.exe+5AA3B00)
+[RSP+370] 0x7FF78F173400     (CleanupQueue<`anonymous namespace'::MovieResourceQueuePolicy,A0x488c7b61::MovieResourceCleanupPolicy,DoNothingProcessPolicy,A0x488c7b61::QueuePostCleanupPolicy>*)
+[RSP+378] 0x7FF78F159080     (void* -> Fallout4.exe+5A89080)
+[RSP+380] 0x7FF78F145D00     (CleanupQueue<`anonymous namespace'::ReferenceQueuePolicy,A0x488c7b61::ReferenceHandleCleanupPolicy,A0x488c7b61::ReferenceHandleProcessPolicy,A0x488c7b61::QueuePostCleanupPolicy>*)
+[RSP+388] 0x7FF78ADE6790     (void* -> Fallout4.exe+1716790)
+[RSP+390] 0x1C78E877FC0      (char*) "F"
+[RSP+398] 0x7FF78A402783     (void* -> Fallout4.exe+0D32783)
+[RSP+3B0] 0x7FF78F173400     (CleanupQueue<`anonymous namespace'::MovieResourceQueuePolicy,A0x488c7b61::MovieResourceCleanupPolicy,DoNothingProcessPolicy,A0x488c7b61::QueuePostCleanupPolicy>*)
+[RSP+3D0] 0x1C7A8187B00      (BSGeometryListCullingProcess*)
+[RSP+3D8] 0x7FF7897CE776     (void* -> Fallout4.exe+00FE776)
+[RSP+448] 0x7FF78A409551     (void* -> Fallout4.exe+0D39551)
+[RSP+498] 0x7FF78A406E10     (void* -> Fallout4.exe+0D36E10)
+[RSP+4C8] 0x7FF78A405950     (void* -> Fallout4.exe+0D35950)
+[RSP+4F8] 0x7FF78C007157     (void* -> Fallout4.exe+2937157)
+[RSP+500] 0x1C78E87B529      (char*) """
+[RSP+538] 0x7FF9A777257D     (void* -> KERNEL32.DLL+001257D)
+[RSP+568] 0x7FF9A86CAA58     (void* -> ntdll.dll+005AA58)
+[RSP+5B8] 0x7FF9A5DCC720     (void* -> KERNELBASE.dll+015C720)
+[RSP+5E0] 0x7FF9A86CAA30     (void* -> ntdll.dll+005AA30)

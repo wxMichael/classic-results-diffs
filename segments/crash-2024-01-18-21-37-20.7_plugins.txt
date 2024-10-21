@@ -1,0 +1,240 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     XDI.esm
+[09]     ArmorKeywords.esm
+[0A]     WorkshopFramework.esm
+[0B]     HUDFramework.esm
+[0C]     SS2.esm
+[0D]     SS2_XPAC_Chapter2.esm
+[0E]     SS2_XPAC_Chapter3.esm
+[0F]     SettlementKeywords.esm
+[10]     EthreonMasterPlan.esm
+[11]     TacticalReload.esm
+[12]     ExtendedWeaponSystem.esm
+[13]     PKMnv.esp
+[14]     QBZ191.esp
+[15]     VanillaExtensions.esp
+[16]     SS2Extended.esp
+[17]     The Collector's Guides AIO.esp
+[18]     ImmersiveScrapping_TidyUp.esp
+[19]     RecruitableSettlers.esp
+[1A]     RED.esp
+[1B]     Armorsmith Extended.esp
+[1C]     W.A.T.Minutemen.esp
+[1D]     InstituteSettlements2.esp
+[1E]     CheatTerminal.esp
+[1F]     eleanorBGD00.esp
+[20]     AA Subways of the Commonwealth.esp
+[21]     SS2_FDK_TinyLiving.esp
+[22]     RecruitableSettlersFH.esp
+[23]     WattzLaserGun.esp
+[24]     CazadorML.esp
+[25]     F4NV-AMR.esp
+[26]     AER15.esp
+[27]     3dscopes.esp
+[28]     Vault-Tec Workshop Overhaul.esp
+[29]     RPD.esp
+[2A]     M2Agency.esp
+[2B]     SS2-Jampads2.esp
+[2C]     CriticalHitsOutsideofVATS.esp
+[2D]     Eli_BunkerSafehouse.esp
+[2E]     SS2WastelandVenturers.esp
+[2F]     JunkTownTwo.esp
+[30]     SS2-PraRandomAddon.esp
+[31]     Glock19x.esp
+[32]     DP_CaravanShotgun.esp
+[33]     MWM19.esp
+[34]     [SS20Addon] SimSettlements SuperStructures.esp
+[35]     FCOM.esp
+[36]     MilitarizedMinutemen.esp
+[37]     Mosin.esp
+[38]     F4NV-N99.esp
+[39]     Ev_CPA10.esp
+[3A]     EV_CPA10_LL.esp
+[3B]     SS2_SIMPDDDD.esp
+[3C]     SS2_ruined_simsettlement_addonpack.esp
+[3D]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
+[3E]     RecruitableSettlersLeaders2.esp
+[3F]     LD50_Leaders.esp
+[40]     SS2_CityPlanPack_RiseOfTheCommonwealth.esp
+[41]     LaserDesignator.esp
+[42]     MG42.esp
+[43]     WinchesterP94Balanced2.esp
+[44]     WM Chinese Assault Rifle - Standalone.esp
+[45]     BetterSettlers.esp
+[46]     MTM-Vault88-RLRST.esp
+[47]     Better Manufacturing.esp
+[48]     ManufacturingExtended.esp
+[49]     DLC items to manufacturing.esp
+[4A]     FactoryAddOn.esp
+[4B]     Generator Fusebox - More realistic version.esp
+[4C]     EvilViking13_WastelandWalls.esp
+[4D]     AA Better Companions - No Conflicts - Accuracy Beta.esp
+[4E]     Stalker Suit.esp
+[4F]     44MBF4.esp
+[50]     DLC ammo.esp
+[51]     SlowTime.esp
+[52]     SKKGlobalStashScrapping.esp
+[53]     RealAI.esp
+[54]     Realistic_conversations.esp
+[55]     WorkshopPlus.esp
+[56]     Publick Occurrences Expanded.esp
+[57]     SettlementMenuManager.esp
+[58]     FunctionalDisplays.esp
+[59]     ImmersiveScrapping_FarHarbor.esp
+[5A]     BasementLiving.esp
+[5B]     Scopes.esp
+[5C]     PowerArmorHoarder.esp
+[5D]     aesexplorerrestored.esp
+[5E]     VaultPlus.esp
+[5F]     ManufacturingExtendedFH.esp
+[60]     StartMeUp.esp
+[61]     NukaWorldReborn.esp
+[62]     StartMeUpNukaWorldPatch.esp
+[63]     RED-StartMeUp.esp
+[64]     WorkshopRearranged.esp
+[65]     Vault-Tec Workshop Overhaul Redux.esp
+[66]     Vault88 - Essentials.esp
+[FE:000] ccbgsfo4012-pipboy(red).esl
+[FE:001] ccbgsfo4018-gaussrifleprototype.esl
+[FE:002] ccbgsfo4019-chinesestealtharmor.esl
+[FE:003] ccfsvfo4002-midcenturymodern.esl
+[FE:004] cceejfo4001-decorationpack.esl
+[FE:005] ccbgsfo4045-advarccab.esl
+[FE:006] ccgcafo4004-factionws04gun.esl
+[FE:007] ccgcafo4014-factionas03gun.esl
+[FE:008] ccbgsfo4062-pippat.esl
+[FE:009] cceejfo4002-nuka.esl
+[FE:00A] ccygpfo4001-pipcruiser.esl
+[FE:00B] ccbgsfo4075-pipshroud.esl
+[FE:00C] ccbgsfo4008-pipgrn.esl
+[FE:00D] ccbgsfo4009-piporan.esl
+[FE:00E] ccbgsfo4011-pippurp.esl
+[FE:00F] ccbgsfo4027-powerarmorskingreen.esl
+[FE:010] ccbgsfo4028-powerarmorskinorange.esl
+[FE:011] ccbgsfo4031-powerarmorskinred.esl
+[FE:012] ccbgsfo4030-powerarmorskinpurple.esl
+[FE:013] ccgrcfo4001-pipgreytort.esl
+[FE:014] ccbgsfo4063-papat.esl
+[FE:015] ccbgsfo4118-ws_tunnelsnakes.esl
+[FE:016] ccbgsfo4103-as_tunnelsnakes.esl
+[FE:017] ccbgsfo4089-pipsynthwave.esl
+[FE:018] ccfrsfo4003-cr75l.esl
+[FE:019] ccacxfo4001-vsuit.esl
+[FE:01A] PPF.esm
+[FE:01B] GavMan_CroupMar21_CityPlan.esl
+[FE:01C] The Slog an ingenious pool.esl
+[FE:01D] SS2WorkshopHUDOverride.esl
+[FE:01E] GavMan_Vault88_CityPlan.esl
+[FE:01F] Skb-MinigunsRebirth.esl
+[FE:020] iModAlternateCinematics.esl
+[FE:021] IDEKsLogisticsStation2.esl
+[FE:022] Vault88_Front_Spawn_ESL.esl
+[FE:023] AORobcoReconScope.esl
+[FE:024] CanarySaveFileMonitor.esl
+[FE:025] HellcatPA.esl
+[FE:026] No More Mist.esp
+[FE:027] Rebuilt_HomePlate.esp
+[FE:028] WhoIsTheGeneral.esp
+[FE:029] Unused Map Markers - Cut Content Restored.esp
+[FE:02A] Keep Radiants In Commonwealth.esp
+[FE:02B] SotCpatch.esp
+[FE:02C] PRP-SS2-Fixes-Ch2.esp
+[FE:02D] DoorsNotWalls.esp
+[FE:02E] SS2_Addon_Favelabulous.esp
+[FE:02F] PRP-SS2-Fixes-Ch1.esp
+[FE:030] SS2_XDI Patch.esp
+[FE:031] QBZ191 Laser Musket Replacer No TR.esp
+[FE:032] 3dscopes-wattz.esp
+[FE:033] 3dscopes-robcorecon.esp
+[FE:034] 3dscopes-mosin.esp
+[FE:035] 3dscopes-f4nvamr.esp
+[FE:036] 3dscopes-ccgauss.esp
+[FE:037] 3dscopes-cccr74.esp
+[FE:038] QBZ191_Console Fov90-100_for_longScope.esp
+[FE:039] SS2_NobodysLeaders2.esp
+[FE:03A] SS2_NobodysLeaders2_VaultTecWorkshop.esp
+[FE:03B] SS2_NobodysLeaders2_Automatron.esp
+[FE:03C] SS2AOP_VaultTecTools.esp
+[FE:03D] SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
+[FE:03E] SimHomestead2.esp
+[FE:03F] [SS2] BBVault 88.esp
+[FE:040] SS2_DLCSettlerPatch.esp
+[FE:041] SS2Tweaks.esp
+[FE:042] SS2-PraRandomAddon-FIS.esp
+[FE:043] JunkTown-FENCES2.esp
+[FE:044] LaserDesignatorScopeCompat.esp
+[FE:045] Taffington_Boathouse_Deadzone_Fix.esp
+[FE:046] DeltaRadio.esp
+[FE:047] RadioEnhanced_1.1.esp
+[FE:048] RamblinRadio.esp
+[FE:049] BetterSettlersNoLollygagging.esp
+[FE:04A] BetterSettlersCleanFacePack.esp
+[FE:04B] IDEKsLogisticsStation2_SS2_Patch.esp
+[FE:04C] FusionGenerator.esp
+[FE:04D] TurretStands.esp
+[FE:04E] SkjAlert_All_DLC.esp
+[FE:04F] Stackable Brick Wall Foundations.esp
+[FE:050] More Power Armour Mods.esp
+[FE:051] More Power Armour Mods - Automatron.esp
+[FE:052] FAR.esp
+[FE:053] BetterJunkFences.esp
+[FE:054] Better Manufacturing - Menu Organization.esp
+[FE:055] Better Manufacturing - Manufacturing Extended Additions.esp
+[FE:056] Better Manufacturing - Manufacturing Extended Expanded Patch MO.esp
+[FE:057] DD_All_the_COncrete.esp
+[FE:058] Workshop_Planters.esp
+[FE:059] EveryonesBestFriend.esp
+[FE:05A] Items Weightless.esp
+[FE:05B] Quieter Settlements - Wasteland Workshop.esp
+[FE:05C] Quieter Settlements - Vanilla.esp
+[FE:05D] Quieter Settlements - Contraptions.esp
+[FE:05E] Dynamic Music Overhaul.esp
+[FE:05F] LostWorld.esp
+[FE:060] K9TacticalHarness.esp
+[FE:061] Better Vertibird LiTE.esp
+[FE:062] Infinite Sprinting Out of Combat.esp
+[FE:063] No Aggro Impact Landing.esp
+[FE:064] ImmersivePipboyRadio.esp
+[FE:065] Better_Notes.esp
+[FE:066] MMP4APA.esp
+[FE:067] MMP4APA-blue.esp
+[FE:068] NukaColaClassic.esp
+[FE:069] real.AI - Untethered.esp
+[FE:06A] ProfGood.esp
+[FE:06B] ImmersiveScrapping_Automatron.esp
+[FE:06C] ImmersiveScrapping_VaultTecWS.esp
+[FE:06D] ImmersiveScrapping.esp
+[FE:06E] BlurKillerComplete.esp
+[FE:06F] Insignificant Object Remover.esp
+[FE:070] AdvancedSkeleton.esp
+[FE:071] PA-Quick Animations.esp
+[FE:072] Z51_MDroid_XPLevelingLinearized.esp
+[FE:073] Clean Pause Menu.esp
+[FE:074] FIS-Naming-Weap-Armo-EN.esp
+[FE:075] M8rDisablePipboyEffects.esp
+[FE:076] SPECIAL40.esp
+[FE:077] NightPerson_NoNightVision-FarHarbor.esp
+[FE:078] NukaColaClassic_DLC.esp
+[FE:079] Faster Terminal Displays (20x).esp
+[FE:07A] Bastion.esp
+[FE:07B] whisperAutodidact.esp
+[FE:07C] FactoryAddOn_x2Patch.esp
+[FE:07D] DD_1x1_Foundation_Blocks.esp
+[FE:07E] BetterGenerators.esp
+[FE:07F] FCOM-MM.esp
+[FE:080] UncappedSettlementSurplus.esp
+[FE:081] DDP_Interior_doorway1.esp
+[FE:082] FrisbeeMineR.esp
+[FE:083] M2AgencyLvlListPatch.esp
+[FE:084] PRP.esp
+[FE:085] PRP-SS2.esp
+[FE:086] PRP-Compat-NWR-CR.esp
+[FE:087] PRP-Compat-NWR.esp
+[FE:088] PRP-SS2-Ch3-CR.esp

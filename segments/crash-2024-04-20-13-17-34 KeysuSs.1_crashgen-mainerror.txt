@@ -1,0 +1,4 @@
+Buffout 4 v1.31.1 Feb 28 2023 00:32:02
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF692F26605 Fallout4.exe+1AD6605	cmp qword ptr [rbx+0x10], 0x00 
+  BSTScatterTableBase<BSTScatterTableTraits<uint,NiPointer<NiAVObject>,BSTScatterTableDefaultKVStorage,BSTScatterTableDefaultHashPolicy<uint>,BSTScatterTableHeapAllocator<BSTScatterTableEntry<uint,NiPointer<NiAVObject>,BSTScatterTableDefaultKVStorage>>,8>>::ConditionalRemoveImpl<_lambda_037b8cc2a7e1f195f0308f289d35efbc_>(_lambda_037b8cc2a7e1f195f0308f289d35efbc_&)_1AD6605)

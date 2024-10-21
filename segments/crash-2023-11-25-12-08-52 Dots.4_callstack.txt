@@ -1,0 +1,227 @@
+[ 0] 0x7FF6D00C8F6A      Fallout4.exe+1AF8F6A -> 1447818+0x3A
+[ 1] 0x7FF6D0153FC9      Fallout4.exe+1B83FC9 -> 116219+0x1F9
+[ 2] 0x7FF6D0155FD7      Fallout4.exe+1B85FD7 -> 847044+0x57
+[ 3] 0x7FF6D0146832      Fallout4.exe+1B76832 -> 270048+0x42
+[ 4] 0x7FF6D014A34B      Fallout4.exe+1B7A34B -> 1309589+0x9B
+[ 5] 0x7FF6D0149F44      Fallout4.exe+1B79F44 -> 1285198+0x1C4
+[ 6] 0x7FF6D013FCDC      Fallout4.exe+1B6FCDC -> 1566228+0x61C
+[ 7] 0x7FF6D014D93A      Fallout4.exe+1B7D93A -> 1261045+0x3A
+[ 8] 0x7FF6CE6ED319      Fallout4.exe+011D319 -> 1279060+0x199
+[ 9] 0x7FF6CF311FC4      Fallout4.exe+0D41FC4 -> 1411710+0x94
+[10] 0x7FF6CF30F3ED      Fallout4.exe+0D3F3ED -> 1429949+0x15D
+[11] 0x7FF6CF30F022      Fallout4.exe+0D3F022 -> 407290+0x32
+[12] 0x7FF6CF3235A9      Fallout4.exe+0D535A9 -> 1085735+0x29
+[13] 0x7FFA20FBA8AC f4se_1_10_163.dll+000A8AC
+[14] 0x7FF6D00ECFED      Fallout4.exe+1B1CFED -> 1079791+0x3D
+[15] 0x7FFA67F7257D      KERNEL32.DLL+001257D
+[16] 0x7FFA68BEAA78         ntdll.dll+005AA78
+
+REGISTERS:
+RBX 0x7FF6D41D7038     (void* -> Fallout4.exe+5C07038)
+RSI 0x7FF6D41D7038     (void* -> Fallout4.exe+5C07038)
+RDI 0x2B6392C6500      (BSResource::`anonymous namespace'::LooseFileAsyncStream*)
+R9  0x2B6392C6500      (BSResource::`anonymous namespace'::LooseFileAsyncStream*)
+R10 0x7FF6D4137580     (void* -> Fallout4.exe+5B67580)
+R12 0x2B598B4BC78      (char*) "DATA\"
+R14 0x2B598B4BD20      (BSResource::LooseFileLocation*)
+R15 0x2B62C84EA50      (char*) "	"
+
+STACK:
+[RSP+8   ] 0x2B6392C6500      (BSResource::`anonymous namespace'::LooseFileAsyncStream*)
+[RSP+28  ] 0x7FF6D0153FC9     (void* -> Fallout4.exe+1B83FC9)
+[RSP+40  ] 0x7FF6D4137580     (void* -> Fallout4.exe+5B67580)
+[RSP+60  ] 0x2B598B4BD20      (BSResource::LooseFileLocation*)
+[RSP+78  ] 0x2B6392C6500      (BSResource::`anonymous namespace'::LooseFileAsyncStream*)
+[RSP+B8  ] 0x342074756F6C6C61 (size_t)
+[RSP+F8  ] 0x0                (size_t)
+[RSP+128 ] 0x7FF6D0112FE8     (void* -> Fallout4.exe+1B42FE8)
+[RSP+130 ] 0x2B62C84EA50      (char*) "	"
+[RSP+148 ] 0x7FFA65FE3B7F     (void* -> KERNELBASE.dll+0023B7F)
+[RSP+158 ] 0x7FFA17E2BDCE     (void* -> Buffout4.dll+004BDCE)
+[RSP+168 ] 0x7FF6D0112FE8     (void* -> Fallout4.exe+1B42FE8)
+[RSP+178 ] 0x7FF6D015580B     (void* -> Fallout4.exe+1B8580B)
+[RSP+180 ] 0x7FFA180F8CA0     (void* -> Buffout4.dll+0318CA0)
+[RSP+188 ] 0x7FFA17E2C289     (void* -> Buffout4.dll+004C289)
+[RSP+1A8 ] 0xF52BBEF190       (char*) "GarageHomesAndSensibleSecurity - Main.ba2"
+[RSP+1B0 ] 0x2B62C84EA50      (char*) "	"
+[RSP+1C8 ] 0x2B63A1F4418      (char*) "GarageHomesAndSensibleSecurity - Main.ba2"
+[RSP+1D0 ] 0x7FF6D41D7038     (void* -> Fallout4.exe+5C07038)
+[RSP+1D8 ] 0x7FF6D0155FD7     (void* -> Fallout4.exe+1B85FD7)
+[RSP+1E8 ] 0x2B63A1EB100      (BSResource::`anonymous namespace'::LooseFileStream*)
+[RSP+1F0 ] 0x7FF6D41D6838     (void* -> Fallout4.exe+5C06838)
+[RSP+1F8 ] 0x7FF6D41D7038     (void* -> Fallout4.exe+5C07038)
+[RSP+208 ] 0x7FF6D0118300     (void* -> Fallout4.exe+1B48300)
+[RSP+210 ] 0x7FF6D41D6008     (BSResource::Archive2::Index*)
+[RSP+218 ] 0x7FF6D0146832     (void* -> Fallout4.exe+1B76832)
+[RSP+220 ] 0x2B62C84EA50      (char*) "	"
+[RSP+240 ] 0x2B62C84EA50      (char*) "	"
+[RSP+258 ] 0x7FF6D014A34B     (void* -> Fallout4.exe+1B7A34B)
+[RSP+260 ] 0x7FF6D41D6008     (BSResource::Archive2::Index*)
+[RSP+268 ] 0x7FF6D41D7C60     (void* -> Fallout4.exe+5C07C60)
+[RSP+270 ] 0x7FF6D41D6008     (BSResource::Archive2::Index*)
+[RSP+290 ] 0xF52BBEEC90       (char*) "iningFacility_L3.nif"
+[RSP+298 ] 0x7FF6D0149F44     (void* -> Fallout4.exe+1B79F44)
+[RSP+2A8 ] 0x7FF6D41D7C68     (void* -> Fallout4.exe+5C07C68)
+[RSP+2C8 ] 0x7FF6D0148A2B     (void* -> Fallout4.exe+1B78A2B)
+[RSP+2D8 ] 0x7FF6D41D6000     (void* -> Fallout4.exe+5C06000)
+[RSP+2F8 ] 0x7FF6D013F0FB     (void* -> Fallout4.exe+1B6F0FB)
+[RSP+308 ] 0xF52BBEEC90       (char*) "iningFacility_L3.nif"
+[RSP+318 ] 0x7FF6D41D6000     (void* -> Fallout4.exe+5C06000)
+[RSP+328 ] 0x7FF6D013FCDC     (void* -> Fallout4.exe+1B6FCDC)
+[RSP+368 ] 0x2B63A1F4400      (void*)
+[RSP+3A8 ] 0x204C524E47       (size_t)
+[RSP+3E8 ] 0x7FFA00000000     (size_t)
+[RSP+3F0 ] 0x2B62BC70FC0      (char*) ","
+[RSP+430 ] 0x636146676E696E69 (size_t)
+[RSP+460 ] 0xF52BBEF060       (char*) ")"
+[RSP+468 ] 0x7FFA24C043B8     (void* -> MSVCR110.dll+00243B8)
+[RSP+488 ] 0x7FFA24C33659     (void* -> MSVCR110.dll+0053659)
+[RSP+490 ] 0x7FF6D1227A60     (char*) "%s%s"
+[RSP+498 ] 0x7FFA24C076E9     (void* -> MSVCR110.dll+00276E9)
+[RSP+4A0 ] 0xF52BBEF060       (char*) ")"
+[RSP+4B8 ] 0xF52BBEF060       (char*) ")"
+[RSP+4C8 ] 0x7FFA24C34087     (void* -> MSVCR110.dll+0054087)
+[RSP+4D0 ] 0x7FF6D1226390     (char*) " - Main.ba2"
+[RSP+4E8 ] 0x7FFA68BCAB01     (void* -> ntdll.dll+003AB01)
+[RSP+528 ] 0x20               (size_t)
+[RSP+538 ] 0x2B62C84EA50      (char*) "	"
+[RSP+540 ] 0x2B598B4BD20      (BSResource::LooseFileLocation*)
+[RSP+548 ] 0x7FF6D41D6000     (void* -> Fallout4.exe+5C06000)
+[RSP+550 ] 0x2B6373BC160      (BSResource::`anonymous namespace'::LooseFileStream*)
+[RSP+560 ] 0x7FF6D1227A64     (void* -> Fallout4.exe+2C57A64)
+[RSP+570 ] 0x2B5809FDEA0      (char*) "v"
+[RSP+590 ] 0x2B63A1EB100      (BSResource::`anonymous namespace'::LooseFileStream*)
+[RSP+5C0 ] 0xF52BBEF190       (char*) "GarageHomesAndSensibleSecurity - Main.ba2"
+[RSP+5D0 ] 0x2B637E45670      (char*) "\"
+[RSP+5E0 ] 0x2B637E45670      (char*) "\"
+[RSP+5F0 ] 0x2B6373BC160      (BSResource::`anonymous namespace'::LooseFileStream*)
+[RSP+610 ] 0x2B63A1EB100      (BSResource::`anonymous namespace'::LooseFileStream*)
+[RSP+620 ] 0xF52BBEEE38       (char*) "j"
+[RSP+660 ] 0x0                (size_t)
+[RSP+668 ] 0x7FFA180F8CB0     (void* -> Buffout4.dll+0318CB0)
+[RSP+678 ] 0x7FFA17E2A221     (void* -> Buffout4.dll+004A221)
+[RSP+688 ] 0x7FFA180F8CB0     (void* -> Buffout4.dll+0318CB0)
+[RSP+698 ] 0x7FFA65FE47AC     (void* -> KERNELBASE.dll+00247AC)
+[RSP+6A8 ] 0x7FFA17E2A54E     (void* -> Buffout4.dll+004A54E)
+[RSP+6B0 ] 0x7FFA180F8CA0     (void* -> Buffout4.dll+0318CA0)
+[RSP+6C8 ] 0x7FFA180F8CB0     (void* -> Buffout4.dll+0318CB0)
+[RSP+6F0 ] 0x7FFA180F8C00     (void* -> Buffout4.dll+0318C00)
+[RSP+6F8 ] 0x7FFA17E356FB     (void* -> Buffout4.dll+00556FB)
+[RSP+708 ] 0x7FFA17E2ADC6     (void* -> Buffout4.dll+004ADC6)
+[RSP+748 ] 0x7FFA17E2BF65     (void* -> Buffout4.dll+004BF65)
+[RSP+750 ] 0x7FFA180F8CA0     (void* -> Buffout4.dll+0318CA0)
+[RSP+758 ] 0x7FFA180F8CA0     (void* -> Buffout4.dll+0318CA0)
+[RSP+778 ] 0x2B62C84EA50      (char*) "	"
+[RSP+790 ] 0x7FF6D41B7BB0     (void* -> Fallout4.exe+5BE7BB0)
+[RSP+798 ] 0x7FFA17E2C1EC     (void* -> Buffout4.dll+004C1EC)
+[RSP+7C8 ] 0x7FFA24C16480     (void* -> MSVCR110.dll+0036480)
+[RSP+7D8 ] 0x7FFA24C1416E     (void* -> MSVCR110.dll+003416E)
+[RSP+7F8 ] 0x7FF6D01131F9     (void* -> Fallout4.exe+1B431F9)
+[RSP+808 ] 0x7FF6D13DF340     (void* -> Fallout4.exe+2E0F340)
+[RSP+810 ] 0x7FF6D13DF340     (void* -> Fallout4.exe+2E0F340)
+[RSP+818 ] 0x7FF6D41B7BB0     (void* -> Fallout4.exe+5BE7BB0)
+[RSP+828 ] 0x7FF6D0113F5D     (void* -> Fallout4.exe+1B43F5D)
+[RSP+838 ] 0x7FF6D4137580     (void* -> Fallout4.exe+5B67580)
+[RSP+840 ] 0x7FF6D41B7BB0     (void* -> Fallout4.exe+5BE7BB0)
+[RSP+848 ] 0xF52BBEF190       (char*) "GarageHomesAndSensibleSecurity - Main.ba2"
+[RSP+888 ] 0x2B62BF9D900      (void*)
+[RSP+8A8 ] 0x7FF6D014D93A     (void* -> Fallout4.exe+1B7D93A)
+[RSP+8B8 ] 0x7FF6D121BB83     (void* -> Fallout4.exe+2C4BB83)
+[RSP+8C8 ] 0x2B63A1EB100      (BSResource::`anonymous namespace'::LooseFileStream*)
+[RSP+8D0 ] 0x7FF6D13E38C8     (void* -> Fallout4.exe+2E138C8)
+[RSP+8E8 ] 0x7FF6D41D7F20     (BSResource::`anonymous namespace'::GlobalPaths*)
+[RSP+8F0 ] 0x7FF6D121BB83     (void* -> Fallout4.exe+2C4BB83)
+[RSP+8F8 ] 0x7FF6CE6ED319     (void* -> Fallout4.exe+011D319)
+[RSP+900 ] 0x7FF6D121BB83     (void* -> Fallout4.exe+2C4BB83)
+[RSP+910 ] 0x7FF6D1227A60     (char*) "%s%s"
+[RSP+918 ] 0xF52BBEF3C0       (char*) "GarageHomesAndSensibleSecurity"
+[RSP+920 ] 0x7FF6D1226390     (char*) " - Main.ba2"
+[RSP+960 ] 0x0                (size_t)
+[RSP+9A0 ] 0x0                (size_t)
+[RSP+9E0 ] 0x0                (size_t)
+[RSP+A20 ] 0x0                (size_t)
+[RSP+A38 ] 0x7FF6CE6167B2     (void* -> Fallout4.exe+00467B2)
+[RSP+A50 ] 0x7FF6D4137580     (void* -> Fallout4.exe+5B67580)
+[RSP+A58 ] 0x7FFA24CA1630     (void* -> MSVCR110.dll+00C1630)
+[RSP+A98 ] 0x73652E6863000070 (size_t)
+[RSP+AB8 ] 0x7FF6D014F62C     (void* -> Fallout4.exe+1B7F62C)
+[RSP+AC0 ] 0x7FF6D41D7F20     (BSResource::`anonymous namespace'::GlobalPaths*)
+[RSP+AC8 ] 0xF52BBEF570       (char*) "cccrsfo4001-pipcoa.esl"
+[RSP+B08 ] 0x6C73006C         (size_t)
+[RSP+B28 ] 0xF52BBEF3FD       (char*) "MO"
+[RSP+B30 ] 0x7FF6D13E38C8     (void* -> Fallout4.exe+2E138C8)
+[RSP+B38 ] 0x7FF6D014FC81     (void* -> Fallout4.exe+1B7FC81)
+[RSP+B48 ] 0xF52BBEF2A0       (char*) ".esp"
+[RSP+B88 ] 0x7845206465646E65 (size_t)
+[RSP+BA8 ] 0xF52BBEF300       (char*) "p"
+[RSP+BB8 ] 0x7FFA68BE3320     (void* -> ntdll.dll+0053320)
+[RSP+BD0 ] 0xF52BBEF582       (char*) ".esl"
+[RSP+BD8 ] 0x7FFA17E2BF65     (void* -> Buffout4.dll+004BF65)
+[RSP+BE8 ] 0x7FF6D0147B42     (void* -> Fallout4.exe+1B77B42)
+[RSP+BF8 ] 0x7FF6D0151C78     (void* -> Fallout4.exe+1B81C78)
+[RSP+C28 ] 0x7FFA17E2C1EC     (void* -> Buffout4.dll+004C1EC)
+[RSP+C58 ] 0x7FF6D00E1042     (void* -> Fallout4.exe+1B11042)
+[RSP+C60 ] 0xF52BBEF570       (char*) "cccrsfo4001-pipcoa.esl"
+[RSP+C68 ] 0xF52BBEF3C0       (char*) "GarageHomesAndSensibleSecurity"
+[RSP+C88 ] 0x7FF6CF311FC4     (void* -> Fallout4.exe+0D41FC4)
+[RSP+CA8 ] 0x7FF6D1226440     (void* -> Fallout4.exe+2C56440)
+[RSP+CB0 ] 0x7FF6D121A948     (void* -> Fallout4.exe+2C4A948)
+[RSP+CD8 ] 0x7FF6D41D7F01     (void* -> Fallout4.exe+5C07F01)
+[RSP+CE0 ] 0x2B598B5C2F8      (char*) "cccrsfo4001-pipcoa.esl"
+[RSP+CE8 ] 0x7FF6CF30F3ED     (void* -> Fallout4.exe+0D3F3ED)
+[RSP+D28 ] 0x652E617A616C7072 (size_t)
+[RSP+D40 ] 0x2B5E67E7F40      (hkLifoAllocator*)
+[RSP+D48 ] 0x7FF6CFE63A79     (void* -> Fallout4.exe+1893A79)
+[RSP+D50 ] 0x2B5E67E7F40      (hkLifoAllocator*)
+[RSP+D58 ] 0x7FFA180C2200     (Patches::HavokMemorySystemPatch::detail::hkMemorySystem*)
+[RSP+D78 ] 0x7FF6D03A649B     (void* -> Fallout4.exe+1DD649B)
+[RSP+DB8 ] 0x7FF6D038C55D     (void* -> Fallout4.exe+1DBC55D)
+[RSP+DF8 ] 0xB6CF55CD         (size_t)
+[RSP+E18 ] 0xF52BBEF570       (char*) "cccrsfo4001-pipcoa.esl"
+[RSP+E28 ] 0x7FF6CE5F44E3     (void* -> Fallout4.exe+00244E3)
+[RSP+E30 ] 0x2B62C84EA50      (char*) "	"
+[RSP+E38 ] 0x7FF6CF30F022     (void* -> Fallout4.exe+0D3F022)
+[RSP+E40 ] 0x7FF6D1226440     (void* -> Fallout4.exe+2C56440)
+[RSP+E58 ] 0x7FF6D00ED9F4     (void* -> Fallout4.exe+1B1D9F4)
+[RSP+E68 ] 0x7FF6CF3235A9     (void* -> Fallout4.exe+0D535A9)
+[RSP+E70 ] 0x2B5E6C75C60      (`anonymous namespace'::InitGameDataThread*)
+[RSP+E90 ] 0x2B5E6C75C60      (`anonymous namespace'::InitGameDataThread*)
+[RSP+E98 ] 0x7FFA20FBA8AC     (void* -> f4se_1_10_163.dll+000A8AC)
+[RSP+ED0 ] 0x2B5E6C75C60      (`anonymous namespace'::InitGameDataThread*)
+[RSP+EE8 ] 0x7FF6D00ECFED     (void* -> Fallout4.exe+1B1CFED)
+[RSP+F10 ] 0x2B5E6C75C60      (`anonymous namespace'::InitGameDataThread*)
+[RSP+F28 ] 0x7FFA67F7257D     (void* -> KERNEL32.DLL+001257D)
+[RSP+F58 ] 0x7FFA68BEAA78     (void* -> ntdll.dll+005AA78)
+[RSP+F98 ] 0x0                (size_t)
+[RSP+FA8 ] 0x7FFA6611C550     (void* -> KERNELBASE.dll+015C550)
+[RSP+FE8 ] 0x0                (size_t)
+[RSP+1028] 0x0                (size_t)
+[RSP+1068] 0x0                (size_t)
+[RSP+10A8] 0x0                (size_t)
+[RSP+10E8] 0x0                (size_t)
+[RSP+1128] 0x0                (size_t)
+[RSP+1168] 0x0                (size_t)
+[RSP+11A8] 0x0                (size_t)
+[RSP+11E8] 0x0                (size_t)
+[RSP+1228] 0x0                (size_t)
+[RSP+1268] 0x0                (size_t)
+[RSP+12A8] 0x0                (size_t)
+[RSP+12E8] 0x0                (size_t)
+[RSP+1328] 0x0                (size_t)
+[RSP+1368] 0x0                (size_t)
+[RSP+13A8] 0x0                (size_t)
+[RSP+13E8] 0x0                (size_t)
+[RSP+1428] 0x0                (size_t)
+[RSP+1468] 0x0                (size_t)
+[RSP+14A8] 0x0                (size_t)
+[RSP+14E8] 0x0                (size_t)
+[RSP+1528] 0x0                (size_t)
+[RSP+1568] 0x0                (size_t)
+[RSP+15A8] 0x0                (size_t)
+[RSP+15E8] 0x0                (size_t)
+[RSP+1628] 0x0                (size_t)
+[RSP+1668] 0x0                (size_t)
+[RSP+16A8] 0x0                (size_t)
+[RSP+16E8] 0x0                (size_t)
+[RSP+1728] 0x0                (size_t)
+[RSP+1768] 0x0                (size_t)

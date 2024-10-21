@@ -1,0 +1,181 @@
+[0] 0x7FF7308D5CC0 Fallout4.exe+09E5CC0 -> 28088+0x30	mov rax, [rcx+0x20]
+[1] 0x7FF7308D59E5 Fallout4.exe+09E59E5 -> 947232+0x95	mov cl, 0x01
+[2] 0x7FF730C2CF4F Fallout4.exe+0D3CF4F -> 1525013+0x13F	mov [0x00007FF73594F890], rax
+[3] 0x7FF730C26A6E Fallout4.exe+0D36A6E -> 665510+0x9CE	cmp [0x00007FF73595BDA0], r15
+[4] 0x7FF730C25947 Fallout4.exe+0D35947 -> 668528+0x17	test al, al
+[5] 0x7FF732827157 Fallout4.exe+2937157 -> 1104651+0x143	mov [0x00007FF7366247C8], eax
+[6] 0x7FF92FED7374 KERNEL32.DLL+0017374
+[7] 0x7FF930ADCC91    ntdll.dll+004CC91
+
+REGISTERS:
+RAX 0x1                (size_t) [1]
+RCX 0x0                (size_t) [0]
+RDX 0x66696E6E2B8BF2   (size_t) [28826370640153586]
+RBX 0x7FF7359AC110     (void* -> Fallout4.exe+5ABC110	add [rax], al)
+RSP 0x73CDEFFB40       (void*)
+RBP 0x0                (size_t) [0]
+RSI 0x0                (size_t) [0]
+RDI 0x17D22443AF0      (char*) "B"
+R8  0xFFFFFFFF         (size_t) [4294967295]
+R9  0x0                (size_t) [0]
+R10 0x56               (size_t) [86]
+R11 0x57               (size_t) [87]
+R12 0x0                (size_t) [0]
+R13 0x0                (size_t) [0]
+R14 0x9C0              (size_t) [2496]
+R15 0x0                (size_t) [0]
+
+STACK:
+[RSP+0  ] 0x9C0              (size_t) [2496]
+[RSP+8  ] 0x7FF736467CB0     (void* -> Fallout4.exe+6577CB0	out 0x36, eax)
+[RSP+10 ] 0x17D58F27E20      (void*)
+[RSP+18 ] 0x7FF7309D5AA5     (void* -> Fallout4.exe+0AE5AA5	mov rbp, [rsp+0x58])
+[RSP+20 ] 0x0                (size_t) [0]
+[RSP+28 ] 0x0                (size_t) [0]
+[RSP+30 ] 0x1                (size_t) [1]
+[RSP+38 ] 0x7FF731F3CAEB     (void* -> Fallout4.exe+204CAEB	mov rax, rbx)
+[RSP+40 ] 0x7FF732B3A948     (void* -> Fallout4.exe+2C4A948	shl byte ptr [rdx], 0x01)
+[RSP+48 ] 0x73CDEFFA80       (char*) "meshes\Interface/Objects/LoadScreen/LoadScreenTranslucent.nif"
+[RSP+50 ] 0x0                (size_t) [0]
+[RSP+58 ] 0x9C0              (size_t) [2496]
+[RSP+60 ] 0x17D22443AF0      (char*) "B"
+[RSP+68 ] 0x7FF7308D59E5     (void* -> Fallout4.exe+09E59E5	mov cl, 0x01)
+[RSP+70 ] 0x2                (size_t) [2]
+[RSP+78 ] 0x2                (size_t) [2]
+[RSP+80 ] 0x7FF7359AC110     (void* -> Fallout4.exe+5ABC110	add [rax], al)
+[RSP+88 ] 0x2                (size_t) [2]
+[RSP+90 ] 0x0                (size_t) [0]
+[RSP+98 ] 0x3D               (size_t) [61]
+[RSP+A0 ] 0x17D22443AF0      (char*) "B"
+[RSP+A8 ] 0x7FF730C2CF4F     (void* -> Fallout4.exe+0D3CF4F	mov [0x00007FF73594F890], rax)
+[RSP+B0 ] 0x2                (size_t) [2]
+[RSP+B8 ] 0x73CDEFFD30       (void*)
+[RSP+C0 ] 0xA                (size_t) [10]
+[RSP+C8 ] 0xA                (size_t) [10]
+[RSP+D0 ] 0x17D22443130      (void*)
+[RSP+D8 ] 0xA                (size_t) [10]
+[RSP+E0 ] 0x17D22443130      (void*)
+[RSP+E8 ] 0x7FF730C26A6E     (void* -> Fallout4.exe+0D36A6E	cmp [0x00007FF73595BDA0], r15)
+[RSP+F0 ] 0x4230             (size_t) [16944]
+[RSP+F8 ] 0x4230             (size_t) [16944]
+[RSP+100] 0x0                (size_t) [0]
+[RSP+108] 0x0                (size_t) [0]
+[RSP+110] 0x300000000        (size_t) [12884901888]
+[RSP+118] 0x17D54591300      (void*)
+[RSP+120] 0x0                (size_t) [0]
+[RSP+128] 0x0                (size_t) [0]
+[RSP+130] 0x73726573555C3A43 (size_t) [8318823007734479427]
+[RSP+138] 0x4F5C6E616378785C (size_t) [5718566991413409884]
+[RSP+140] 0x5C6576697244656E (size_t) [6657857819397875054]
+[RSP+148] 0x746E656D75636F44 (size_t) [8389754676633104196]
+[RSP+150] 0x6D614720794D5C73 (size_t) [7881659027674717299]
+[RSP+158] 0x6F6C6C61465C7365 (size_t) [8028911400742843237]
+[RSP+160] 0x6C6C61465C347475 (size_t) [7812726408403514485]
+[RSP+168] 0x666572503474756F (size_t) [7378429253319423343]
+[RSP+170] 0x696E692E73       (size_t) [452823953011]
+[RSP+178] 0x7FF732B08670     (void* -> Fallout4.exe+2C18670	add [rax], al)
+[RSP+180] 0x0                (size_t) [0]
+[RSP+188] 0x7FF92E3B055B     (void* -> KERNELBASE.dll+006055B	nop [rax+rax*1], eax)
+[RSP+190] 0x17D539DFF50      (void*)
+[RSP+198] 0x7FF930AB47B1     (void* -> ntdll.dll+00247B1	mov r9d, eax)
+[RSP+1A0] 0xD4D1E36F27D3     (size_t) [233997928966099]
+[RSP+1A8] 0x17D22440000      (void*)
+[RSP+1B0] 0x73CDEFFDB0       (void*)
+[RSP+1B8] 0x7FF8FFCA43B8     (void* -> MSVCR110.dll+00243B8	mov rax, rbx)
+[RSP+1C0] 0x0                (size_t) [0]
+[RSP+1C8] 0x17D224DC9A0      (char*) "0B"
+[RSP+1D0] 0x7FF8BD87F380     (void* -> Buffout4.dll+00CF380	sub rsp, 0x28 |  E:\Documents\source\repos\Buffout4\src\main.cpp:263 ?SHA512@Hash@@YA?AV?$optional@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@V?$span@$$CBW4byte@std@@$0?0@3@@Z)
+[RSP+1D8] 0x7FF92E83F05B     (void* -> ucrtbase.dll+000F05B	test eax, eax)
+[RSP+1E0] 0x4                (size_t) [4]
+[RSP+1E8] 0x7FF8FFCA432B     (void* -> MSVCR110.dll+002432B	mov rbx, rax)
+[RSP+1F0] 0x73CDEFFDB0       (void*)
+[RSP+1F8] 0x301E0            (size_t) [197088]
+[RSP+200] 0x7FF8BD87F380     (void* -> Buffout4.dll+00CF380	sub rsp, 0x28 |  E:\Documents\source\repos\Buffout4\src\main.cpp:263 ?SHA512@Hash@@YA?AV?$optional@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@V?$span@$$CBW4byte@std@@$0?0@3@@Z)
+[RSP+208] 0x7FF8BD89BCAE     (void* -> Buffout4.dll+00EBCAE	lea r11, [rsp+0x70] |  E:\Documents\source\repos\Buffout4\src\main.cpp:278 ?sync@?$basic_filebuf@DU?$char_traits@D@std@@@std@@MEAAHXZ E:\Documents\source\repos\Buffout4\src\main.cpp:266 ?sync@?$basic_filebuf@DU?$char_traits@D@std@@@std@@MEAAHXZ)
+[RSP+210] 0x73CDEFFDB0       (void*)
+[RSP+218] 0x7FF8FFCBCF7F     (void* -> MSVCR110.dll+003CF7F	mov [rbx+0x10], rax)
+[RSP+220] 0x17D4BF42C30      (void*)
+[RSP+228] 0x301E0            (size_t) [197088]
+[RSP+230] 0x7FF8BD87F380     (void* -> Buffout4.dll+00CF380	sub rsp, 0x28 |  E:\Documents\source\repos\Buffout4\src\main.cpp:263 ?SHA512@Hash@@YA?AV?$optional@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@V?$span@$$CBW4byte@std@@$0?0@3@@Z)
+[RSP+238] 0x73CDEFFDE8       (char*) "
+"
+[RSP+240] 0x0                (size_t) [0]
+[RSP+248] 0xA                (size_t) [10]
+[RSP+250] 0x0                (size_t) [0]
+[RSP+258] 0x0                (size_t) [0]
+[RSP+260] 0x0                (size_t) [0]
+[RSP+268] 0x7FF730C25947     (void* -> Fallout4.exe+0D35947	test al, al)
+[RSP+270] 0x17D00000000      (size_t) [1636382539776]
+[RSP+278] 0x70BCE            (size_t) [461774]
+[RSP+280] 0x66E0F7D5         (size_t) [1726019541]
+[RSP+288] 0x17D22447119      (void*)
+[RSP+290] 0x0                (size_t) [0]
+[RSP+298] 0x7FF732827157     (void* -> Fallout4.exe+2937157	mov [0x00007FF7366247C8], eax)
+[RSP+2A0] 0x17D22447118      (char*) """
+[RSP+2A8] 0xA                (size_t) [10]
+[RSP+2B0] 0x0                (size_t) [0]
+[RSP+2B8] 0xA                (size_t) [10]
+[RSP+2C0] 0x0                (size_t) [0]
+[RSP+2C8] 0x17D22447119      (void*)
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x7FF92FED7374     (void* -> KERNEL32.DLL+0017374	mov ecx, eax)
+[RSP+2E0] 0x0                (size_t) [0]
+[RSP+2E8] 0x0                (size_t) [0]
+[RSP+2F0] 0x1                (size_t) [1]
+[RSP+2F8] 0x34BC             (size_t) [13500]
+[RSP+300] 0x0                (size_t) [0]
+[RSP+308] 0x7FF930ADCC91     (void* -> ntdll.dll+004CC91	jmp 0x00007FF930ADCCB3)
+[RSP+310] 0x0                (size_t) [0]
+[RSP+318] 0x0                (size_t) [0]
+[RSP+320] 0x0                (size_t) [0]
+[RSP+328] 0x0                (size_t) [0]
+[RSP+330] 0x0                (size_t) [0]
+[RSP+338] 0x0                (size_t) [0]
+[RSP+340] 0x3563DDB400000000 (size_t) [3847162271868387328]
+[RSP+348] 0x0                (size_t) [0]
+[RSP+350] 0x0                (size_t) [0]
+[RSP+358] 0x7FF92E4832C0     (void* -> KERNELBASE.dll+01332C0	mov [rsp+0x10], rbx)
+[RSP+360] 0x73CDEFEC40       (void*)
+[RSP+368] 0x7FF91B2BEF74000  (size_t) [576339474220793856]
+[RSP+370] 0x7FF91B2BEF74     (size_t) [140707879448436]
+[RSP+378] 0x73CDEFEC40       (void*)
+[RSP+380] 0x7FF930ADCC70     (void* -> ntdll.dll+004CC70	sub rsp, 0x78)
+[RSP+388] 0x0                (size_t) [0]
+[RSP+390] 0x0                (size_t) [0]
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A0] 0x0                (size_t) [0]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D0] 0x0                (size_t) [0]
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E0] 0x0                (size_t) [0]
+[RSP+3E8] 0x0                (size_t) [0]
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+400] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+430] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+440] 0x0                (size_t) [0]
+[RSP+448] 0x0                (size_t) [0]
+[RSP+450] 0x0                (size_t) [0]
+[RSP+458] 0x0                (size_t) [0]
+[RSP+460] 0x0                (size_t) [0]
+[RSP+468] 0x0                (size_t) [0]
+[RSP+470] 0x0                (size_t) [0]
+[RSP+478] 0x0                (size_t) [0]
+[RSP+480] 0x0                (size_t) [0]
+[RSP+488] 0x0                (size_t) [0]
+[RSP+490] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A0] 0x0                (size_t) [0]
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B0] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]

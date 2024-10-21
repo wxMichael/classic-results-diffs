@@ -1,0 +1,260 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     HUDFramework.esm
+[09]     WorkshopFramework.esm
+[0A]     XDI.esm
+[0B]     PANPC.esm
+[0C]     PACE.esm
+[0D]     SS2.esm
+[0E]     SS2_XPAC_Chapter2.esm
+[0F]     SS2_XPAC_Chapter3.esm
+[10]     AAF.esm
+[11]     FO4LODGen.esp
+[12]     FOLIP - After Generation.esp
+[13]     FO4LODGen-DLCCoast-WindTurbines.esp
+[14]     FO4LODGen-DLCCoast.esp
+[15]     FO4LODGen-DLCNukaWorld.esp
+[16]     FO4LODGen-DLCWorkshop03.esp
+[17]     FO4LODGen-FullModelLOD.esp
+[18]     FO4LODGen-HighTrees.esp
+[19]     PiperCaitCurieDialogueOverhaul.esp
+[1A]     UltraInteriorLighting.esp
+[1B]     DCVendorClutter.esp
+[1C]     ENBLightsHDRPatch.esp
+[1D]     NAC.esp
+[1E]     EquilibriumWeapons.esp
+[1F]     Reverb and Ambiance Overhaul.esp
+[20]     FO4R.esp
+[21]     SPTFIRE-ALLDLC.esp
+[22]     SS2Extended.esp
+[23]     CrimeTown.esp
+[24]     Wasteland Illumination.esp
+[25]     PACE - Less Combat Chatter.esp
+[26]     TrainBar.esp
+[27]     DeadAirplane.esp
+[28]     W.A.T.Minutemen.esp
+[29]     PlaneWreck.esp
+[2A]     AtomCatGarage.esp
+[2B]     BetterOpenSeason.esp
+[2C]     Nuka World Bottle Fix.esp
+[2D]     SSTDetailedBunkers.esp
+[2E]     3dscopes-replacer.esp
+[2F]     WestTek.esp
+[30]     UFOCrashSite.esp
+[31]     VUWR.esp
+[32]     AttachPack.esp
+[33]     ballisticproject2k.esp
+[34]     dD-Enhanced Blood Basic.esp
+[35]     EAMR.esp
+[36]     ELFX_ENBLight_Patch.esp
+[37]     MachineKitRedux.esp
+[38]     NAC-NW.esp
+[39]     NAC-FH.esp
+[3A]     RAW INPUT.esp
+[3B]     SettlementMenuManager.esp
+[3C]     Complex Vendors.esp
+[3D]     DLC Timing.esp
+[3E]     EasyHacking.esp
+[3F]     Faster Terminal Displays (20x).esp
+[40]     NPC Accuracy Revised.esp
+[41]     QuickTrade.esp
+[42]     Journey.esp
+[43]     _Balance_.esp
+[44]     PANPC - Explosion Responses.esp
+[45]     PANPC - Trap Alerts.esp
+[46]     BF1 Animations - Double Barrel Shotgun v2.3.esp
+[47]     oDo_Reanimated_LaserPistol.esp
+[48]     AKSounds.esp
+[49]     AnimChemRedux.esp
+[4A]     Assault Rifle Reanimated.esp
+[4B]     Laser Weapon Reanimated.esp
+[4C]     FO4R-RHAK.esp
+[4D]     FO4R-LWR.esp
+[4E]     CROSS_GoreCrits.esp
+[4F]     CROSS_GoreCrits_FarHarborPatch.esp
+[50]     Diamond City Guards REDUX.esp
+[51]     FO4 NPCs Travel.esp
+[52]     KSHairsFemsheppingRadbeetle.esp
+[53]     AzarPonytailHairstyles.esp
+[54]     Lots More Male Hairstyles.esp
+[55]     MiscHairstyle.esp
+[56]     MoreBeards.esp
+[57]     MoreHairstyles4Female.esp
+[58]     MoreHairstyles4Male.esp
+[59]     KSHairdos_oel.esp
+[5A]     LookingStranger.esp
+[5B]     Lots More Facial Hair.esp
+[5C]     Cooking Overhaul.esp
+[5D]     SCM.esp
+[5E]     Better Cooking.esp
+[5F]     GCM.esp
+[60]     NPCs Use Items.esp
+[61]     This is MY Bed (Basic).esp
+[62]     LooksMenu.esp
+[63]     BetterSettlers.esp
+[64]     BetterSettlersNoLollygagging.esp
+[65]     ImmersiveAnimationFramework.esp
+[66]     ImprovedMinutemenEncounters.esp
+[67]     Realistic_conversations.esp
+[68]     The Eyes Of Beauty.esp
+[69]     ImprovedBoSEncounters.esp
+[6A]     ImprovedInstituteEncounters.esp
+[6B]     ImprovedRREncounters.esp
+[6C]     SS2_CityPlanPack_RiseOfTheCommonwealth.esp
+[6D]     DiamondCityAutoClose.esp
+[6E]     SalvageBeacons.esp
+[6F]     TrueGrass.esp
+[70]     Skip DIMA memories.esp
+[71]     SF Covenant.esp
+[72]     TheEyesOfBeauty.esp
+[73]     UniquePipboy.esp
+[74]     Dilapidated Roads - Faded.esp
+[75]     Gritty Subway Stations.esp
+[76]     Langleys HD Texture Workshop.esp
+[77]     Durable Vehicles.esp
+[78]     Fallout 4 AI Overhaul - NAC X Legacy Patch.esp
+[79]     RaiderFaceVariety_2.0.esp
+[7A]     TrapperFaceVariety.esp
+[7B]     detailedferalghouls.esp
+[7C]     Better Landscape Grass.esp
+[7D]     SKKFastStartNewGame.esp
+[7E]     EnhancedLightsandFX.esp
+[7F]     Vivid Waters.esp
+[FE:000] BakaFramework.esm
+[FE:001] CanarySaveFileMonitor.esl
+[FE:002] dpjetandxcell.esl
+[FE:003] flamerproject2k.esl
+[FE:004] huntingrifleset2k.esl
+[FE:005] PPF.esm
+[FE:006] Community Fixes Merged.esp
+[FE:007] nukaproject.esl
+[FE:008] ODT - Raider Armors Retextured.esl
+[FE:009] REFramework.esm
+[FE:00A] LIF.esl
+[FE:00B] Loot Detector.esl
+[FE:00C] LootDetector_Expansion.esl
+[FE:00D] IceStormsHair.esl
+[FE:00E] GCM_DLC_Automatron.esl
+[FE:00F] GCM_DLC_Far_Harbor.esl
+[FE:010] SwimmingAnims.esl
+[FE:011] RunningWithHandsAnim.esl
+[FE:012] SSTImposingGunnerSkulls.esl
+[FE:013] Dilapidated Roads - Faded.esl
+[FE:014] Military Vehicles Retextured.esl
+[FE:015] SSTNoSmolderingTurrets.esl
+[FE:016] SSTRetexThicketExcavationSign.esl
+[FE:017] Wana_ScrewdriverReplacer.esl
+[FE:018] dppsychoandmedx.esl
+[FE:019] SavrenX HD Vanilla Armor.esp
+[FE:01A] SavrenX HD Vanilla Clothes Optimized.esp
+[FE:01B] SavrenXCreaturesPackDlcREDONE.esp
+[FE:01C] SavrenXBetterRobotHDLibertyPrime.esp
+[FE:01D] SavrenXHdDlcPowerArmor.esp
+[FE:01E] SavrenX HD DLC Armor and Clothes.esp
+[FE:01F] SavrenXFoodAndFoodware.esp
+[FE:020] SavrenXPropsAndJunk.esp
+[FE:021] FOLIP - New LODs.esp
+[FE:022] FO4ParticlePatch.esp
+[FE:023] WhoIsTheGeneral.esp
+[FE:024] WestonWaterLOD.esp
+[FE:025] WestTek_Tweaks.esp
+[FE:026] AntiqueGauss.esp
+[FE:027] Blasted Billboards.esp
+[FE:028] LeverActionRetexture.esp
+[FE:029] M8rDisablePipboyEffects.esp
+[FE:02A] Makeshifttextures.esp
+[FE:02B] No More Fake Puddles - Nuka World 1-0.esp
+[FE:02C] Seen some 2k shit - Pulowski Shelter.esp
+[FE:02D] Seriousreconscope.esp
+[FE:02E] VeryZenDecals.esp
+[FE:02F] VWR - 44 Magnum.esp
+[FE:030] wornplastic.esp
+[FE:031] Engaging Loot of the Commonwealth.esp
+[FE:032] SimpleImpact.esp
+[FE:033] SimplePowerArmorReductionSystem.esp
+[FE:034] StopAttacks.esp
+[FE:035] NAC-RemoveMenuItem.esp
+[FE:036] 10mmAnimsNoTR.esp
+[FE:037] 10mmAnimsSTS.esp
+[FE:038] CovertSidearmVVSounds.esp
+[FE:039] GaussRifleVVSounds.esp
+[FE:03A] HuntingRifle.esp
+[FE:03B] RadRifleReload.esp
+[FE:03C] Reanimated Stimpack Sounds.esp
+[FE:03D] VVKnifeAnims.esp
+[FE:03E] VVKnifeAnimsNukaWorld.esp
+[FE:03F] Radium.esp
+[FE:040] Faded Glory - Soundtrack Expansion.esp
+[FE:041] Dank_FadedGlory_Radium.esp
+[FE:042] PRP-SS2-Fixes-Ch2.esp
+[FE:043] TerrainUndersides.esp
+[FE:044] SF Beards N Staches.esp
+[FE:045] IAF - Far Harbor & Nuka World.esp
+[FE:046] Fallout 4 AI Overhaul.esp
+[FE:047] SF BOS.esp
+[FE:048] ImprovedBoSBoss.esp
+[FE:049] ImprovedInstituteBoss.esp
+[FE:04A] SF Railroad.esp
+[FE:04B] ImprovedRRBoss.esp
+[FE:04C] RustyFaceFixRedux.esp
+[FE:04D] PRP-SS2-Fixes-Ch1.esp
+[FE:04E] Weapon Scrapping Redone.esp
+[FE:04F] SCOURGE - Vanilla.esp
+[FE:050] SCOURGE - Nuka World.esp
+[FE:051] SCOURGE - Far Harbor.esp
+[FE:052] SCOURGE - Automatron.esp
+[FE:053] SunLightAlignment.esp
+[FE:054] freefov.esp
+[FE:055] freefovpowerarmor.esp
+[FE:056] SF Triggermen.esp
+[FE:057] SF Merchants.esp
+[FE:058] SF Institute.esp
+[FE:059] SF Gunners.esp
+[FE:05A] SF Goodneighbor.esp
+[FE:05B] SF Diamond City.esp
+[FE:05C] SF Coursers.esp
+[FE:05D] SF Companions AIO.esp
+[FE:05E] SF Automatron.esp
+[FE:05F] SF Atom Cats.esp
+[FE:060] NACskintonefix.esp
+[FE:061] RB_SynthkindRedefined.esp
+[FE:062] RB_SynthkindRedefined_Valentine_Wardrobe_Addon.esp
+[FE:063] 10mmAnimsWT.esp
+[FE:064] Perception Bug Fix Redux.esp
+[FE:065] VWR - Explosives.esp
+[FE:066] Far Harbor 3d Tree LODs.esp
+[FE:067] Optimized Vanilla Tree LODs.esp
+[FE:068] LC's UHD Bloatfly.esp
+[FE:069] LC's UHD Bloodrage Mirelurk.esp
+[FE:06A] LC's UHD Brahmin.esp
+[FE:06B] LC's UHD Brahmin Skull.esp
+[FE:06C] LC's UHD Deathclaw.esp
+[FE:06D] LC's UHD Feral Ghoul Apparel.esp
+[FE:06E] LC's UHD Fountain Statue.esp
+[FE:06F] LC's UHD Gatorclaw.esp
+[FE:070] LC's UHD Kirby Head Statue.esp
+[FE:071] LC's UHD Mirelurk King.esp
+[FE:072] LC's UHD Mirelurk Queen.esp
+[FE:073] LC's UHD Mutant Hound.esp
+[FE:074] LC's UHD Pickman's Paintings.esp
+[FE:075] LC's UHD Radroach.esp
+[FE:076] LC's UHD Skeleton Wardrobe.esp
+[FE:077] LC's UHD Skeletons.esp
+[FE:078] LC's UHD Stingwing.esp
+[FE:079] LC's UHD Vault-Tec Statues.esp
+[FE:07A] Luxor's Vertibirds 4k.esp
+[FE:07B] VeryZen_DarkCaves2k.esp
+[FE:07C] ZenTrash_Dirty_2k.esp
+[FE:07D] Fallout 4 AI Overhaul - Better Goodneighbor Patch.esp
+[FE:07E] oHDTP - defined Hightech Floor Tiles 2K - Textures.esp
+[FE:07F] PRP.esp
+[FE:080] PRP-SS2.esp
+[FE:081] PRP-Compat-UIL.esp
+[FE:082] PRP-SS2-Ch3-CR.esp
+[FE:083] ELFX-PreVis.esp

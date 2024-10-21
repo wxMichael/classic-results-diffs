@@ -1,0 +1,236 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     cctosfo4001-neosky.esm
+[08]     cctosfo4002_neonflats.esm
+[09]     Unofficial Fallout 4 Patch.esp
+[0A]     XDI.esm
+[0B]     WorkshopFramework.esm
+[0C]     HUDFramework.esm
+[0D]     CWPointLookoutFO4.esm
+[0E]     SettlementKeywords.esm
+[0F]     TrueStormsFO4.esm
+[10]     Endless Warfare.esm
+[11]     ProjectHelljumper.esm
+[12]     ExtendedWeaponSystem.esm
+[13]     TacticalReload.esm
+[14]     WeaponsFramework.esm
+[15]     Robot Home Defence.esm
+[16]     Armament.esp
+[17]     the library.esp
+[18]     The House.esp
+[19]     Miami Misadventures EP1.esp
+[1A]     WilkesEstate.esp
+[1B]     Phase4DLC.esp
+[1C]     3DNPC_FO4.esp
+[1D]     FarHarborStory.esp
+[1E]     BetterFarHarbor_Open.esp
+[1F]     OldTimeReligion.esp
+[20]     Children of Ug Qualtoth.esp
+[21]     KellyManor.esp
+[22]     Rsiyo'sLocationPack.esp
+[23]     LimaOutpost.esp
+[24]     Firelance2.5.esp
+[25]     Natural Grasses & Groundcovers.esp
+[26]     PD_LowerWeapon.esp
+[27]     Eli_Armour_Compendium.esp
+[28]     BetterSettlers.esp
+[29]     RecruitableSettlers.esp
+[2A]     DLC Timing.esp
+[2B]     [ARRETH] FGEP.esp
+[2C]     Scopes.esp
+[2D]     LooksMirror.esp
+[2E]     LooksMenu.esp
+[2F]     MoreVariedBodyShapesAndSkins.esp
+[30]     PhotoMode.esp
+[31]     SettlementMenuManager.esp
+[32]     CheatTerminal.esp
+[33]     3DNPC_FO4Settler.esp
+[34]     RecruitableSettlersFH.esp
+[35]     FO4 NPCs Travel.esp
+[36]     TheEyesOfBeauty.esp
+[37]     Better Manufacturing.esp
+[38]     DLC items to manufacturing.esp
+[39]     DarkerNights.esp
+[3A]     GCM.esp
+[3B]     ImmersiveVendors.esp
+[3C]     LooksMenu Customization Compendium.esp
+[3D]     ManufacturingExtended.esp
+[3E]     OCDecorator.esp
+[3F]     RealNameSettlers.esp
+[40]     The Eyes Of Beauty.esp
+[41]     Vault-Tec Workshop Overhaul Redux.esp
+[42]     RNS-WSFW-CompPatch.esp
+[43]     KSHairdos.esp
+[44]     WorkingNCMachine.esp
+[45]     Mark V[B] Redux.esp
+[46]     AllSetsExtended.esp
+[47]     super cas sanctuary and rr startup.esp
+[48]     A Forest.esp
+[49]     Red Rocket Settlements.esp
+[4A]     Convenient Bridges.esp
+[4B]     ECO.esp
+[4C]     jsrs.esp
+[4D]     W.A.T.Minutemen.esp
+[4E]     NAC.esp
+[4F]     MisriahArmory.esp
+[50]     MM-ODST.esp
+[51]     Destiny2Scout+PulseRifle.esp
+[52]     Glock19x.esp
+[53]     MWHitFx.esp
+[54]     PKMnv.esp
+[55]     SKKDynamicDamageManager.esp
+[56]     MA37.esp
+[57]     TakeCover.esp
+[58]     PIP-Pad.esp
+[59]     octi_taticaloutfit.esp
+[5A]     ProjectHelljumper.esp
+[5B]     [MW2R] Shadow Company.esp
+[5C]     fasthelmet.esp
+[5D]     3dscopes-replacer.esp
+[5E]     MWM4.esp
+[5F]     Destiny2Ports.esp
+[60]     AA_Destiny_GhostShells.esp
+[61]     MWAUG.esp
+[62]     mk14.esp
+[63]     Type-25 Alpha.esp
+[64]     MK18.esp
+[65]     AER15.esp
+[66]     BH_MCX_Spear.esp
+[67]     _00Stingray.esp
+[68]     SkipDiMAMemories.esp
+[69]     StartMeUp.esp
+[6A]     EnhancedLightsandFX.esp
+[6B]     SettleObjExpandPack.esp
+[6C]     OCDecoratorDLC.esp
+[6D]     tschutschiWardrobe2.esp
+[6E]     Vault88 - Essentials.esp
+[6F]     Realistic_conversations.esp
+[70]     Mors Shortcut to Curie.esp
+[71]     Eli_Immersive Coffee Mod 9000 GTX French Roast.esp
+[72]     Backpacks of the Commonwealth.esp
+[73]     ellen.esp
+[74]     0_Vault120.esp
+[FE:000] ccbgsfo4001-pipboy(black).esl
+[FE:001] ccbgsfo4042-bfg.esl
+[FE:002] ccfsvfo4001-modularmilitarybackpack.esl
+[FE:003] ccfsvfo4002-midcenturymodern.esl
+[FE:004] ccfsvfo4003-slocum.esl
+[FE:005] ccgcafo4003-factionws03bos.esl
+[FE:006] ccgcafo4008-factionws08inst.esl
+[FE:007] ccgcafo4009-factionws09mm.esl
+[FE:008] ccgcafo4010-factionws10rr.esl
+[FE:009] ccgcafo4013-factionas02bos.esl
+[FE:00A] cceejfo4002-nuka.esl
+[FE:00B] cckgjfo4001-bastion.esl
+[FE:00C] ccqdrfo4001_powerarmorai.esl
+[FE:00D] ccbgsfo4040-vrworkshop01.esl
+[FE:00E] ccfsvfo4005-vrdesertisland.esl
+[FE:00F] ccfsvfo4006-vrwasteland.esl
+[FE:010] ccfsvfo4004-vrworkshopgnrplaza.esl
+[FE:011] ccgcafo4025-pagunmm.esl
+[FE:012] cccrsfo4001-pipcoa.esl
+[FE:013] BlairResidence.esl
+[FE:014] ConfigurableHotkeys.esl
+[FE:015] FOVSlider.esl
+[FE:016] CWPointLookoutFO4Patch.esl
+[FE:017] GCM_DLC_Far_Harbor.esl
+[FE:018] GCM_DLC_Automatron.esl
+[FE:019] M84FlashBang.esl
+[FE:01A] Skb_MachinegunsRebirth.esl
+[FE:01B] Natural Landscapes.esl
+[FE:01C] NukaTownTraderMoreItems.esl
+[FE:01D] NukaWorldOpenSeasonExtend.esl
+[FE:01E] QuestTweaks-DLC04MS01.esl
+[FE:01F] luxor8071 HD Texture Pack AIO.esl
+[FE:020] Legendary, rearmed.esl
+[FE:021] MTM-GardenTerraceCeilingFixedByMonorail.esl
+[FE:022] MTM-NukaTownEastArchwayFix.esl
+[FE:023] Rusty Face Fix.esl
+[FE:024] HiPolyFacesCompanionPlugin.esl
+[FE:025] 3dscopes-nightvision.esl
+[FE:026] CBBE.esp
+[FE:027] RansackedRelay.esp
+[FE:028] XG_CabotHouse_Enhanced_Quests.esp
+[FE:029] Fallout 4 Ultimate Window Overhaul.esp
+[FE:02A] FlaconOil_BA2_Upto4K_Part2.esp
+[FE:02B] SavrenXFoodAndFoodware.esp
+[FE:02C] SavrenXHDSettlementAndSetDressingDLC.esp
+[FE:02D] SavrenXHDSettlementAndSetDressing.esp
+[FE:02E] SavrenXPropsAndJunk.esp
+[FE:02F] SavrenXSynthHD.esp
+[FE:030] SavrenXLandscapeInteriorBuildingDLC.esp
+[FE:031] WET.esp
+[FE:032] Fixed Gobo Effects.esp
+[FE:033] FlaconOil_BA2_Upto4K_Part3.esp
+[FE:034] Langleys HD Texture Workshop.esp
+[FE:035] Ownership Fixes.esp
+[FE:036] BetterSettlersCleanFacePack.esp
+[FE:037] BetterSettlersNoLollygagging.esp
+[FE:038] DarkerNightsDetection.esp
+[FE:039] GatlingLaserAmmoFix.esp
+[FE:03A] OldTimeReligion-Legendary.esp
+[FE:03B] SkipHSH1_6.esp
+[FE:03C] Terminal Color Separator - Lite.esp
+[FE:03D] Flicker Fixer.esp
+[FE:03E] PerceptionBugFix.esp
+[FE:03F] General Atomics Fix.esp
+[FE:040] ss2c23dnpcpatch.esp
+[FE:041] Better Manufacturing - Menu Organization.esp
+[FE:042] Better Manufacturing - Manufacturing Extended Expanded Patch WO.esp
+[FE:043] DCRE.esp
+[FE:044] [ARRETH] NoExploderKnowckdown.esp
+[FE:045] No More Fake Puddles - Nuka World 1-0.esp
+[FE:046] NPCSTRAVELFIXES.esp
+[FE:047] luxor8071 HD Texture Pack AIO.esp
+[FE:048] Legendary, rearmed - Sorter.esp
+[FE:049] Quieter Settlements - Contraptions.esp
+[FE:04A] Quieter Settlements - Vanilla.esp
+[FE:04B] Quieter Settlements - Wasteland Workshop.esp
+[FE:04C] HiPolyFaces.esp
+[FE:04D] AmmoCounterFramework.esp
+[FE:04E] ECO_ArmorOverrides.esp
+[FE:04F] BOS1 (hardcore).esp
+[FE:050] Thaylar's Clothing & Armor 4k Repacked BA2.esp
+[FE:051] JSRS_Regions.esp
+[FE:052] ECO_INNRoverride.esp
+[FE:053] MWHitFX - Automatron Patch.esp
+[FE:054] VertibirdMissiles.esp
+[FE:055] NewRecipes.esp
+[FE:056] NewRecipesFH.esp
+[FE:057] NewRecipesNW.esp
+[FE:058] PIP-Pad_LMCC.esp
+[FE:059] RussianStimpack.esp
+[FE:05A] No_BloodWorm_MoleRats_Scorpion_Teleport-BugFix.esp
+[FE:05B] advsettleturretset.esp
+[FE:05C] pylonscheap.esp
+[FE:05D] NAC-FH.esp
+[FE:05E] NAC-NW.esp
+[FE:05F] Modern Weapon Replacer - MWM4 M4A1 - Laser Guns.esp
+[FE:060] Modern Weapon Replacer - MWM4 M4A1 - Combat Rifles.esp
+[FE:061] Modern Weapon Replacer - MWM4 M4A1 - Assault Rifles.esp
+[FE:062] Modern Weapon Replacer - MWM4 M4A1 - Institute Guns.esp
+[FE:063] Modern Weapon Replacer - MWM4 M4A1 - Plasma Guns.esp
+[FE:064] Modern Weapon Replacer - MWM4 M4A1 - Laser Muskets.esp
+[FE:065] FGEP-Legendary.esp
+[FE:066] Miami Misadventures EP1 - eXoPatch.esp
+[FE:067] BostonFPSFixAIO.esp
+[FE:068] 3DNPC_FO4[Previsibines].esp
+[FE:069] Pip-Boy Flashlight.esp
+[FE:06A] PIP-Pad_Pip-BoyFlashlight.esp
+[FE:06B] Consistent Power Armor Overhaul.esp
+[FE:06C] No Aggro Impact Landing.esp
+[FE:06D] RedShiftPowerArmor.esp
+[FE:06E] Scrap Everything - Ultimate Edition.esp
+[FE:06F] Realistic Death Physics - ALL DLC.esp
+[FE:070] Skip DIMA memories.esp
+[FE:071] ImmersiveAnimationFramework.esp
+[FE:072] Nability - IAF Tales from the Commonwealth Patch.esp
+[FE:073] IAF - Far Harbor & Nuka World.esp
+[FE:074] OCDispenser.esp
+[FE:075] RBValentineJawSync.esp
+[FE:076] PRP-Vault120.esp

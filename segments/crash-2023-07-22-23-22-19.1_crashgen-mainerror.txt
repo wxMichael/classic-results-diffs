@@ -1,0 +1,4 @@
+Buffout 4 v1.31.1 Feb 28 2023 00:32:02
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF7AC5D29B8 Fallout4.exe+27D29B8	mov eax, [rcx+0xB0] 
+  BSFadeNode::MergeWorldBounds(void)_27D29B8)

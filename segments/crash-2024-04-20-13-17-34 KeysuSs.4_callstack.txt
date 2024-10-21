@@ -1,0 +1,106 @@
+[0] 0x7FF692F26605 Fallout4.exe+1AD6605	cmp qword ptr [rbx+0x10], 0x00 |  BSTScatterTableBase<BSTScatterTableTraits<uint,NiPointer<NiAVObject>,BSTScatterTableDefaultKVStorage,BSTScatterTableDefaultHashPolicy<uint>,BSTScatterTableHeapAllocator<BSTScatterTableEntry<uint,NiPointer<NiAVObject>,BSTScatterTableDefaultKVStorage>>,8>>::ConditionalRemoveImpl<_lambda_037b8cc2a7e1f195f0308f289d35efbc_>(_lambda_037b8cc2a7e1f195f0308f289d35efbc_&)_1AD6605 -> 1181461+0x35	cmp qword ptr [rbx+0x10], 0x00
+[1] 0x7FF692F21157 Fallout4.exe+1AD1157	mov rcx, r14 |  BSAudioManager::ProcessSoundUpdates(void)_1AD1157 -> 620180+0x637	mov rcx, r14
+[2] 0x7FF692F24135 Fallout4.exe+1AD4135	mov rax, [0x00007FF696F5D208] |  BSAudioManagerThread::ThreadProc(void)_1AD4135 -> 225971+0x45	mov rax, [0x00007FF696F5D208]
+[3] 0x7FF692F6CFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF696FABD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF696FABD38]
+[4] 0x7FFB7EE87344 KERNEL32.DLL+0017344
+[5] 0x7FFB7F1C26B1    ntdll.dll+00526B1
+
+REGISTERS:
+RCX 0x245AB8D1140      (BSXAudio2Audio*)
+RBX 0x461C4000FFFFFFFF (size_t) [5051983255041998847]
+RBP 0xA89E92FC80       (void*)
+RDI 0x2                (size_t) [2]
+R9  0x461C4000FFFFFFFF (size_t) [5051983255041998847]
+R11 0x247C31E8A90      (void*)
+R13 0x245AB8D1140      (BSXAudio2Audio*)
+R15 0x9C0              (size_t) [2496]
+
+STACK:
+[RSP+0  ] 0x2461658A650      (BSXAudio2GameSound*)
+[RSP+8  ] 0x7FF692F4C128     (void* -> Fallout4.exe+1AFC128	xor edx, edx |  BSXAudio2GameSound::GetCurrentPlaybackSamples(void)_1AFC128)
+[RSP+10 ] 0x245BD037880      (BSXAudio2DataSrc*)
+[RSP+18 ] 0x7FF692F3F5F2     (void* -> Fallout4.exe+1AEF5F2	test al, al |  BSGameSound::Update(void)_1AEF5F2)
+[RSP+20 ] 0x245B9E51A40      (BSXAudio2DataSrc*)
+[RSP+30 ] 0x0                (size_t) [0]
+[RSP+40 ] 0x0                (size_t) [0]
+[RSP+50 ] 0x2                (size_t) [2]
+[RSP+58 ] 0x7FF692F4C1CC     (void* -> Fallout4.exe+1AFC1CC	mov edx, eax |  BSXAudio2GameSound::GetCurrentPlaybackPosition(void)_1AFC1CC)
+[RSP+60 ] 0x245ED64E640      (ScrapHeap*)
+[RSP+70 ] 0x0                (size_t) [0]
+[RSP+80 ] 0x2F               (size_t) [47]
+[RSP+88 ] 0x7FF692F21157     (void* -> Fallout4.exe+1AD1157	mov rcx, r14 |  BSAudioManager::ProcessSoundUpdates(void)_1AD1157)
+[RSP+98 ] 0xA89E92FCC0       (void*)
+[RSP+A8 ] 0x2                (size_t) [2]
+[RSP+B8 ] 0x246EFF60010      (void*)
+[RSP+C0 ] 0x245ED64E640      (ScrapHeap*)
+[RSP+D0 ] 0xA89E92FBB8       (void*)
+[RSP+E0 ] 0x0                (size_t) [0]
+[RSP+F0 ] 0x0                (size_t) [0]
+[RSP+100] 0x245ED64DD20      (void*)
+[RSP+110] 0x245ED64E640      (ScrapHeap*)
+[RSP+120] 0x246EFF60110      (void*)
+[RSP+130] 0x0                (size_t) [0]
+[RSP+140] 0x246EFF60010      (void*)
+[RSP+150] 0x0                (size_t) [0]
+[RSP+160] 0x0                (size_t) [0]
+[RSP+170] 0x0                (size_t) [0]
+[RSP+180] 0x0                (size_t) [0]
+[RSP+190] 0x0                (size_t) [0]
+[RSP+1A0] 0x0                (size_t) [0]
+[RSP+1B0] 0x0                (size_t) [0]
+[RSP+1B8] 0x245AB9D5E78      (BSAudioManagerThread*)
+[RSP+1C8] 0x7FF692F24135     (void* -> Fallout4.exe+1AD4135	mov rax, [0x00007FF696F5D208] |  BSAudioManagerThread::ThreadProc(void)_1AD4135)
+[RSP+1D8] 0xB333B4FD         (size_t) [3006510333]
+[RSP+1E8] 0x246EFF60010      (void*)
+[RSP+1F0] 0x245AB9D5E78      (BSAudioManagerThread*)
+[RSP+1F8] 0x7FF692F6CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF696FABD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+208] 0xA89E92FD10       (void*)
+[RSP+218] 0x0                (size_t) [0]
+[RSP+220] 0x245AB9D5E78      (BSAudioManagerThread*)
+[RSP+230] 0x0                (size_t) [0]
+[RSP+238] 0x7FFB7EE87344     (void* -> KERNEL32.DLL+0017344	mov ecx, eax)
+[RSP+248] 0x0                (size_t) [0]
+[RSP+258] 0x0                (size_t) [0]
+[RSP+268] 0x7FFB7F1C26B1     (void* -> ntdll.dll+00526B1	jmp 0x00007FFB7F1C26D3)
+[RSP+278] 0x0                (size_t) [0]
+[RSP+288] 0x0                (size_t) [0]
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A8] 0x0                (size_t) [0]
+[RSP+2B8] 0x7FFB7C9DDFB0     (void* -> KERNELBASE.dll+012DFB0	mov [rsp+0x10], rbx)
+[RSP+2C8] 0x3FFDB6B8D90480   (size_t) [18011884759876736]
+[RSP+2D8] 0xA89E92EC40       (void*)
+[RSP+2E8] 0x0                (size_t) [0]
+[RSP+2F8] 0x0                (size_t) [0]
+[RSP+308] 0x0                (size_t) [0]
+[RSP+318] 0x0                (size_t) [0]
+[RSP+328] 0x0                (size_t) [0]
+[RSP+338] 0x0                (size_t) [0]
+[RSP+348] 0x0                (size_t) [0]
+[RSP+358] 0x0                (size_t) [0]
+[RSP+368] 0x0                (size_t) [0]
+[RSP+378] 0x0                (size_t) [0]
+[RSP+388] 0x0                (size_t) [0]
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E8] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+448] 0x0                (size_t) [0]
+[RSP+458] 0x0                (size_t) [0]
+[RSP+468] 0x0                (size_t) [0]
+[RSP+478] 0x0                (size_t) [0]
+[RSP+488] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]

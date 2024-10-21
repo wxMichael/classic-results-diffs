@@ -1,0 +1,463 @@
+[ 0] 0x7FF739AFCC1F Fallout4.exe+128CC1F -> 1006347+0x34F
+[ 1] 0x7FF739AFD8E5 Fallout4.exe+128D8E5 -> 309422+0x235
+[ 2] 0x7FF739AFA5E8 Fallout4.exe+128A5E8 -> 475804+0xC8
+[ 3] 0x7FF73A8B5D75 Fallout4.exe+2045D75 -> 163562+0xB5
+[ 4] 0x7FF73A8B380A Fallout4.exe+204380A -> 1056045+0x5A
+[ 5] 0x7FF7395ACD43 Fallout4.exe+0D3CD43 -> 408683+0x163
+[ 6] 0x7FF7395A8906 Fallout4.exe+0D38906 -> 1075087+0x206
+[ 7] 0x7FF7395A9551 Fallout4.exe+0D39551 -> 633524+0x6F1
+[ 8] 0x7FF7395A6E10 Fallout4.exe+0D36E10 -> 1125396+0xC0
+[ 9] 0x7FF7395A5950 Fallout4.exe+0D35950 -> 668528+0x20
+[10] 0x7FF73B1A7157 Fallout4.exe+2937157 -> 1104651+0x143
+[11] 0x7FF92102244D KERNEL32.DLL+001244D
+[12] 0x7FF921E6DF88    ntdll.dll+005DF88
+
+REGISTERS:
+RAX 0x0                (size_t)
+RCX 0x251BAC971C0      (void*)
+RDX 0x80000000         (size_t)
+RBX 0xFFFFFFFF         (size_t)
+RSP 0xA0013AF4B0       (void*)
+RBP 0xA0013AF5B0       (void*)
+RSI 0x0                (size_t)
+RDI 0x25395789710      (Inventory3DManager*)
+R8  0xD60B0003         (size_t)
+R9  0xA0013AF400       (void*)
+R10 0x7FF73E3D7580     (void* -> Fallout4.exe+5B67580)
+R11 0xA0013AF360       (void*)
+R12 0x0                (size_t)
+R13 0x6DF0B1A41758BDED (size_t)
+R14 0x25369F44C00      (TESObjectSTAT*)
+File: ""
+Flags: 0x00004008
+Form ID: 0x0000005C
+Form Type: 36
+R15 0xA0013AF690       (void*)
+
+STACK:
+[RSP+0  ] 0xFFFFFFFF         (size_t)
+[RSP+8  ] 0x0                (size_t)
+[RSP+10 ] 0x0                (size_t)
+[RSP+18 ] 0x0                (size_t)
+[RSP+20 ] 0x3B6CFD01         (size_t)
+[RSP+28 ] 0x0                (size_t)
+[RSP+30 ] 0x3F61E3433F61E24B (size_t)
+[RSP+38 ] 0x7FF8692CF686     (void* -> MSVCR110.dll+005F686)
+[RSP+40 ] 0x43610000C0E9AB74 (size_t)
+[RSP+48 ] 0x4192B5FABEA91138 (size_t)
+[RSP+50 ] 0x3D7D68923FB328B6 (size_t)
+[RSP+58 ] 0x3E49E6F03E49E922 (size_t)
+[RSP+60 ] 0x7FF73BF3E358     (type_info*)
+[RSP+68 ] 0x0                (size_t)
+[RSP+70 ] 0x0                (size_t)
+[RSP+78 ] 0x7FF73BF3ECB8     (type_info*)
+[RSP+80 ] 0x25369F44C00      (TESObjectSTAT*)
+File: ""
+Flags: 0x00004008
+Form ID: 0x0000005C
+Form Type: 36
+[RSP+88 ] 0x7FF73B937E38     (void* -> Fallout4.exe+30C7E38)
+[RSP+90 ] 0x25369F44C00      (TESObjectSTAT*)
+File: ""
+Flags: 0x00004008
+Form ID: 0x0000005C
+Form Type: 36
+[RSP+98 ] 0x7FF8692CFB8F     (void* -> MSVCR110.dll+005FB8F)
+[RSP+A0 ] 0x25369F44C00      (TESObjectSTAT*)
+File: ""
+Flags: 0x00004008
+Form ID: 0x0000005C
+Form Type: 36
+[RSP+A8 ] 0x0                (size_t)
+[RSP+B0 ] 0x7FF73BF3ECB8     (type_info*)
+[RSP+B8 ] 0x0                (size_t)
+[RSP+C0 ] 0x7FF73BF3E358     (type_info*)
+[RSP+C8 ] 0x7FF70000000D     (size_t)
+[RSP+D0 ] 0x25369F44C68      (TESObjectSTAT*)
+File: ""
+Flags: 0x00004008
+Form ID: 0x0000005C
+Form Type: 36
+[RSP+D8 ] 0x25369F44C00      (TESObjectSTAT*)
+File: ""
+Flags: 0x00004008
+Form ID: 0x0000005C
+Form Type: 36
+[RSP+E0 ] 0x3F800000         (size_t)
+[RSP+E8 ] 0x0                (size_t)
+[RSP+F0 ] 0x25300000000      (void*)
+[RSP+F8 ] 0x0                (size_t)
+[RSP+100] 0x200080000        (size_t)
+[RSP+108] 0x25100000000      (size_t)
+[RSP+110] 0x0                (size_t)
+[RSP+118] 0x0                (size_t)
+[RSP+120] 0x428C0000         (size_t)
+[RSP+128] 0x0                (size_t)
+[RSP+130] 0x0                (size_t)
+[RSP+138] 0x0                (size_t)
+[RSP+140] 0x25369F44C68      (TESObjectSTAT*)
+File: ""
+Flags: 0x00004008
+Form ID: 0x0000005C
+Form Type: 36
+[RSP+148] 0x251AC5AC100      (TESObjectWEAP*)
+File: "Factor.esp"
+Flags: 0x40000008
+Form ID: 0x4C001EE6
+Form Type: 43
+Full Name: ""Factor""
+[RSP+150] 0x251B3AC91D0      (char*) "B"
+[RSP+158] 0x25369F44C00      (TESObjectSTAT*)
+File: ""
+Flags: 0x00004008
+Form ID: 0x0000005C
+Form Type: 36
+[RSP+160] 0x25395789710      (Inventory3DManager*)
+[RSP+168] 0x7FF739AFD8E5     (void* -> Fallout4.exe+128D8E5)
+[RSP+170] 0x1                (size_t)
+[RSP+178] 0x251AC5AC100      (TESObjectWEAP*)
+File: "Factor.esp"
+Flags: 0x40000008
+Form ID: 0x4C001EE6
+Form Type: 43
+Full Name: ""Factor""
+[RSP+180] 0x251B3AC91D0      (char*) "B"
+[RSP+188] 0x1                (size_t)
+[RSP+190] 0x6DF0B1A41758BDED (size_t)
+[RSP+198] 0x0                (size_t)
+[RSP+1A0] 0x0                (size_t)
+[RSP+1A8] 0x251B3AC91D0      (char*) "B"
+[RSP+1B0] 0x25395789600      (CookingMenu*)
+[RSP+1B8] 0x25395789710      (Inventory3DManager*)
+[RSP+1C0] 0x1                (size_t)
+[RSP+1C8] 0x7FF739AFA5E8     (void* -> Fallout4.exe+128A5E8)
+[RSP+1D0] 0x25293017308      (void*)
+[RSP+1D8] 0x253DF69DEC0      (BSFadeNode*)
+Name: "Weapon"
+[RSP+1E0] 0x253DF69DEC0      (BSFadeNode*)
+Name: "Weapon"
+[RSP+1E8] 0x0                (size_t)
+[RSP+1F0] 0x251AC5AC100      (TESObjectWEAP*)
+File: "Factor.esp"
+Flags: 0x40000008
+Form ID: 0x4C001EE6
+Form Type: 43
+Full Name: ""Factor""
+[RSP+1F8] 0x2539514AD40      (BGSInventoryItem::Stack*)
+[RSP+200] 0x7FF73B75B158     (void* -> Fallout4.exe+2EEB158)
+[RSP+208] 0x1                (size_t)
+[RSP+210] 0x25293017320      (void*)
+[RSP+218] 0x7FF73A8B5D75     (void* -> Fallout4.exe+2045D75)
+[RSP+220] 0x25293017308      (void*)
+[RSP+228] 0x25395789600      (CookingMenu*)
+[RSP+230] 0x0                (size_t)
+[RSP+238] 0x0                (size_t)
+[RSP+240] 0x251B3AC91D0      (char*) "B"
+[RSP+248] 0x7FF73A8B380A     (void* -> Fallout4.exe+204380A)
+[RSP+250] 0x18               (size_t)
+[RSP+258] 0x7FF73E2D6DD0     (UI*)
+[RSP+260] 0x251B3AC91D0      (char*) "B"
+[RSP+268] 0x0                (size_t)
+[RSP+270] 0x0                (size_t)
+[RSP+278] 0x7FF7395ACD43     (void* -> Fallout4.exe+0D3CD43)
+[RSP+280] 0x2                (size_t)
+[RSP+288] 0x0                (size_t)
+[RSP+290] 0x251BACA7D80      (Main*)
+[RSP+298] 0x4844             (size_t)
+[RSP+2A0] 0x0                (size_t)
+[RSP+2A8] 0x7FF7395A8906     (void* -> Fallout4.exe+0D38906)
+[RSP+2B0] 0x251BACA7D80      (Main*)
+[RSP+2B8] 0x0                (size_t)
+[RSP+2C0] 0x1                (size_t)
+[RSP+2C8] 0x0                (size_t)
+[RSP+2D0] 0x252F738F900      (Actor*)
+Object Reference:
+File: "Ion-CS-ECZN_NPC_.esp"
+Flags: 0x00440008
+Form ID: 0xA1005B62
+Form Type: 45
+File: ""
+Flags: 0x00400548
+Form ID: 0xFF00233E
+Form Type: 65
+[RSP+2D8] 0x7FF738903A1B     (void* -> Fallout4.exe+0093A1B)
+[RSP+2E0] 0x0                (size_t)
+[RSP+2E8] 0xA0013AF8B8       (void*)
+[RSP+2F0] 0x251BAC6E780      (ShadowSceneNode*)
+Name: "shadow scene node"
+[RSP+2F8] 0x7FF8696C9E2E     (void* -> Buffout4.dll+0049E2E)
+[RSP+300] 0x2528C6B7A50      (void*)
+[RSP+308] 0x7FF738CF07E3     (void* -> Fallout4.exe+04807E3)
+[RSP+310] 0x7FF73B4BA948     (void* -> Fallout4.exe+2C4A948)
+[RSP+318] 0x251BACA7D88      (void*)
+[RSP+320] 0x9C0              (size_t)
+[RSP+328] 0x0                (size_t)
+[RSP+330] 0xA0013AF860       (void*)
+[RSP+338] 0x7FF7395B1B0A     (void* -> Fallout4.exe+0D41B0A)
+[RSP+340] 0x251B3AC8810      (void*)
+[RSP+348] 0x25395BBCB00      (void*)
+[RSP+350] 0x251BACA7D88      (void*)
+[RSP+358] 0xA0013AF8B8       (void*)
+[RSP+360] 0xC5E773B0C5047160 (size_t)
+[RSP+368] 0xC395E460         (size_t)
+[RSP+370] 0x4A095440         (size_t)
+[RSP+378] 0x0                (size_t)
+[RSP+380] 0x2                (size_t)
+[RSP+388] 0x7FF7395AAA75     (void* -> Fallout4.exe+0D3AA75)
+[RSP+390] 0x25395BBCB00      (void*)
+[RSP+398] 0x25395BBCB04      (void*)
+[RSP+3A0] 0x257F19           (size_t)
+[RSP+3A8] 0x252F7448100      (Actor*)
+Object Reference:
+File: "Ion-CS-ECZN_NPC_.esp"
+Flags: 0x00040009
+Form ID: 0x00133505
+Form Type: 45
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x00133506
+Form Type: 65
+[RSP+3B0] 0xA0013AF8B0       (void*)
+[RSP+3B8] 0x251BACA7D80      (Main*)
+[RSP+3C0] 0x428C0000         (size_t)
+[RSP+3C8] 0x0                (size_t)
+[RSP+3D0] 0x0                (size_t)
+[RSP+3D8] 0x0                (size_t)
+[RSP+3E0] 0x251BACA7D80      (Main*)
+[RSP+3E8] 0x1                (size_t)
+[RSP+3F0] 0x251BACA7D80      (Main*)
+[RSP+3F8] 0x7FF7395A9551     (void* -> Fallout4.exe+0D39551)
+[RSP+400] 0x7FF73E2D6DD0     (UI*)
+[RSP+408] 0x239C34           (size_t)
+[RSP+410] 0x7FF73E2D6DD0     (UI*)
+[RSP+418] 0x47E4             (size_t)
+[RSP+420] 0x1                (size_t)
+[RSP+428] 0x0                (size_t)
+[RSP+430] 0x0                (size_t)
+[RSP+438] 0x0                (size_t)
+[RSP+440] 0x0                (size_t)
+[RSP+448] 0x7FF7395A6E10     (void* -> Fallout4.exe+0D36E10)
+[RSP+450] 0x1D1B72           (size_t)
+[RSP+458] 0xA                (size_t)
+[RSP+460] 0xA                (size_t)
+[RSP+468] 0x0                (size_t)
+[RSP+470] 0x0                (size_t)
+[RSP+478] 0x7FF7395A5950     (void* -> Fallout4.exe+0D35950)
+[RSP+480] 0x251B3ACC739      (void*)
+[RSP+488] 0x1D1B72           (size_t)
+[RSP+490] 0x62A17095         (size_t)
+[RSP+498] 0x251B3ACC739      (void*)
+[RSP+4A0] 0x0                (size_t)
+[RSP+4A8] 0x7FF73B1A7157     (void* -> Fallout4.exe+2937157)
+[RSP+4B0] 0x251B3ACC738      (char*) """
+[RSP+4B8] 0xA                (size_t)
+[RSP+4C0] 0x0                (size_t)
+[RSP+4C8] 0xA                (size_t)
+[RSP+4D0] 0x0                (size_t)
+[RSP+4D8] 0x251B3ACC739      (void*)
+[RSP+4E0] 0x0                (size_t)
+[RSP+4E8] 0x7FF92102244D     (void* -> KERNEL32.DLL+001244D)
+[RSP+4F0] 0x0                (size_t)
+[RSP+4F8] 0x0                (size_t)
+[RSP+500] 0x1                (size_t)
+[RSP+508] 0x1848             (size_t)
+[RSP+510] 0x0                (size_t)
+[RSP+518] 0x7FF921E6DF88     (void* -> ntdll.dll+005DF88)
+[RSP+520] 0x0                (size_t)
+[RSP+528] 0x0                (size_t)
+[RSP+530] 0x0                (size_t)
+[RSP+538] 0x0                (size_t)
+[RSP+540] 0x0                (size_t)
+[RSP+548] 0x0                (size_t)
+[RSP+550] 0x442B65A800000000 (size_t)
+[RSP+558] 0x0                (size_t)
+[RSP+560] 0x0                (size_t)
+[RSP+568] 0x7FF91F3E55A0     (void* -> KERNELBASE.dll+01555A0)
+[RSP+570] 0xA0013AE540       (void*)
+[RSP+578] 0xF95B15300800007F (size_t)
+[RSP+580] 0x7FF95B153008     (size_t)
+[RSP+588] 0xA0013AE540       (void*)
+[RSP+590] 0x7FF921E6DF60     (void* -> ntdll.dll+005DF60)
+[RSP+598] 0x0                (size_t)
+[RSP+5A0] 0x0                (size_t)
+[RSP+5A8] 0x0                (size_t)
+[RSP+5B0] 0x0                (size_t)
+[RSP+5B8] 0x0                (size_t)
+[RSP+5C0] 0x0                (size_t)
+[RSP+5C8] 0x0                (size_t)
+[RSP+5D0] 0x0                (size_t)
+[RSP+5D8] 0x0                (size_t)
+[RSP+5E0] 0x0                (size_t)
+[RSP+5E8] 0x0                (size_t)
+[RSP+5F0] 0x0                (size_t)
+[RSP+5F8] 0x0                (size_t)
+[RSP+600] 0x0                (size_t)
+[RSP+608] 0x0                (size_t)
+[RSP+610] 0x0                (size_t)
+[RSP+618] 0x0                (size_t)
+[RSP+620] 0x0                (size_t)
+[RSP+628] 0x0                (size_t)
+[RSP+630] 0x0                (size_t)
+[RSP+638] 0x0                (size_t)
+[RSP+640] 0x0                (size_t)
+[RSP+648] 0x0                (size_t)
+[RSP+650] 0x0                (size_t)
+[RSP+658] 0x0                (size_t)
+[RSP+660] 0x0                (size_t)
+[RSP+668] 0x0                (size_t)
+[RSP+670] 0x0                (size_t)
+[RSP+678] 0x0                (size_t)
+[RSP+680] 0x0                (size_t)
+[RSP+688] 0x0                (size_t)
+[RSP+690] 0x0                (size_t)
+[RSP+698] 0x0                (size_t)
+[RSP+6A0] 0x0                (size_t)
+[RSP+6A8] 0x0                (size_t)
+[RSP+6B0] 0x0                (size_t)
+[RSP+6B8] 0x0                (size_t)
+[RSP+6C0] 0x0                (size_t)
+[RSP+6C8] 0x0                (size_t)
+[RSP+6D0] 0x0                (size_t)
+[RSP+6D8] 0x0                (size_t)
+[RSP+6E0] 0x0                (size_t)
+[RSP+6E8] 0x0                (size_t)
+[RSP+6F0] 0x0                (size_t)
+[RSP+6F8] 0x0                (size_t)
+[RSP+700] 0x0                (size_t)
+[RSP+708] 0x0                (size_t)
+[RSP+710] 0x0                (size_t)
+[RSP+718] 0x0                (size_t)
+[RSP+720] 0x0                (size_t)
+[RSP+728] 0x0                (size_t)
+[RSP+730] 0x0                (size_t)
+[RSP+738] 0x0                (size_t)
+[RSP+740] 0x0                (size_t)
+[RSP+748] 0x0                (size_t)
+[RSP+750] 0x0                (size_t)
+[RSP+758] 0x0                (size_t)
+[RSP+760] 0x0                (size_t)
+[RSP+768] 0x0                (size_t)
+[RSP+770] 0x0                (size_t)
+[RSP+778] 0x0                (size_t)
+[RSP+780] 0x0                (size_t)
+[RSP+788] 0x0                (size_t)
+[RSP+790] 0x0                (size_t)
+[RSP+798] 0x0                (size_t)
+[RSP+7A0] 0x0                (size_t)
+[RSP+7A8] 0x0                (size_t)
+[RSP+7B0] 0x0                (size_t)
+[RSP+7B8] 0x0                (size_t)
+[RSP+7C0] 0x0                (size_t)
+[RSP+7C8] 0x0                (size_t)
+[RSP+7D0] 0x0                (size_t)
+[RSP+7D8] 0x0                (size_t)
+[RSP+7E0] 0x0                (size_t)
+[RSP+7E8] 0x0                (size_t)
+[RSP+7F0] 0x0                (size_t)
+[RSP+7F8] 0x0                (size_t)
+[RSP+800] 0x0                (size_t)
+[RSP+808] 0x0                (size_t)
+[RSP+810] 0x0                (size_t)
+[RSP+818] 0x0                (size_t)
+[RSP+820] 0x0                (size_t)
+[RSP+828] 0x0                (size_t)
+[RSP+830] 0x0                (size_t)
+[RSP+838] 0x0                (size_t)
+[RSP+840] 0x0                (size_t)
+[RSP+848] 0x0                (size_t)
+[RSP+850] 0x0                (size_t)
+[RSP+858] 0x0                (size_t)
+[RSP+860] 0x0                (size_t)
+[RSP+868] 0x0                (size_t)
+[RSP+870] 0x0                (size_t)
+[RSP+878] 0x0                (size_t)
+[RSP+880] 0x0                (size_t)
+[RSP+888] 0x0                (size_t)
+[RSP+890] 0x0                (size_t)
+[RSP+898] 0x0                (size_t)
+[RSP+8A0] 0x0                (size_t)
+[RSP+8A8] 0x0                (size_t)
+[RSP+8B0] 0x0                (size_t)
+[RSP+8B8] 0x0                (size_t)
+[RSP+8C0] 0x0                (size_t)
+[RSP+8C8] 0x0                (size_t)
+[RSP+8D0] 0x0                (size_t)
+[RSP+8D8] 0x0                (size_t)
+[RSP+8E0] 0x0                (size_t)
+[RSP+8E8] 0x0                (size_t)
+[RSP+8F0] 0x0                (size_t)
+[RSP+8F8] 0x0                (size_t)
+[RSP+900] 0x0                (size_t)
+[RSP+908] 0x0                (size_t)
+[RSP+910] 0x0                (size_t)
+[RSP+918] 0x0                (size_t)
+[RSP+920] 0x0                (size_t)
+[RSP+928] 0x0                (size_t)
+[RSP+930] 0x0                (size_t)
+[RSP+938] 0x0                (size_t)
+[RSP+940] 0x0                (size_t)
+[RSP+948] 0x0                (size_t)
+[RSP+950] 0x0                (size_t)
+[RSP+958] 0x0                (size_t)
+[RSP+960] 0x0                (size_t)
+[RSP+968] 0x0                (size_t)
+[RSP+970] 0x0                (size_t)
+[RSP+978] 0x0                (size_t)
+[RSP+980] 0x0                (size_t)
+[RSP+988] 0x0                (size_t)
+[RSP+990] 0x0                (size_t)
+[RSP+998] 0x0                (size_t)
+[RSP+9A0] 0x0                (size_t)
+[RSP+9A8] 0x0                (size_t)
+[RSP+9B0] 0x0                (size_t)
+[RSP+9B8] 0x0                (size_t)
+[RSP+9C0] 0x0                (size_t)
+[RSP+9C8] 0x0                (size_t)
+[RSP+9D0] 0x0                (size_t)
+[RSP+9D8] 0x0                (size_t)
+[RSP+9E0] 0x0                (size_t)
+[RSP+9E8] 0x0                (size_t)
+[RSP+9F0] 0x0                (size_t)
+[RSP+9F8] 0x0                (size_t)
+[RSP+A00] 0x0                (size_t)
+[RSP+A08] 0x0                (size_t)
+[RSP+A10] 0x0                (size_t)
+[RSP+A18] 0x0                (size_t)
+[RSP+A20] 0x0                (size_t)
+[RSP+A28] 0x0                (size_t)
+[RSP+A30] 0x0                (size_t)
+[RSP+A38] 0x0                (size_t)
+[RSP+A40] 0x0                (size_t)
+[RSP+A48] 0x0                (size_t)
+[RSP+A50] 0x0                (size_t)
+[RSP+A58] 0x0                (size_t)
+[RSP+A60] 0x0                (size_t)
+[RSP+A68] 0x0                (size_t)
+[RSP+A70] 0x0                (size_t)
+[RSP+A78] 0x0                (size_t)
+[RSP+A80] 0x0                (size_t)
+[RSP+A88] 0x0                (size_t)
+[RSP+A90] 0x0                (size_t)
+[RSP+A98] 0x0                (size_t)
+[RSP+AA0] 0x0                (size_t)
+[RSP+AA8] 0x0                (size_t)
+[RSP+AB0] 0x0                (size_t)
+[RSP+AB8] 0x0                (size_t)
+[RSP+AC0] 0x0                (size_t)
+[RSP+AC8] 0x0                (size_t)
+[RSP+AD0] 0x0                (size_t)
+[RSP+AD8] 0x0                (size_t)
+[RSP+AE0] 0x0                (size_t)
+[RSP+AE8] 0x0                (size_t)
+[RSP+AF0] 0x0                (size_t)
+[RSP+AF8] 0x0                (size_t)
+[RSP+B00] 0x0                (size_t)
+[RSP+B08] 0x0                (size_t)
+[RSP+B10] 0x0                (size_t)
+[RSP+B18] 0x0                (size_t)
+[RSP+B20] 0x0                (size_t)
+[RSP+B28] 0x0                (size_t)
+[RSP+B30] 0x0                (size_t)
+[RSP+B38] 0x0                (size_t)
+[RSP+B40] 0x0                (size_t)
+[RSP+B48] 0x0                (size_t)

@@ -1,0 +1,1045 @@
+[ 0] 0x7FFF2D77C7D8  lootman.dll+001C7D8
+[ 1] 0x7FFF2D77CA33  lootman.dll+001CA33
+[ 2] 0x7FFF2D77CE5D  lootman.dll+001CE5D
+[ 3] 0x7FFF2D777A98  lootman.dll+0017A98
+[ 4] 0x7FFF2D7790F9  lootman.dll+00190F9
+[ 5] 0x7FF667F3D767 Fallout4.exe+270D767	test al, al |  BSScript::NF_util::NativeFunctionBase::Call(BSTSmartPointer<BSScript::Stack,BSTSmartPointerIntrusiveRefCount>&,BSScript::ErrorLogger&,BSScript::Internal::VirtualMachine&,bool)_270D767 -> 571037+0x217	test al, al
+[ 6] 0x7FF667F6F224 Fallout4.exe+273F224	mov r15, [rbp-0x38] |  BSScript::Internal::VirtualMachine::AttemptFunctionCall(BSScript::Stack*,BSTSmartPointer<BSScript::Internal::IFuncCallQuery,BSTSmartPointerIntrusiveRefCount>&,bool)_273F224 -> 1500402+0xA14	mov r15, [rbp-0x38]
+[ 7] 0x7FF667F701FF Fallout4.exe+27401FF	call 0x00007FF6673458F0 |  BSScript::Internal::VirtualMachine::ProcessMessageQueue(float,uint&,uint&)_27401FF -> 412932+0x1BF	call 0x00007FF6673458F0
+[ 8] 0x7FF667F61C37 Fallout4.exe+2731C37	lea r8, [rbp+0x50] |  BSScript::Internal::VirtualMachine::Update(float)_2731C37 -> 1146038+0x477	lea r8, [rbp+0x50]
+[ 9] 0x7FF666BA2378 Fallout4.exe+1372378	mov r15, [rsp+0x50] |  GameVM::Update(float)_1372378 -> 759508+0x228	mov r15, [rsp+0x50]
+[10] 0x7FF6664ED875 Fallout4.exe+0CBD875	mov ecx, [0x00007FF66B29BCDC] |  JobListManager::VMUpdate(void*)_CBD875 -> 507275+0x15	mov ecx, [0x00007FF66B29BCDC]
+[11] 0x7FF667380F26 Fallout4.exe+1B50F26	mov ecx, [rbx+0x0C] |  BSJobs::JobListLocal::RunJobsInternal(uint,BSJobs::ThreadJobListState&,bool)_1B50F26 -> 329005+0xC6	mov ecx, [rbx+0x0C]
+[12] 0x7FF667381432 Fallout4.exe+1B51432	mov r14d, eax |  BSJobs::JobThread::RunJob(void)_1B51432 -> 194800+0x202	mov r14d, eax
+[13] 0x7FF667383F67 Fallout4.exe+1B53F67	movzx eax, byte ptr [rbx+0xA74] |  BSJobs::JobThread::ThreadProc(void)_1B53F67 -> 1492866+0x67	movzx eax, byte ptr [rbx+0xA74]
+[14] 0x7FF66734CFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF66B38BD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF66B38BD38]
+[15] 0x7FFFEE7626AD KERNEL32.DLL+00126AD
+[16] 0x7FFFEF36AA68    ntdll.dll+005AA68
+
+REGISTERS:
+RAX 0x7FF66B103308     (void* -> Fallout4.exe+58D3308	 |  aDiveBombChance_58D3308)
+RCX 0x7FF66B2ED8F0     (GameVM*)
+RDX 0xDE6F0003         (size_t) [3731816451]
+RBX 0x82C772E898       (void*)
+RSP 0x82C772E720       (void*)
+RBP 0x82C772E7D8       (void*)
+RSI 0x18779D4C100      (BSScript::Internal::VirtualMachine*)
+RDI 0x0                (size_t) [0]
+R8  0x0                (size_t) [0]
+R9  0x188209B0933      (void*)
+R10 0x7FF66B397580     (void* -> Fallout4.exe+5B67580	adc [rsp+rsi*8], bh |  aDiveBombChance_5B67580)
+R11 0x40               (size_t) [64]
+R12 0x0                (size_t) [0]
+R13 0x187436CA220      (void*)
+R14 0x4                (size_t) [4]
+R15 0x1882AC03701      (void*)
+
+STACK:
+[RSP+0   ] 0x82C772E920       (void*)
+[RSP+8   ] 0x187436CA200      (void*)
+[RSP+10  ] 0x82C772E7C8       (void*)
+[RSP+18  ] 0x7FF667372FE8     (void* -> Fallout4.exe+1B42FE8	mov r10, rax |  BSStringPool::Entry::Release(BSStringPool::Entry*&)_1B42FE8)
+[RSP+20  ] 0x187CCD7FF40      (BSScript::ObjectTypeInfo*)
+Name: "Form"
+[RSP+28  ] 0x82C772E920       (void*)
+[RSP+30  ] 0x18879971BD0      (void*)
+[RSP+38  ] 0x7FF667F911A5     (void* -> Fallout4.exe+27611A5	test eax, eax |  BSScript::Internal::AttachedScript::`scalar_deleting_destructor'(uint)_27611A5)
+[RSP+40  ] 0x82C772E7C8       (void*)
+[RSP+48  ] 0x0                (size_t) [0]
+[RSP+50  ] 0x82C772E800       (void*)
+[RSP+58  ] 0x82C772E7C8       (void*)
+[RSP+60  ] 0x0                (size_t) [0]
+[RSP+68  ] 0x7FF667F7360F     (void* -> Fallout4.exe+274360F	movzx eax, r13b |  BSScript::Internal::VirtualMachine::FindBoundObjectImpl(unsigned___int64,char*,bool,bool,BSTSmartPointer<BSScript::Object,BSTSmartPointerIntrusiveRefCount>&)_274360F)
+[RSP+70  ] 0x0                (size_t) [0]
+[RSP+78  ] 0x1871649BFF8      (void*)
+[RSP+80  ] 0x82C772E899       (void*)
+[RSP+88  ] 0x7FFF2D77CA33     (void* -> lootman.dll+001CA33	test al, al)
+[RSP+90  ] 0x82C772E898       (void*)
+[RSP+98  ] 0x7FF6658544E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+A0  ] 0x82C772E880       (void*)
+[RSP+A8  ] 0x188209B0900      (void*)
+[RSP+B0  ] 0xFFFFFFFFFFFFFFFE (size_t) [uint: 18446744073709551614 int: -2]
+[RSP+B8  ] 0x0                (size_t) [0]
+[RSP+C0  ] 0x0                (size_t) [0]
+[RSP+C8  ] 0x7FF667F62536     (void* -> Fallout4.exe+2732536	movzx edx, al |  BSScript::Internal::VirtualMachine::GetScriptObjectType(BSFixedString&,BSTSmartPointer<BSScript::ObjectTypeInfo,BSTSmartPointerIntrusiveRefCount>&)_2732536)
+[RSP+D0  ] 0x1871649BFF8      (void*)
+[RSP+D8  ] 0x7FFF2D77CE5D     (void* -> lootman.dll+001CE5D	mov rbx, rax)
+[RSP+E0  ] 0x1871649BFF8      (void*)
+[RSP+E8  ] 0x1871649BFF8      (void*)
+[RSP+F0  ] 0x1871649BFF8      (void*)
+[RSP+F8  ] 0x7FF667F20A14     (void* -> Fallout4.exe+26F0A14	jmp 0x00007FF667F20AA6 |  BSScript::Variable::Cleanup(void)_26F0A14)
+[RSP+100 ] 0x0                (size_t) [0]
+[RSP+108 ] 0x7FF667373C21     (void* -> Fallout4.exe+1B43C21	test eax, eax |  `anonymous_namespace'::FindEntry<char>(BSStringPool::Entry*&,char*,ushort,bool)_1B43C21)
+[RSP+110 ] 0x82C772E980       (void*)
+[RSP+118 ] 0x8200000001       (size_t) [558345748481]
+[RSP+120 ] 0x187436CA220      (void*)
+[RSP+128 ] 0x7FFF2D7BC188     (void* -> lootman.dll+005C188	sbb al, 0xDF)
+[RSP+130 ] 0x1871649BFF8      (void*)
+[RSP+138 ] 0xFFFFFFFFFFFFFFFE (size_t) [uint: 18446744073709551614 int: -2]
+[RSP+140 ] 0x0                (size_t) [0]
+[RSP+148 ] 0x7FF66863F340     (void* -> Fallout4.exe+2E0F340	add [rax], al |  aDiveBombChance_2E0F340)
+[RSP+150 ] 0x7FF66B417580     (void* -> Fallout4.exe+5BE7580	add [rax], al |  aDiveBombChance_5BE7580)
+[RSP+158 ] 0x7FF667FA8EBA     (void* -> Fallout4.exe+2778EBA	jmp 0x00007FF667FA91EE |  BSScript::Internal::CodeTasklet::ConvertArgument(BSScript::ByteCode::Argument&,BSScript::Variable&)_2778EBA)
+[RSP+160 ] 0x1882AB6A200      (void*)
+[RSP+168 ] 0x82C772E980       (void*)
+[RSP+170 ] 0x100000000        (size_t) [4294967296]
+[RSP+178 ] 0x10000000000      (size_t) [1099511627776]
+[RSP+180 ] 0x82C772E900       (void*)
+[RSP+188 ] 0x7FF667372FE8     (void* -> Fallout4.exe+1B42FE8	mov r10, rax |  BSStringPool::Entry::Release(BSStringPool::Entry*&)_1B42FE8)
+[RSP+190 ] 0x0                (size_t) [0]
+[RSP+198 ] 0xF                (size_t) [15]
+[RSP+1A0 ] 0xAF1EF31DD388     (size_t) [192547462697864]
+[RSP+1A8 ] 0x187436CA220      (void*)
+[RSP+1B0 ] 0x1882AC03744      (void*)
+[RSP+1B8 ] 0x4                (size_t) [4]
+[RSP+1C0 ] 0x2B71             (size_t) [11121]
+[RSP+1C8 ] 0x1882AC03744      (void*)
+[RSP+1D0 ] 0x187CCD7BB20      (NativeFunction1<StaticFunctionTag,void,StringCache::Ref>*)
+[RSP+1D8 ] 0x7FFF2D777A98     (void* -> lootman.dll+0017A98	add rsp, 0x28)
+[RSP+1E0 ] 0x82C772E900       (void*)
+[RSP+1E8 ] 0x2                (size_t) [2]
+[RSP+1F0 ] 0x1871649BFF8      (void*)
+[RSP+1F8 ] 0x82C772E9B8       (void*)
+[RSP+200 ] 0x2                (size_t) [2]
+[RSP+208 ] 0x7FFF2D7790F9     (void* -> lootman.dll+00190F9	mov rax, [0x00007FFF2D7BC048])
+[RSP+210 ] 0x0                (size_t) [0]
+[RSP+218 ] 0x1                (size_t) [1]
+[RSP+220 ] 0x187CCD7BB20      (NativeFunction1<StaticFunctionTag,void,StringCache::Ref>*)
+[RSP+228 ] 0x8200000002       (size_t) [558345748482]
+[RSP+230 ] 0x187CCD7BB20      (NativeFunction1<StaticFunctionTag,void,StringCache::Ref>*)
+[RSP+238 ] 0x7FF667F3D767     (void* -> Fallout4.exe+270D767	test al, al |  BSScript::NF_util::NativeFunctionBase::Call(BSTSmartPointer<BSScript::Stack,BSTSmartPointerIntrusiveRefCount>&,BSScript::ErrorLogger&,BSScript::Internal::VirtualMachine&,bool)_270D767)
+[RSP+240 ] 0x12               (size_t) [18]
+[RSP+248 ] 0x82C772EA60       (void*)
+[RSP+250 ] 0x82C772F2D8       (void*)
+[RSP+258 ] 0x187CC8B7D60      (BSScript::NativeFunction1<BSScript::StaticFunctionTag,int,BSFixedString const &>*)
+Function: "GetGameSettingInt"
+Object: "game"
+[RSP+260 ] 0x82C772E9A8       (void*)
+[RSP+268 ] 0x1871649BFE0      (void*)
+[RSP+270 ] 0x187C2811C20      (void*)
+[RSP+278 ] 0x4000027B0        (size_t) [17179879344]
+[RSP+280 ] 0x18700000021      (void*)
+[RSP+288 ] 0x0                (size_t) [0]
+[RSP+290 ] 0x0                (size_t) [0]
+[RSP+298 ] 0x0                (size_t) [0]
+[RSP+2A0 ] 0x0                (size_t) [0]
+[RSP+2A8 ] 0x400002840        (size_t) [17179879488]
+[RSP+2B0 ] 0x1880000007B      (void*)
+[RSP+2B8 ] 0x7FF66BD73CE0     (hknpBSShapeCodec*)
+[RSP+2C0 ] 0x18700000199      (void*)
+[RSP+2C8 ] 0x187C28143D0      (void*)
+[RSP+2D0 ] 0x187C2814438      (void*)
+[RSP+2D8 ] 0x187C2811C20      (void*)
+[RSP+2E0 ] 0x400002840        (size_t) [17179879488]
+[RSP+2E8 ] 0x1880000007B      (void*)
+[RSP+2F0 ] 0xC5C00000FFFFFFFF (size_t) [uint: 14249389225295216639 int: -4197354848414334977]
+[RSP+2F8 ] 0x44800000C5200000 (size_t) [4935945194905272320]
+[RSP+300 ] 0xC580000000000002 (size_t) [uint: 14231374822490767362 int: -4215369251218784254]
+[RSP+308 ] 0x4540000044000000 (size_t) [4989988388267360256]
+[RSP+310 ] 0x2002F0101        (size_t) [8593015041]
+[RSP+318 ] 0xC5A0000067F20A55 (size_t) [uint: 14240382023489423957 int: -4206362050220127659]
+[RSP+320 ] 0x0                (size_t) [0]
+[RSP+328 ] 0xC58000000000002A (size_t) [uint: 14231374822490767402 int: -4215369251218784214]
+[RSP+330 ] 0x4480000044000000 (size_t) [4935945192738914304]
+[RSP+338 ] 0x2000A0305        (size_t) [8590590725]
+[RSP+340 ] 0xC59000003648CF40 (size_t) [uint: 14235878423028879168 int: -4210865650680672448]
+[RSP+348 ] 0x44000000C4800000 (size_t) [4899916397875822592]
+[RSP+350 ] 0xC580000000000070 (size_t) [uint: 14231374822490767472 int: -4215369251218784144]
+[RSP+358 ] 0x4480000000000000 (size_t) [4935945191598063616]
+[RSP+360 ] 0x200020307        (size_t) [8590066439]
+[RSP+368 ] 0xC5900000BFEB4680 (size_t) [uint: 14235878425338005120 int: -4210865648371546496]
+[RSP+370 ] 0xC3800000         (size_t) [3279945728]
+[RSP+378 ] 0xC5800000000000D4 (size_t) [uint: 14231374822490767572 int: -4215369251218784044]
+[RSP+380 ] 0x4400000000000000 (size_t) [4899916394579099648]
+[RSP+388 ] 0x200020309        (size_t) [8590066441]
+[RSP+390 ] 0xC5900000C202BC0C (size_t) [uint: 14235878425373096972 int: -4210865648336454644]
+[RSP+398 ] 0xC4000000         (size_t) [3288334336]
+[RSP+3A0 ] 0xC5800000000000D3 (size_t) [uint: 14231374822490767571 int: -4215369251218784045]
+[RSP+3A8 ] 0x44000000C3800000 (size_t) [4899916397859045376]
+[RSP+3B0 ] 0x100020309        (size_t) [4295099145]
+[RSP+3B8 ] 0xAAAAAAAB         (size_t) [2863311531]
+[RSP+3C0 ] 0x0                (size_t) [0]
+[RSP+3C8 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+3D0 ] 0x0                (size_t) [0]
+[RSP+3D8 ] 0x0                (size_t) [0]
+[RSP+3E0 ] 0x0                (size_t) [0]
+[RSP+3E8 ] 0x0                (size_t) [0]
+[RSP+3F0 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+3F8 ] 0x0                (size_t) [0]
+[RSP+400 ] 0x0                (size_t) [0]
+[RSP+408 ] 0x0                (size_t) [0]
+[RSP+410 ] 0x0                (size_t) [0]
+[RSP+418 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+420 ] 0x0                (size_t) [0]
+[RSP+428 ] 0x0                (size_t) [0]
+[RSP+430 ] 0x0                (size_t) [0]
+[RSP+438 ] 0x0                (size_t) [0]
+[RSP+440 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+448 ] 0x0                (size_t) [0]
+[RSP+450 ] 0x1880B27BB8F      (void*)
+[RSP+458 ] 0x436C9860         (size_t) [1131190368]
+[RSP+460 ] 0x0                (size_t) [0]
+[RSP+468 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+470 ] 0x0                (size_t) [0]
+[RSP+478 ] 0x7FF669058620     (void* -> Fallout4.exe+3828620	add [rax], al |  aDiveBombChance_3828620)
+[RSP+480 ] 0x2                (size_t) [2]
+[RSP+488 ] 0x0                (size_t) [0]
+[RSP+490 ] 0x82C772ECA8       (void*)
+[RSP+498 ] 0x7FF667372FE8     (void* -> Fallout4.exe+1B42FE8	mov r10, rax |  BSStringPool::Entry::Release(BSStringPool::Entry*&)_1B42FE8)
+[RSP+4A0 ] 0x12               (size_t) [18]
+[RSP+4A8 ] 0x7FF667372FE8     (void* -> Fallout4.exe+1B42FE8	mov r10, rax |  BSStringPool::Entry::Release(BSStringPool::Entry*&)_1B42FE8)
+[RSP+4B0 ] 0x0                (size_t) [0]
+[RSP+4B8 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+4C0 ] 0x1882D200700      (void*)
+[RSP+4C8 ] 0x82C772F218       (void*)
+[RSP+4D0 ] 0x82C772ED70       (void*)
+[RSP+4D8 ] 0x82C772ECA8       (void*)
+[RSP+4E0 ] 0x82C772ECA8       (void*)
+[RSP+4E8 ] 0x7FF667371F2C     (void* -> Fallout4.exe+1B41F2C	mov rax, rbx |  BSFixedString::operator=(BSFixedString&)_1B41F2C)
+[RSP+4F0 ] 0x82C772F298       (void*)
+[RSP+4F8 ] 0x7FF667372FE8     (void* -> Fallout4.exe+1B42FE8	mov r10, rax |  BSStringPool::Entry::Release(BSStringPool::Entry*&)_1B42FE8)
+[RSP+500 ] 0x7FF66B397580     (void* -> Fallout4.exe+5B67580	adc [rsp+rsi*8], bh |  aDiveBombChance_5B67580)
+[RSP+508 ] 0x0                (size_t) [0]
+[RSP+510 ] 0x187CCD9CA28      (void*)
+[RSP+518 ] 0x7FF667F3DE70     (void* -> Fallout4.exe+270DE70	mov rax, [rbx+0x08] |  BSScript::Internal::VDescTable::GetParam(uint,BSFixedString&,BSScript::TypeInfo&)_270DE70)
+[RSP+520 ] 0x0                (size_t) [0]
+[RSP+528 ] 0x1                (size_t) [1]
+[RSP+530 ] 0x82C772ED70       (void*)
+[RSP+538 ] 0x82C772F298       (void*)
+[RSP+540 ] 0x0                (size_t) [0]
+[RSP+548 ] 0x7FF667F7B317     (void* -> Fallout4.exe+274B317	inc esi |  BSScript::Internal::`anonymous_namespace'::ValidateSignatureAndFixupNones(BSTSmartPointer<BSScript::IFunction,BSTSmartPointerIntrusiveRefCount>&,BSScrapArray<BSScript::Variable>&,char*,uint)_274B317)
+[RSP+550 ] 0x82C772F200       (void*)
+[RSP+558 ] 0x0                (size_t) [0]
+[RSP+560 ] 0x7FF66B397580     (void* -> Fallout4.exe+5B67580	adc [rsp+rsi*8], bh |  aDiveBombChance_5B67580)
+[RSP+568 ] 0x1882AC03744      (void*)
+[RSP+570 ] 0x187436CA220      (void*)
+[RSP+578 ] 0x7FF667F4D648     (void* -> Fallout4.exe+271D648	test rbx, rbx |  BSScript::SimpleAllocMemoryPagePolicy::DisposePage(BSTSmartPointer<BSScript::MemoryPage,BSTSmartPointerAutoPtr>&)_271D648)
+[RSP+580 ] 0x12               (size_t) [18]
+[RSP+588 ] 0x0                (size_t) [0]
+[RSP+590 ] 0x187436CA220      (void*)
+[RSP+598 ] 0x3F800000C1806000 (size_t) [4575657224654839808]
+[RSP+5A0 ] 0x187436CA220      (void*)
+[RSP+5A8 ] 0x18878463DE0      (void*)
+[RSP+5B0 ] 0x18878463DE0      (void*)
+[RSP+5B8 ] 0x7FF6658544E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+5C0 ] 0x18835F73040      (void*)
+[RSP+5C8 ] 0x7FF666B19D24     (void* -> Fallout4.exe+12E9D24	test eax, eax |  BSTSmartPointer<BSScript::Object,BSTSmartPointerIntrusiveRefCount>::`scalar_deleting_destructor'(uint)_12E9D24)
+[RSP+5D0 ] 0x82C772ED90       (void*)
+[RSP+5D8 ] 0x0                (size_t) [0]
+[RSP+5E0 ] 0x18779D4C340      (void*)
+[RSP+5E8 ] 0x7FF667F980B6     (void* -> Fallout4.exe+27680B6	cmp eax, 0xFFFFFFFF |  BSScript::Internal::VirtualMachine::PushTask(BSScript::Internal::CodeTasklet*)_27680B6)
+[RSP+5F0 ] 0x82C772ED88       (void*)
+[RSP+5F8 ] 0x7FF667F20A55     (void* -> Fallout4.exe+26F0A55	cmp eax, 0x06 |  BSScript::Variable::Cleanup(void)_26F0A55)
+[RSP+600 ] 0x12               (size_t) [18]
+[RSP+608 ] 0x0                (size_t) [0]
+[RSP+610 ] 0x7FF66847A948     (void* -> Fallout4.exe+2C4A948	shl byte ptr [rdx], 0x01 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C4A948)
+[RSP+618 ] 0x18779D543A0      (void*)
+[RSP+620 ] 0x12               (size_t) [18]
+[RSP+628 ] 0x7FF667F6FAB6     (void* -> Fallout4.exe+273FAB6	mov rax, [rsp+0x70] |  BSScript::Internal::VirtualMachine::AttemptFunctionReturn(BSScript::Stack*,bool,bool)_273FAB6)
+[RSP+630 ] 0x0                (size_t) [0]
+[RSP+638 ] 0x82C772EE50       (void*)
+[RSP+640 ] 0x82C772ED00       (void*)
+[RSP+648 ] 0x12               (size_t) [18]
+[RSP+650 ] 0x0                (size_t) [0]
+[RSP+658 ] 0x188477A2FB2      (void*)
+[RSP+660 ] 0x7FF66BF4E5E0     (void* -> Fallout4.exe+671E5E0	add [rax], al |  aDiveBombChance_671E5E0)
+[RSP+668 ] 0x18820B418A0      (BSScript::ObjectTypeInfo*)
+Name: "GCM"
+[RSP+670 ] 0x0                (size_t) [0]
+[RSP+678 ] 0x0                (size_t) [0]
+[RSP+680 ] 0x0                (size_t) [0]
+[RSP+688 ] 0x3E5A9635         (size_t) [1046124085]
+[RSP+690 ] 0x2                (size_t) [2]
+[RSP+698 ] 0x6                (size_t) [6]
+[RSP+6A0 ] 0x187436CA220      (void*)
+[RSP+6A8 ] 0x7FF66BD73CE0     (hknpBSShapeCodec*)
+[RSP+6B0 ] 0x840800000        (size_t) [35441868800]
+[RSP+6B8 ] 0x2                (size_t) [2]
+[RSP+6C0 ] 0x0                (size_t) [0]
+[RSP+6C8 ] 0xF0000000F        (size_t) [64424509455]
+[RSP+6D0 ] 0x0                (size_t) [0]
+[RSP+6D8 ] 0x2066F8E926       (size_t) [139166542118]
+[RSP+6E0 ] 0x2000000020       (size_t) [137438953504]
+[RSP+6E8 ] 0x4000000040       (size_t) [274877907008]
+[RSP+6F0 ] 0x432A0AA0431B4630 (size_t) [4839692432999925296]
+[RSP+6F8 ] 0x432A0AA0431B4630 (size_t) [4839692432999925296]
+[RSP+700 ] 0x459E2C0E459E2C0E (size_t) [5016495474746469390]
+[RSP+708 ] 0x0                (size_t) [0]
+[RSP+710 ] 0x10               (size_t) [16]
+[RSP+718 ] 0x0                (size_t) [0]
+[RSP+720 ] 0xC36FF700C58C7166 (size_t) [uint: 14082746142497206630 int: -4363997931212344986]
+[RSP+728 ] 0x3F80000044040180 (size_t) [4575657222549537152]
+[RSP+730 ] 0xC37E5E3EC5908010 (size_t) [uint: 14086800308157054992 int: -4359943765552496624]
+[RSP+738 ] 0x3F800000C1806000 (size_t) [4575657224654839808]
+[RSP+740 ] 0x9                (size_t) [9]
+[RSP+748 ] 0x3F00000200000008 (size_t) [4539628432979394568]
+[RSP+750 ] 0x0                (size_t) [0]
+[RSP+758 ] 0x0                (size_t) [0]
+[RSP+760 ] 0xC66B3A00C69886D8 (size_t) [uint: 14297585217024067288 int: -4149158856685484328]
+[RSP+768 ] 0xC66A5D70C52B8280 (size_t) [uint: 14297342705966744192 int: -4149401367742807424]
+[RSP+770 ] 0x10               (size_t) [16]
+[RSP+778 ] 0x0                (size_t) [0]
+[RSP+780 ] 0x45C8B9B745C8B9B7 (size_t) [5028473180760095159]
+[RSP+788 ] 0x0                (size_t) [0]
+[RSP+790 ] 0x187C26B05C0      (void*)
+[RSP+798 ] 0xC5AA510BC5AA510B (size_t) [uint: 14243285882515378443 int: -4203458191194173173]
+[RSP+7A0 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+7A8 ] 0xFFFFFFFF00000000 (size_t) [uint: 18446744069414584320 int: -4294967296]
+[RSP+7B0 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+7B8 ] 0x0                (size_t) [0]
+[RSP+7C0 ] 0x3F8F92A4420592F2 (size_t) [4580040580239037170]
+[RSP+7C8 ] 0xC031E7FE3FA7CA20 (size_t) [uint: 13849105408316656160 int: -4597638665392895456]
+[RSP+7D0 ] 0xBD9C5549401771DA (size_t) [uint: 13662889142631494106 int: -4783854931078057510]
+[RSP+7D8 ] 0x40755A3FBF2498FE (size_t) [4644717820538820862]
+[RSP+7E0 ] 0xF00000186        (size_t) [64424509830]
+[RSP+7E8 ] 0x1F000012DA       (size_t) [133143991002]
+[RSP+7F0 ] 0x46D1B5D2C4CAB184 (size_t) [5103059769636860292]
+[RSP+7F8 ] 0x3FFFFFFFBFFF9554 (size_t) [4611686017353618772]
+[RSP+800 ] 0xC3E85C00C0006000 (size_t) [uint: 14116634190283825152 int: -4330109883425726464]
+[RSP+808 ] 0xC4AE4500C4685C00 (size_t) [uint: 14172340946979019776 int: -4274403126730531840]
+[RSP+810 ] 0x5                (size_t) [5]
+[RSP+818 ] 0x200000001        (size_t) [8589934593]
+[RSP+820 ] 0x400000003        (size_t) [17179869187]
+[RSP+828 ] 0xC64D4BEE450B3C30 (size_t) [uint: 14289160679449115696 int: -4157583394260435920]
+[RSP+830 ] 0x413EB288C4FBF75B (size_t) [4701391361511520091]
+[RSP+838 ] 0xC5D23088C55284EC (size_t) [uint: 14254509134565246188 int: -4192234939144305428]
+[RSP+840 ] 0xC5C55FAEC666D866 (size_t) [uint: 14250901800141379686 int: -4195842273568171930]
+[RSP+848 ] 0x0                (size_t) [0]
+[RSP+850 ] 0x46374ED100000000 (size_t) [5059599365929172992]
+[RSP+858 ] 0x46E4B2CC         (size_t) [1189393100]
+[RSP+860 ] 0xC8702B02C8EFBF79 (size_t) [uint: 14443091295938264953 int: -4003652777771286663]
+[RSP+868 ] 0x7FF6681136B2     (void* -> Fallout4.exe+28E36B2	mov ecx, ebx |  Umbra::KDTree::rank(int)_28E36B2)
+[RSP+870 ] 0x202              (size_t) [514]
+[RSP+878 ] 0x436025E64373D57A (size_t) [4854922069209765242]
+[RSP+880 ] 0x43897025C33CC629 (size_t) [4866544179842172457]
+[RSP+888 ] 0xC2E939AD43AD84CF (size_t) [uint: 14044820329259173071 int: -4401923744450378545]
+[RSP+890 ] 0x187C26B0720      (void*)
+[RSP+898 ] 0xC2E41C7700000035 (size_t) [uint: 14043380835474735157 int: -4403363238234816459]
+[RSP+8A0 ] 0x1                (size_t) [1]
+[RSP+8A8 ] 0x7FF66814074D     (void* -> Fallout4.exe+291074D	movsxd rdx, dword ptr [rbx+0x30] |  Umbra::KDTraverseStack<int>::pushChildren<1>(Umbra::KDTraverseEntry,float,bool,int,int)_291074D)
+[RSP+8B0 ] 0x18716C9E9C0      (char*) "5"
+[RSP+8B8 ] 0x7FFF224CBDB5     (void* -> Buffout4.dll+00FBDB5	mov r8d, eax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2567 ?getTLS@MemoryPool@internal@rml@@QEAAPEAVTLSData@23@_N@Z)
+[RSP+8C0 ] 0xC3FCA590C3FCA590 (size_t) [uint: 14122344572709021072 int: -4324399501000530544]
+[RSP+8C8 ] 0xC303575CC303575C (size_t) [uint: 14052171318246463324 int: -4394572755463088292]
+[RSP+8D0 ] 0x3F000000         (size_t) [1056964608]
+[RSP+8D8 ] 0x0                (size_t) [0]
+[RSP+8E0 ] 0x187436CA220      (void*)
+[RSP+8E8 ] 0x82C772F118       (void*)
+[RSP+8F0 ] 0x82C772F118       (void*)
+[RSP+8F8 ] 0x187436CA220      (void*)
+[RSP+900 ] 0x12               (size_t) [18]
+[RSP+908 ] 0x7FFF224CC84C     (void* -> Buffout4.dll+00FC84C	mov rbx, rax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2934 scalable_malloc E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2995 scalable_malloc)
+[RSP+910 ] 0x104              (size_t) [260]
+[RSP+918 ] 0x7FF667F20A55     (void* -> Fallout4.exe+26F0A55	cmp eax, 0x06 |  BSScript::Variable::Cleanup(void)_26F0A55)
+[RSP+920 ] 0x100              (size_t) [256]
+[RSP+928 ] 0x44C5981E44BF9DFD (size_t) [4955534220760948221]
+[RSP+930 ] 0x1882AC03740      (void*)
+[RSP+938 ] 0x7FF667F4D90D     (void* -> Fallout4.exe+271D90D	jmp 0x00007FF667F4D911 |  BSScript::IMemoryPagePolicy::CreatePage(uint,BSTSmartPointer<BSScript::MemoryPage,BSTSmartPointerAutoPtr>&)_271D90D)
+[RSP+940 ] 0x7FF66B299250     (void* -> Fallout4.exe+5A69250	add [rax], al |  aDiveBombChance_5A69250)
+[RSP+948 ] 0x7FF667F21145     (void* -> Fallout4.exe+26F1145	cmp eax, 0x06 |  BSScript::Variable::Assign(BSScript::Variable&)_26F1145)
+[RSP+950 ] 0x12               (size_t) [18]
+[RSP+958 ] 0x1882AC03784      (void*)
+[RSP+960 ] 0x0                (size_t) [0]
+[RSP+968 ] 0x7FF66B2ED9B8     (BSScript::SimpleAllocMemoryPagePolicy*)
+[RSP+970 ] 0x12               (size_t) [18]
+[RSP+978 ] 0x7FF667F4D3E8     (void* -> Fallout4.exe+271D3E8	test al, al |  BSScript::SimpleAllocMemoryPagePolicy::AllocatePage(uint,BSScript::IMemoryPagePolicy::NewPageStrategy,BSTSmartPointer<BSScript::MemoryPage,BSTSmartPointerAutoPtr>&)_271D3E8)
+[RSP+980 ] 0x2                (size_t) [2]
+[RSP+988 ] 0x0                (size_t) [0]
+[RSP+990 ] 0x12               (size_t) [18]
+[RSP+998 ] 0x7FF667372FE8     (void* -> Fallout4.exe+1B42FE8	mov r10, rax |  BSStringPool::Entry::Release(BSStringPool::Entry*&)_1B42FE8)
+[RSP+9A0 ] 0x18779D4C101      (void*)
+[RSP+9A8 ] 0x187436CA220      (void*)
+[RSP+9B0 ] 0x1882AC03744      (void*)
+[RSP+9B8 ] 0x7FF667F20A55     (void* -> Fallout4.exe+26F0A55	cmp eax, 0x06 |  BSScript::Variable::Cleanup(void)_26F0A55)
+[RSP+9C0 ] 0x0                (size_t) [0]
+[RSP+9C8 ] 0x1882AB6A250      (void*)
+[RSP+9D0 ] 0x1882AC03784      (void*)
+[RSP+9D8 ] 0x12               (size_t) [18]
+[RSP+9E0 ] 0x82C772F201       (void*)
+[RSP+9E8 ] 0x7FF667F21062     (void* -> Fallout4.exe+26F1062	jmp 0x00007FF667F21259 |  BSScript::Variable::Assign(BSScript::Variable&)_26F1062)
+[RSP+9F0 ] 0x0                (size_t) [0]
+[RSP+9F8 ] 0x1882AC03784      (void*)
+[RSP+A00 ] 0x7FF66B397580     (void* -> Fallout4.exe+5B67580	adc [rsp+rsi*8], bh |  aDiveBombChance_5B67580)
+[RSP+A08 ] 0x1                (size_t) [1]
+[RSP+A10 ] 0x82C772F1B9       (void*)
+[RSP+A18 ] 0x7FF66848BF48     (void* -> Fallout4.exe+2C5BF48	and [rbp-0x64], ah |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C5BF48)
+[RSP+A20 ] 0x0                (size_t) [0]
+[RSP+A28 ] 0x82C772F201       (void*)
+[RSP+A30 ] 0x0                (size_t) [0]
+[RSP+A38 ] 0x7FF667F31FBE     (void* -> Fallout4.exe+2701FBE	mov rbx, [rsp+0x40] |  BSScript::StackFrame::InitFrame(BSTSmartPointer<BSScript::IFunction,BSTSmartPointerIntrusiveRefCount>&,BSTSmartPointer<BSScript::ObjectTypeInfo,BSTSmartPointerIntrusiveRefCount>&,BSScript::Variable&,BSScrapArray<BSScript::Variable>&)_2701FBE)
+[RSP+A40 ] 0x0                (size_t) [0]
+[RSP+A48 ] 0x187436CA220      (void*)
+[RSP+A50 ] 0x2                (size_t) [2]
+[RSP+A58 ] 0x0                (size_t) [0]
+[RSP+A60 ] 0x0                (size_t) [0]
+[RSP+A68 ] 0x1882BE40280      (void*)
+[RSP+A70 ] 0x82C772F260       (void*)
+[RSP+A78 ] 0x7FF667F33E97     (void* -> Fallout4.exe+2703E97	mov rbp, [rsp+0x78] |  BSScript::Stack::PushFrame(BSTSmartPointer<BSScript::IFunction,BSTSmartPointerIntrusiveRefCount>&,BSTSmartPointer<BSScript::ObjectTypeInfo,BSTSmartPointerIntrusiveRefCount>&,BSScript::Variable&,BSScrapArray<BSScript::Variable>&)_2703E97)
+[RSP+A80 ] 0x82C772F270       (void*)
+[RSP+A88 ] 0x0                (size_t) [0]
+[RSP+A90 ] 0x18779D4C100      (BSScript::Internal::VirtualMachine*)
+[RSP+A98 ] 0x0                (size_t) [0]
+[RSP+AA0 ] 0x82C772F298       (void*)
+[RSP+AA8 ] 0x82C772F9A0       (void*)
+[RSP+AB0 ] 0x18779D4C101      (void*)
+[RSP+AB8 ] 0x2                (size_t) [2]
+[RSP+AC0 ] 0x6124D07800       (size_t) [417229469696]
+[RSP+AC8 ] 0x82C772F9A0       (void*)
+[RSP+AD0 ] 0x0                (size_t) [0]
+[RSP+AD8 ] 0x18779D4C100      (BSScript::Internal::VirtualMachine*)
+[RSP+AE0 ] 0x82C772F310       (void*)
+[RSP+AE8 ] 0x7FF667F6F224     (void* -> Fallout4.exe+273F224	mov r15, [rbp-0x38] |  BSScript::Internal::VirtualMachine::AttemptFunctionCall(BSScript::Stack*,BSTSmartPointer<BSScript::Internal::IFuncCallQuery,BSTSmartPointerIntrusiveRefCount>&,bool)_273F224)
+[RSP+AF0 ] 0x12               (size_t) [18]
+[RSP+AF8 ] 0x82C772F310       (void*)
+[RSP+B00 ] 0x7FF66B2EDA20     (GameScript::Logger*)
+[RSP+B08 ] 0x18779D4C100      (BSScript::Internal::VirtualMachine*)
+[RSP+B10 ] 0x82C772F200       (void*)
+[RSP+B18 ] 0x82C772F298       (void*)
+[RSP+B20 ] 0x82C772F300       (void*)
+[RSP+B28 ] 0x187CCD7BE20      (BSScript::ObjectTypeInfo*)
+Name: "LTMN2:LootMan"
+[RSP+B30 ] 0x187CC7DF9A0      (void*)
+[RSP+B38 ] 0x0                (size_t) [0]
+[RSP+B40 ] 0x187CCD7BB20      (NativeFunction1<StaticFunctionTag,void,StringCache::Ref>*)
+[RSP+B48 ] 0x8200000001       (size_t) [558345748481]
+[RSP+B50 ] 0x0                (size_t) [0]
+[RSP+B58 ] 0x0                (size_t) [0]
+[RSP+B60 ] 0x82C772F5A0       (void*)
+[RSP+B68 ] 0x187CCD7FAC0      (BSScript::ObjectTypeInfo*)
+Name: "FormList"
+[RSP+B70 ] 0x187436CA220      (void*)
+[RSP+B78 ] 0x187436CA180      (ScrapHeap*)
+[RSP+B80 ] 0x1882AB6A250      (void*)
+[RSP+B88 ] 0x1                (size_t) [1]
+[RSP+B90 ] 0x1                (size_t) [1]
+[RSP+B98 ] 0x18820B406A0      (BSScript::ObjectTypeInfo*)
+Name: "LTMN2:System"
+[RSP+BA0 ] 0x0                (size_t) [0]
+[RSP+BA8 ] 0x3400000000000000 (size_t) [3746994889972252672]
+[RSP+BB0 ] 0x0                (size_t) [0]
+[RSP+BB8 ] 0x1882BE40280      (void*)
+[RSP+BC0 ] 0x0                (size_t) [0]
+[RSP+BC8 ] 0x18800000000      (void*)
+[RSP+BD0 ] 0x18700000000      (void*)
+[RSP+BD8 ] 0x7FF667101264     (void* -> Fallout4.exe+18D1264	mov ecx, [rbp-0x20] |  hkbBlenderGeneratorUtils::generateInternal(hkbBlenderGenerator&,hkbGeneratorOutput**,hkbGeneratorOutput&,hkQsTransformf&,hkaSkeleton*,hkQsTransformf*)_18D1264)
+[RSP+BE0 ] 0x0                (size_t) [0]
+[RSP+BE8 ] 0x0                (size_t) [0]
+[RSP+BF0 ] 0x0                (size_t) [0]
+[RSP+BF8 ] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+C00 ] 0x0                (size_t) [0]
+[RSP+C08 ] 0x7FFF224CBDB5     (void* -> Buffout4.dll+00FBDB5	mov r8d, eax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2567 ?getTLS@MemoryPool@internal@rml@@QEAAPEAVTLSData@23@_N@Z)
+[RSP+C10 ] 0x0                (size_t) [0]
+[RSP+C18 ] 0x18800000000      (void*)
+[RSP+C20 ] 0x0                (size_t) [0]
+[RSP+C28 ] 0x7FF6665F330C     (void* -> Fallout4.exe+0DC330C	test al, al |  Actor::DoGetCurrentMaxSpeeds(Movement::MaxSpeeds&)_DC330C)
+[RSP+C30 ] 0x82C772F6D0       (void*)
+[RSP+C38 ] 0x1884C14E980      (BSMultiBoundNode*)
+RTTIName: "BSMultiBoundNode"
+Flags: e
+Checking TESObjectREFR:
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000209
+EditorID: "Water1024IntPondDarkCalm"
+FormID: 0x00197C59
+FormType: kACTI (27)
+Checking Parent:
+Name: "Water1024"
+RTTIName: "BSFadeNode"
+Flags: 4210080c80e
+Checking TESObjectREFR:
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000209
+EditorID: "Water1024IntPondDarkCalm"
+FormID: 0x00197C59
+FormType: kACTI (27)
+Checking Parent:
+Name: "Portal Shared Geometry"
+RTTIName: "BSPortalSharedNode"
+Flags: 80000000280e
+Checking Parent:
+Name: "Shared Portal Geometry"
+RTTIName: "NiNode"
+Flags: 280e
+Checking Parent:
+RTTIName: "NiNode"
+Flags: 80000000280e
+Checking Parent:
+RTTIName: "BSMultiBoundNode"
+Flags: 2000280e
+Checking Parent:
+Name: "ObjectLODRoot"
+RTTIName: "NiNode"
+Flags: 2000280e
+Checking Parent:
+Name: "shadow scene node"
+RTTIName: "ShadowSceneNode"
+Flags: 2000280e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 2000280e
+[RSP+C40 ] 0x1883EF99728      (char*) "bY "
+[RSP+C48 ] 0x82C772F798       (void*)
+[RSP+C50 ] 0x82C772F800       (void*)
+[RSP+C58 ] 0x7FFF224CC6BE     (void* -> Buffout4.dll+00FC6BE	mov rbx, rax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:3106 scalable_aligned_malloc)
+[RSP+C60 ] 0x82C772F4B0       (void*)
+[RSP+C68 ] 0x7FFF224CB53E     (void* -> Buffout4.dll+00FB53E	cmp eax, ebx |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2537 ?freeOwnObject@Block@internal@rml@@QEAAXPEAX@Z)
+[RSP+C70 ] 0x1884C7DEB00      (bhkCharRigidBodyController*)
+[RSP+C78 ] 0x0                (size_t) [0]
+[RSP+C80 ] 0x82C772F4B0       (void*)
+[RSP+C88 ] 0x7FF666D4E697     (void* -> Fallout4.exe+151E697	mov rcx, [0x00007FF66B3370C8] |  hknpTriangleShape::createEmptyTriangleShape(float)_151E697)
+[RSP+C90 ] 0x187BCCC6000      (void*)
+[RSP+C98 ] 0x7FFF224CC673     (void* -> Buffout4.dll+00FC673	mov rdi, [rsp+0x30] |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:3185 scalable_aligned_free)
+[RSP+CA0 ] 0x187BCCC6000      (void*)
+[RSP+CA8 ] 0x7FFF226B5500     (void* -> Buffout4.dll+02E5500	add [rax], al |  ?memPoolListLock@MemoryPool@internal@rml@@2VMallocMutex@@A_2E5500)
+[RSP+CB0 ] 0x0                (size_t) [0]
+[RSP+CB8 ] 0x0                (size_t) [0]
+[RSP+CC0 ] 0x0                (size_t) [0]
+[RSP+CC8 ] 0x7FF666D4ECEB     (void* -> Fallout4.exe+151ECEB	mov rax, rdi |  hknpTriangleShape::`vector_deleting_destructor'(uint)_151ECEB)
+[RSP+CD0 ] 0x187BCCC6000      (void*)
+[RSP+CD8 ] 0xF0               (size_t) [240]
+[RSP+CE0 ] 0x82C772F798       (void*)
+[RSP+CE8 ] 0x82C772F800       (void*)
+[RSP+CF0 ] 0x82C772F800       (void*)
+[RSP+CF8 ] 0x7FF665BF397E     (void* -> Fallout4.exe+03C397E	movzx eax, sil |  TESObjectCELL::GetWaterHeightForLoadedData(LOADED_CELL_DATA*,bhkWorld*,NiPoint3&,float&,BSPointerHandle<TESObjectREFR,BSUntypedPointerHandle<21,5>>*)_3C397E)
+[RSP+D00 ] 0x187F640F9C0      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000209
+EditorID: "Water1024IntPondDarkCalm"
+FormID: 0x00197C59
+FormType: kACTI (27)
+File: "Fallout4.esm"
+Flags: 0x00000409
+FormID: 0x0002D27E
+FormType: kREFR (64)
+[RSP+D08 ] 0x1884C7DEB00      (bhkCharRigidBodyController*)
+[RSP+D10 ] 0x187736BFFA0      (void*)
+[RSP+D18 ] 0x7FF6675AF7E3     (void* -> Fallout4.exe+1D7F7E3	mov eax, [rax] |  bhkNPCollisionObject::GetBodyId(void)_1D7F7E3)
+[RSP+D20 ] 0x8200000000       (size_t) [558345748480]
+[RSP+D28 ] 0x82C772F4E0       (void*)
+[RSP+D30 ] 0x187F640F9C0      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000209
+EditorID: "Water1024IntPondDarkCalm"
+FormID: 0x00197C59
+FormType: kACTI (27)
+File: "Fallout4.esm"
+Flags: 0x00000409
+FormID: 0x0002D27E
+FormType: kREFR (64)
+[RSP+D38 ] 0x1884C127100      (bhkNPCollisionObject*)
+[RSP+D40 ] 0xC438000043C00000 (size_t) [uint: 14139051031266328576 int: -4307693042443223040]
+[RSP+D48 ] 0x7FF6C2900000     (size_t) [140697802899456]
+[RSP+D50 ] 0xC1283FE640AF9097 (size_t) [uint: 13918444906548793495 int: -4528299167160758121]
+[RSP+D58 ] 0xBF83AC71         (size_t) [3213077617]
+[RSP+D60 ] 0x3F06FFFF         (size_t) [1057423359]
+[RSP+D68 ] 0x0                (size_t) [0]
+[RSP+D70 ] 0x1                (size_t) [1]
+[RSP+D78 ] 0x82C772F458       (void*)
+[RSP+D80 ] 0x1883EF99700      (void*)
+[RSP+D88 ] 0x7FF6658BDCF7     (void* -> Fallout4.exe+008DCF7	jmp 0x00007FF6658BDCFC |  ExtraDataList::GetLinkedRef(BGSKeyword*,bool)_8DCF7)
+[RSP+D90 ] 0x1883F0BCB80      (void*)
+[RSP+D98 ] 0x0                (size_t) [0]
+[RSP+DA0 ] 0x187BCCC5E00      (void*)
+[RSP+DA8 ] 0x187BCCC6000      (void*)
+[RSP+DB0 ] 0x0                (size_t) [0]
+[RSP+DB8 ] 0x0                (size_t) [0]
+[RSP+DC0 ] 0x420C0000         (size_t) [1108082688]
+[RSP+DC8 ] 0x0                (size_t) [0]
+[RSP+DD0 ] 0x0                (size_t) [0]
+[RSP+DD8 ] 0x0                (size_t) [0]
+[RSP+DE0 ] 0x42800000         (size_t) [1115684864]
+[RSP+DE8 ] 0x7FF66665A71E     (void* -> Fallout4.exe+0E2A71E	test rax, rax |  AIProcess::GetPackageThatIsRunning(void)_E2A71E)
+[RSP+DF0 ] 0x0                (size_t) [0]
+[RSP+DF8 ] 0x0                (size_t) [0]
+[RSP+E00 ] 0x1887F7FFFEE      (void*)
+[RSP+E08 ] 0x7FF66663F9B3     (void* -> Fallout4.exe+0E0F9B3	mov r8d, [rax] |  Actor::GetInteractionHandle(void)_E0F9B3)
+[RSP+E10 ] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+E18 ] 0x7FF66662F2C2     (void* -> Fallout4.exe+0DFF2C2	test al, al |  Actor::IsInActiveCombat(void)_DFF2C2)
+[RSP+E20 ] 0xFFFF7FFFFFFF     (size_t) [281472829227007]
+[RSP+E28 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+E30 ] 0x82C772F5A0       (void*)
+[RSP+E38 ] 0x1883F112200      (void*)
+[RSP+E40 ] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+E48 ] 0x7FF666679E8D     (void* -> Fallout4.exe+0E49E8D	test al, al |  AIProcess::UpdateGunState(Actor&)_E49E8D)
+[RSP+E50 ] 0xC424EE0000205938 (size_t) [uint: 14133683214364989752 int: -4313060859344561864]
+[RSP+E58 ] 0xC27B6CD0         (size_t) [3262868688]
+[RSP+E60 ] 0xC446EE0000205938 (size_t) [uint: 14143253363573152056 int: -4303490710136399560]
+[RSP+E68 ] 0x187C27B6CD0      (void*)
+[RSP+E70 ] 0xC446EE0043915380 (size_t) [uint: 14143253364704629632 int: -4303490709004921984]
+[RSP+E78 ] 0xC27B6CD0         (size_t) [3262868688]
+[RSP+E80 ] 0xC438000043C00000 (size_t) [uint: 14139051031266328576 int: -4307693042443223040]
+[RSP+E88 ] 0x7FF6C27B6CD0     (size_t) [140697801551056]
+[RSP+E90 ] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+E98 ] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+EA0 ] 0x0                (size_t) [0]
+[RSP+EA8 ] 0x82C772FAA0       (void*)
+[RSP+EB0 ] 0x1883F0681D0      (void*)
+[RSP+EB8 ] 0x7FF667CE319C     (void* -> Fallout4.exe+24B319C	add rsp, 0x38 |  BSNavmesh::IsPointInsideTriangle(ushort,NiPoint3&,float&)_24B319C)
+[RSP+EC0 ] 0x1883EF1BBB0      (void*)
+[RSP+EC8 ] 0x7FF6C1124CC0     (size_t) [140697777884352]
+[RSP+ED0 ] 0x82C772F801       (void*)
+[RSP+ED8 ] 0x1883F112200      (void*)
+[RSP+EE0 ] 0x82C772F730       (void*)
+[RSP+EE8 ] 0x0                (size_t) [0]
+[RSP+EF0 ] 0x1883F0681D0      (void*)
+[RSP+EF8 ] 0x7FF6666791C6     (void* -> Fallout4.exe+0E491C6	mov rdi, [rsp+0xE0] |  AIProcess::GetCachedPathingLocation(Actor&,BSPathingLocation&)_E491C6)
+[RSP+F00 ] 0x18800205938      (void*)
+[RSP+F08 ] 0x1883F112200      (void*)
+[RSP+F10 ] 0x1883F112200      (void*)
+[RSP+F18 ] 0x7FF666668D73     (void* -> Fallout4.exe+0E38D73	cmp dword ptr [rbx+0x78], 0x00 |  AIProcess::IsWeaponSubgraphFinishedLoading(Actor&)_E38D73)
+[RSP+F20 ] 0xC036E148C25AFFB2 (size_t) [uint: 13850505406639177650 int: -4596238667070373966]
+[RSP+F28 ] 0x3F800000BFF8B781 (size_t) [4575657224629172097]
+[RSP+F30 ] 0x0                (size_t) [0]
+[RSP+F38 ] 0x0                (size_t) [0]
+[RSP+F40 ] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+F48 ] 0x7FF6665F4C4E     (void* -> Fallout4.exe+0DC4C4E	test al, al |  Actor::PollItemEquip(bool)_DC4C4E)
+[RSP+F50 ] 0x7FF600000001     (size_t) [140694538682369]
+[RSP+F58 ] 0x0                (size_t) [0]
+[RSP+F60 ] 0x1884C7DEB00      (bhkCharRigidBodyController*)
+[RSP+F68 ] 0x82C772FA90       (void*)
+[RSP+F70 ] 0x1871647CB80      (ActorValueInfo*)
+Flags: 0x00000008
+EditorID: "WaterWalking"
+FormID: 0x000002F7
+FormType: kAVIF (98)
+[RSP+F78 ] 0x7FF666655C18     (void* -> Fallout4.exe+0E25C18	mov rbx, [rsp+0x30] |  ActorValueStorage::GetBaseValueAt(ActorValueInfo&,float&)_E25C18)
+[RSP+F80 ] 0x1883F068468      (void*)
+[RSP+F88 ] 0x18800000000      (void*)
+[RSP+F90 ] 0x1883EF7E800      (bhkWorld*)
+[RSP+F98 ] 0x7FF66734093F     (void* -> Fallout4.exe+1B1093F	cmp [rdi], eax |  BSReadWriteLock::LockForRead(void)_1B1093F)
+[RSP+FA0 ] 0x187436C9860      (void*)
+[RSP+FA8 ] 0x7FF6658544E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+FB0 ] 0x1871647CB80      (ActorValueInfo*)
+Flags: 0x00000008
+EditorID: "WaterWalking"
+FormID: 0x000002F7
+FormType: kAVIF (98)
+[RSP+FB8 ] 0x1883F068158      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+FC0 ] 0x1871647CB80      (ActorValueInfo*)
+Flags: 0x00000008
+EditorID: "WaterWalking"
+FormID: 0x000002F7
+FormType: kAVIF (98)
+[RSP+FC8 ] 0x7FF666655F29     (void* -> Fallout4.exe+0E25F29	mov rbx, [rsp+0x30] |  ActorValueStorage::GetModifiers(ActorValueInfo&)_E25F29)
+[RSP+FD0 ] 0x1883EF1C380      (void*)
+[RSP+FD8 ] 0x7FF666606F4F     (void* -> Fallout4.exe+0DD6F4F	xor r15d, r15d |  AIProcess::ForEachEquippedItem<_lambda_345806c1ece63f9098a03c950c7d033f_>(uchar,_lambda_345806c1ece63f9098a03c950c7d033f_&)_DD6F4F)
+[RSP+FE0 ] 0x1883F112200      (void*)
+[RSP+FE8 ] 0x2B               (size_t) [43]
+[RSP+FF0 ] 0x1884C7DEB00      (bhkCharRigidBodyController*)
+[RSP+FF8 ] 0x7FF666626D38     (void* -> Fallout4.exe+0DF6D38	test rax, rax |  Actor::GetActorValue(ActorValueInfo&)_DF6D38)
+[RSP+1000] 0x0                (size_t) [0]
+[RSP+1008] 0x7FF6658544E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+1010] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+1018] 0x7FF6665A456B     (void* -> Fallout4.exe+0D7456B	mov rbx, [rsp+0x50] |  Actor::UpdateWeaponState(void)_D7456B)
+[RSP+1020] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+1028] 0x82C772F890       (void*)
+[RSP+1030] 0x1883EF1C380      (void*)
+[RSP+1038] 0x7FF666668B53     (void* -> Fallout4.exe+0E38B53	cmp dword ptr [rbx+0x38], 0x00 |  AIProcess::IsDefaultSubgraphFinishedLoading(Actor&)_E38B53)
+[RSP+1040] 0x1883F112200      (void*)
+[RSP+1048] 0x2B               (size_t) [43]
+[RSP+1050] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+1058] 0x0                (size_t) [0]
+[RSP+1060] 0x82C772F890       (void*)
+[RSP+1068] 0x7FF6665AC6F2     (void* -> Fallout4.exe+0D7C6F2	mov r12, [rsp+0x390] |  Actor::Update(float)_D7C6F2)
+[RSP+1070] 0x1                (size_t) [1]
+[RSP+1078] 0x0                (size_t) [0]
+[RSP+1080] 0x1884C7DEB00      (bhkCharRigidBodyController*)
+[RSP+1088] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+1090] 0x0                (size_t) [0]
+[RSP+1098] 0x7FF66734093F     (void* -> Fallout4.exe+1B1093F	cmp [rdi], eax |  BSReadWriteLock::LockForRead(void)_1B1093F)
+[RSP+10A0] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+10A8] 0x7FF666750DB3     (void* -> Fallout4.exe+0F20DB3	test al, al |  ActorMover::IsPathing(void)_F20DB3)
+[RSP+10B0] 0x1884464D900      (MovementControllerNPC*)
+[RSP+10B8] 0x1883F112200      (void*)
+[RSP+10C0] 0x73F110000        (size_t) [31122849792]
+[RSP+10C8] 0x7FF667D2FD2A     (void* -> Fallout4.exe+24FFD2A	mov rbx, [rsp+0x30] |  MovementPathManagerArbiter::GetCurrentRequest(BSTSmartPointer<BSPathingRequest,BSTSmartPointerIntrusiveRefCount>&)_24FFD2A)
+[RSP+10D0] 0x37               (size_t) [55]
+[RSP+10D8] 0x7FF666667996     (void* -> Fallout4.exe+0E37996	test rax, rax |  AIProcess::RandomlyPlaySpecialIdles(Actor*)_E37996)
+[RSP+10E0] 0x0                (size_t) [0]
+[RSP+10E8] 0x1883F112200      (void*)
+[RSP+10F0] 0x1883F112200      (void*)
+[RSP+10F8] 0x7FF66665A71E     (void* -> Fallout4.exe+0E2A71E	test rax, rax |  AIProcess::GetPackageThatIsRunning(void)_E2A71E)
+[RSP+1100] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+1108] 0x7FF66734093F     (void* -> Fallout4.exe+1B1093F	cmp [rdi], eax |  BSReadWriteLock::LockForRead(void)_1B1093F)
+[RSP+1110] 0xFFFFFFFF         (size_t) [4294967295]
+[RSP+1118] 0x7FF66755E81E     (void* -> Fallout4.exe+1D2E81E	mov rax, [rsp+0x90] |  BSTArray<NiTransform*,BSTArrayHeapAllocator>::ForEach<_lambda_35d0006957c573e185304d91548c4257_>(_lambda_35d0006957c573e185304d91548c4257_&)_1D2E81E)
+[RSP+1120] 0x1877367FB28      (NavMesh*)
+File: "Fallout4.esm"
+Flags: 0x00000008
+FormID: 0x000B11DC
+FormType: kNAVM (76)
+[RSP+1128] 0x7FF66667B483     (void* -> Fallout4.exe+0E4B483	mov rbx, [rbp+0x67] |  AIProcess::PickPackageIdles(Actor*)_E4B483)
+[RSP+1130] 0x1884466A120      (MovementPathManagerArbiter*)
+[RSP+1138] 0x37               (size_t) [55]
+[RSP+1140] 0x82C772F889       (void*)
+[RSP+1148] 0x1883F068100      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00440009
+FormID: 0x00026F37
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420409
+FormID: 0x00038BF5
+FormType: kACHR (65)
+[RSP+1150] 0x0                (size_t) [0]
+[RSP+1158] 0x0                (size_t) [0]
+[RSP+1160] 0x0                (size_t) [0]
+[RSP+1168] 0x0                (size_t) [0]
+[RSP+1170] 0x0                (size_t) [0]
+[RSP+1178] 0x0                (size_t) [0]
+[RSP+1180] 0x0                (size_t) [0]
+[RSP+1188] 0x0                (size_t) [0]
+[RSP+1190] 0x0                (size_t) [0]
+[RSP+1198] 0x0                (size_t) [0]
+[RSP+11A0] 0x18779D4E0A0      (void*)
+[RSP+11A8] 0x7FF667F9445D     (void* -> Fallout4.exe+276445D	nop [rax], eax |  BSTArray<BSTSmartPointer<BSScript::Struct,BSTSmartPointerIntrusiveRefCount>,BSTArrayHeapAllocator>::DestructItems(uint,uint)_276445D)
+[RSP+11B0] 0x18779D4C348      (BSTStaticFreeList<BSScript::Internal::FunctionMessage,1024>*)
+[RSP+11B8] 0x1884A0E0100      (BSSkin::Instance*)
+[RSP+11C0] 0x1884A19A500      (void*)
+[RSP+11C8] 0x7FF66734093F     (void* -> Fallout4.exe+1B1093F	cmp [rdi], eax |  BSReadWriteLock::LockForRead(void)_1B1093F)
+[RSP+11D0] 0x1                (size_t) [1]
+[RSP+11D8] 0x7FF667F9C69B     (void* -> Fallout4.exe+276C69B	movzx ecx, al |  BSTCommonMessageQueue<BSScript::Internal::FunctionMessage>::TryPop(BSScript::Internal::FunctionMessage&)_276C69B)
+[RSP+11E0] 0xDF1C             (size_t) [57116]
+[RSP+11E8] 0x18779D54360      (BSTCommonLLMessageQueue<BSScript::Internal::FunctionMessage>*)
+[RSP+11F0] 0x18779D4C100      (BSScript::Internal::VirtualMachine*)
+[RSP+11F8] 0x7FF665982D26     (void* -> Fallout4.exe+0152D26	mov rbx, [rsp+0x30] |  TESForm::GetFormByNumericID(uint)_152D26)
+[RSP+1200] 0x0                (size_t) [0]
+[RSP+1208] 0x7FF667F7328C     (void* -> Fallout4.exe+274328C	movzx ebp, al |  BSScript::Internal::VirtualMachine::PopNextFunctionMessage(BSScript::Internal::FunctionMessage&)_274328C)
+[RSP+1210] 0x18779D4C100      (BSScript::Internal::VirtualMachine*)
+[RSP+1218] 0x1                (size_t) [1]
+[RSP+1220] 0x6124D0787F       (size_t) [417229469823]
+[RSP+1228] 0x0                (size_t) [0]
+[RSP+1230] 0x0                (size_t) [0]
+[RSP+1238] 0xF9E              (size_t) [3998]
+[RSP+1240] 0x7FF6685BDCE0     (void* -> Fallout4.exe+2D8DCE0	adc [rdi+rbp*4+0x66], bh |  aDiveBombChance_2D8DCE0)
+[RSP+1248] 0x7FF667F701FF     (void* -> Fallout4.exe+27401FF	call 0x00007FF6673458F0 |  BSScript::Internal::VirtualMachine::ProcessMessageQueue(float,uint&,uint&)_27401FF)
+[RSP+1250] 0x18779D4C340      (void*)
+[RSP+1258] 0x1882BE40280      (void*)
+[RSP+1260] 0xDF1C             (size_t) [57116]
+[RSP+1268] 0x7FF668090B00     (void* -> Fallout4.exe+2860B00	and al, 0x38 |  BSMTAManager::RegisterObject(BSGeometry*)_2860B00)
+[RSP+1270] 0x1                (size_t) [1]
+[RSP+1278] 0x1882BE40280      (void*)
+[RSP+1280] 0x1882BF5DDA0      (BSScript::Internal::CodeTasklet*)
+Stack Trace:
+[None].LTMN2:LootMan.OnUpdateLootManProperty() - "<native>" Line ?
+[<nullptr alias> (392) on <nullptr quest> (20973580)].LTMN2:System.initialize() - "<unknown file>" Line 0
+[<nullptr alias> (392) on <nullptr quest> (20973580)].LTMN2:System.OnTimer() - "<unknown file>" Line 0
+
+[RSP+1288] 0x7FF6658544E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+1290] 0x3C11918D         (size_t) [1007784333]
+[RSP+1298] 0x0                (size_t) [0]
+[RSP+12A0] 0x3C11918D         (size_t) [1007784333]
+[RSP+12A8] 0x0                (size_t) [0]
+[RSP+12B0] 0x18779D4C100      (BSScript::Internal::VirtualMachine*)
+[RSP+12B8] 0x6124D07680       (size_t) [417229469312]
+[RSP+12C0] 0x0                (size_t) [0]
+[RSP+12C8] 0x7FF66B418088     (void* -> Fallout4.exe+5BE8088	add [rax], al |  aDiveBombChance_5BE8088)
+[RSP+12D0] 0x18779D57EC4      (void*)
+[RSP+12D8] 0x0                (size_t) [0]
+[RSP+12E0] 0x82C772FB10       (void*)
+[RSP+12E8] 0x7FF667F61C37     (void* -> Fallout4.exe+2731C37	lea r8, [rbp+0x50] |  BSScript::Internal::VirtualMachine::Update(float)_2731C37)
+[RSP+12F0] 0xF9E              (size_t) [3998]
+[RSP+12F8] 0x8200000002       (size_t) [558345748482]
+[RSP+1300] 0x187436C9860      (void*)
+[RSP+1308] 0x7FF66B41AB00     (void* -> Fallout4.exe+5BEAB00	and ch, dl |  aDiveBombChance_5BEAB00)
+[RSP+1310] 0x0                (size_t) [0]
+[RSP+1318] 0x0                (size_t) [0]
+[RSP+1320] 0x1                (size_t) [1]
+[RSP+1328] 0x7FF667F20A55     (void* -> Fallout4.exe+26F0A55	cmp eax, 0x06 |  BSScript::Variable::Cleanup(void)_26F0A55)
+[RSP+1330] 0x0                (size_t) [0]
+[RSP+1338] 0x7FF666CACDE2     (void* -> Fallout4.exe+147CDE2	test sil, sil |  BSTArray<BSTSmartPointer<GameScript::Internal::DistanceEventData,BSTSmartPointerIntrusiveRefCount>,BSTArrayHeapAllocator>::ConditionalRemove<_lambda_0364a2bfa982262576de34b187ab41bd_>(_lambda_0364a2bfa982262576de34b187ab41bd_&,bool)_147CDE2)
+[RSP+1340] 0x1887D9C29B8      (void*)
+[RSP+1348] 0x1887D9C29B8      (void*)
+[RSP+1350] 0x1                (size_t) [1]
+[RSP+1358] 0x188209979C0      (TESObjectREFR*)
+Object Reference:
+File: "LootMan.esp"
+Flags: 0x00400008
+EditorID: "LTMN_LootManWorkshop"
+FormID: 0xFE0BDFAA
+FormType: kCONT (31)
+File: "LootMan.esp"
+Flags: 0x00400408
+FormID: 0xFE0BDFB0
+FormType: kREFR (64)
+[RSP+1360] 0x7FF66B30DAB0     (GameScript::TimerEventHandler*)
+[RSP+1368] 0x7FF6658544E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+1370] 0xDF1C             (size_t) [57116]
+[RSP+1378] 0x7FF6658544E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+1380] 0x0                (size_t) [0]
+[RSP+1388] 0x0                (size_t) [0]
+[RSP+1390] 0x0                (size_t) [0]
+[RSP+1398] 0x0                (size_t) [0]
+[RSP+13A0] 0x0                (size_t) [0]
+[RSP+13A8] 0x0                (size_t) [0]
+[RSP+13B0] 0x0                (size_t) [0]
+[RSP+13B8] 0x0                (size_t) [0]
+[RSP+13C0] 0x0                (size_t) [0]
+[RSP+13C8] 0x0                (size_t) [0]
+[RSP+13D0] 0x0                (size_t) [0]
+[RSP+13D8] 0x0                (size_t) [0]
+[RSP+13E0] 0x0                (size_t) [0]
+[RSP+13E8] 0x0                (size_t) [0]
+[RSP+13F0] 0x1887D9C29C0      (void*)
+[RSP+13F8] 0x6124D07680       (size_t) [417229469312]
+[RSP+1400] 0x7FF66B418080     (void* -> Fallout4.exe+5BE8080	add [rax], al |  aDiveBombChance_5BE8080)
+[RSP+1408] 0x7FF66B418088     (void* -> Fallout4.exe+5BE8088	add [rax], al |  aDiveBombChance_5BE8088)
+[RSP+1410] 0x7FF66B2ED8F0     (GameVM*)
+[RSP+1418] 0x0                (size_t) [0]
+[RSP+1420] 0x7FF66B41AB00     (void* -> Fallout4.exe+5BEAB00	and ch, dl |  aDiveBombChance_5BEAB00)
+[RSP+1428] 0x2880             (size_t) [10368]
+[RSP+1430] 0x0                (size_t) [0]
+[RSP+1438] 0x7FF666BA2378     (void* -> Fallout4.exe+1372378	mov r15, [rsp+0x50] |  GameVM::Update(float)_1372378)
+[RSP+1440] 0x6100000000       (size_t) [416611827712]
+[RSP+1448] 0xB                (size_t) [11]
+[RSP+1450] 0x5                (size_t) [5]
+[RSP+1458] 0x18700000000      (void*)
+[RSP+1460] 0x38               (size_t) [56]
+[RSP+1468] 0x103000000038     (size_t) [17798344474680]
+[RSP+1470] 0x18700003430      (char*) " (x86)\Steam\controller_base\images\api\light\shared_gyro_pitch_md.png"
+[RSP+1478] 0x0                (size_t) [0]
+[RSP+1480] 0x0                (size_t) [0]
+[RSP+1488] 0x0                (size_t) [0]
+[RSP+1490] 0x7FF66B418084     (void* -> Fallout4.exe+5BE8084	add [rax], al |  aDiveBombChance_5BE8084)
+[RSP+1498] 0x1                (size_t) [1]
+[RSP+14A0] 0x7FF66B418088     (void* -> Fallout4.exe+5BE8088	add [rax], al |  aDiveBombChance_5BE8088)
+[RSP+14A8] 0x0                (size_t) [0]
+[RSP+14B0] 0x0                (size_t) [0]
+[RSP+14B8] 0x7FF66B41AB00     (void* -> Fallout4.exe+5BEAB00	and ch, dl |  aDiveBombChance_5BEAB00)
+[RSP+14C0] 0x1871639D520      (void*)
+[RSP+14C8] 0x7FF6664ED875     (void* -> Fallout4.exe+0CBD875	mov ecx, [0x00007FF66B29BCDC] |  JobListManager::VMUpdate(void*)_CBD875)
+[RSP+14D0] 0x18700000000      (void*)
+[RSP+14D8] 0x38               (size_t) [56]
+[RSP+14E0] 0x7FF600000038     (size_t) [140694538682424]
+[RSP+14E8] 0x7FFFECB63F8E     (void* -> KERNELBASE.dll+0033F8E	nop [rax+rax*1], eax)
+[RSP+14F0] 0x7FF66B41AB00     (void* -> Fallout4.exe+5BEAB00	and ch, dl |  aDiveBombChance_5BEAB00)
+[RSP+14F8] 0x7FF667380F26     (void* -> Fallout4.exe+1B50F26	mov ecx, [rbx+0x0C] |  BSJobs::JobListLocal::RunJobsInternal(uint,BSJobs::ThreadJobListState&,bool)_1B50F26)
+[RSP+1500] 0x7FF66B41AB00     (void* -> Fallout4.exe+5BEAB00	and ch, dl |  aDiveBombChance_5BEAB00)
+[RSP+1508] 0x0                (size_t) [0]
+[RSP+1510] 0x0                (size_t) [0]
+[RSP+1518] 0x7FFFECB96FBD     (void* -> KERNELBASE.dll+0066FBD	nop [rax+rax*1], eax)
+[RSP+1520] 0x0                (size_t) [0]
+[RSP+1528] 0x0                (size_t) [0]
+[RSP+1530] 0x7FF66B42F600     (void* -> Fallout4.exe+5BFF600	and ch, dl |  aDiveBombChance_5BFF600)
+[RSP+1538] 0x0                (size_t) [0]
+[RSP+1540] 0x7FF66B41AAB0     (BSJobs::JobThread*)
+[RSP+1548] 0x7FF667381432     (void* -> Fallout4.exe+1B51432	mov r14d, eax |  BSJobs::JobThread::RunJob(void)_1B51432)
+[RSP+1550] 0x0                (size_t) [0]
+[RSP+1558] 0x7FF66B41AAB0     (BSJobs::JobThread*)
+[RSP+1560] 0x0                (size_t) [0]
+[RSP+1568] 0x82C772FCE0       (char*) "hL"
+[RSP+1570] 0x0                (size_t) [0]
+[RSP+1578] 0x0                (size_t) [0]
+[RSP+1580] 0x0                (size_t) [0]
+[RSP+1588] 0x7FF667383F67     (void* -> Fallout4.exe+1B53F67	movzx eax, byte ptr [rbx+0xA74] |  BSJobs::JobThread::ThreadProc(void)_1B53F67)
+[RSP+1590] 0x7FF66B41AAB0     (BSJobs::JobThread*)
+[RSP+1598] 0x0                (size_t) [0]
+[RSP+15A0] 0x0                (size_t) [0]
+[RSP+15A8] 0x0                (size_t) [0]
+[RSP+15B0] 0x7FF66B41AAB0     (BSJobs::JobThread*)
+[RSP+15B8] 0x7FF66734CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF66B38BD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+15C0] 0x4C68             (size_t) [19560]
+[RSP+15C8] 0x82C772FD00       (void*)
+[RSP+15D0] 0x1871637BC90      (void*)
+[RSP+15D8] 0x0                (size_t) [0]
+[RSP+15E0] 0x7FF66B41AAB0     (BSJobs::JobThread*)
+[RSP+15E8] 0x0                (size_t) [0]
+[RSP+15F0] 0x0                (size_t) [0]
+[RSP+15F8] 0x7FFFEE7626AD     (void* -> KERNEL32.DLL+00126AD	mov ecx, eax)
+[RSP+1600] 0x0                (size_t) [0]
+[RSP+1608] 0x0                (size_t) [0]
+[RSP+1610] 0x0                (size_t) [0]
+[RSP+1618] 0x0                (size_t) [0]
+[RSP+1620] 0x0                (size_t) [0]
+[RSP+1628] 0x7FFFEF36AA68     (void* -> ntdll.dll+005AA68	jmp 0x00007FFFEF36AA89)
+[RSP+1630] 0x0                (size_t) [0]
+[RSP+1638] 0x0                (size_t) [0]
+[RSP+1640] 0x0                (size_t) [0]
+[RSP+1648] 0x0                (size_t) [0]
+[RSP+1650] 0x0                (size_t) [0]
+[RSP+1658] 0x0                (size_t) [0]
+[RSP+1660] 0xCFB01E8000000000 (size_t) [uint: 14965495096856805376 int: -3481248976852746240]
+[RSP+1668] 0x0                (size_t) [0]
+[RSP+1670] 0x4F0FFFFFB30      (size_t) [5433133628208]
+[RSP+1678] 0x7FFFECC8BB40     (void* -> KERNELBASE.dll+015BB40	mov [rsp+0x10], rbx)
+[RSP+1680] 0x82C772D7C0       (void*)
+[RSP+1688] 0x7FFF2378A5C0     (size_t) [140733788497344]
+[RSP+1690] 0x7FFF2378A5C0     (size_t) [140733788497344]
+[RSP+1698] 0x82C772D7C0       (void*)
+[RSP+16A0] 0x0                (size_t) [0]
+[RSP+16A8] 0x0                (size_t) [0]
+[RSP+16B0] 0x0                (size_t) [0]
+[RSP+16B8] 0x0                (size_t) [0]
+[RSP+16C0] 0x0                (size_t) [0]
+[RSP+16C8] 0x0                (size_t) [0]
+[RSP+16D0] 0x0                (size_t) [0]
+[RSP+16D8] 0x0                (size_t) [0]
+[RSP+16E0] 0x0                (size_t) [0]
+[RSP+16E8] 0x0                (size_t) [0]
+[RSP+16F0] 0x0                (size_t) [0]
+[RSP+16F8] 0x0                (size_t) [0]
+[RSP+1700] 0x0                (size_t) [0]
+[RSP+1708] 0x0                (size_t) [0]
+[RSP+1710] 0x0                (size_t) [0]
+[RSP+1718] 0x0                (size_t) [0]
+[RSP+1720] 0x0                (size_t) [0]
+[RSP+1728] 0x0                (size_t) [0]
+[RSP+1730] 0x0                (size_t) [0]
+[RSP+1738] 0x0                (size_t) [0]
+[RSP+1740] 0x0                (size_t) [0]
+[RSP+1748] 0x0                (size_t) [0]
+[RSP+1750] 0x0                (size_t) [0]
+[RSP+1758] 0x0                (size_t) [0]
+[RSP+1760] 0x0                (size_t) [0]
+[RSP+1768] 0x0                (size_t) [0]
+[RSP+1770] 0x0                (size_t) [0]
+[RSP+1778] 0x0                (size_t) [0]
+[RSP+1780] 0x0                (size_t) [0]
+[RSP+1788] 0x0                (size_t) [0]
+[RSP+1790] 0x0                (size_t) [0]
+[RSP+1798] 0x0                (size_t) [0]
+[RSP+17A0] 0x0                (size_t) [0]
+[RSP+17A8] 0x0                (size_t) [0]
+[RSP+17B0] 0x0                (size_t) [0]
+[RSP+17B8] 0x0                (size_t) [0]
+[RSP+17C0] 0x0                (size_t) [0]
+[RSP+17C8] 0x0                (size_t) [0]
+[RSP+17D0] 0x0                (size_t) [0]
+[RSP+17D8] 0x0                (size_t) [0]
+[RSP+17E0] 0x0                (size_t) [0]
+[RSP+17E8] 0x0                (size_t) [0]
+[RSP+17F0] 0x0                (size_t) [0]
+[RSP+17F8] 0x0                (size_t) [0]
+[RSP+1800] 0x0                (size_t) [0]
+[RSP+1808] 0x0                (size_t) [0]
+[RSP+1810] 0x0                (size_t) [0]
+[RSP+1818] 0x0                (size_t) [0]
+[RSP+1820] 0x0                (size_t) [0]
+[RSP+1828] 0x0                (size_t) [0]
+[RSP+1830] 0x0                (size_t) [0]
+[RSP+1838] 0x0                (size_t) [0]
+[RSP+1840] 0x0                (size_t) [0]
+[RSP+1848] 0x0                (size_t) [0]
+[RSP+1850] 0x0                (size_t) [0]
+[RSP+1858] 0x0                (size_t) [0]
+[RSP+1860] 0x0                (size_t) [0]
+[RSP+1868] 0x0                (size_t) [0]
+[RSP+1870] 0x0                (size_t) [0]
+[RSP+1878] 0x0                (size_t) [0]
+[RSP+1880] 0x0                (size_t) [0]
+[RSP+1888] 0x0                (size_t) [0]
+[RSP+1890] 0x0                (size_t) [0]
+[RSP+1898] 0x0                (size_t) [0]
+[RSP+18A0] 0x0                (size_t) [0]
+[RSP+18A8] 0x0                (size_t) [0]
+[RSP+18B0] 0x0                (size_t) [0]
+[RSP+18B8] 0x0                (size_t) [0]
+[RSP+18C0] 0x0                (size_t) [0]
+[RSP+18C8] 0x0                (size_t) [0]
+[RSP+18D0] 0x0                (size_t) [0]
+[RSP+18D8] 0x0                (size_t) [0]

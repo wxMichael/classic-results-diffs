@@ -1,0 +1,337 @@
+[ 0] 0x7FF6467F0470 Fallout4.exe+27B0470 -> 971049+0x150
+[ 1] 0x7FF64437D990 Fallout4.exe+033D990 -> 1279967+0x490
+[ 2] 0x7FF6441832A0 Fallout4.exe+01432A0 -> 180630+0x1B0
+[ 3] 0x7FF6441830CD Fallout4.exe+01430CD -> 805891+0xAD
+[ 4] 0x7FF6444719C5 Fallout4.exe+04319C5 -> 1495544+0xE5
+[ 5] 0x7FF644471755 Fallout4.exe+0431755 -> 1429250+0x45
+[ 6] 0x7FF644407DEC Fallout4.exe+03C7DEC -> 549411+0x4C
+[ 7] 0x7FF645B90F26 Fallout4.exe+1B50F26 -> 329005+0xC6
+[ 8] 0x7FF645B91432 Fallout4.exe+1B51432 -> 194800+0x202
+[ 9] 0x7FF645B93F67 Fallout4.exe+1B53F67 -> 1492866+0x67
+[10] 0x7FF645B5CFED Fallout4.exe+1B1CFED -> 1079791+0x3D
+[11] 0x7FFBE7B97344 KERNEL32.DLL+0017344
+[12] 0x7FFBE8DA26B1    ntdll.dll+00526B1
+
+REGISTERS:
+RAX 0x0                (size_t)
+RCX 0x7FF6477113E4     (void* -> Fallout4.exe+36D13E4)
+RDX 0x9A26BA           (size_t)
+RBX 0x1E675A38BC0      (void*)
+RSP 0xCCAF1FFA40       (void*)
+RBP 0x1E675A38B80      (void*)
+RSI 0x608E7A84         (size_t)
+RDI 0xFE003B03         (size_t)
+R8  0x7F               (size_t)
+R9  0x3EF4519F         (size_t)
+R10 0xFE00             (size_t)
+R11 0xCCAF1FFA88       (void*)
+R12 0x7FF649C28088     (void* -> Fallout4.exe+5BE8088)
+R13 0x7FF649C28080     (void* -> Fallout4.exe+5BE8080)
+R14 0x0                (size_t)
+R15 0x9C0              (size_t)
+
+STACK:
+[RSP+0  ] 0x2                (size_t)
+[RSP+8  ] 0x7FF6440CAEEB     (void* -> Fallout4.exe+008AEEB)
+[RSP+10 ] 0x2                (size_t)
+[RSP+18 ] 0xFFFFFFFF         (size_t)
+[RSP+20 ] 0x1E63D7A4800      (Actor*)
+Object Reference:
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00040008
+Form ID: 0x220166DA
+Form Type: 45
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00420408
+Form ID: 0x220185E7
+Form Type: 65
+[RSP+28 ] 0x1E58F407AE0      (void*)
+[RSP+30 ] 0x0                (size_t)
+[RSP+38 ] 0x7FF64437D990     (void* -> Fallout4.exe+033D990)
+[RSP+40 ] 0xCCAF1FFB80       (void*)
+[RSP+48 ] 0x7FFB608E7A84     (size_t)
+[RSP+50 ] 0xCCAF1FFB48       (void*)
+[RSP+58 ] 0x2                (size_t)
+[RSP+60 ] 0x0                (size_t)
+[RSP+68 ] 0x0                (size_t)
+[RSP+70 ] 0x0                (size_t)
+[RSP+78 ] 0x7FFB80C8BF65     (void* -> Buffout4.dll+004BF65)
+[RSP+80 ] 0x48               (size_t)
+[RSP+88 ] 0x7FFB00000001     (size_t)
+[RSP+90 ] 0x0                (size_t)
+[RSP+98 ] 0x0                (size_t)
+[RSP+A0 ] 0x0                (size_t)
+[RSP+A8 ] 0x0                (size_t)
+[RSP+B0 ] 0x0                (size_t)
+[RSP+B8 ] 0x7FF645B509C3     (void* -> Fallout4.exe+1B109C3)
+[RSP+C0 ] 0x0                (size_t)
+[RSP+C8 ] 0x7FFB80C8C3CE     (void* -> Buffout4.dll+004C3CE)
+[RSP+D0 ] 0x0                (size_t)
+[RSP+D8 ] 0xEFEBE47B         (size_t)
+[RSP+E0 ] 0xCCAF1FFB70       (void*)
+[RSP+E8 ] 0x7FF644D18AA1     (void* -> Fallout4.exe+0CD8AA1)
+[RSP+F0 ] 0x1E65E786F30      (void*)
+[RSP+F8 ] 0xCCAF1FFB70       (void*)
+[RSP+100] 0x22003B03         (size_t)
+[RSP+108] 0x0                (size_t)
+[RSP+110] 0xCCAF1FFB60       (void*)
+[RSP+118] 0xCCAF1FFBA0       (void*)
+[RSP+120] 0x7FF690000006     (size_t)
+[RSP+128] 0x7FF645B5093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+130] 0x1E86270F3C0      (BSFadeNode*)
+Name: "HitDoorSm01"
+[RSP+138] 0x4                (size_t)
+[RSP+140] 0x1E85E2BC7C0      (NiControllerSequence*)
+[RSP+148] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+150] 0x1E63D8D5F90      (void*)
+[RSP+158] 0x7FF6440836DE     (void* -> Fallout4.exe+00436DE)
+[RSP+160] 0x1E63D8D5FB0      (void*)
+[RSP+168] 0x1E822003B03      (void*)
+[RSP+170] 0x800000           (size_t)
+[RSP+178] 0x1E8EFEBE47B      (void*)
+[RSP+180] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+188] 0x7FF644182AF9     (void* -> Fallout4.exe+0142AF9)
+[RSP+190] 0x0                (size_t)
+[RSP+198] 0x0                (size_t)
+[RSP+1A0] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+1A8] 0x1E63D7A4800      (Actor*)
+Object Reference:
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00040008
+Form ID: 0x220166DA
+Form Type: 45
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00420408
+Form ID: 0x220185E7
+Form Type: 65
+[RSP+1B0] 0xCCAF1FFC78       (void*)
+[RSP+1B8] 0x7FF6441832A0     (void* -> Fallout4.exe+01432A0)
+[RSP+1C0] 0xFFFFFFFF         (size_t)
+[RSP+1C8] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+1D0] 0xCCAF1FFC78       (void*)
+[RSP+1D8] 0xFFFFFFFF         (size_t)
+[RSP+1E0] 0x0                (size_t)
+[RSP+1E8] 0x0                (size_t)
+[RSP+1F0] 0x0                (size_t)
+[RSP+1F8] 0x0                (size_t)
+[RSP+200] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+208] 0x1E63D7A4800      (Actor*)
+Object Reference:
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00040008
+Form ID: 0x220166DA
+Form Type: 45
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00420408
+Form ID: 0x220185E7
+Form Type: 65
+[RSP+210] 0x1                (size_t)
+[RSP+218] 0x1E862709D00      (NiControllerManager*)
+[RSP+220] 0x1E86270F3C0      (BSFadeNode*)
+Name: "HitDoorSm01"
+[RSP+228] 0x1E85E2BC7C0      (NiControllerSequence*)
+[RSP+230] 0x6                (size_t)
+[RSP+238] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+240] 0x1E862709D00      (NiControllerManager*)
+[RSP+248] 0x7FF6441830CD     (void* -> Fallout4.exe+01430CD)
+[RSP+250] 0x6                (size_t)
+[RSP+258] 0x1E862709D00      (NiControllerManager*)
+[RSP+260] 0x23F2BD           (size_t)
+[RSP+268] 0x7FF649C28088     (void* -> Fallout4.exe+5BE8088)
+[RSP+270] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+278] 0x7FF6444719C5     (void* -> Fallout4.exe+04319C5)
+[RSP+280] 0x1E85E2BC7C0      (NiControllerSequence*)
+[RSP+288] 0x1E862709D00      (NiControllerManager*)
+[RSP+290] 0x1E86270F3C0      (BSFadeNode*)
+Name: "HitDoorSm01"
+[RSP+298] 0x1                (size_t)
+[RSP+2A0] 0x7FF649C28084     (void* -> Fallout4.exe+5BE8084)
+[RSP+2A8] 0xFF               (size_t)
+[RSP+2B0] 0x1                (size_t)
+[RSP+2B8] 0x7FF644471755     (void* -> Fallout4.exe+0431755)
+[RSP+2C0] 0x1E5FC9299C0      (void*)
+[RSP+2C8] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+2D0] 0x0                (size_t)
+[RSP+2D8] 0x1E5FC92B1A8      (void*)
+[RSP+2E0] 0x0                (size_t)
+[RSP+2E8] 0x0                (size_t)
+[RSP+2F0] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+2F8] 0x7FF644407DEC     (void* -> Fallout4.exe+03C7DEC)
+[RSP+300] 0x1                (size_t)
+[RSP+308] 0x7FF649C28BB8     (void* -> Fallout4.exe+5BE8BB8)
+[RSP+310] 0x0                (size_t)
+[RSP+318] 0x1E5FC92B1A8      (void*)
+[RSP+320] 0x1E50FBEE080      (void*)
+[RSP+328] 0x7FF645B90F26     (void* -> Fallout4.exe+1B50F26)
+[RSP+330] 0x1E63D8D1580      (TESObjectREFR*)
+Object Reference:
+File: "g2m_Workshop_Nexus.esp"
+Flags: 0x00400009
+Form ID: 0x0003D773
+Form Type: 32
+File: "OutcastsAndRemnants.esp"
+Flags: 0x00400408
+Form ID: 0x22003B03
+Form Type: 64
+[RSP+338] 0x7FF649C28BB8     (void* -> Fallout4.exe+5BE8BB8)
+[RSP+340] 0x0                (size_t)
+[RSP+348] 0x1E5D97DFFA0      (void*)
+[RSP+350] 0x0                (size_t)
+[RSP+358] 0x0                (size_t)
+[RSP+360] 0x0                (size_t)
+[RSP+368] 0x1                (size_t)
+[RSP+370] 0x7FF649C28B48     (BSJobs::JobThread*)
+[RSP+378] 0x7FF645B91432     (void* -> Fallout4.exe+1B51432)
+[RSP+380] 0x1                (size_t)
+[RSP+388] 0x7FF649C28B68     (void* -> Fallout4.exe+5BE8B68)
+[RSP+390] 0x0                (size_t)
+[RSP+398] 0xCCAF1FFE30       (char*) "hL"
+[RSP+3A0] 0x0                (size_t)
+[RSP+3A8] 0x0                (size_t)
+[RSP+3B0] 0x0                (size_t)
+[RSP+3B8] 0x7FF645B93F67     (void* -> Fallout4.exe+1B53F67)
+[RSP+3C0] 0x7FF649C28B48     (BSJobs::JobThread*)
+[RSP+3C8] 0x0                (size_t)
+[RSP+3D0] 0x0                (size_t)
+[RSP+3D8] 0x0                (size_t)
+[RSP+3E0] 0x7FF649C28B48     (BSJobs::JobThread*)
+[RSP+3E8] 0x7FF645B5CFED     (void* -> Fallout4.exe+1B1CFED)
+[RSP+3F0] 0x4C68             (size_t)
+[RSP+3F8] 0xCCAF1FFE50       (void*)
+[RSP+400] 0x1E50FBCBC90      (void*)
+[RSP+408] 0x0                (size_t)
+[RSP+410] 0x7FF649C28B48     (BSJobs::JobThread*)
+[RSP+418] 0x0                (size_t)
+[RSP+420] 0x0                (size_t)
+[RSP+428] 0x7FFBE7B97344     (void* -> KERNEL32.DLL+0017344)
+[RSP+430] 0x0                (size_t)
+[RSP+438] 0x0                (size_t)
+[RSP+440] 0x0                (size_t)
+[RSP+448] 0x0                (size_t)
+[RSP+450] 0x0                (size_t)
+[RSP+458] 0x7FFBE8DA26B1     (void* -> ntdll.dll+00526B1)
+[RSP+460] 0x0                (size_t)
+[RSP+468] 0x0                (size_t)
+[RSP+470] 0x0                (size_t)
+[RSP+478] 0x0                (size_t)
+[RSP+480] 0x0                (size_t)
+[RSP+488] 0x0                (size_t)
+[RSP+490] 0x96F0F70000000000 (size_t)
+[RSP+498] 0x0                (size_t)
+[RSP+4A0] 0x0                (size_t)
+[RSP+4A8] 0x7FFBE68BDCC0     (void* -> KERNELBASE.dll+012DCC0)
+[RSP+4B0] 0xCCAF1FEBC0       (void*)
+[RSP+4B8] 0x7FFB707B2BC0     (size_t)
+[RSP+4C0] 0x7FFB707B2BC0     (size_t)
+[RSP+4C8] 0xCCAF1FEBC0       (void*)
+[RSP+4D0] 0x0                (size_t)
+[RSP+4D8] 0x0                (size_t)
+[RSP+4E0] 0x0                (size_t)
+[RSP+4E8] 0x0                (size_t)
+[RSP+4F0] 0x0                (size_t)
+[RSP+4F8] 0x0                (size_t)
+[RSP+500] 0x0                (size_t)
+[RSP+508] 0x0                (size_t)
+[RSP+510] 0x0                (size_t)
+[RSP+518] 0x0                (size_t)
+[RSP+520] 0x0                (size_t)
+[RSP+528] 0x0                (size_t)
+[RSP+530] 0x0                (size_t)
+[RSP+538] 0x0                (size_t)
+[RSP+540] 0x0                (size_t)
+[RSP+548] 0x0                (size_t)
+[RSP+550] 0x0                (size_t)
+[RSP+558] 0x0                (size_t)
+[RSP+560] 0x0                (size_t)
+[RSP+568] 0x0                (size_t)
+[RSP+570] 0x0                (size_t)
+[RSP+578] 0x0                (size_t)
+[RSP+580] 0x0                (size_t)
+[RSP+588] 0x0                (size_t)
+[RSP+590] 0x0                (size_t)
+[RSP+598] 0x0                (size_t)
+[RSP+5A0] 0x0                (size_t)
+[RSP+5A8] 0x0                (size_t)
+[RSP+5B0] 0x0                (size_t)
+[RSP+5B8] 0x0                (size_t)

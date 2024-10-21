@@ -1,0 +1,528 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     ArmorKeywords.esm
+[09]     XDI.esm
+[0A]     HUDFramework.esm
+[0B]     CALIBER-COMPLEX.esm
+[0C]     Kermie's Explosives Complex.esp
+[0D]     TacticalReload.esm
+[0E]     MutantMenagerie.esm
+[0F]     MutantMenagerie_FarHarbor.esm
+[10]     MutantMenagerie_NukaWorld.esm
+[11]     WorkshopFramework.esm
+[12]     SS2.esm
+[13]     SS2_XPAC_Chapter2.esm
+[14]     CWPointLookoutFO4.esm
+[15]     ProjectMojave.esm
+[16]     CUPAPP.esm
+[17]     141 Assets.esp
+[18]     SouthOfTheSea.esm
+[19]     AAF.esm
+[1A]     [A0] KT_Framework.esm
+[1B]     TCDeyes.esp
+[1C]     NoraSpouse.esm
+[1D]     Armament.esp
+[1E]     Actor Scale Remover.esp
+[1F]     No Aggro Impact Landing.esp
+[20]     WheelMenu.esp
+[21]     CompanionStatus.esp
+[22]     EveryonesBestFriend.esp
+[23]     SettlementMenuManager.esp
+[24]     RAW INPUT.esp
+[25]     Flashy_PersonalEssentials.esp
+[26]     ImmersiveAnimationFramework.esp
+[27]     RustDevilRedux.esp
+[28]     Complex Vendors.esp
+[29]     SalvageBeacons.esp
+[2A]     InstitWeapPosit.esp
+[2B]     AtomicRadio.esp
+[2C]     W.A.T.Minutemen.esp
+[2D]     llamaCompanionHeatherv2.esp
+[2E]     ellen.esp
+[2F]     Nora Looks Customization for v1.2.esp
+[30]     PhotoMode.esp
+[31]     HoloTime.esp
+[32]     Lunatic's Unhelpful Loading Screens.esp
+[33]     Lunatic's Unhelpful Loading Screens - DLC.esp
+[34]     Sarcastic Sneak.esp
+[35]     Flashy_CrimeAndPunishment.esp
+[36]     CROSS_GoreCrits.esp
+[37]     CROSS_GoreCrits_FarHarborPatch.esp
+[38]     CBBE.esp
+[39]     LooksMenu.esp
+[3A]     LooksMenu Customization Compendium.esp
+[3B]     LooksMirror.esp
+[3C]     HiPolyFaces.esp
+[3D]     The Eyes Of Beauty.esp
+[3E]     LookingStranger.esp
+[3F]     KSHairdos_oel.esp
+[40]     AzarPonytailHairstyles.esp
+[41]     Lots More Male Hairstyles.esp
+[42]     Lots More Facial Hair.esp
+[43]     More Hair for Children 2.esp
+[44]     TCD.esp
+[45]     TCDM.esp
+[46]     TCDOverlays.esp
+[47]     TCDOverlaysSET.esp
+[48]     OMEGA - AI-2 Tweaks.esp
+[49]     AnimatedRadaway.esp
+[4A]     Alias.esp
+[4B]     MK_ComponentsRedone.esp
+[4C]     OMEGA - Tactical Molotov Replacer.esp
+[4D]     Reverb and Ambiance Overhaul.esp
+[4E]     jsrs.esp
+[4F]     OWR.esp
+[50]     OWR2.esp
+[51]     PiperCaitCurieDialogueOverhaul.esp
+[52]     DiamondCityAmbience.esp
+[53]     Interview.esp
+[54]     NAC.esp
+[55]     NAC-FH.esp
+[56]     NAC-NW.esp
+[57]     Crimsomrider's 1950s Feminine Outfits.esp
+[58]     EAMR.esp
+[59]     Classic Combat Armor.esp
+[5A]     RedShiftPowerArmor.esp
+[5B]     T65PA.esp
+[5C]     MilitarizedMinutemen.esp
+[5D]     MilitarisedMinutemen_PatchesAddon.esp
+[5E]     K9TacticalHarness.esp
+[5F]     Nexus_PMC.esp
+[60]     PMC_extended.esp
+[61]     DT_MercOutfitPack.esp
+[62]     DT_GunnerOutfitPack.esp
+[63]     Gunner_Operator.esp
+[64]     WestTekTacticalOptics.esp
+[65]     Russian_Operator_Pack.esp
+[66]     WestTek.esp
+[67]     BOCW Outfit Pack.esp
+[68]     [MW2R] Shadow Company.esp
+[69]     [MW2022] Shadow Company.esp
+[6A]     FOLON-StandaloneReleaser.esp
+[6B]     More_Clothes_Textures.esp
+[6C]     Desert Punk Raiders.esp
+[6D]     JUMod_Outfit_JUHelmets.esp
+[6E]     Tribal Forged.esp
+[6F]     TFSRangerRedux.esp
+[70]     Casio_W59.esp
+[71]     CovertOpOutfit.esp
+[72]     Vault Outfits Redux.esp
+[73]     [XHX] Caliber USA CST.esp
+[74]     DP_CaravanShotgun.esp
+[75]     3dscopes.esp
+[76]     AVBMGReplace.esp
+[77]     AVBMusket.esp
+[78]     9x39Project.esp
+[79]     3dscopes-9x39project.esp
+[7A]     9x39ProjectSR3MAddon.esp
+[7B]     AAC_HoneyBadger.esp
+[7C]     AAC_HoneyBadger_TacticalReloadPatch.esp
+[7D]     AK400.esp
+[7E]     AK74M.esp
+[7F]     Scopes.esp
+[80]     CombinedArmsNV.esp
+[81]     CombinedArmsEXPack.esp
+[82]     CROSS_RugerMkV.esp
+[83]     Glock19x.esp
+[84]     G3A3.esp
+[85]     G3_R91_Expansion.esp
+[86]     G3A3_AnimationUpdate.esp
+[87]     HKUSP9mm.esp
+[88]     LeeEnfieldNo4MkI.esp
+[89]     ODT - Lee Enfield Skin Pack Vol1.esp
+[8A]     3dscopes-leeenfield.esp
+[8B]     Mosin.esp
+[8C]     3dscopes-mosin.esp
+[8D]     HK_MP5.esp
+[8E]     QBZ191.esp
+[8F]     ReconPack.esp
+[90]     3dscopes-reconpack.esp
+[91]     SigMCX.esp
+[92]     SIGMCXArmoryProject.esp
+[93]     RussianAssaultPack.esp
+[94]     1CAS_ServiceRifle.esp
+[95]     3dscopes-wmsr.esp
+[96]     Kermie's EC-SREP Patch.esp
+[97]     BH_StG44.esp
+[98]     GIAT_FAMAS.esp
+[99]     Famas_Addon.esp
+[9A]     ODT - GIAT FAMAS Skin Pack Vol. 1.esp
+[9B]     SVT40.esp
+[9C]     SVT40-AWKCR.esp
+[9D]     SVT40SkinPacksAll.esp
+[9E]     3dscopes-svt40.esp
+[9F]     Ak5C.esp
+[A0]     AK5CSkinPackAll.esp
+[A1]     ElMudoStore.esp
+[A2]     WinCowbowRepeater.esp
+[A3]     Zenit.esp
+[A4]     Tull_Framework.esp
+[A5]     TullAK.esp
+[A6]     MK18.esp
+[A7]     MK18 Armory Project.esp
+[A8]     AnotherMK18Addon.esp
+[A9]     M2Agency.esp
+[AA]     Sjogren.esp
+[AB]     SR1MP.esp
+[AC]     UniqueUniques.esp
+[AD]     LString_Bow.esp
+[AE]     NVUMP.esp
+[AF]     44MBF4.esp
+[B0]     AKSounds.esp
+[B1]     MGRemesh.esp
+[B2]     Assault Rifle Reanimated.esp
+[B3]     HuntingRifleSounds.esp
+[B4]     LeverActionWoodFinish.esp
+[B5]     BH_G43.esp
+[B6]     Clarity.esp
+[B7]     MutilatedDeadBodies.esp
+[B8]     [ARR] FallEvil - Mega Zombie Pack.esp
+[B9]     DCVendorOverhaulAIO.esp
+[BA]     InteriorsEnhanced-All-In-One.esp
+[BB]     Ketaros_World.esp
+[BC]     Ketaros_Treasures.esp
+[BD]     Ketaros_MissingMags.esp
+[BE]     3DNPC_FO4.esp
+[BF]     3DNPC_FO4Settler.esp
+[C0]     SS2Extended.esp
+[C1]     SS2WastelandVenturers.esp
+[C2]     Children of Ug Qualtoth.esp
+[C3]     OldTimeReligion.esp
+[C4]     BoSStory.esp
+[C5]     1ECHO.esp
+[C6]     Vault4.esp
+[C7]     radioactivestories.esp
+[C8]     InstituteStory.esp
+[C9]     90sgame.esp
+[CA]     RedScare.esp
+[CB]     Sunshine Town.esp
+[CC]     TU3SD4Y'S Commonwealth Responders.esp
+[CD]     KellyManor.esp
+[CE]     AGNISNikaCola01.esp
+[CF]     AGNISNikaCola01-XDI patch.esp
+[D0]     To_Find_a_Hole_in_the_Ground.esp
+[D1]     1WAIT.esp
+[D2]     RynsFallout4.esp
+[D3]     MaxwellsWorl.esp
+[D4]     MaxwellsWorl XDI Patch.esp
+[D5]     MojaveImports.esp
+[D6]     Journal.esp
+[D7]     CSEPBIARedux.esp
+[D8]     CSEPAllAmericans.esp
+[D9]     AA 50 Ways To Die.esp
+[DA]     CSEPLoadedBases.esp
+[DB]     LoadedBasesFSDPatch.esp
+[DC]     ChildrenofBunkerHill.esp
+[DD]     ChildrenofGoodneighbor.esp
+[DE]     FO4 NPCs Travel.esp
+[DF]     DCGuard_Overhaul.esp
+[E0]     DCGuard_Overhaul-RandomEncounters.esp
+[E1]     Flashy_Infestations.esp
+[E2]     Flashy_CrimeAndPunishment_GunForHire_Addon.esp
+[E3]     Kermie's EC-ProjectMojave Patch.esp
+[E4]     ProjectMojaveHotFix.esp
+[E5]     CombatZoneRestored.esp
+[E6]     Reinforcements.esp
+[E7]     TacticalReloadVanilla.esp
+[E8]     TacticalReloadDLC.esp
+[E9]     Raider Children.esp
+[EA]     MortalYouths.esp
+[EB]     Orphans.esp
+[EC]     FotC-SharedResources.esp
+[ED]     FotC-GoodneighborEdition.esp
+[EE]     FotC-DiamondCityEdition.esp
+[EF]     FotC-DCEdition-FSD-Patch.esp
+[F0]     DYNAVISION.esp
+[F1]     M8r Complex Sorter.esp
+[F2]     Diello_ExtraIconsForFIS.esp
+[F3]     PIP-Pad.esp
+[F4]     PIP-Pad_LMCC.esp
+[F5]     AlexSleevePatcher.esp
+[F6]     StartMeUp.esp
+[F7]     StartMeUpNukaWorldPatch.esp
+[F8]     RED.esp
+[F9]     RED-CAP.esp
+[FA]     BetterCompanions.esp
+[FE:000] PPF.esm
+[FE:001] IceStormsHair.esl
+[FE:002] SSTMinutemanWatchtowers.esl
+[FE:003] CWPointLookoutFO4Patch.esl
+[FE:004] LegendaryDropBugfix.esl
+[FE:005] AORobcoReconScope.esl
+[FE:006] ODT - Raider Armors Retextured.esl
+[FE:007] ammoUI_by_tooun.esl
+[FE:008] RangerPacaVests.esl
+[FE:009] RunningWithHandsAnim.esl
+[FE:00A] BlyatAnimPoses.esl
+[FE:00B] SwimmingAnims.esl
+[FE:00C] CUWPP.esl
+[FE:00D] KillTips_by_tooun.esl
+[FE:00E] VaultTecGearPack.esl
+[FE:00F] SelectGuitars.esl
+[FE:010] Ladder.esl
+[FE:011] PLExpressivePlayer.esl
+[FE:012] Ketaros_NewMags.esl
+[FE:013] SSTImposingGunnerSkulls.esl
+[FE:014] FONW - The Valley.esl
+[FE:015] Military Vehicles Retextured.esl
+[FE:016] Indubitable Ivy.esl
+[FE:017] Dilapidated Roads - Faded.esl
+[FE:018] SSTNoSmolderingTurrets.esl
+[FE:019] DiamondCityAmbience.esl
+[FE:01A] dpjetandxcell.esl
+[FE:01B] dppsychoandmedx.esl
+[FE:01C] Natural Bundle Bunker Set.esl
+[FE:01D] Natural Bundle Cave Set.esl
+[FE:01E] Natural Bundle Masonry Set.esl
+[FE:01F] Natural Bundle Submarine Set.esl
+[FE:020] Natural Landscapes.esl
+[FE:021] Natural Roads.esl
+[FE:022] Natural Rocks.esl
+[FE:023] HiPolyFacesCompanionPlugin.esl
+[FE:024] AWKCR-R.esp
+[FE:025] Ownership Fixes.esp
+[FE:026] Wetness Shader Fix.esp
+[FE:027] Keep Radiants In Commonwealth.esp
+[FE:028] WhoIsTheGeneral.esp
+[FE:029] WTG - KRIC Patch.esp
+[FE:02A] Fortune Finder 4 Fix.esp
+[FE:02B] ConditionBoy.esp
+[FE:02C] Unused Map Markers - Cut Content Restored.esp
+[FE:02D] Bullet in the Chamber.esp
+[FE:02E] MAIM Tweaks.esp
+[FE:02F] MAIM Tweaks - DLC.esp
+[FE:030] SAR_Repair_Kits_Nuka.esp
+[FE:031] Some_Assembly_Required_Repair_Kits.esp
+[FE:032] SAR_Repair_Kits_VIM.esp
+[FE:033] TrueInvisibility.esp
+[FE:034] InstituteRifleDebulked.esp
+[FE:035] IAF - Heatherv2 Patch.esp
+[FE:036] TerrainUndersides.esp
+[FE:037] 4estGimp - AI Edits_Crippled_LMCC.esp
+[FE:038] RussianStimpack.esp
+[FE:039] Stimpaks help you breathe.esp
+[FE:03A] IAF - Far Harbor & Nuka World.esp
+[FE:03B] JSRS_FarHarbor.esp
+[FE:03C] JSRS_NukaWorld.esp
+[FE:03D] JSRS_CaliberComplex.esp
+[FE:03E] JSRS_Regions.esp
+[FE:03F] JSRS_Fallout4.esp
+[FE:040] LOST Audio Tweaks.esp
+[FE:041] LAT RAO - Atomic Radio Patch.esp
+[FE:042] MAIM Sounds - Low Health.esp
+[FE:043] MAIM Sounds - Thrown Items.esp
+[FE:044] MAIM Sounds - UI.esp
+[FE:045] MAIM Sounds - Flashlight.esp
+[FE:046] LAT - Diamond City Ambience Patch.esp
+[FE:047] Enemy Footstep Overhaul.esp
+[FE:048] Elzee Jolly Item Sounds.esp
+[FE:049] NAC-RemoveMenuItem.esp
+[FE:04A] CROSS_CourserStrigidae.esp
+[FE:04B] CROSS_InstituteExpeditionarySuit.esp
+[FE:04C] Look At Me IE.esp
+[FE:04D] Look At Me TE.esp
+[FE:04E] CROSS_BrotherhoodRecon.esp
+[FE:04F] CROSS_VertibirdFlightsuit.esp
+[FE:050] Look At Me BE.esp
+[FE:051] CROSS_MojaveManhunter.esp
+[FE:052] Look At Me NE.esp
+[FE:053] HellcatPA.esp
+[FE:054] Look At Me PAA.esp
+[FE:055] WATM-MM-MMUPAIA_CustomPatch.esp
+[FE:056] K-9 Harness_ArmorLLI.esp
+[FE:057] PMC_extended_flags.esp
+[FE:058] PMC_extended_flags_AFR.esp
+[FE:059] PMC_extended_lore.esp
+[FE:05A] Mercenary Outfit Extreme Overhaul.esp
+[FE:05B] Gunner Outfit Extreme Overhaul.esp
+[FE:05C] TAC.esp
+[FE:05D] TheKite_Railroad_Handmaiden.esp
+[FE:05E] Task Force Helm Pack 1.esp
+[FE:05F] Ranger MBAV Vests.esp
+[FE:060] PCU Uniforms.esp
+[FE:061] Worms FCPC Vest Pack.esp
+[FE:062] Caliber KSK Helmets.esp
+[FE:063] Worms FCPC Belt Pack.esp
+[FE:064] JSRS FOLON Standalone Releaser Patch.esp
+[FE:065] VCMT Expansion patch - PROJECT VARIANCE.esp
+[FE:066] Desert Punks - JU Helms Redux patch.esp
+[FE:067] Railroad Uniform.esp
+[FE:068] TFC Helmet Pack V2.esp
+[FE:069] TFC Vest Pack V1.esp
+[FE:06A] CaravanShotgun_CALIBER_COMPLEX_PATCH.esp
+[FE:06B] DP_CaravanShotgun_TacticalReloadPatch.esp
+[FE:06C] JSRS Caravan Shotgun Patch.esp
+[FE:06D] 9x39Project_CALIBER_COMPLEX_PATCH.esp
+[FE:06E] 9x39Project_TacticalReloadPatch.esp
+[FE:06F] JSRS 9x39 Project Patch.esp
+[FE:070] 9x39ProjectSR3MAddon_CALIBER_COMPLEX_PATCH.esp
+[FE:071] 9x39ProjectSR3MAddon_TacticalReloadPatch.esp
+[FE:072] JSRS 9x39 Project SR3M Patch.esp
+[FE:073] AAC_HoneyBadger_CALIBER_COMPLEX_PATCH.esp
+[FE:074] AK400_CALIBER_COMPLEX_PATCH.esp
+[FE:075] AK400_TacticalReloadPatch.esp
+[FE:076] TOAST - AK400 JSRS.esp
+[FE:077] AK74M_CALIBER_COMPLEX_PATCH.esp
+[FE:078] JSRS AK74M Patch.esp
+[FE:079] AK74M_LLInjector.esp
+[FE:07A] CombinedArms_CALIBER_COMPLEX_PATCH.esp
+[FE:07B] CombinedArmsEX_CALIBER_COMPLEX_PATCH.esp
+[FE:07C] CombinedArmsNV_TacticalReloadPatch.esp
+[FE:07D] JSRS Combined Arms Patch.esp
+[FE:07E] JSRS Combined Arms Expansion Pack Patch.esp
+[FE:07F] Combined Arms_LLI.esp
+[FE:080] Combined Arms EX_LLI.esp
+[FE:081] CROSS_RugerMkV_CALIBER_COMPLEX_PATCH.esp
+[FE:082] FX0x01Glock19x_CALIBER_COMPLEX_PATCH.esp
+[FE:083] Glock19x_TacticalReloadPatch.esp
+[FE:084] TOAST - GLOCK19X JSRS.esp
+[FE:085] G3A3LvlListPatch.esp
+[FE:086] HK G3A3_CALIBER_COMPLEX_PATCH.esp
+[FE:087] JSRS G3A3 Patch.esp
+[FE:088] HKUSP9mmLvlList.esp
+[FE:089] HKUSP9mm_CALIBER_COMPLEX_PATCH.esp
+[FE:08A] HKUSP9mmTacReload.esp
+[FE:08B] JSRS HKUSP9mm Patch.esp
+[FE:08C] LeeEnfieldMk1_CALIBER-COMPLEX_PATCH.esp
+[FE:08D] JSRS Lee Enfield No.4 Mk. I Patch.esp
+[FE:08E] M1911-WARSStandaloneWeapon.esp
+[FE:08F] M1911_WARS_CALIBER_COMPLEX_PATCH.esp
+[FE:090] M1911_TacReload.esp
+[FE:091] JSRS M1911 WARS Standalone Weapon Patch.esp
+[FE:092] MosinNagant_CALIBER_COMPLEX_PATCH.esp
+[FE:093] JSRS Mosin Nagant Patch.esp
+[FE:094] MP5_COMPLEX_CALIBER_PATCH.esp
+[FE:095] HK_MP5_TacticalReloadPatch.esp
+[FE:096] JSRS MP5 Complex Patch.esp
+[FE:097] QBZ191_YLArms_Pack.esp
+[FE:098] QBZ191_CALIBER_COMPLEX_PATCH.esp
+[FE:099] QBZ191_TR_patch.esp
+[FE:09A] QBZ191_LLInjector.esp
+[FE:09B] ReconPack_CALIBER_COMPLEX_PATCH.esp
+[FE:09C] ReconPack_TacticalReloadPatch.esp
+[FE:09D] JSRS Russian Recon Pack Patch.esp
+[FE:09E] SigMCX_MaterialPack.esp
+[FE:09F] Jed's MCX Rattler.esp
+[FE:0A0] SIGMCX_CALIBER_COMPLEX_PATCH.esp
+[FE:0A1] SigMCX_TacticalReload.esp
+[FE:0A2] TOAST - MCX JSRS.esp
+[FE:0A3] RussianAssaultPack_CALIBER_COMPLEX_PATCH.esp
+[FE:0A4] JSRS Russian Assault Pack Patch.esp
+[FE:0A5] SREP_Redux_CALIBER_COMPLEX_PATCH.esp
+[FE:0A6] JSRS SREP Redux Patch.esp
+[FE:0A7] BH_StG44_LL.esp
+[FE:0A8] BH_STG44 - CC Patch.esp
+[FE:0A9] BH_StG44_TR.esp
+[FE:0AA] GIAT_FAMAS_TacticalReloadPatch.esp
+[FE:0AB] TOAST - FAMAS JSRS.esp
+[FE:0AC] SVT40_CALIBER_COMPLEX_PATCH.esp
+[FE:0AD] SVT40_TacticalReloadPatch.esp
+[FE:0AE] JSRS SVT40 Patch.esp
+[FE:0AF] Ak5C_TacticalReloadPatch.esp
+[FE:0B0] JSRS Ak5C - A Nordic Relic Patch.esp
+[FE:0B1] CROSS_BreakActionLaser.esp
+[FE:0B2] CALIBER - CowboyRepeater.esp
+[FE:0B3] CowboyRepeater_LLInjector.esp
+[FE:0B4] CALIBER COMPLEX Suppressor Patch.esp
+[FE:0B5] ZENIT REDUX - AK_No TR_CALIBER_COMPLEX_PATCH.esp
+[FE:0B6] Zenit_TacticalReloadPatch.esp
+[FE:0B7] JSRS Zenit Patch.esp
+[FE:0B8] ZENIT Redux Modcols.esp
+[FE:0B9] ZenitAK_LLI.esp
+[FE:0BA] OMEGA - TullAK AIO Patch.esp
+[FE:0BB] MK18_Deluxe.esp
+[FE:0BC] MK18 Armory Project 2.esp
+[FE:0BD] Jed's Mk18 Addon.esp
+[FE:0BE] MK18_CALIBER_COMPLEX_PATCH.esp
+[FE:0BF] MK18_TacticalReloadPatch.esp
+[FE:0C0] TOAST - MK18 JSRS.esp
+[FE:0C1] M2AgencyLvlListPatch.esp
+[FE:0C2] M2AgencyTacticalReloadPatch.esp
+[FE:0C3] TOAST - M2AGENCY JSRS.esp
+[FE:0C4] SR1MP_TR.esp
+[FE:0C5] ThompsonSMGReplacer.esp
+[FE:0C6] WARSSMG_TacReload.esp
+[FE:0C7] UniqueUniques - Plus Vanilla.esp
+[FE:0C8] Deliverer_CALIBER_COMPLEX_PATCH.esp
+[FE:0C9] DLCCoast_RadiumRifle_CALIBER_COMPLEX_PATCH.esp
+[FE:0CA] HitmanNukaworldAK_TacticalReloadPatch.esp
+[FE:0CB] CWPointLookout_CALIBER_COMPLEX_PATCH.esp
+[FE:0CC] LString_LLInjector.esp
+[FE:0CD] NVUMP JSRS Patch.esp
+[FE:0CE] HitmanHuntingRifle_TacticalReloadPatch.esp
+[FE:0CF] Makeshifttextures.esp
+[FE:0D0] M9A3.esp
+[FE:0D1] M9A3_CaliberComplexPatchTR.esp
+[FE:0D2] M9A3_LvlLists.esp
+[FE:0D3] VWR - Explosives.esp
+[FE:0D4] BH_G43_LL.esp
+[FE:0D5] BH_G43_LowerSounds.esp
+[FE:0D6] BH_G43_TR.esp
+[FE:0D7] BH_G43 JSRS Patch.esp
+[FE:0D8] BetterCoastalWaves.esp
+[FE:0D9] [B2] KT_DLC_Western.esp
+[FE:0DA] KT_DLC_Western_Fixes.esp
+[FE:0DB] [B4] KT_DLC_TheTerror.esp
+[FE:0DC] [B4] KT_DLC_TheTerror_Fixes.esp
+[FE:0DD] [C1] KT_DLC_BoardGames.esp
+[FE:0DE] Ketaros_Treasures_DLC01.esp
+[FE:0DF] JSRS 3DNPC Patch.esp
+[FE:0E0] Nability - IAF Tales from the Commonwealth Patch.esp
+[FE:0E1] OldTimeReligion-UgPatch.esp
+[FE:0E2] JSRS Radioactive Stories Patch.esp
+[FE:0E3] JSRS Institute Story Patch.esp
+[FE:0E4] JSRS This Machine and Her Patch.esp
+[FE:0E5] JSRS Ryn's Fallout 4 Patch.esp
+[FE:0E6] OMEGA - IAF Wasteland Imports Patch.esp
+[FE:0E7] FallonsBasementOverhaul.esp
+[FE:0E8] BAM-BetterArmoryMod.esp
+[FE:0E9] FallUI_CALIBER_COMPLEX_PATCH.esp
+[FE:0EA] Armament - Caliber Complex Patch.esp
+[FE:0EB] kine_GFH_MutantMenagerie_Quests_316.esp
+[FE:0EC] SS2_XDI Patch.esp
+[FE:0ED] SS2_DLCSettlerPatch.esp
+[FE:0EE] SS2_GunForHire_Patch.esp
+[FE:0EF] Vault Outfits Redux AWKCR Patch Belts On.esp
+[FE:0F0] KT_Framework_Fixes.esp
+[FE:0F1] [C1] KT_DLC_BoardGames_Fixes.esp
+[FE:0F2] 00-Movements101.esp
+[FE:0F3] 3rd Person Cam SmallFix.esp
+[FE:0F4] WD10mm_TacticalReloadPatch.esp
+[FE:0F5] JSRS_TacticalReloadVanilla.esp
+[FE:0F6] JSRS_TacticalReloadDLC.esp
+[FE:0F7] MoreRealisticMovement.esp
+[FE:0F8] RustyFaceFixRedux.esp
+[FE:0F9] VeryZen_MutantMenagerie.esp
+[FE:0FA] Less Hostile Raider Children.esp
+[FE:0FB] Less Hostile Raider Children - SS2 Quest Patch.esp
+[FE:0FC] PRP.esp
+[FE:0FD] PRP-Compat-Clarity-43.esp
+[FE:0FE] PRP-Compat-IntEnh.esp
+[FE:0FF] PRP-Compat-DCA.esp
+[FE:100] SouthOfTheSea[Previs].esp
+[FE:101] PRP-Compat-JSRS-Regions.esp
+[FE:102] PMDialogueFixes.esp
+[FE:103] PRP-Compat-Clarity-42.esp
+[FE:104] PRP-Compat-PointLookout.esp
+[FE:105] HardcoreHealthOverhaul.esp
+[FE:106] SF Gage.esp
+[FE:107] OH_Kellogg_IEX.esp
+[FE:108] SF Cait.esp
+[FE:109] FotC-Companions-Danse-NoHostility.esp
+[FE:10A] FotC-Companions-Deacon.esp
+[FE:10B] FotC-Companions-Preston.esp
+[FE:10C] FotC-Companions-X6-88.esp
+[FE:10D] FotC-GhoulishPlayer.esp
+[FE:10E] QuestTagsFIS.esp
+[FE:10F] QuestTagsFIS-BoSStory.esp
+[FE:110] QuestTagsFIS-CWPointLookoutFO4.esp
+[FE:111] QuestTagsFIS-llamaCompanionHeatherv2.esp
+[FE:112] QuestTagsFIS-3DNPC_FO4.esp
+[FE:113] QuestTagsFIS-DCGuard_Overhaul.esp
+[FE:114] QuestTagsFIS-AA 50 Ways To Die.esp

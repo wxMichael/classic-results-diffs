@@ -1,0 +1,386 @@
+[ 0] 0x7FF7A2C0C20F Fallout4.exe+015C20F -> 603811+0x45F
+[ 1] 0x7FF7A2EAD482 Fallout4.exe+03FD482 -> 69131+0x332
+[ 2] 0x7FF7A2EAD946 Fallout4.exe+03FD946 -> 957249+0x186
+[ 3] 0x7FF7A2EBE814 Fallout4.exe+040E814 -> 195631+0x184
+[ 4] 0x7FF7A2EA01CA Fallout4.exe+03F01CA -> 965612+0x26A
+[ 5] 0x7FF7A378BF8A Fallout4.exe+0CDBF8A -> 468974+0x25A
+[ 6] 0x7FF7A378D1F0 Fallout4.exe+0CDD1F0 -> 833123+0x30
+[ 7] 0x7FF7A37EBAA0 Fallout4.exe+0D3BAA0 -> 124452+0x2A0
+[ 8] 0x7FF7A37E6E31 Fallout4.exe+0D36E31 -> 1125396+0xE1
+[ 9] 0x7FF7A37E5950 Fallout4.exe+0D35950 -> 668528+0x20
+[10] 0x7FF7A53E7157 Fallout4.exe+2937157 -> 1104651+0x143
+[11] 0x7FFA3E62257D KERNEL32.DLL+001257D
+[12] 0x7FFA3F14AA58    ntdll.dll+005AA58
+
+REGISTERS:
+RAX 0x3EF2E5660098003B (size_t)
+RCX 0x25440000000      (char*) ";"
+RDX 0x0                (size_t)
+RBX 0x25440000000      (char*) ";"
+RSP 0xB2D2DAF7E0       (void*)
+RBP 0xB2D2DAF8B9       (void*)
+RSI 0x25460D86E48      (TESLevItem*)
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x00075789
+Form Type: 56
+RDI 0x0                (size_t)
+R8  0x5                (size_t)
+R9  0x0                (size_t)
+R10 0xB2D2DAF560       (BSTArrayBase::IAllocatorFunctor*)
+R11 0x1                (size_t)
+R12 0x1                (size_t)
+R13 0x25472B9DA88      (void*)
+R14 0x25472B73580      (void*)
+R15 0x2546392B740      (TESObjectREFR*)
+Object Reference:
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x001679C6
+Form Type: 31
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x001679C7
+Form Type: 64
+
+STACK:
+[RSP+0  ] 0xB                (size_t)
+[RSP+8  ] 0xB2D2DAF8B9       (void*)
+[RSP+10 ] 0x25460D80001      (void*)
+[RSP+18 ] 0xB2D2DAF850       (void*)
+[RSP+20 ] 0xB200000000       (size_t)
+[RSP+28 ] 0x24E41BDBF01      (char*) "ctionPointsRate"
+[RSP+30 ] 0xB2D2DAF870       (void*)
+[RSP+38 ] 0x24E41BDBFF8      (void*)
+[RSP+40 ] 0x25460D39300      (TESLevItem*)
+File: "LIF.esl"
+Flags: 0x00000009
+Form ID: 0x000673AF
+Form Type: 56
+[RSP+48 ] 0x7FF700000001     (size_t)
+[RSP+50 ] 0x5                (size_t)
+[RSP+58 ] 0x255AE0C6B08      (void*)
+[RSP+60 ] 0x2                (size_t)
+[RSP+68 ] 0xB2D2DAF8A8       (void*)
+[RSP+70 ] 0x24E22C77C90      (ScrapHeap*)
+[RSP+78 ] 0x254859F4080      (void*)
+[RSP+80 ] 0x25400000040      (void*)
+[RSP+88 ] 0x7FF70000002B     (size_t)
+[RSP+90 ] 0x1000000000005    (size_t)
+[RSP+98 ] 0x0                (size_t)
+[RSP+A0 ] 0x0                (size_t)
+[RSP+A8 ] 0x0                (size_t)
+[RSP+B0 ] 0x0                (size_t)
+[RSP+B8 ] 0x2B               (size_t)
+[RSP+C0 ] 0xB20000002B       (size_t)
+[RSP+C8 ] 0x1000000000005    (size_t)
+[RSP+D0 ] 0x24E22C77C90      (ScrapHeap*)
+[RSP+D8 ] 0x25482BC1870      (void*)
+[RSP+E0 ] 0xB200000001       (size_t)
+[RSP+E8 ] 0x7FF700000001     (size_t)
+[RSP+F0 ] 0x0                (size_t)
+[RSP+F8 ] 0xB2D2DAF850       (void*)
+[RSP+100] 0x0                (size_t)
+[RSP+108] 0x25460D86DE0      (TESLevItem*)
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x00075789
+Form Type: 56
+[RSP+110] 0xB2D2DAF9A9       (void*)
+[RSP+118] 0x7FF7A2EAD482     (void* -> Fallout4.exe+03FD482)
+[RSP+120] 0x255AD896278      (void*)
+[RSP+128] 0x2540000000B      (void*)
+[RSP+130] 0xB2D2DA0001       (void*)
+[RSP+138] 0xB2D2DAF978       (void*)
+[RSP+140] 0x0                (size_t)
+[RSP+148] 0x1                (size_t)
+[RSP+150] 0x0                (size_t)
+[RSP+158] 0x24E41BDBFF8      (void*)
+[RSP+160] 0x7FF7A56F96C8     (void* -> Fallout4.exe+2C496C8)
+[RSP+168] 0xB2D2DAF978       (void*)
+[RSP+170] 0xB2D2DAFA10       (void*)
+[RSP+178] 0x2546392B740      (TESObjectREFR*)
+Object Reference:
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x001679C6
+Form Type: 31
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x001679C7
+Form Type: 64
+[RSP+180] 0x2546392B780      (TESObjectREFR*)
+Object Reference:
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x001679C6
+Form Type: 31
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x001679C7
+Form Type: 64
+[RSP+188] 0x7FF7A45C0DBA     (void* -> Fallout4.exe+1B10DBA)
+[RSP+190] 0x255AD896218      (void*)
+[RSP+198] 0x24E22C77C90      (ScrapHeap*)
+[RSP+1A0] 0x255AE0C6400      (void*)
+[RSP+1A8] 0x10               (size_t)
+[RSP+1B0] 0x0                (size_t)
+[RSP+1B8] 0x24E00075789      (void*)
+[RSP+1C0] 0x0                (size_t)
+[RSP+1C8] 0x255AD8AC660      (void*)
+[RSP+1D0] 0x1                (size_t)
+[RSP+1D8] 0x0                (size_t)
+[RSP+1E0] 0x0                (size_t)
+[RSP+1E8] 0x0                (size_t)
+[RSP+1F0] 0x0                (size_t)
+[RSP+1F8] 0x1                (size_t)
+[RSP+200] 0x0                (size_t)
+[RSP+208] 0x24E22C77D30      (char*) "_"
+[RSP+210] 0x1                (size_t)
+[RSP+218] 0x2546392B740      (TESObjectREFR*)
+Object Reference:
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x001679C6
+Form Type: 31
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x001679C7
+Form Type: 64
+[RSP+220] 0x0                (size_t)
+[RSP+228] 0x7FF7A2EAD946     (void* -> Fallout4.exe+03FD946)
+[RSP+230] 0x5                (size_t)
+[RSP+238] 0x25400000011      (void*)
+[RSP+240] 0x12               (size_t)
+[RSP+248] 0x25480BE3300      (void*)
+[RSP+250] 0x25480BE3300      (void*)
+[RSP+258] 0x7FF7A2EBA495     (void* -> Fallout4.exe+040A495)
+[RSP+260] 0x0                (size_t)
+[RSP+268] 0x2546392B740      (TESObjectREFR*)
+Object Reference:
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x001679C6
+Form Type: 31
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x001679C7
+Form Type: 64
+[RSP+270] 0x2541207A000      (void*)
+[RSP+278] 0x58               (size_t)
+[RSP+280] 0x0                (size_t)
+[RSP+288] 0x7FF7A2EBE814     (void* -> Fallout4.exe+040E814)
+[RSP+290] 0x0                (size_t)
+[RSP+298] 0x0                (size_t)
+[RSP+2A0] 0x24E22C77D30      (char*) "_"
+[RSP+2A8] 0xB2D2DAFBB0       (BGSLoadFormBuffer*)
+[RSP+2B0] 0x40               (size_t)
+[RSP+2B8] 0x24E22596700      (void*)
+[RSP+2C0] 0x2546392E800      (void*)
+[RSP+2C8] 0x0                (size_t)
+[RSP+2D0] 0x167900           (size_t)
+[RSP+2D8] 0x0                (size_t)
+[RSP+2E0] 0x2546392B740      (TESObjectREFR*)
+Object Reference:
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x001679C6
+Form Type: 31
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x001679C7
+Form Type: 64
+[RSP+2E8] 0xB2D2DAFBB0       (BGSLoadFormBuffer*)
+[RSP+2F0] 0x0                (size_t)
+[RSP+2F8] 0x7FF7A2EA01CA     (void* -> Fallout4.exe+03F01CA)
+[RSP+300] 0x0                (size_t)
+[RSP+308] 0x0                (size_t)
+[RSP+310] 0x0                (size_t)
+[RSP+318] 0x7FF7A378775C     (void* -> Fallout4.exe+0CD775C)
+[RSP+320] 0x0                (size_t)
+[RSP+328] 0x2546392B740      (TESObjectREFR*)
+Object Reference:
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x001679C6
+Form Type: 31
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x001679C7
+Form Type: 64
+[RSP+330] 0x2541207A080      (void*)
+[RSP+338] 0x1679C7           (size_t)
+[RSP+340] 0x0                (size_t)
+[RSP+348] 0x254849AFF80      (void*)
+[RSP+350] 0x2546392B740      (TESObjectREFR*)
+Object Reference:
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x001679C6
+Form Type: 31
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x001679C7
+Form Type: 64
+[RSP+358] 0x7FF7A378BF8A     (void* -> Fallout4.exe+0CDBF8A)
+[RSP+360] 0x254849CE800      (void*)
+[RSP+368] 0xB2AC2230B7       (size_t)
+[RSP+370] 0xB2D2DAFC40       (void*)
+[RSP+378] 0x0                (size_t)
+[RSP+380] 0x0                (size_t)
+[RSP+388] 0x1                (size_t)
+[RSP+390] 0xF82F01C908000020 (size_t)
+[RSP+398] 0x0                (size_t)
+[RSP+3A0] 0x25480CADF00      (void*)
+[RSP+3A8] 0x254849CE880      (void*)
+[RSP+3B0] 0x0                (size_t)
+[RSP+3B8] 0x7FF7A8508770     (BGSSynchronizedAnimationManager*)
+[RSP+3C0] 0x24E22C77D30      (char*) "_"
+[RSP+3C8] 0x7FF7A30D5D16     (void* -> Fallout4.exe+0625D16)
+[RSP+3D0] 0x7FF7A5706C68     (void* -> Fallout4.exe+2C56C68)
+[RSP+3D8] 0x0                (size_t)
+[RSP+3E0] 0x0                (size_t)
+[RSP+3E8] 0x0                (size_t)
+[RSP+3F0] 0x0                (size_t)
+[RSP+3F8] 0x0                (size_t)
+[RSP+400] 0x0                (size_t)
+[RSP+408] 0x2546392B740      (TESObjectREFR*)
+Object Reference:
+File: "MojaveImports.esp"
+Flags: 0x00000009
+Form ID: 0x001679C6
+Form Type: 31
+File: "Fallout4.esm"
+Flags: 0x00000409
+Form ID: 0x001679C7
+Form Type: 64
+[RSP+410] 0x800002000000000  (size_t)
+[RSP+418] 0xB2D2000004       (size_t)
+[RSP+420] 0x1                (size_t)
+[RSP+428] 0xB2D2DAFC40       (void*)
+[RSP+430] 0x3F0              (size_t)
+[RSP+438] 0x7FF7A37958B4     (void* -> Fallout4.exe+0CE58B4)
+[RSP+440] 0x254ADC79420      (void*)
+[RSP+448] 0x2                (size_t)
+[RSP+450] 0x2551F208200      (void*)
+[RSP+458] 0x1                (size_t)
+[RSP+460] 0x0                (size_t)
+[RSP+468] 0x9C0              (size_t)
+[RSP+470] 0x0                (size_t)
+[RSP+478] 0x24E22C77370      (void*)
+[RSP+480] 0x24E41AF7D80      (Main*)
+[RSP+488] 0x2541207A080      (void*)
+[RSP+490] 0x1                (size_t)
+[RSP+498] 0x7FF7A378D1F0     (void* -> Fallout4.exe+0CDD1F0)
+[RSP+4A0] 0x25400000001      (void*)
+[RSP+4A8] 0x25400000002      (void*)
+[RSP+4B0] 0x0                (size_t)
+[RSP+4B8] 0x254849CE880      (void*)
+[RSP+4C0] 0x2                (size_t)
+[RSP+4C8] 0x7FF7A37EBAA0     (void* -> Fallout4.exe+0D3BAA0)
+[RSP+4D0] 0x1                (size_t)
+[RSP+4D8] 0x24E41AF7D80      (Main*)
+[RSP+4E0] 0x2                (size_t)
+[RSP+4E8] 0x24E41AF7D80      (Main*)
+[RSP+4F0] 0x0                (size_t)
+[RSP+4F8] 0x0                (size_t)
+[RSP+500] 0x0                (size_t)
+[RSP+508] 0x0                (size_t)
+[RSP+510] 0x0                (size_t)
+[RSP+518] 0x7FF7A37E6E31     (void* -> Fallout4.exe+0D36E31)
+[RSP+520] 0xFA049A           (size_t)
+[RSP+528] 0xFA049A           (size_t)
+[RSP+530] 0x0                (size_t)
+[RSP+538] 0xA                (size_t)
+[RSP+540] 0x0                (size_t)
+[RSP+548] 0x7FF7A37E5950     (void* -> Fallout4.exe+0D35950)
+[RSP+550] 0x24E22C7B29A      (void*)
+[RSP+558] 0xFA049A           (size_t)
+[RSP+560] 0x65ADA8B4         (size_t)
+[RSP+568] 0x24E22C7B29A      (void*)
+[RSP+570] 0x0                (size_t)
+[RSP+578] 0x7FF7A53E7157     (void* -> Fallout4.exe+2937157)
+[RSP+580] 0x24E22C7B299      (char*) """
+[RSP+588] 0xA                (size_t)
+[RSP+590] 0x0                (size_t)
+[RSP+598] 0xA                (size_t)
+[RSP+5A0] 0x0                (size_t)
+[RSP+5A8] 0x24E22C7B29A      (void*)
+[RSP+5B0] 0x0                (size_t)
+[RSP+5B8] 0x7FFA3E62257D     (void* -> KERNEL32.DLL+001257D)
+[RSP+5C0] 0x0                (size_t)
+[RSP+5C8] 0x0                (size_t)
+[RSP+5D0] 0x1                (size_t)
+[RSP+5D8] 0x1                (size_t)
+[RSP+5E0] 0x0                (size_t)
+[RSP+5E8] 0x7FFA3F14AA58     (void* -> ntdll.dll+005AA58)
+[RSP+5F0] 0x0                (size_t)
+[RSP+5F8] 0x0                (size_t)
+[RSP+600] 0x0                (size_t)
+[RSP+608] 0x0                (size_t)
+[RSP+610] 0x0                (size_t)
+[RSP+618] 0x0                (size_t)
+[RSP+620] 0x6E758BB400000000 (size_t)
+[RSP+628] 0x0                (size_t)
+[RSP+630] 0x0                (size_t)
+[RSP+638] 0x7FFA3C58C720     (void* -> KERNELBASE.dll+015C720)
+[RSP+640] 0xB2D2DAE900       (void*)
+[RSP+648] 0x7FFA522D4C94000  (size_t)
+[RSP+650] 0x7FFA522D4C94     (size_t)
+[RSP+658] 0xB2D2DAE900       (void*)
+[RSP+660] 0x7FFA3F14AA30     (void* -> ntdll.dll+005AA30)
+[RSP+668] 0x0                (size_t)
+[RSP+670] 0x0                (size_t)
+[RSP+678] 0x0                (size_t)
+[RSP+680] 0x0                (size_t)
+[RSP+688] 0x0                (size_t)
+[RSP+690] 0x0                (size_t)
+[RSP+698] 0x0                (size_t)
+[RSP+6A0] 0x0                (size_t)
+[RSP+6A8] 0x0                (size_t)
+[RSP+6B0] 0x0                (size_t)
+[RSP+6B8] 0x0                (size_t)
+[RSP+6C0] 0x0                (size_t)
+[RSP+6C8] 0x0                (size_t)
+[RSP+6D0] 0x0                (size_t)
+[RSP+6D8] 0x0                (size_t)
+[RSP+6E0] 0x0                (size_t)
+[RSP+6E8] 0x0                (size_t)
+[RSP+6F0] 0x0                (size_t)
+[RSP+6F8] 0x0                (size_t)
+[RSP+700] 0x0                (size_t)
+[RSP+708] 0x0                (size_t)
+[RSP+710] 0x0                (size_t)
+[RSP+718] 0x0                (size_t)
+[RSP+720] 0x0                (size_t)
+[RSP+728] 0x0                (size_t)
+[RSP+730] 0x0                (size_t)
+[RSP+738] 0x0                (size_t)
+[RSP+740] 0x0                (size_t)
+[RSP+748] 0x0                (size_t)
+[RSP+750] 0x0                (size_t)
+[RSP+758] 0x0                (size_t)
+[RSP+760] 0x0                (size_t)
+[RSP+768] 0x0                (size_t)
+[RSP+770] 0x0                (size_t)
+[RSP+778] 0x0                (size_t)
+[RSP+780] 0x0                (size_t)
+[RSP+788] 0x0                (size_t)
+[RSP+790] 0x0                (size_t)
+[RSP+798] 0x0                (size_t)
+[RSP+7A0] 0x0                (size_t)
+[RSP+7A8] 0x0                (size_t)
+[RSP+7B0] 0x0                (size_t)
+[RSP+7B8] 0x0                (size_t)
+[RSP+7C0] 0x0                (size_t)
+[RSP+7C8] 0x0                (size_t)
+[RSP+7D0] 0x0                (size_t)
+[RSP+7D8] 0x0                (size_t)
+[RSP+7E0] 0x0                (size_t)
+[RSP+7E8] 0x0                (size_t)
+[RSP+7F0] 0x0                (size_t)
+[RSP+7F8] 0x0                (size_t)
+[RSP+800] 0x0                (size_t)
+[RSP+808] 0x0                (size_t)
+[RSP+810] 0x0                (size_t)
+[RSP+818] 0x0                (size_t)

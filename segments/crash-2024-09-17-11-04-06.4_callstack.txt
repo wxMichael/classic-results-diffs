@@ -1,0 +1,212 @@
+[ 0] 0x7FF670AFC44B Fallout4.exe+0B2C44B -> 1036948+0x5B	mov rdx, [rax]
+[ 1] 0x7FF670AEB363 Fallout4.exe+0B1B363 -> 1560747+0x53	mov rax, [rdi]
+[ 2] 0x7FF670AF01CB Fallout4.exe+0B201CB -> 79462+0xBB	mov eax, [rbx+0x460]
+[ 3] 0x7FF670AE8085 Fallout4.exe+0B18085 -> 1395000+0xA5	mov eax, [rdi+0x28]
+[ 4] 0x7FF672013629 Fallout4.exe+2043629 -> 910928+0xF9	mov eax, [0x00007FF6765474C4]
+[ 5] 0x7FF670C8D34F Fallout4.exe+0CBD34F -> 1453703+0x6F	mov ecx, 0x01
+[ 6] 0x7FF671B20F26 Fallout4.exe+1B50F26 -> 329005+0xC6	mov ecx, [rbx+0x0C]
+[ 7] 0x7FF671B21432 Fallout4.exe+1B51432 -> 194800+0x202	mov r14d, eax
+[ 8] 0x7FF671B23F67 Fallout4.exe+1B53F67 -> 1492866+0x67	movzx eax, byte ptr [rbx+0xA74]
+[ 9] 0x7FF671AECFED Fallout4.exe+1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF675B2BD38]
+[10] 0x7FFDABAB257D KERNEL32.DLL+001257D
+[11] 0x7FFDACCCAF28    ntdll.dll+005AF28
+
+REGISTERS:
+RBX 0x1A56245F5C0      (void*)
+RDI 0x1A7C0869F20      (BSFadeNode*)
+Name: "ReceiverParentObject"
+RTTIName: "BSFadeNode"
+Flags: 4214080480e
+Checking TESObjectREFR:
+Object Reference:
+Flags: 0x00004008
+FormID: 0x0000005C
+FormType: kSTAT (36)
+Name: "ReceiverParentObject"
+R9  0x7FF6759AA3C0     (void* -> Fallout4.exe+59DA3C0	add [rax], al)
+R11 0x13BB5FF378       (BSTArrayBase::IAllocatorFunctor*)
+R15 0x4                (size_t) [4]
+
+STACK:
+[RSP+10 ] 0x1A7C0A2BF50      (NiNode*)
+Name: "P-Damage"
+RTTIName: "NiNode"
+Flags: e
+Name: "P-Damage"
+[RSP+18 ] 0x1A7C0869F20      (BSFadeNode*)
+Name: "ReceiverParentObject"
+RTTIName: "BSFadeNode"
+Flags: 4214080480e
+Checking TESObjectREFR:
+Object Reference:
+Flags: 0x00004008
+FormID: 0x0000005C
+FormType: kSTAT (36)
+Name: "ReceiverParentObject"
+[RSP+30 ] 0x1A7C0A2BF50      (NiNode*)
+Name: "P-Damage"
+RTTIName: "NiNode"
+Flags: e
+Name: "P-Damage"
+[RSP+38 ] 0x1A5AD740900      (BGSKeyword*)
+File: "MK18.esp"
+Flags: 0x00000008
+EditorID: "ap_MK18_Damage"
+FormID: 0x4C000FA3
+FormType: kKYWD (04)
+[RSP+40 ] 0x1A7C08EDB00      (BSFadeNode*)
+Name: "P-Receiver"
+RTTIName: "BSFadeNode"
+Flags: 10080000e
+Checking TESObjectREFR:
+Object Reference:
+Flags: 0x00004008
+FormID: 0x0000005C
+FormType: kSTAT (36)
+Checking Parent:
+Name: "ReceiverParentObject"
+RTTIName: "BSFadeNode"
+Flags: 4214080480e
+Checking TESObjectREFR:
+Object Reference:
+Flags: 0x00004008
+FormID: 0x0000005C
+FormType: kSTAT (36)
+Name: "P-Receiver"
+[RSP+48 ] 0x1A56E691960      (BGSKeyword*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "ap_gun_receiver"
+FormID: 0x00024004
+FormType: kKYWD (04)
+[RSP+58 ] 0x7FF672C196C8     (void* -> Fallout4.exe+2C496C8	)
+[RSP+68 ] 0x7FF672C196C8     (void* -> Fallout4.exe+2C496C8	)
+[RSP+88 ] 0x0                (size_t) [0]
+[RSP+A8 ] 0x0                (size_t) [0]
+[RSP+C8 ] 0x0                (size_t) [0]
+[RSP+E8 ] 0x0                (size_t) [0]
+[RSP+108] 0x0                (size_t) [0]
+[RSP+128] 0x0                (size_t) [0]
+[RSP+148] 0x0                (size_t) [0]
+[RSP+168] 0x0                (size_t) [0]
+[RSP+188] 0x13BB5FF5D8       (void*)
+[RSP+198] 0x1A56245F180      (ExamineMenu*)
+[RSP+1B8] 0x1A4CF1CE8B0      (TESObjectWEAP*)
+File: "M8r Complex Sorter.esp"
+Modified by: MK18.esp -> MK18_TacticalReloadPatch.esp -> M8r Complex Sorter.esp
+Flags: 0x40000008
+Name: "Gun"
+EditorID: "WPNMK18"
+FormID: 0x4C000F9D
+FormType: kWEAP (43)
+GetFullName: "MK18"
+[RSP+1C8] 0x7FF670AEB363     (void* -> Fallout4.exe+0B1B363	mov rax, [rdi])
+[RSP+1D8] 0x1A56245F180      (ExamineMenu*)
+[RSP+1F8] 0x13BB5FF5F0       (void*)
+[RSP+218] 0x13BB5FF5F0       (void*)
+[RSP+238] 0x13BB5FF510       (void*)
+[RSP+248] 0x1A79F612F30      (HUDAmmoCounter*)
+[RSP+250] 0x7FF675AA00D0     (void* -> Fallout4.exe+5AD00D0	sub al, 0xA1)
+[RSP+258] 0x1A79F612F30      (HUDAmmoCounter*)
+[RSP+278] 0x13BB5FF500       (void*)
+[RSP+288] 0x1A79F612F30      (HUDAmmoCounter*)
+[RSP+290] 0x1A56245F180      (ExamineMenu*)
+[RSP+2B0] 0x1A56245F688      (void*)
+[RSP+2C8] 0x7FF670AF01CB     (void* -> Fallout4.exe+0B201CB	mov eax, [rbx+0x460])
+[RSP+2E8] 0x1A4CF1CEB98      (BGSAttachParentArray*)
+[RSP+308] 0x0                (size_t) [0]
+[RSP+328] 0x0                (size_t) [0]
+[RSP+348] 0x7FF670AEF7D9     (void* -> Fallout4.exe+0B1F7D9	test al, al)
+[RSP+358] 0x1A56245F180      (ExamineMenu*)
+[RSP+368] 0x1A56245F180      (ExamineMenu*)
+[RSP+378] 0x7FF670AE8085     (void* -> Fallout4.exe+0B18085	mov eax, [rdi+0x28])
+[RSP+380] 0x1A56245F180      (ExamineMenu*)
+[RSP+3A0] 0x1A6D64E8888      (void*)
+[RSP+3A8] 0x7FF672013BF8     (void* -> Fallout4.exe+2043BF8	cmp [0x00007FF6765474C8], eax)
+[RSP+3B0] 0x7FF672C196C8     (void* -> Fallout4.exe+2C496C8	)
+[RSP+3B8] 0x1A55EDE4230      (CustomMenu*)
+[RSP+3D8] 0x7FF672013629     (void* -> Fallout4.exe+2043629	mov eax, [0x00007FF6765474C4])
+[RSP+3F0] 0x7FF675A36DD0     (UI*)
+[RSP+3F8] 0x7FF675A36DD0     (UI*)
+[RSP+418] 0x7FF600000007     (size_t) [140694538682375]
+[RSP+420] 0x7FF675BB8084     (void* -> Fallout4.exe+5BE8084	add [rax], al)
+[RSP+430] 0x7FF675BB8080     (void* -> Fallout4.exe+5BE8080	add [rax], al)
+[RSP+438] 0x7FF675BB8088     (void* -> Fallout4.exe+5BE8088	add [rax], al)
+[RSP+458] 0x7FF670C8D34F     (void* -> Fallout4.exe+0CBD34F	mov ecx, 0x01)
+[RSP+478] 0x7FF675BB9630     (void* -> Fallout4.exe+5BE9630	add [rdx+rbx*1], bl)
+[RSP+480] 0x7FF675BB9630     (void* -> Fallout4.exe+5BE9630	add [rdx+rbx*1], bl)
+[RSP+488] 0x7FF671B20F26     (void* -> Fallout4.exe+1B50F26	mov ecx, [rbx+0x0C])
+[RSP+490] 0x7FF6766EEE80     (void* -> Fallout4.exe+671EE80	and [rdi-0x43], bh)
+[RSP+4A8] 0x7FFDAA091E7D     (void* -> KERNELBASE.dll+0061E7D	nop [rax+rax*1], eax)
+[RSP+4C0] 0x7FF675BCDAC0     (void* -> Fallout4.exe+5BFDAC0	add [rdx+rbx*1], bl)
+[RSP+4D0] 0x7FF675BB95C0     (BSJobs::JobThread*)
+[RSP+4D8] 0x7FF671B21432     (void* -> Fallout4.exe+1B51432	mov r14d, eax)
+[RSP+4E8] 0x7FF675BB95E0     (void* -> Fallout4.exe+5BE95E0	add [rax], al)
+[RSP+508] 0x0                (size_t) [0]
+[RSP+518] 0x7FF671B23F67     (void* -> Fallout4.exe+1B53F67	movzx eax, byte ptr [rbx+0xA74])
+[RSP+520] 0x7FF675BB95C0     (BSJobs::JobThread*)
+[RSP+540] 0x7FF675BB95C0     (BSJobs::JobThread*)
+[RSP+548] 0x7FF671AECFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF675B2BD38])
+[RSP+568] 0x0                (size_t) [0]
+[RSP+570] 0x7FF675BB95C0     (BSJobs::JobThread*)
+[RSP+588] 0x7FFDABAB257D     (void* -> KERNEL32.DLL+001257D	mov ecx, eax)
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B8] 0x7FFDACCCAF28     (void* -> ntdll.dll+005AF28	jmp 0x00007FFDACCCAF49)
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5F8] 0x0                (size_t) [0]
+[RSP+608] 0x7FFDAA190920     (void* -> KERNELBASE.dll+0160920	mov [rsp+0x10], rbx)
+[RSP+628] 0x13BB5FE3C0       (void*)
+[RSP+648] 0x0                (size_t) [0]
+[RSP+668] 0x0                (size_t) [0]
+[RSP+688] 0x0                (size_t) [0]
+[RSP+6A8] 0x0                (size_t) [0]
+[RSP+6C8] 0x0                (size_t) [0]
+[RSP+6E8] 0x0                (size_t) [0]
+[RSP+708] 0x0                (size_t) [0]
+[RSP+728] 0x0                (size_t) [0]
+[RSP+748] 0x0                (size_t) [0]
+[RSP+768] 0x0                (size_t) [0]
+[RSP+788] 0x0                (size_t) [0]
+[RSP+7A8] 0x0                (size_t) [0]
+[RSP+7C8] 0x0                (size_t) [0]
+[RSP+7E8] 0x0                (size_t) [0]
+[RSP+808] 0x0                (size_t) [0]
+[RSP+828] 0x0                (size_t) [0]
+[RSP+848] 0x0                (size_t) [0]
+[RSP+868] 0x0                (size_t) [0]
+[RSP+888] 0x0                (size_t) [0]
+[RSP+8A8] 0x0                (size_t) [0]
+[RSP+8C8] 0x0                (size_t) [0]
+[RSP+8E8] 0x0                (size_t) [0]
+[RSP+908] 0x0                (size_t) [0]
+[RSP+928] 0x0                (size_t) [0]
+[RSP+948] 0x0                (size_t) [0]
+[RSP+968] 0x0                (size_t) [0]
+[RSP+988] 0x0                (size_t) [0]
+[RSP+9A8] 0x0                (size_t) [0]
+[RSP+9C8] 0x0                (size_t) [0]
+[RSP+9E8] 0x0                (size_t) [0]
+[RSP+A08] 0x0                (size_t) [0]
+[RSP+A28] 0x0                (size_t) [0]
+[RSP+A48] 0x0                (size_t) [0]
+[RSP+A68] 0x0                (size_t) [0]
+[RSP+A88] 0x0                (size_t) [0]
+[RSP+AA8] 0x0                (size_t) [0]
+[RSP+AC8] 0x0                (size_t) [0]
+[RSP+AE8] 0x0                (size_t) [0]
+[RSP+B08] 0x0                (size_t) [0]
+[RSP+B28] 0x0                (size_t) [0]
+[RSP+B48] 0x0                (size_t) [0]
+[RSP+B68] 0x0                (size_t) [0]
+[RSP+B88] 0x0                (size_t) [0]
+[RSP+BA8] 0x0                (size_t) [0]
+[RSP+BC8] 0x0                (size_t) [0]
+[RSP+BE8] 0x0                (size_t) [0]
+[RSP+C08] 0x0                (size_t) [0]
+[RSP+C28] 0x0                (size_t) [0]
+[RSP+C48] 0x0                (size_t) [0]
+[RSP+C68] 0x0                (size_t) [0]
+[RSP+C88] 0x0                (size_t) [0]
+[RSP+CA8] 0x0                (size_t) [0]
+[RSP+CC8] 0x0                (size_t) [0]
+[RSP+CE8] 0x0                (size_t) [0]

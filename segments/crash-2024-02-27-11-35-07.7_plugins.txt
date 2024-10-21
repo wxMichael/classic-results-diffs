@@ -1,0 +1,537 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     HUDFramework.esm
+[09]     WorkshopFramework.esm
+[0A]     MFC2023_EndAlz_Trunk.esm
+[0B]     SouthOfTheSea.esm
+[0C]     Random Robots - True Leveled.esm
+[0D]     XDI.esm
+[0E]     Games.esm
+[0F]     BarstoolGames.esm
+[10]     CompanionIvy.esm
+[11]     Darlene.esm
+[12]     GoodneighborExpanded.esp
+[13]     Ketaros_NewMags.esp
+[14]     NukaWorldReborn.esp
+[15]     AAF.esm
+[16]     homemaker.esm
+[17]     Eli_Armour_Compendium.esp
+[18]     AshlandStationSettlement.esp
+[19]     SS2.esm
+[1A]     SS2_XPAC_Chapter2.esm
+[1B]     SS2_XPAC_Chapter3.esm
+[1C]     VivaNukaWorldQuests.esp
+[1D]     SS2Extended.esp
+[1E]     10MMTF.esp
+[1F]     AtomsGloryThreads.esp
+[20]     CF_AtomicWarlord.esp
+[21]     SettlementMenuManager.esp
+[22]     Useful_Companions.esp
+[23]     Vault 88 Template - Optimised.esp
+[24]     ImprovedMinutemen.esp
+[25]     ImprovedMinutemenEncounters.esp
+[26]     WorkshopPlus.esp
+[27]     Vault-Tec Workshop Overhaul Redux.esp
+[28]     Vault88 - Essentials.esp
+[29]     The Eyes Of Beauty.esp
+[2A]     jsrs.esp
+[2B]     LooksMenu Customization Compendium.esp
+[2C]     PoseidonOffices.esp
+[2D]     Alex's Settlement Power Pylon.esp
+[2E]     AutomatronUnlockedNukaParts.esp
+[2F]     Better Randomized Robots - vanilla loot patch.esp
+[30]     Better_Settlement_Defence.esp
+[31]     CheatTerminal.esp
+[32]     ChineseStealthSuit.esp
+[33]     CoASettlers.esp
+[34]     CompanionStatus.esp
+[35]     Configurable Artillery.esp
+[36]     ESPExplorerFO4.esp
+[37]     Ketaros_Treasures.esp
+[38]     FO4R.esp
+[39]     HoloTime_2.esp
+[3A]     Jacq-CompanionPerkMags.esp
+[3B]     Ketaros_MissingMags.esp
+[3C]     KSHairdos.esp
+[3D]     KSHairsFemsheppingRadbeetle.esp
+[3E]     Reverb and Ambiance Overhaul.esp
+[3F]     llamaCompanionHeatherv2.esp
+[40]     MercerRescuedSynths.esp
+[41]     Mors Shortcut to Curie.esp
+[42]     NoSharedDogmeatTemplate.esp
+[43]     PersistentVolumeSliders.esp
+[44]     Playable Synth Eyes.esp
+[45]     PoseidonOffices_NoBugs.esp
+[46]     SKKFastBOS.esp
+[47]     SKKFastReunions.esp
+[48]     SRV_StopRadioVoice.esp
+[49]     BarstoolGames_FH.esp
+[4A]     BarstoolGames_NW.esp
+[4B]     PortableCloningDevice.esp
+[4C]     SKKFastMinutemen.esp
+[4D]     Q_Lore_MQ106_Cryolator.esp
+[4E]     FatherCompanion.esp
+[4F]     InstituteReformation.esp
+[50]     CompanionIvy_Mags.esp
+[51]     CompanionIvy_Nuka.esp
+[52]     CompanionIvy_quest.esp
+[53]     BetterFarHarbor_Open.esp
+[54]     Patch Ivy-XDI.esp
+[55]     _00Stingray.esp
+[56]     LaserDesignator.esp
+[57]     LaserDesignatorA10Addon.esp
+[58]     [SS20Addon] SimSettlements SuperStructures.esp
+[59]     Cho1_ss2_Barmod_Conversion.esp
+[5A]     DZK_1x1_Pack.esp
+[5B]     GarageHomesAndSensibleSecurity.esp
+[5C]     GtN_SettlersatPlay.esp
+[5D]     JunkTownTwo.esp
+[5E]     MS Contraptions - SS2 ASAM Builder.esp
+[5F]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
+[60]     Shadow Wastelands SS2 World Repopulation Cells.esp
+[61]     SS2-Jampads2.esp
+[62]     SS2-PraRandomAddon.esp
+[63]     SS2_Addon_Favelabulous.esp
+[64]     SS2_Addon_FHE.esp
+[65]     SS2_Addon_NWE.esp
+[66]     SS2_Addon_PSC_Plots.esp
+[67]     SS2_Addon_R2R.esp
+[68]     SS2_CityPlanContestAssistant.esp
+[69]     SS2_FDK_TinyLiving.esp
+[6A]     SS2_MsB_PlainPlans.esp
+[6B]     SS2_ruined_simsettlement_addonpack.esp
+[6C]     SS2_SIMPDDDD.esp
+[6D]     SS2_STRA_Buildings_and_Skins.esp
+[6E]     SS2_STRA_Support_Buildings.esp
+[6F]     SS2_WastelandDefense.esp
+[70]     SS2CaravanSnatex.esp
+[71]     SS2HappyTrails.esp
+[72]     SS2UI.esp
+[73]     SS2WastelandVenturers.esp
+[74]     TheRon_MapMarker.esp
+[75]     EasyStartCheatBox_FO4.esp
+[76]     SelectPowerArmor.esp
+[77]     ImprovedRR.esp
+[78]     ImprovedRREncounters.esp
+[79]     OWR.esp
+[7A]     OWR2.esp
+[7B]     ImprovedBoS.esp
+[7C]     ImprovedBoSEncounters.esp
+[7D]     ImprovedInstitute.esp
+[7E]     ImprovedInstituteEncounters.esp
+[7F]     SS2WastelandReconstructionKit.esp
+[80]     SelectRapidMG.esp
+[81]     SelectRevolver.esp
+[82]     SelectShotgun.esp
+[83]     HeavySelectShotgun.esp
+[84]     SelectAssaultRifle.esp
+[85]     SelectMarksman.esp
+[86]     DualGun.esp
+[87]     SS2_NCRP.esp
+[88]     BetterSettlers.esp
+[89]     ImprovedHostileFactions.esp
+[8A]     ImprovedHostileFactionsEncounters.esp
+[8B]     creativeclutter.esp
+[8C]     dinoshelf.esp
+[8D]     BostonLibrarySettlement.esp
+[8E]     F4NV_44_Magnum.esp
+[8F]     FBFH_EE_Acadia_Cleanup.esp
+[90]     ImprovedNukaRaiders.esp
+[91]     ImprovedNukaRaidersEncounters.esp
+[92]     OCsLakesideTweaks.esp
+[93]     OCsLakesideReduceGrass.esp
+[94]     OCsWindTower.esp
+[95]     NAC.esp
+[96]     SKKFastStartNewGame.esp
+[FE:000] Community Fixes Merged.esp
+[FE:001] CanarySaveFileMonitor.esl
+[FE:002] BakaFramework.esm
+[FE:003] LIF.esl
+[FE:004] PPF.esm
+[FE:005] ConfigurableHotkeys.esl
+[FE:006] ImmersiveTeleportation.esl
+[FE:007] DDLL.esl
+[FE:008] LIF_DisableInjectionOptions.esl
+[FE:009] BakaPowerArmorStorage.esm
+[FE:00A] FixRobotVisualEffects.esl
+[FE:00B] Natural Landscapes.esl
+[FE:00C] Natural Roads.esl
+[FE:00D] BakaFullscreenPipboy.esm
+[FE:00E] BakaAutoLockpicking.esm
+[FE:00F] REFramework.esm
+[FE:010] TMR_GlitchfinderAIO.esm
+[FE:011] Wetness Shader Fix.esm
+[FE:012] Munitions - An Ammo Expansion.esl
+[FE:013] Munitions - Vanilla Ammo Addon.esl
+[FE:014] UniversalDisassembler.esl
+[FE:015] Gris_WSFWLayouts_RedRockets_V4.esl
+[FE:016] HoloGlowNS21.esl
+[FE:017] VCM_CoastalCottage_Navmesh_Update.esl
+[FE:018] VCM_CoastalCottage_GarageFloorFix_F-ESL.esl
+[FE:019] VCM_EgretTours_Navmesh_Update.esl
+[FE:01A] VCM_GreentopNursery_Navmesh_Update.esl
+[FE:01B] VCM_KingsportLighthouse_Vanilla_Navmesh_Update.esl
+[FE:01C] VCM_Murkwater_Navmesh_Update.esl
+[FE:01D] VCM_RedRocket_Navmesh_Update.esl
+[FE:01E] VCM_Sanctuary_Navmesh_Update_W_Roof.esl
+[FE:01F] VCM_StarlightDrivein_Navmesh_Update.esl
+[FE:020] VCM_TheSlog_Navmesh_Update.esl
+[FE:021] VCM_CountyCrossing_Vanilla_NavmeshUpdate.esl
+[FE:022] Dynamic Activation Key.esp
+[FE:023] FOLON_ChinesePistol.esl
+[FE:024] AUR_Rebuild_Shared.esp
+[FE:025] BerettaM9FS.esl
+[FE:026] ZJ-Starlight-PerfPlan.esl
+[FE:027] ZJ PerfPlan - Zimonja.esl
+[FE:028] ZJ PerfPlan - Tenpines.esl
+[FE:029] ZJ PerfPlan - Taffington.esl
+[FE:02A] ZJ PerfPlan - Sunshine.esl
+[FE:02B] ZJ PerfPlan - Sanctuary.esl
+[FE:02C] ZJ PerfPlan - RedRocket.esl
+[FE:02D] ZJ PerfPlan - Abernathy.esl
+[FE:02E] WG City Plans Pack ESL.esl
+[FE:02F] Vee_SS2_SettlersEssentialPatch.esl
+[FE:030] UNDRCVR_SimplySettled2022.esl
+[FE:031] ThrowMoneyAtSS2.esl
+[FE:032] MysticRogue_AbernathyFarm and Outpost.esl
+[FE:033] GavMan_Somerville_CityPlan.esl
+[FE:034] GavMan_RedRocket_Outpost_CityPlan.esl
+[FE:035] GavMan_LongfellowsJun21_CityPlan.esl
+[FE:036] GavMan_Greentop_CityPlan.esl
+[FE:037] GavMan_Finch_Feb22_CityPlan.esl
+[FE:038] GavMan_CastleMar22_CityPlan.esl
+[FE:039] GavMan_AbernathyJan22_CityPlan.esl
+[FE:03A] Cho1_Vault88_Metro_Plan.esl
+[FE:03B] CC_OberlandPlanetX_Ch2Update.esl
+[FE:03C] Vee_SS2_Chapter2_SettlersEssentialPatch.esl
+[FE:03D] SuperAffinity.esp
+[FE:03E] 10SPECIAL.esp
+[FE:03F] Dank_ECO.esp
+[FE:040] Dank_LAB.esp
+[FE:041] StealthBoyBuffWithRecipe.esp
+[FE:042] SuperAffinitySeason.esp
+[FE:043] UnlimitedStimpakForNPCs.esp
+[FE:044] V88-MoleRatsDisabled.esp
+[FE:045] ImprovedMinutemenEncountersPatch.esp
+[FE:046] YouAndWhatArmy.esp
+[FE:047] YAWA_ImmuneToRadiation.esp
+[FE:048] WhoIsTheGeneral.esp
+[FE:049] WestonWaterLOD.esp
+[FE:04A] Dank_LEO.esp
+[FE:04B] DCRE.esp
+[FE:04C] 4estGimp - SotS Atoms Storm Atoms Glory Threads CoA.esp
+[FE:04D] AccessibleBridges.esp
+[FE:04E] Actual Legendary Rust Devils.esp
+[FE:04F] ArtilleryChanges.esp
+[FE:050] AtomsGloryThreadsPatch_CoAOverhaul.esp
+[FE:051] AutomatronUnlocked.esp
+[FE:052] CBBE.esp
+[FE:053] CBBEHR.esp
+[FE:054] ChameleonAndStealthFixes.esp
+[FE:055] Chemfluence AI Combat Dynamics.esp
+[FE:056] Companions Use Companion Perk Overhaul.esp
+[FE:057] Computer Console illuminated.esp
+[FE:058] CROSS_CoA.esp
+[FE:059] CROSS_CourserStrigidae.esp
+[FE:05A] CROSS_InstituteExpeditionarySuit.esp
+[FE:05B] Dank_ECO_DisablePlacedItems.esp
+[FE:05C] Dank_ECO_DLCCoast.esp
+[FE:05D] Dank_ECO_DLCNukaWorld.esp
+[FE:05E] Dank_ECO_DLCRobot.esp
+[FE:05F] Dank_LAB_DLCNukaWorld.esp
+[FE:060] Dank_LAB_LEO.esp
+[FE:061] Dank_LEO-Automatron.esp
+[FE:062] More Legendary Effects.esp
+[FE:063] Dank_LEO-MLE.esp
+[FE:064] Dank_LEO_DLCCoast.esp
+[FE:065] Dank_LEO_DLCNukaWorld.esp
+[FE:066] Dead Settlement Brahmin Despawn.esp
+[FE:067] Diamond City Owns It's Crops.esp
+[FE:068] DiscreteFemaleSkeleton.esp
+[FE:069] DX Courser X-92 Power Suit.esp
+[FE:06A] Esk_NoTeleportingCreatures.esp
+[FE:06B] eXoKetarosLootableTreasures.esp
+[FE:06C] Far Harbor 3d Tree LODs.esp
+[FE:06D] FO4LODGen-DLCCoast-WindTurbines.esp
+[FE:06E] FO4LODGen.esp
+[FE:06F] FOLIP - New LODs.esp
+[FE:070] FS_FarHarborBoatFastTravel.esp
+[FE:071] FS_NukaWorldTramFastTravel.esp
+[FE:072] HuntingRifle.esp
+[FE:073] ImmersiveTeleportation_lessPower.esp
+[FE:074] ImmersiveTeleportation_lessRads.esp
+[FE:075] ImmersiveTeleportation_quickstart.esp
+[FE:076] JSRS_Regions.esp
+[FE:077] Keep Radiants In Commonwealth.esp
+[FE:078] LAT RAO - DCRE Patch.esp
+[FE:079] Legendary Mod Additions.esp
+[FE:07A] LOD Fixes and Additons.esp
+[FE:07B] Long Time No Speak.esp
+[FE:07C] LookingStranger.esp
+[FE:07D] LooksMenu1stPersonViewItemsFix.esp
+[FE:07E] Lots More Facial Hair.esp
+[FE:07F] Lots More Male Hairstyles.esp
+[FE:080] MiscHairstyle.esp
+[FE:081] MS SPECIAL Zapper.esp
+[FE:082] NewtonsRegards.esp
+[FE:083] NO MORE HAMMERS.esp
+[FE:084] NoAffinityCooldown.esp
+[FE:085] NoVault88Radiation.esp
+[FE:086] NPCs Use Items.esp
+[FE:087] Operator Edits - Companion Fall Damage Immunity.esp
+[FE:088] Optimized Vanilla Tree LODs.esp
+[FE:089] PA-Quick Animations.esp
+[FE:08A] PA_UnderwearPerks.esp
+[FE:08B] Pistol Reanimation Pack - REBORN.esp
+[FE:08C] LaserGarand.esp
+[FE:08D] PR_Automatron.esp
+[FE:08E] Radium.esp
+[FE:08F] SaveAcadiaFromBoS.esp
+[FE:090] Skip DIMA memories.esp
+[FE:091] SmokeHomingBeaconGrenadeThrowArc.esp
+[FE:092] GaS2BVTurretsBroke.esp
+[FE:093] DCRE-FixRadio.esp
+[FE:094] WHN AiO.esp
+[FE:095] Wireless Workshop Items.esp
+[FE:096] PoseidonEnergyCanHaveRadarTransmitter.esp
+[FE:097] Radium Rifle Improvements.esp
+[FE:098] Darlene-theForgiving.esp
+[FE:099] CF_AtomicWarlord_CBBE.esp
+[FE:09A] ConsoleEx.esp
+[FE:09B] Fallout76_wpn_dmg.esp
+[FE:09C] MinimalMinutemenRadiants.esp
+[FE:09D] MMR_NoRadiantsForOwnedSettlements.esp
+[FE:09E] JSRS - Minigun Sound Fix.esp
+[FE:09F] TeleporterRelayRemote.esp
+[FE:0A0] Burst Impact Blast FX.esp
+[FE:0A1] SF Institute.esp
+[FE:0A2] CompanionIvy_Textures Patch.esp
+[FE:0A3] WCLI_North_Point_Park.esp
+[FE:0A4] WTG - KRIC Patch.esp
+[FE:0A5] LaserDesignatorCraftingSwapBoth.esp
+[FE:0A6] LaserDesignatorScopeCompat.esp
+[FE:0A7] CompanionStealth.esp
+[FE:0A8] Mechanist's Lair without robobrain in chair.esp
+[FE:0A9] AutomatronCaravanFixes.esp
+[FE:0AA] LongerPowerLinesInf.esp
+[FE:0AB] WCLINPP_AB_Patch.esp
+[FE:0AC] DiverseBoS.esp
+[FE:0AD] DiverseCoA.esp
+[FE:0AE] DiverseGunners.esp
+[FE:0AF] DiverseMinutemen.esp
+[FE:0B0] DiverseRaiders.esp
+[FE:0B1] DiverseTrappers.esp
+[FE:0B2] DiverseTriggermen.esp
+[FE:0B3] DiverseDisciples.esp
+[FE:0B4] DiverseRailroad.esp
+[FE:0B5] WCLI_NatickSubstation.esp
+[FE:0B6] WCLI_RockIslandLighthouse.esp
+[FE:0B7] PoseidonOffices_AB_Patch.esp
+[FE:0B8] LOST Audio Tweaks.esp
+[FE:0B9] LegendariesTheyCanUse.esp
+[FE:0BA] [SS20Addon] BloodMoonRaiders.esp
+[FE:0BB] [SS2] BBVault 88.esp
+[FE:0BC] DiverseOperators.esp
+[FE:0BD] DiversePack.esp
+[FE:0BE] DiverseScavengers.esp
+[FE:0BF] GtN_DivisionCityPlan_CPC_03.23.esp
+[FE:0C0] JunkTown-FENCES2.esp
+[FE:0C1] JunkTown2 - EXTREME.esp
+[FE:0C2] NukaWorldRedRocket Sim Settlements 2 Plan.esp
+[FE:0C3] SimHomestead2.esp
+[FE:0C4] SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
+[FE:0C5] SS2 Lexington Underground Fix.esp
+[FE:0C6] SS2 Sanctuary Green Hills.esp
+[FE:0C7] SS2-AUR-HangmansAlleyCityPlan.esp
+[FE:0C8] SS2-AUR-HangmansAlleyCityPlanTweaks.esp
+[FE:0C9] SS2_Addon_ShazbotsCots.esp
+[FE:0CA] SS2_DLCSettlerPatch.esp
+[FE:0CB] SS2_NobodysLeaders2.esp
+[FE:0CC] SS2_NobodysLeaders2_Automatron.esp
+[FE:0CD] SS2_NobodysLeaders2_VaultTecWorkshop.esp
+[FE:0CE] SS2_RobotMod.esp
+[FE:0CF] SS2_StarlightTradeHubAndTheater.esp
+[FE:0D0] SS2_XDI Patch.esp
+[FE:0D1] SS2Addon_MS_BareEssentials.esp
+[FE:0D2] SS2AOP_VaultTecTools.esp
+[FE:0D3] PipWS_Replacer.esp
+[FE:0D4] RustyFaceFixRedux.esp
+[FE:0D5] Faster Upfront Training SS2.esp
+[FE:0D6] AdvPortableTurretSet.esp
+[FE:0D7] AdvPortableTurretSet-Extension.esp
+[FE:0D8] AdvSettleTurretSet.esp
+[FE:0D9] ImprovedRRBoss.esp
+[FE:0DA] ImprovedRREncountersPatch.esp
+[FE:0DB] OWR2_CraftableDecor.esp
+[FE:0DC] OWR2_CraftableDecor_CW.esp
+[FE:0DD] OWR_CraftableDecor.esp
+[FE:0DE] OWR_CraftableDecor_CW.esp
+[FE:0DF] RAO - OWR patch.esp
+[FE:0E0] YAWA_OWR_Patch.esp
+[FE:0E1] ImprovedBoSBoss.esp
+[FE:0E2] ImprovedInstituteBoss.esp
+[FE:0E3] IQOFO4.esp
+[FE:0E4] IQOFO4 [CFM-Patch].esp
+[FE:0E5] Cho1_SS2_Nuka_Plot.esp
+[FE:0E6] LootMan.esp
+[FE:0E7] ScrapZapper2.esp
+[FE:0E8] ImTalkingToYou.esp
+[FE:0E9] ImprovedRRStatAgents.esp
+[FE:0EA] HuntressIslandSettlement.esp
+[FE:0EB] AzarPonytailHairstyles.esp
+[FE:0EC] Alternative Activation Prompts.esp
+[FE:0ED] BetterSettlersCCAPack2.0.esp
+[FE:0EE] BetterSettlersCleanFacePack.esp
+[FE:0EF] BetterSettlersNoLollygagging.esp
+[FE:0F0] AutomatronFactoryFix.esp
+[FE:0F1] hardened auto_attackdamage zero.esp
+[FE:0F2] ImprovedHostileFactionsEncountersFast.esp
+[FE:0F3] ImprovedHostileForged.esp
+[FE:0F4] ImprovedHostileSuperMutants.esp
+[FE:0F5] BoS_HagenFix.esp
+[FE:0F6] GhoulishRank4Fix.esp
+[FE:0F7] doityourshelftexturepack.esp
+[FE:0F8] V's Stylish Decor2.esp
+[FE:0F9] V's Stylish Decor2_BOS.esp
+[FE:0FA] BostonLibrarySettlementSS2.esp
+[FE:0FB] BostonLibrarySettlementRobots.esp
+[FE:0FC] IT_SS2.esp
+[FE:0FD] CommonwealthEncounterPack.esp
+[FE:0FE] WCLI_PoseidonEnergyTurbine.esp
+[FE:0FF] AUR_RebuildSettlements_Workshop.esp
+[FE:100] AUR_Rebuild_AIO_Pt01.esp
+[FE:101] Rebuild_SanctuaryRoads.esp
+[FE:102] AUR_RebuildEgret.esp
+[FE:103] AUR_Rebuild_Starlight.esp
+[FE:104] AUR_RebuildSunshine.esp
+[FE:105] AUR_Rebuild_AIO_DLC.esp
+[FE:106] NWR-VNW Cell Repair.esp
+[FE:107] UncappedSettlementSurplus.esp
+[FE:108] HeavyGunnerBuffs.esp
+[FE:109] AshlandEssentialNPC.esp
+[FE:10A] DiverseCoursers.esp
+[FE:10B] AshlandStation_PowerArmorPatch.esp
+[FE:10C] ImprovedNukaRaidersBeast.esp
+[FE:10D] ImprovedNukaRaidersBoss.esp
+[FE:10E] PRP.esp
+[FE:10F] NukaRaiderDeclutter.esp
+[FE:110] PRP-Compat-JSRS-Regions.esp
+[FE:111] PRP-AccessibleBridges.esp
+[FE:112] AUR_Rebuild_AIO_Pt01_PRP.esp
+[FE:113] Rebuild_SanctuaryRoads_PreVis.esp
+[FE:114] AUR_RebuildEgret_PRP.esp
+[FE:115] AUR_Rebuild_Starlight_PRP.esp
+[FE:116] AUR_RebuildSunshine_PRP.esp
+[FE:117] AUR_Rebuild_AIO_DLC_PRP.esp
+[FE:118] SouthOfTheSea[Previs].esp
+[FE:119] GoodneighborExpanded[Patch-Previs].esp
+[FE:11A] GoodneighborExpanded[Patch-PRP].esp
+[FE:11B] FBFH_Previsibines.esp
+[FE:11C] HuntressIsland_Previsibines.esp
+[FE:11D] PondSettlement.esp
+[FE:11E] LibraryExtras.esp
+[FE:11F] FlickerFixer-eXofied.esp
+[FE:120] EdenMeadowsSettlement.esp
+[FE:121] OCsCochituate.esp
+[FE:122] OCsCochituateReducedGrass.esp
+[FE:123] OCsNukaIsland.esp
+[FE:124] OCsLakeQ.esp
+[FE:125] OCsNukaTransitCenter.esp
+[FE:126] OCsShovelMuseum.esp
+[FE:127] NukaWorldFarmSettlement.esp
+[FE:128] Yagisan_SSSL_Red_Rocket_Settlements.esp
+[FE:129] Yagisan_SSSL_Quick_Fill_Settlements.esp
+[FE:12A] Settlement_CoA_Ruined_Church.esp
+[FE:12B] Settlement_CoA_Crater_of_Atom.esp
+[FE:12C] AtomsRadiance_veelynnlove.esp
+[FE:12D] Yagisan_SSSL_Lakeside_Cabin_Settlement.esp
+[FE:12E] WCLIRIL_Previs.esp
+[FE:12F] WCLINPP_Previs.esp
+[FE:130] WCLINS_Previs.esp
+[FE:131] WCLIPET18F_Previs.esp
+[FE:132] Settlement_CoA_Radiant_Crest_Shrine.esp
+[FE:133] LSC-WHN AiO Patch.esp
+[FE:134] OCsFiddlersGreen.esp
+[FE:135] FiddlersGreenTarberrySwap.esp
+[FE:136] OCsCharlesviewAmpitheater.esp
+[FE:137] CharlesviewHappyCult.esp
+[FE:138] CharlesviewGrowCult.esp
+[FE:139] OCsProspectPark.esp
+[FE:13A] NorthPointSpawnFix.esp
+[FE:13B] LiveLove - Heather.esp
+[FE:13C] SF Valentine.esp
+[FE:13D] Valentine Reconciliation.esp
+[FE:13E] OCsNorthpointDam.esp
+[FE:13F] More Legendary Effects - Naming Rules Merge.esp
+[FE:140] Dank_ECO-INNR.esp
+[FE:141] Dank_ECO-LEO.esp
+[FE:142] Dank_LEO-LMA.esp
+[FE:143] Dank_LEO-MLE_INNR_CS.esp
+[FE:144] Dank_LEO-MLM.esp
+[FE:145] Dank_ECO-UniversalDisassembler.esp
+[FE:146] NAC-NW.esp
+[FE:147] NAC-FH.esp
+[FE:148] NAC-RemoveMenuItem.esp
+[FE:149] NACskintonefix.esp
+[FE:14A] OCsOldPondHouse.esp
+[FE:14B] OCsOldPondHouseAltName.esp
+[FE:14C] OCsDartmouthSkyscraper.esp
+[FE:14D] MechLairPathfindingFix.esp
+[FE:14E] Artillery Reconciliation.esp
+[FE:14F] Yagisan_SSSL_Reeb_Marina_Settlement.esp
+[FE:150] Settlement_BoS_Fort_Strong.esp
+[FE:151] Munitions-Additional Ammo.esp
+[FE:152] Dank_ECO-Munitions.esp
+[FE:153] Dank_ECO-Munitions_INNR_CS.esp
+[FE:154] OCsUniversityPoint.esp
+[FE:155] Yagisan_SSSL_Bridgeport_Settlement.esp
+[FE:156] PRP-SS2-Fixes-Ch1.esp
+[FE:157] PRP-SS2-Fixes-Ch2.esp
+[FE:158] PRP-SS2.esp
+[FE:159] UNDRCVR_RuinedChurchPhiOutpost.esp
+[FE:15A] UNDRCVR_SimplySettledFairlineOutpost.esp
+[FE:15B] UNDRCVR_SimplySettledLakesideCabin.esp
+[FE:15C] UNDRCVR_SimplySettledNPointPark.esp
+[FE:15D] Companion Affinity Pip-Boy Tab.esp
+[FE:15E] Invisible M-Sat and Radar Beacon.esp
+[FE:15F] OCsVault88Fixes.esp
+[FE:160] Enhanced Vanilla Armor and Clothing.esp
+[FE:161] Vault 88 Generator Unlock.esp
+[FE:162] 10mm HD.esp
+[FE:163] Better Computer Terminals - 4K Standard.esp
+[FE:164] Black Codsworth and windows fix.esp
+[FE:165] Clean 4k Pre-War Retextures.esp
+[FE:166] Dpillari's 10mm HD - No Engravings.esp
+[FE:167] Dpillari's 10mm HD - No Laser Sticker.esp
+[FE:168] Enhanced Vanilla Bodies - NeverNude Male.esp
+[FE:169] Enhanced Vanilla Plants.esp
+[FE:16A] Enhanced Vanilla Rocks.esp
+[FE:16B] Enhanced Vanilla Vines.esp
+[FE:16C] Far Harbor Satellite Map.esp
+[FE:16D] FO4 HD Overhaul Fixed Alpha Maps.esp
+[FE:16E] HighlightConsoleReference.esp
+[FE:16F] Looking Stranger - Synth Eye Adjustments.esp
+[FE:170] LooksMenu.esp
+[FE:171] Luxor's Quantum X-01 power armor.esp
+[FE:172] Nuka-World Satellite Map.esp
+[FE:173] Satellite World Map Fixed.esp
+[FE:174] Seamless Body CBBE Rework.esp
+[FE:175] TeoB Fallout Remastered - Vanilla eyes replacer 2k.esp
+[FE:176] U.S. Covert Operations Manual Redux - Magazine Retexture.esp
+[FE:177] fairlinesettlement.esp
+[FE:178] Fairline_veelynnlove.esp
+[FE:179] OCsV81TradeCamp.esp
+[FE:17A] OCsV81TradeCampEarlyUnlock.esp
+[FE:17B] OCsV81TradeCampGrassReduced.esp
+[FE:17C] Facegen Regeneration.esp
+[FE:17D] FOLIP Synthesis.esp
+[FE:17E] xLODGen_Output.esp
+[FE:17F] LO_Previsibines.esp
+[FE:180] Andy's RACE Modifications.esp
+[FE:181] M8r Complex Sorter.esp

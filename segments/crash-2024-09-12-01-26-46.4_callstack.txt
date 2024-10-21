@@ -1,0 +1,397 @@
+[ 0] 0x7FF7646116E6      Fallout4.exe+01316E6 -> 641361+0x6	cmp dword ptr [rcx+0x2B4], 0x00
+[ 1] 0x7FF764A50001      Fallout4.exe+0570001 -> 734926+0x41	test eax, eax
+[ 2] 0x7FF7646117BC      Fallout4.exe+01317BC -> 1252764+0x8C	xor eax, eax
+[ 3] 0x7FF764A50206      Fallout4.exe+0570206 -> 734926+0x246	test al, al
+[ 4] 0x7FF76513023A      Fallout4.exe+0C5023A -> 729395+0xAA	mov eax, [rdi+0x84]
+[ 5] 0x7FF76514E627      Fallout4.exe+0C6E627 -> 345363+0x47	test dil, dil
+[ 6] 0x7FF76514C8CD      Fallout4.exe+0C6C8CD -> 1328179+0xFD	cmp eax, 0x01
+[ 7] 0x7FF7652F490C      Fallout4.exe+0E1490C -> 1275301+0x12C	mov rax, [rdi]
+[ 8] 0x7FF76525A98A      Fallout4.exe+0D7A98A -> 1176621+0x2CA	jmp 0x00007FF76525A9AE
+[ 9] 0x7FF7653EBECA      Fallout4.exe+0F0BECA -> 712994+0x1CA	mov rcx, [0x00007FF769F84388]
+[10] 0x7FF7653EC1CC      Fallout4.exe+0F0C1CC -> 578132+0xFC	lea rcx, [rdi+0x20]
+[11] 0x7FF7653812FD      Fallout4.exe+0EA12FD -> 131821+0xBD	mov rcx, rbx
+[12] 0x7FF765379915      Fallout4.exe+0E99915 -> 1005712+0xA5	jmp 0x00007FF765379900
+[13] 0x7FF765242AC5      Fallout4.exe+0D62AC5 -> 1546751+0x2685	jmp 0x00007FF765240718
+[14] 0x7FF7652380DB      Fallout4.exe+0D580DB -> 882638+0x13B	jmp 0x00007FF7652380C1
+[15] 0x7FFCD6BC65AC f4se_1_10_163.dll+00165AC
+[16] 0x7FF76521B503      Fallout4.exe+0D3B503 -> 338354+0x23	call 0x00007FF76486AD70
+[17] 0x7FF766030F26      Fallout4.exe+1B50F26 -> 329005+0xC6	mov ecx, [rbx+0x0C]
+[18] 0x7FF766031432      Fallout4.exe+1B51432 -> 194800+0x202	mov r14d, eax
+[19] 0x7FF766033F67      Fallout4.exe+1B53F67 -> 1492866+0x67	movzx eax, byte ptr [rbx+0xA74]
+[20] 0x7FF765FFCFED      Fallout4.exe+1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF76A03BD38]
+[21] 0x7FFCFA967374      KERNEL32.DLL+0017374
+[22] 0x7FFCFBEFCC91         ntdll.dll+004CC91
+
+REGISTERS:
+RAX 0x7FF767196258     (void* -> Fallout4.exe+2CB6258	adc bl, bh)
+RDI 0x1EC119AA720      (BGSEntryPointPerkEntry*)
+R10 0x7FF76A047580     (void* -> Fallout4.exe+5B67580	xor byte ptr [rax], 0x33)
+R15 0x1EC119AA720      (BGSEntryPointPerkEntry*)
+
+STACK:
+[RSP+18  ] 0x7FF7652CE0AD     (void* -> Fallout4.exe+0DEE0AD	xor r12d, r12d)
+[RSP+28  ] 0x7FF764A50001     (void* -> Fallout4.exe+0570001	test eax, eax)
+[RSP+30  ] 0x1EC119C9008      (BGSPerk*)
+File: "Broken Weapon System.esp"
+Flags: 0x00000008
+EditorID: "BWS_PerkNPCLiving"
+FormID: 0xFE131009
+FormType: kPERK (95)
+GetFullName: "NPC Perk"
+[RSP+40  ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+50  ] 0x1EC119AA720      (BGSEntryPointPerkEntry*)
+[RSP+68  ] 0x1EC119AA720      (BGSEntryPointPerkEntry*)
+[RSP+78  ] 0x7FF7646117BC     (void* -> Fallout4.exe+01317BC	xor eax, eax)
+[RSP+98  ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+A8  ] 0x7FF764A50206     (void* -> Fallout4.exe+0570206	test al, al)
+[RSP+C8  ] 0x7FF7651309B8     (void* -> Fallout4.exe+0C509B8	test rax, rax)
+[RSP+E8  ] 0x1EC119AA720      (BGSEntryPointPerkEntry*)
+[RSP+F0  ] 0x1EBBDE03610      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+F8  ] 0x7FF76513023A     (void* -> Fallout4.exe+0C5023A	mov eax, [rdi+0x84])
+[RSP+118 ] 0x1EC119BD430      (SpellItem*)
+File: "Broken Weapon System.esp"
+Flags: 0x00000008
+EditorID: "BWS_ApplyEffectsNPCAb"
+FormID: 0xFE13109A
+FormType: kSPEL (25)
+GetFullName: "Apply Effects to Living NPC"
+[RSP+128 ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+130 ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+138 ] 0x7FF765FF4508     (void* -> Fallout4.exe+1B14508	mov rax, [r14+0x40])
+[RSP+178 ] 0x9C0              (size_t) [2496]
+[RSP+198 ] 0x1EC119AA720      (BGSEntryPointPerkEntry*)
+[RSP+1A8 ] 0x7FF76514E627     (void* -> Fallout4.exe+0C6E627	test dil, dil)
+[RSP+1B0 ] 0x1EC00000000      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "DecalGroundDefault01"
+FormID: 0x00078966
+FormType: kTXST (09)
+File: "DLCCoast.esm"
+Flags: 0x00000409
+FormID: 0x030432B2
+FormType: kREFR (64)
+[RSP+1B8 ] 0x1EBBDE03610      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+1C8 ] 0x7FF765FF1325     (void* -> Fallout4.exe+1B11325	mov [rbx+0x08], rax)
+[RSP+1D0 ] 0x1EC7CF7A330      (ScrapHeap*)
+[RSP+1F8 ] 0x7FF76514C8CD     (void* -> Fallout4.exe+0C6C8CD	cmp eax, 0x01)
+[RSP+218 ] 0x7FF7669CC837     (void* -> Fallout4.exe+24EC837	mov rbx, [rsp+0x70])
+[RSP+230 ] 0x1EC7CF7A330      (ScrapHeap*)
+[RSP+260 ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+268 ] 0x1EBF670DCC0      (NiNode*)
+Name: "WorldRoot CameraNode"
+RTTIName: "NiNode"
+Flags: e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 2000280e
+Name: "WorldRoot CameraNode"
+[RSP+278 ] 0x7FF7652F490C     (void* -> Fallout4.exe+0E1490C	mov rax, [rdi])
+[RSP+298 ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+2D8 ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+2E0 ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+2E8 ] 0x7FF76525A98A     (void* -> Fallout4.exe+0D7A98A	jmp 0x00007FF76525A9AE)
+[RSP+2F8 ] 0x1EBF670DCC0      (NiNode*)
+Name: "WorldRoot CameraNode"
+RTTIName: "NiNode"
+Flags: e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 2000280e
+Name: "WorldRoot CameraNode"
+[RSP+310 ] 0x1EBF670DCC0      (NiNode*)
+Name: "WorldRoot CameraNode"
+RTTIName: "NiNode"
+Flags: e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 2000280e
+Name: "WorldRoot CameraNode"
+[RSP+350 ] 0x44610000         (size_t) [1147207680]
+[RSP+360 ] 0x7FF769F93BF0     (ProcessLists*)
+[RSP+368 ] 0x7FF7653EBECA     (void* -> Fallout4.exe+0F0BECA	mov rcx, [0x00007FF769F84388])
+[RSP+370 ] 0x7FF769F93BF0     (ProcessLists*)
+[RSP+388 ] 0x7FF769F93BF0     (ProcessLists*)
+[RSP+3C0 ] 0x7FF769F93BF0     (ProcessLists*)
+[RSP+3E8 ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+3F8 ] 0x7FF7653EC1CC     (void* -> Fallout4.exe+0F0C1CC	lea rcx, [rdi+0x20])
+[RSP+410 ] 0x7FF769F93B01     (void* -> Fallout4.exe+5AB3B01	add [rax], al)
+[RSP+420 ] 0x1EBBDE03500      (Actor*)
+Object Reference:
+Flags: 0x00000008
+FormID: 0xFF004C1B
+FormType: kNPC_ (45)
+Flags: 0x00420508
+FormID: 0xFF0041F2
+FormType: kACHR (65)
+[RSP+458 ] 0x24520FF550       (char*) "d"
+[RSP+460 ] 0x1EB7F197FE0      (PlayerCharacter*)
+Flags: 0x00440448
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+File: "HardcoreHealthOverhaul.esp"
+Modified by: Fallout4.esm -> HardcoreHealthOverhaul.esp
+Flags: 0x00040009
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00440448
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+478 ] 0x7FF7653812FD     (void* -> Fallout4.exe+0EA12FD	mov rcx, rbx)
+[RSP+488 ] 0x7FF769F93BF0     (ProcessLists*)
+[RSP+4C8 ] 0x7FF765379915     (void* -> Fallout4.exe+0E99915	jmp 0x00007FF765379900)
+[RSP+4D0 ] 0x1EB7F197FE0      (PlayerCharacter*)
+Flags: 0x00440448
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+File: "HardcoreHealthOverhaul.esp"
+Modified by: Fallout4.esm -> HardcoreHealthOverhaul.esp
+Flags: 0x00040009
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00440448
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+4F8 ] 0x7FF765242AC5     (void* -> Fallout4.exe+0D62AC5	jmp 0x00007FF765240718)
+[RSP+500 ] 0x1EB7652C8C8      (BSTCommonScrapHeapMessageQueue<BSPackedTask>*)
+[RSP+530 ] 0x24520FF430       (`anonymous namespace'::FilterBipedPartOnAdd*)
+[RSP+548 ] 0x7FF766C57CBD     (void* -> Fallout4.exe+2777CBD	mov rdi, [rsp+0x480])
+[RSP+560 ] 0x1EC17227E40      (PeakValueModifierEffect*)
+[RSP+570 ] 0x24520FF000       (char*) "d"
+[RSP+5A0 ] 0x1EC139EEDD0      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "BlackWireSpline01"
+FormID: 0x0001D971
+FormType: kBNDS (53)
+Flags: 0x00000508
+FormID: 0xFF0066F2
+FormType: kREFR (64)
+[RSP+5E0 ] 0x0                (size_t) [0]
+[RSP+5F8 ] 0x1EBF97CAD68      (BSScript::ObjectTypeInfo*)
+Name: "workshopobjectscript"
+[RSP+608 ] 0x1EBF97CAD68      (BSScript::ObjectTypeInfo*)
+Name: "workshopobjectscript"
+[RSP+648 ] 0x0                (size_t) [0]
+[RSP+688 ] 0x339E7C854D30     (size_t) [56755786960176]
+[RSP+6B0 ] 0x7FF76A0399B8     (void* -> Fallout4.exe+5B599B8	sbb byte ptr [rdx+0x1ECAA04], 0x00)
+[RSP+6C8 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+6F8 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+700 ] 0x1EB8C72FCA0      (Actor*)
+Object Reference:
+File: "HardcoreHealthOverhaul.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> HardcoreHealthOverhaul.esp
+Flags: 0x00440009
+FormID: 0x00019FD9
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420449
+EditorID: "PrestonGarveyRef"
+FormID: 0x0001A4D7
+FormType: kACHR (65)
+[RSP+710 ] 0x7FF76A0399B8     (void* -> Fallout4.exe+5B599B8	sbb byte ptr [rdx+0x1ECAA04], 0x00)
+[RSP+728 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+730 ] 0x7FF76A0C8080     (void* -> Fallout4.exe+5BE8080	add [rax], al)
+[RSP+740 ] 0x7FF76A0399B8     (void* -> Fallout4.exe+5B599B8	sbb byte ptr [rdx+0x1ECAA04], 0x00)
+[RSP+750 ] 0x1EC07464AA8      (IAIWorldLocationHandle*)
+[RSP+758 ] 0x1EB8C72FCA0      (Actor*)
+Object Reference:
+File: "HardcoreHealthOverhaul.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> HardcoreHealthOverhaul.esp
+Flags: 0x00440009
+FormID: 0x00019FD9
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420449
+EditorID: "PrestonGarveyRef"
+FormID: 0x0001A4D7
+FormType: kACHR (65)
+[RSP+760 ] 0x7FF76A0C8080     (void* -> Fallout4.exe+5BE8080	add [rax], al)
+[RSP+778 ] 0x7FF765FEF372     (void* -> Fallout4.exe+1B0F372	mov rbx, [rsp+0x30])
+[RSP+788 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+798 ] 0x1EC07464AA8      (IAIWorldLocationHandle*)
+[RSP+7A0 ] 0x7FF76A039D60     (void* -> Fallout4.exe+5B59D60	mov al, 0xBA)
+[RSP+7B8 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+7C0 ] 0x1EB8C72FCA0      (Actor*)
+Object Reference:
+File: "HardcoreHealthOverhaul.esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> HardcoreHealthOverhaul.esp
+Flags: 0x00440009
+FormID: 0x00019FD9
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00420449
+EditorID: "PrestonGarveyRef"
+FormID: 0x0001A4D7
+FormType: kACHR (65)
+[RSP+7D0 ] 0x7FF76A0399B8     (void* -> Fallout4.exe+5B599B8	sbb byte ptr [rdx+0x1ECAA04], 0x00)
+[RSP+7E8 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+7F0 ] 0x7FF76A0C8080     (void* -> Fallout4.exe+5BE8080	add [rax], al)
+[RSP+800 ] 0x7FF76A0399B8     (void* -> Fallout4.exe+5B599B8	sbb byte ptr [rdx+0x1ECAA04], 0x00)
+[RSP+818 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+820 ] 0x7FF76A0C8080     (void* -> Fallout4.exe+5BE8080	add [rax], al)
+[RSP+828 ] 0x7FF765FF093F     (void* -> Fallout4.exe+1B1093F	cmp [rdi], eax)
+[RSP+848 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+858 ] 0x7FF7645236DE     (void* -> Fallout4.exe+00436DE	mov rax, rdi)
+[RSP+878 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+888 ] 0x7FF765FF093F     (void* -> Fallout4.exe+1B1093F	cmp [rdi], eax)
+[RSP+890 ] 0x7FF76A03A4B0     (void* -> Fallout4.exe+5B5A4B0	)
+[RSP+8B0 ] 0x7FF76A0C8080     (void* -> Fallout4.exe+5BE8080	add [rax], al)
+[RSP+8C8 ] 0x7FF765FEF372     (void* -> Fallout4.exe+1B0F372	mov rbx, [rsp+0x30])
+[RSP+8D0 ] 0x7FF767DAC980     (void* -> Fallout4.exe+38CC980	add [rax], eax)
+[RSP+8E8 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+8F0 ] 0x7FF76721E268     (void* -> Fallout4.exe+2D3E268	push rax)
+[RSP+900 ] 0x7FF76A039A00     (void* -> Fallout4.exe+5B59A00	add [rbp+0x1ECAA04], bl)
+[RSP+908 ] 0x7FF765FF09C3     (void* -> Fallout4.exe+1B109C3	mov esi, eax)
+[RSP+918 ] 0x7FF765FFC503     (void* -> Fallout4.exe+1B1C503	test dil, dil)
+[RSP+920 ] 0x1EB7652C838      (ScrapHeap*)
+[RSP+928 ] 0x7FF765FF4913     (void* -> Fallout4.exe+1B14913	mov rcx, [rsp+0x30])
+[RSP+958 ] 0x7FF765FF46B3     (void* -> Fallout4.exe+1B146B3	mov rsi, [rsp+0x40])
+[RSP+970 ] 0x1EB7652C838      (ScrapHeap*)
+[RSP+988 ] 0x7FF76522CF36     (void* -> Fallout4.exe+0D4CF36	mov al, 0x01)
+[RSP+9B8 ] 0x1EB7652C8C8      (BSTCommonScrapHeapMessageQueue<BSPackedTask>*)
+[RSP+9E8 ] 0x7FF7652380DB     (void* -> Fallout4.exe+0D580DB	jmp 0x00007FF7652380C1)
+[RSP+9F0 ] 0x1EB7652C8C8      (BSTCommonScrapHeapMessageQueue<BSPackedTask>*)
+[RSP+9F8 ] 0x7FF76A0C8088     (void* -> Fallout4.exe+5BE8088	add [rax], al)
+[RSP+A00 ] 0x7FF76A03A4B0     (void* -> Fallout4.exe+5B5A4B0	)
+[RSP+A40 ] 0x0                (size_t) [0]
+[RSP+A80 ] 0x0                (size_t) [0]
+[RSP+AA0 ] 0x7FF76A0C8084     (void* -> Fallout4.exe+5BE8084	add [rax], al)
+[RSP+AB0 ] 0x7FF76A0C8080     (void* -> Fallout4.exe+5BE8080	add [rax], al)
+[RSP+AB8 ] 0x7FF76A0C8088     (void* -> Fallout4.exe+5BE8088	add [rax], al)
+[RSP+AD8 ] 0x7FFCD6BC65AC     (void* -> f4se_1_10_163.dll+00165AC	lea rcx, [0x00007FFCD6C7F528])
+[RSP+B08 ] 0x7FF76521B503     (void* -> Fallout4.exe+0D3B503	call 0x00007FF76486AD70)
+[RSP+B18 ] 0x7FF76A0C8120     (void* -> Fallout4.exe+5BE8120	add [0x00007FF76BF87797], cl)
+[RSP+B30 ] 0x7FF76A0C8120     (void* -> Fallout4.exe+5BE8120	add [0x00007FF76BF87797], cl)
+[RSP+B38 ] 0x7FF766030F26     (void* -> Fallout4.exe+1B50F26	mov ecx, [rbx+0x0C])
+[RSP+B40 ] 0x7FF76A0C8120     (void* -> Fallout4.exe+5BE8120	add [0x00007FF76BF87797], cl)
+[RSP+B48 ] 0x7FF76A0C80D0     (BSJobs::JobThread*)
+[RSP+B50 ] 0x7FF76A0C80D0     (BSJobs::JobThread*)
+[RSP+B80 ] 0x7FF76A0C80D0     (BSJobs::JobThread*)
+[RSP+B88 ] 0x7FF766031432     (void* -> Fallout4.exe+1B51432	mov r14d, eax)
+[RSP+B98 ] 0x7FF76A0C80D0     (BSJobs::JobThread*)
+[RSP+BC8 ] 0x7FF766033F67     (void* -> Fallout4.exe+1B53F67	movzx eax, byte ptr [rbx+0xA74])
+[RSP+BD0 ] 0x7FF76A0C80D0     (BSJobs::JobThread*)
+[RSP+BF0 ] 0x7FF76A0C80D0     (BSJobs::JobThread*)
+[RSP+BF8 ] 0x7FF765FFCFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF76A03BD38])
+[RSP+C20 ] 0x7FF76A0C80D0     (BSJobs::JobThread*)
+[RSP+C38 ] 0x7FFCFA967374     (void* -> KERNEL32.DLL+0017374	mov ecx, eax)
+[RSP+C68 ] 0x7FFCFBEFCC91     (void* -> ntdll.dll+004CC91	jmp 0x00007FFCFBEFCCB3)
+[RSP+CA8 ] 0x0                (size_t) [0]
+[RSP+CB8 ] 0x7FFCF9B332C0     (void* -> KERNELBASE.dll+01332C0	mov [rsp+0x10], rbx)
+[RSP+CF8 ] 0x0                (size_t) [0]
+[RSP+D38 ] 0x0                (size_t) [0]
+[RSP+D78 ] 0x0                (size_t) [0]
+[RSP+DB8 ] 0x0                (size_t) [0]
+[RSP+DF8 ] 0x0                (size_t) [0]
+[RSP+E38 ] 0x0                (size_t) [0]
+[RSP+E78 ] 0x0                (size_t) [0]
+[RSP+EB8 ] 0x0                (size_t) [0]
+[RSP+EF8 ] 0x0                (size_t) [0]
+[RSP+F38 ] 0x0                (size_t) [0]
+[RSP+F78 ] 0x0                (size_t) [0]
+[RSP+FB8 ] 0x0                (size_t) [0]
+[RSP+FF8 ] 0x0                (size_t) [0]
+[RSP+1038] 0x0                (size_t) [0]
+[RSP+1078] 0x0                (size_t) [0]
+[RSP+10B8] 0x0                (size_t) [0]
+[RSP+10F8] 0x0                (size_t) [0]
+[RSP+1138] 0x0                (size_t) [0]
+[RSP+1178] 0x0                (size_t) [0]
+[RSP+11B8] 0x0                (size_t) [0]
+[RSP+11F8] 0x0                (size_t) [0]
+[RSP+1238] 0x0                (size_t) [0]
+[RSP+1278] 0x0                (size_t) [0]
+[RSP+12B8] 0x0                (size_t) [0]
+[RSP+12F8] 0x0                (size_t) [0]
+[RSP+1338] 0x0                (size_t) [0]
+[RSP+1378] 0x0                (size_t) [0]
+[RSP+13B8] 0x0                (size_t) [0]
+[RSP+13F8] 0x0                (size_t) [0]
+[RSP+1438] 0x0                (size_t) [0]
+[RSP+1478] 0x0                (size_t) [0]
+[RSP+14B8] 0x0                (size_t) [0]

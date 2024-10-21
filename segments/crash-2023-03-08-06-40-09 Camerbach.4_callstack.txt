@@ -1,0 +1,314 @@
+[0] 0x7FF6FDE2AB46 Fallout4.exe+03BAB46	cmp byte ptr [rax+0x1A], 0x20 |  TESObjectCELL::BuildTeleportDoorList(BSTObjectArena<TESObjectREFR*,BSTObjectArenaScrapAlloc,32>&)_3BAB46 -> 755119+0x96	cmp byte ptr [rax+0x1A], 0x20
+[1] 0x7FF6FDF01D8B Fallout4.exe+0491D8B	lea r14, [rsi+0x148] |  TESWorldSpace::InitItemImpl(void)_491D8B -> 908892+0x47B	lea r14, [rsi+0x148]
+[2] 0x7FF6FDBC2C3C Fallout4.exe+0152C3C	or dword ptr [rdi+0x10], 0x08 |  TESForm::InitItem(void)_152C3C -> 1420843+0x7C	or dword ptr [rdi+0x10], 0x08
+[3] 0x7FF6FDB98333 Fallout4.exe+0128333	add rbx, 0x08 |  `anonymous_namespace'::InitJL::DoExtInit(void*)_128333 -> 76564+0x43	add rbx, 0x08
+[4] 0x7FF6FF5C0F26 Fallout4.exe+1B50F26	mov ecx, [rbx+0x0C] |  BSJobs::JobListLocal::RunJobsInternal(uint,BSJobs::ThreadJobListState&,bool)_1B50F26 -> 329005+0xC6	mov ecx, [rbx+0x0C]
+[5] 0x7FF6FF5C1432 Fallout4.exe+1B51432	mov r14d, eax |  BSJobs::JobThread::RunJob(void)_1B51432 -> 194800+0x202	mov r14d, eax
+[6] 0x7FF6FF5C3F67 Fallout4.exe+1B53F67	movzx eax, byte ptr [rbx+0xA74] |  BSJobs::JobThread::ThreadProc(void)_1B53F67 -> 1492866+0x67	movzx eax, byte ptr [rbx+0xA74]
+[7] 0x7FF6FF58CFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF7035CBD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF7035CBD38]
+[8] 0x7FF859CB7614 KERNEL32.DLL+0017614
+[9] 0x7FF85B7026A1    ntdll.dll+00526A1
+
+REGISTERS:
+RAX 0x0                (size_t) [0]
+RCX 0x20CB69A3760      (TESObjectREFR*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00020009
+FormID: 0x00044170
+FormType: kLIGH (34)
+File: "DLCNukaWorld.esm"
+Flags: 0x00010D0D
+FormID: 0x06056CF7
+FormType: kREFR (64)
+RDX 0xA90DC04          (size_t) [177265668]
+RBX 0x20C2D3DAD30      (void*)
+RSP 0x5937EFFA70       (void*)
+RBP 0x1                (size_t) [1]
+RSI 0x20CB69A3880      (TESObjectREFR*)
+Object Reference: None
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00000409
+FormID: 0x06056D0B
+FormType: kREFR (64)
+RDI 0x68               (size_t) [104]
+R8  0x20C2D3C7D80      (TESObjectREFR*)
+Object Reference:
+File: "DLCNukaWorld.esm"
+Flags: 0x00000009
+FormID: 0x060555F0
+FormType: kDOOR (32)
+File: "DLCNukaWorld.esm"
+Flags: 0x00000409
+FormID: 0x0605420B
+FormType: kREFR (64)
+R9  0x0                (size_t) [0]
+R10 0x605              (size_t) [1541]
+R11 0x5937EFFAB0       (void*)
+R12 0x20C52B4DFB0      (char*) "d"
+R13 0x5937EFFB00       (void*)
+R14 0x32               (size_t) [50]
+R15 0x20CB6A51D00      (TESObjectCELL*)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00040409
+EditorID: "Wilderness"
+FormID: 0x06007B9C
+FormType: kCELL (63)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00040409
+EditorID: "Wilderness"
+FormID: 0x06007B9C
+FormType: kCELL (63)
+
+STACK:
+[RSP+0  ] 0x20C2D3DAD30      (void*)
+[RSP+8  ] 0x5937EFFB40       (void*)
+[RSP+10 ] 0x20CB6A66800      (TESWorldSpace*)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> Some Assembly Required.esp -> Nuka World Bottle Fix.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00000009
+EditorID: "NukaWorld"
+FormID: 0x0600290F
+FormType: kWRLD (74)
+GetFullName: "Nuka-World"
+[RSP+18 ] 0x7FF6FF583861     (void* -> Fallout4.exe+1B13861	mov [rbx], rax |  BSTObjectArenaScrapAllocBase::BSTObjectArenaScrapAllocBase(void)_1B13861)
+[RSP+20 ] 0x20CC2804700      (void*)
+[RSP+28 ] 0x20C52B4DFB0      (char*) "d"
+[RSP+30 ] 0x0                (size_t) [0]
+[RSP+38 ] 0x20CC2804700      (void*)
+[RSP+40 ] 0x20CB6A51D00      (TESObjectCELL*)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00040409
+EditorID: "Wilderness"
+FormID: 0x06007B9C
+FormType: kCELL (63)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00040409
+EditorID: "Wilderness"
+FormID: 0x06007B9C
+FormType: kCELL (63)
+[RSP+48 ] 0x7FF6FDF01D8B     (void* -> Fallout4.exe+0491D8B	lea r14, [rsi+0x148] |  TESWorldSpace::InitItemImpl(void)_491D8B)
+[RSP+50 ] 0x20C2D3C7D80      (TESObjectREFR*)
+Object Reference:
+File: "DLCNukaWorld.esm"
+Flags: 0x00000009
+FormID: 0x060555F0
+FormType: kDOOR (32)
+File: "DLCNukaWorld.esm"
+Flags: 0x00000409
+FormID: 0x0605420B
+FormType: kREFR (64)
+[RSP+58 ] 0x62               (size_t) [98]
+[RSP+60 ] 0x5937EFFB40       (void*)
+[RSP+68 ] 0x20CB6A66800      (TESWorldSpace*)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> Some Assembly Required.esp -> Nuka World Bottle Fix.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00000009
+EditorID: "NukaWorld"
+FormID: 0x0600290F
+FormType: kWRLD (74)
+GetFullName: "Nuka-World"
+[RSP+70 ] 0x0                (size_t) [0]
+[RSP+78 ] 0x20CB6A66800      (TESWorldSpace*)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> Some Assembly Required.esp -> Nuka World Bottle Fix.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00000009
+EditorID: "NukaWorld"
+FormID: 0x0600290F
+FormType: kWRLD (74)
+GetFullName: "Nuka-World"
+[RSP+80 ] 0x7FF7006B96C8     (void* -> Fallout4.exe+2C496C8	 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C496C8)
+[RSP+88 ] 0x20CB5242648      (void*)
+[RSP+90 ] 0x20C52B4DF10      (ScrapHeap*)
+[RSP+98 ] 0x20CCEFE0900      (void*)
+[RSP+A0 ] 0x20CCEFE08C0      (void*)
+[RSP+A8 ] 0x20CCEFE07C0      (void*)
+[RSP+B0 ] 0x0                (size_t) [0]
+[RSP+B8 ] 0x20CCEFE08A8      (void*)
+[RSP+C0 ] 0x20CCEFE0900      (void*)
+[RSP+C8 ] 0x7FF60000003D     (size_t) [140694538682429]
+[RSP+D0 ] 0x7FF703658084     (void* -> Fallout4.exe+5BE8084	add [rax], al |  aDiveBombChance_5BE8084)
+[RSP+D8 ] 0x1                (size_t) [1]
+[RSP+E0 ] 0x7FF703658080     (void* -> Fallout4.exe+5BE8080	add [rax], al |  aDiveBombChance_5BE8080)
+[RSP+E8 ] 0x7FF703658088     (void* -> Fallout4.exe+5BE8088	add [rax], al |  aDiveBombChance_5BE8088)
+[RSP+F0 ] 0x20CB6A66800      (TESWorldSpace*)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> Some Assembly Required.esp -> Nuka World Bottle Fix.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00000009
+EditorID: "NukaWorld"
+FormID: 0x0600290F
+FormType: kWRLD (74)
+GetFullName: "Nuka-World"
+[RSP+F8 ] 0x20C52B4DFB0      (char*) "d"
+[RSP+100] 0x0                (size_t) [0]
+[RSP+108] 0x7FF6FDBC2C3C     (void* -> Fallout4.exe+0152C3C	or dword ptr [rdi+0x10], 0x08 |  TESForm::InitItem(void)_152C3C)
+[RSP+110] 0x20C00000000      (void*)
+[RSP+118] 0x62               (size_t) [98]
+[RSP+120] 0x0                (size_t) [0]
+[RSP+128] 0x2                (size_t) [2]
+[RSP+130] 0x20CB6A66800      (TESWorldSpace*)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> Some Assembly Required.esp -> Nuka World Bottle Fix.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00000009
+EditorID: "NukaWorld"
+FormID: 0x0600290F
+FormType: kWRLD (74)
+GetFullName: "Nuka-World"
+[RSP+138] 0x0                (size_t) [0]
+[RSP+140] 0x0                (size_t) [0]
+[RSP+148] 0x0                (size_t) [0]
+[RSP+150] 0x0                (size_t) [0]
+[RSP+158] 0x0                (size_t) [0]
+[RSP+160] 0x0                (size_t) [0]
+[RSP+168] 0x0                (size_t) [0]
+[RSP+170] 0x20CB6A66820      (TESWorldSpace*)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> Some Assembly Required.esp -> Nuka World Bottle Fix.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00000009
+EditorID: "NukaWorld"
+FormID: 0x0600290F
+FormType: kWRLD (74)
+GetFullName: "Nuka-World"
+[RSP+178] 0x0                (size_t) [0]
+[RSP+180] 0x20CB6A66830      (TESWorldSpace*)
+File: "Power Armor to the People - Nuka-World.esp"
+Modified by: DLCNukaWorld.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie_NukaWorld.esm -> MutilatedDeadBodies.esp -> Some Assembly Required.esp -> Nuka World Bottle Fix.esp -> FO4 NPCs Travel.esp -> Power Armor to the People - Nuka-World.esp
+Flags: 0x00000009
+EditorID: "NukaWorld"
+FormID: 0x0600290F
+FormType: kWRLD (74)
+GetFullName: "Nuka-World"
+[RSP+188] 0x0                (size_t) [0]
+[RSP+190] 0x0                (size_t) [0]
+[RSP+198] 0x0                (size_t) [0]
+[RSP+1A0] 0x0                (size_t) [0]
+[RSP+1A8] 0x0                (size_t) [0]
+[RSP+1B0] 0x0                (size_t) [0]
+[RSP+1B8] 0x0                (size_t) [0]
+[RSP+1C0] 0x0                (size_t) [0]
+[RSP+1C8] 0x0                (size_t) [0]
+[RSP+1D0] 0x0                (size_t) [0]
+[RSP+1D8] 0x0                (size_t) [0]
+[RSP+1E0] 0x0                (size_t) [0]
+[RSP+1E8] 0x0                (size_t) [0]
+[RSP+1F0] 0x0                (size_t) [0]
+[RSP+1F8] 0x0                (size_t) [0]
+[RSP+200] 0x0                (size_t) [0]
+[RSP+208] 0x0                (size_t) [0]
+[RSP+210] 0x0                (size_t) [0]
+[RSP+218] 0x0                (size_t) [0]
+[RSP+220] 0x0                (size_t) [0]
+[RSP+228] 0x0                (size_t) [0]
+[RSP+230] 0x0                (size_t) [0]
+[RSP+238] 0x0                (size_t) [0]
+[RSP+240] 0x0                (size_t) [0]
+[RSP+248] 0x0                (size_t) [0]
+[RSP+250] 0x0                (size_t) [0]
+[RSP+258] 0x0                (size_t) [0]
+[RSP+260] 0x0                (size_t) [0]
+[RSP+268] 0x0                (size_t) [0]
+[RSP+270] 0x0                (size_t) [0]
+[RSP+278] 0x0                (size_t) [0]
+[RSP+280] 0x0                (size_t) [0]
+[RSP+288] 0x0                (size_t) [0]
+[RSP+290] 0x0                (size_t) [0]
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A0] 0x20CB5EB2078      (void*)
+[RSP+2A8] 0x7FF6FDB98333     (void* -> Fallout4.exe+0128333	add rbx, 0x08 |  `anonymous_namespace'::InitJL::DoExtInit(void*)_128333)
+[RSP+2B0] 0x20CB5EB2048      (void*)
+[RSP+2B8] 0x0                (size_t) [0]
+[RSP+2C0] 0x0                (size_t) [0]
+[RSP+2C8] 0x0                (size_t) [0]
+[RSP+2D0] 0x20CCD8390C0      (void*)
+[RSP+2D8] 0x7FF6FF5C0F26     (void* -> Fallout4.exe+1B50F26	mov ecx, [rbx+0x0C] |  BSJobs::JobListLocal::RunJobsInternal(uint,BSJobs::ThreadJobListState&,bool)_1B50F26)
+[RSP+2E0] 0x7FF703658B98     (void* -> Fallout4.exe+5BE8B98	rcl byte ptr [rax+0x20CCD83], 0x00 |  aDiveBombChance_5BE8B98)
+[RSP+2E8] 0x7FF703658B48     (BSJobs::JobThread*)
+[RSP+2F0] 0x7FF703658B48     (BSJobs::JobThread*)
+[RSP+2F8] 0x0                (size_t) [0]
+[RSP+300] 0x0                (size_t) [0]
+[RSP+308] 0x0                (size_t) [0]
+[RSP+310] 0x11               (size_t) [17]
+[RSP+318] 0x0                (size_t) [0]
+[RSP+320] 0x7FF703658B48     (BSJobs::JobThread*)
+[RSP+328] 0x7FF6FF5C1432     (void* -> Fallout4.exe+1B51432	mov r14d, eax |  BSJobs::JobThread::RunJob(void)_1B51432)
+[RSP+330] 0x0                (size_t) [0]
+[RSP+338] 0x7FF703658B48     (BSJobs::JobThread*)
+[RSP+340] 0x0                (size_t) [0]
+[RSP+348] 0x5937EFFE10       (void*)
+[RSP+350] 0x0                (size_t) [0]
+[RSP+358] 0x0                (size_t) [0]
+[RSP+360] 0x0                (size_t) [0]
+[RSP+368] 0x7FF6FF5C3F67     (void* -> Fallout4.exe+1B53F67	movzx eax, byte ptr [rbx+0xA74] |  BSJobs::JobThread::ThreadProc(void)_1B53F67)
+[RSP+370] 0x7FF703658B48     (BSJobs::JobThread*)
+[RSP+378] 0x0                (size_t) [0]
+[RSP+380] 0x0                (size_t) [0]
+[RSP+388] 0x0                (size_t) [0]
+[RSP+390] 0x7FF703658B48     (BSJobs::JobThread*)
+[RSP+398] 0x7FF6FF58CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF7035CBD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+3A0] 0x48A8             (size_t) [18600]
+[RSP+3A8] 0x5937EFFE30       (void*)
+[RSP+3B0] 0x20C2CEABC90      (void*)
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0x7FF703658B48     (BSJobs::JobThread*)
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D0] 0x0                (size_t) [0]
+[RSP+3D8] 0x7FF859CB7614     (void* -> KERNEL32.DLL+0017614	mov ecx, eax)
+[RSP+3E0] 0x0                (size_t) [0]
+[RSP+3E8] 0x0                (size_t) [0]
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+400] 0x0                (size_t) [0]
+[RSP+408] 0x7FF85B7026A1     (void* -> ntdll.dll+00526A1	jmp 0x00007FF85B7026C3)
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+430] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+440] 0x94E7C80600000000 (size_t) [uint: 10729764565328855040 int: -7716979508380696576]
+[RSP+448] 0x0                (size_t) [0]
+[RSP+450] 0x0                (size_t) [0]
+[RSP+458] 0x7FF859150020     (void* -> KERNELBASE.dll+0110020	mov [rsp+0x10], rbx)
+[RSP+460] 0x5937EFEBC0       (void*)
+[RSP+468] 0x980001FFE337CB20 (size_t) [uint: 10952756492305419040 int: -7493987581404132576]
+[RSP+470] 0x7FF8CDF2C826     (size_t) [140706583857190]
+[RSP+478] 0x5937EFEBC0       (void*)
+[RSP+480] 0x0                (size_t) [0]
+[RSP+488] 0x0                (size_t) [0]
+[RSP+490] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A0] 0x0                (size_t) [0]
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B0] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]
+[RSP+4C0] 0x0                (size_t) [0]
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D0] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E0] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F0] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+510] 0x0                (size_t) [0]
+[RSP+518] 0x0                (size_t) [0]
+[RSP+520] 0x0                (size_t) [0]
+[RSP+528] 0x0                (size_t) [0]
+[RSP+530] 0x0                (size_t) [0]
+[RSP+538] 0x0                (size_t) [0]
+[RSP+540] 0x0                (size_t) [0]
+[RSP+548] 0x0                (size_t) [0]
+[RSP+550] 0x0                (size_t) [0]
+[RSP+558] 0x0                (size_t) [0]
+[RSP+560] 0x0                (size_t) [0]
+[RSP+568] 0x0                (size_t) [0]
+[RSP+570] 0x0                (size_t) [0]
+[RSP+578] 0x0                (size_t) [0]
+[RSP+580] 0x0                (size_t) [0]
+[RSP+588] 0x0                (size_t) [0]

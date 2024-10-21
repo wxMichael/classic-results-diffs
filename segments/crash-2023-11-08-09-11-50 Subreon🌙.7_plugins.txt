@@ -1,0 +1,554 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     HUDFramework.esm
+[09]     XDI.esm
+[0A]     ArmorKeywords.esm
+[0B]     WorkshopFramework.esm
+[0C]     DCGuard_Overhaul.esp
+[0D]     SettlementKeywords.esm
+[0E]     SS2.esm
+[0F]     SS2_XPAC_Chapter2.esm
+[10]     SS2_XPAC_Chapter3.esm
+[11]     TrueStormsFO4.esm
+[12]     CROSS_CosmeticFramework.esm
+[13]     VulpineRace.esm
+[14]     PiperCaitCurieDialogueOverhaul.esp
+[15]     VisibleCompanionAffinity.esp
+[16]     AEWS.esp
+[17]     A Forest.esp
+[18]     Red Rocket Settlements.esp
+[19]     WOTC.esp
+[1A]     PH_HighwayProject.esp
+[1B]     Improved Boston Airport.esp
+[1C]     Unique NPCs.esp
+[1D]     Hangmans Alley Optimized.esp
+[1E]     SS2Extended.esp
+[1F]     MoreSpawns_Medium.esp
+[20]     Stm_DiamondCityExpansion.esp
+[21]     UrbanFoodExpanded.esp
+[22]     CastleWallsRepaired 3.esp
+[23]     SuperMutantRedux.esp
+[24]     settlemods_04_huntressisland.esp
+[25]     Convenient Bridges.esp
+[26]     FaceMaxson.esp
+[27]     HAIA With Crafting.esp
+[28]     settlemods_08_ryderrentals.esp
+[29]     DiamondNewVendors.esp
+[2A]     GR001-AutomatronRebooted.esp
+[2B]     BetterSettlers.esp
+[2C]     The Collector's Guides.esp
+[2D]     AdjustedEncounterZones.esp
+[2E]     settlemods_07_fairlinehillestates.esp
+[2F]     settlemods_05_norwooddepot.esp
+[30]     VerticalSpawns.esp
+[31]     settlemods_12_mysticpines.esp
+[32]     safeharbor.esp
+[33]     settlemods_03_evansway.esp
+[34]     settlemods_06_edenmeadowscinemas.esp
+[35]     VALENTINE.esp
+[36]     LegendaryCloth.esp
+[37]     W.A.T.Minutemen.esp
+[38]     DCEnhancedSecurity.esp
+[39]     GhoulBlood.esp
+[3A]     101GlowingSea.esp
+[3B]     Collectable_Cars.esp
+[3C]     SS2WastelandReconstructionKit.esp
+[3D]     BetterOpenSeason.esp
+[3E]     settlemods_11_nukaisland.esp
+[3F]     WaterWorld.esp
+[40]     NukaRDC.esp
+[41]     Vertibird Faction Paint Schemes.esp
+[42]     settlemods_10_rockynarrowspark.esp
+[43]     MikeMooresMCAM.esp
+[44]     Convenient Bridges - Hangmans Alley Optimized - HAIA With Crafting - Patch.esp
+[45]     GlowingSeaApartment.esp
+[46]     settlemods_01_natickpowerplant.esp
+[47]     CAPP.esp
+[48]     ASmallAdditionStandaloneMinigunENEMIES.esp
+[49]     LooksMenu Customization Compendium.esp
+[4A]     ActivatetheWaterPumps.esp
+[4B]     InstituteSettlements2.esp
+[4C]     settlemods_02_fiddlersgreen.esp
+[4D]     settlemods_09_glowtopia.esp
+[4E]     DCGuard_Overhaul-SettlementWorkshop.esp
+[4F]     Collectable_Trucks.esp
+[50]     Nuka-World Collectable Markers.esp
+[51]     CSEPLoadedBases.esp
+[52]     SS2_FDK_TinyLiving.esp
+[53]     More Vertibird Crash Sites.esp
+[54]     Soda Heaven.esp
+[55]     the_invisible_enemy.esp
+[56]     ApalCSA.esp
+[57]     Scroungers Weekly.esp
+[58]     GtN_SettlersatPlay.esp
+[59]     SS2HappyTrails.esp
+[5A]     Respawnable Legendary Bosses.esp
+[5B]     Glowing Animals Emit Light.esp
+[5C]     Shadow Wastelands SS2 World Repopulation Cells.esp
+[5D]     SS2WastelandVenturers.esp
+[5E]     llamaCompanionHeatherv2.esp
+[5F]     FO4 NPCs Travel.esp
+[60]     SS2 - All Lights Cast Shadows.esp
+[61]     [SS20Addon] SimSettlements SuperStructures.esp
+[62]     Binoculars.esp
+[63]     SS2_Addon_NWE.esp
+[64]     WorkingFridges.esp
+[65]     _00Stingray.esp
+[66]     AkaWaterWorld.esp
+[67]     AlternateSettlements.esp
+[68]     DecentElevators.esp
+[69]     CutWeaponModsRestored-GOTY.esp
+[6A]     More Power Armour Mods.esp
+[6B]     Live Action Handy.esp
+[6C]     Umbreon over Dogmeat.esp
+[6D]     BetterSettlersCleanFacePack.esp
+[6E]     BetterSettlersNoLollygagging.esp
+[6F]     Companion Fall Damage Immunity.esp
+[70]     StrongerSentryBot.esp
+[71]     Sentry and Utility Shadows.esp
+[72]     MoreRobotVoices.esp
+[73]     ASAM Maul.esp
+[74]     ErikaEmberPets.esp
+[75]     SS2 Settlement Management Terminal.esp
+[76]     SS2 Excess Resource Manager.esp
+[77]     DCGuard_Overhaul-DCEPatch.esp
+[78]     DCGuard_Overhaul-RandomEncounters.esp
+[79]     GatlingRifle.esp
+[7A]     GatlingRifle-Commando.esp
+[7B]     GatlingRifle-NoIdiotSavant.esp
+[7C]     PlungerGun.esp
+[7D]     TrueStormsFO4-FarHarbor.esp
+[7E]     TrueStormsFO4-NukaWorld-FH-Compat.esp
+[7F]     SS2_STRA_Buildings_and_Skins.esp
+[80]     monkey_lite.esp
+[81]     monkey_pro.esp
+[82]     monkey_standard.esp
+[83]     AutoMines.esp
+[84]     DZK_1x1_Pack.esp
+[85]     GarageHomesAndSensibleSecurity.esp
+[86]     JunkTownTwo.esp
+[87]     SSEX.esp
+[88]     Home Plate Workbench Linked - Mechanists Lair Workbench.esp
+[89]     AnodizedBlackSteelX01.esp
+[8A]     AutomatronSecuritron.esp
+[8B]     BetterNightVision.esp
+[8C]     DarkerNights.esp
+[8D]     DarkerNightsDetection.esp
+[8E]     3dscopes.esp
+[8F]     LooksMenu.esp
+[90]     BBMR - RHSR - All DLC.esp
+[91]     RagdollCollision.esp
+[92]     More Realistic Knockdown.esp
+[93]     ImmersiveDogmeat.esp
+[94]     155mm Howitzer M1.esp
+[95]     PulseExplosionMod.esp
+[96]     no_more_duplicate_chems.esp
+[97]     NullifyMoleratDisease.esp
+[98]     PlantedPlantable.esp
+[99]     ValentineCases.esp
+[9A]     NPC's Use Grenades.esp
+[9B]     Crowbar.esp
+[9C]     Clear Water.esp
+[9D]     BetterScroungerRank4.esp
+[9E]     MiniNukeIgnoreLoS.esp
+[9F]     SkibsWeapons-REDUX.esp
+[A0]     LootableBirds.esp
+[A1]     ImmersiveVendors.esp
+[A2]     TrueStormsFO4-EarlierSunsets.esp
+[A3]     TrueStormsFO4-EarlierSunsetsFH.esp
+[A4]     TrueStormsFO4-FarHarborExtraRads.esp
+[A5]     TrueStormsFO4-GlowingSeaExtraRads.esp
+[A6]     NightTimeGodRaysAllinOne.esp
+[A7]     V88-MoleRatsDisabled.esp
+[A8]     Board Games.esp
+[A9]     FatherCompanion.esp
+[AA]     Unique NPCs FarHarbor.esp
+[AB]     Unique NPCs_Red Rocket Settlements.esp
+[AC]     Unique NPCs_SuperMutantRedux.esp
+[AD]     SimHomestead2.esp
+[AE]     SS2_ruined_simsettlement_addonpack.esp
+[AF]     MS Contraptions - SS2 ASAM Builder.esp
+[B0]     SS2_Addon_R2R.esp
+[B1]     SS2CaravanSnatex.esp
+[B2]     SS2_SIMPDDDD.esp
+[B3]     SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
+[B4]     bifurious.esp
+[B5]     PackBrahminsToEyebots_Settlements.esp
+[B6]     brtrn_highValueAreNotJunk.esp
+[B7]     brtrn_holoTagsAreNotJunk.esp
+[B8]     brtrn_uniqueItemsAreNotJunk.esp
+[B9]     MoreRobotParts.esp
+[BA]     ManufacturingExtended.esp
+[BB]     ProvisionerLocator.esp
+[BC]     MissleAndNukeWeight.esp
+[BD]     Lower Damage Requirement For XP.esp
+[BE]     Waterworld - Very Translucent.esp
+[BF]     GojiraStandard.esp
+[C0]     VertiBirdRetextureProject.esp
+[C1]     EFF.esp
+[C2]     BrighterSettlementLights_LongAndSoft.esp
+[C3]     TepiltzinsNicerSafeLoot.esp
+[C4]     LootInVaultLockers.esp
+[C5]     More Loot in Boss Chest.esp
+[C6]     LootVision.esp
+[C7]     JJConveyorRampUp.esp
+[C8]     Ammo.esp
+[C9]     Realistic Roads - Black Asphalt.esp
+[CA]     CROSS_Jetpack.esp
+[CB]     Companion Infinite Ammo.esp
+[CC]     AnS Wearable Backpacks and Pouches.esp
+[CD]     AnS Wearable Backpacks and Pouches - Ballistic Weave.esp
+[CE]     AnS Wearable Backpacks and Pouches - Power Armor Carry Capacity.esp
+[CF]     MirelurkQueenVariants2.esp
+[D0]     HermitCrabSpawnMeat.esp
+[D1]     Master Locksmith Hacker.esp
+[D2]     RealTroughs.esp
+[D3]     Bostonpolice.esp
+[D4]     PitchingMachine.esp
+[D5]     Jetpacks Unlimited Master.esp
+[D6]     EMS.esp
+[D7]     T - 60  S.W.A.T..esp
+[D8]     Marmo1233 - Immersive Settlers.esp
+[D9]     BusySettlers.esp
+[DA]     LegendaryLoot_Rebalanced_Wide.esp
+[DB]     Move (Get Out the Way).esp
+[DC]     No Aggro Impact Landing.esp
+[DD]     DeployableTurretsPack.esp
+[DE]     SniperDamage.esp
+[DF]     Companion PA.esp
+[E0]     DD_Khassar_De_Templari_Increased_build.esp
+[E1]     TeddyMine.esp
+[E2]     PoweredWaterpumpWithBathtub.esp
+[E3]     ComicCollector.esp
+[E4]     WaterpumpWithBucket.esp
+[E5]     PipeShotgun.esp
+[E6]     DogmeatBoots.esp
+[E7]     DogmeatHelmetsAndHats.esp
+[E8]     DogmeatVaultSuit.esp
+[E9]     K9TacticalHarness.esp
+[EA]     Combat_Helmet_Illumination 1.2.esp
+[EB]     CROSS_Techmask.esp
+[EC]     IncreasedSettlerPopulation50.esp
+[ED]     Buildable_PAFrames.esp
+[EE]     CROSS_Uni_Headset.esp
+[EF]     OK_Minutemen_Pilots.esp
+[F0]     ConsoleEnable.esp
+[F1]     Holy Hand Grenade Standalone.esp
+[F2]     QuickTrade.esp
+[F3]     Quick Save.esp
+[F4]     SettlementMenuManager.esp
+[F5]     Cho1SS2FlagsMod.esp
+[F6]     SKKFastStartNewGame.esp
+[F7]     Scrap Everything - Ultimate Edition.esp
+[F8]     Mechanist Lair Overhaul SEC.esp
+[F9]     Bashed Patch, 0.esp
+[FE:000] ccbgsfo4001-pipboy(black).esl
+[FE:001] ccbgsfo4002-pipboy(blue).esl
+[FE:002] ccbgsfo4006-pipboy(chrome).esl
+[FE:003] ccbgsfo4012-pipboy(red).esl
+[FE:004] ccbgsfo4014-pipboy(white).esl
+[FE:005] ccbgsfo4020-powerarmorskin(black).esl
+[FE:006] ccbgsfo4025-powerarmorskin(chrome).esl
+[FE:007] ccbgsfo4033-powerarmorskinwhite.esl
+[FE:008] ccbgsfo4045-advarccab.esl
+[FE:009] ccgcafo4015-factionas04hrpink.esl
+[FE:00A] ccgcafo4023-factionas12army.esl
+[FE:00B] ccawnfo4001-brandedattire.esl
+[FE:00C] ccswkfo4003-pipquan.esl
+[FE:00D] ccbgsfo4053-dggoldr.esl
+[FE:00E] ccbgsfo4056-dglabb.esl
+[FE:00F] ccbgsfo4062-pippat.esl
+[FE:010] ccrzrfo4003-pipover.esl
+[FE:011] ccygpfo4001-pipcruiser.esl
+[FE:012] ccbgsfo4079-pipvim.esl
+[FE:013] ccbgsfo4008-pipgrn.esl
+[FE:014] ccbgsfo4015-pipyell.esl
+[FE:015] ccbgsfo4009-piporan.esl
+[FE:016] ccbgsfo4011-pippurp.esl
+[FE:017] ccbgsfo4021-powerarmorskinblue.esl
+[FE:018] ccbgsfo4027-powerarmorskingreen.esl
+[FE:019] ccbgsfo4034-powerarmorskinyellow.esl
+[FE:01A] ccbgsfo4028-powerarmorskinorange.esl
+[FE:01B] ccbgsfo4031-powerarmorskinred.esl
+[FE:01C] ccbgsfo4030-powerarmorskinpurple.esl
+[FE:01D] ccbgsfo4032-powerarmorskintan.esl
+[FE:01E] ccbgsfo4029-powerarmorskinpink.esl
+[FE:01F] ccbgsfo4013-piptan.esl
+[FE:020] ccbgsfo4010-pippnk.esl
+[FE:021] ccbgsfo4063-papat.esl
+[FE:022] xtns-escalators.esl
+[FE:023] PPF.esm
+[FE:024] Community Fixes Merged.esp
+[FE:025] Working_Aquariums.esl
+[FE:026] AnimatedJewelry_ATG.esl
+[FE:027] Airport_Glass_Transparency_Fix.esl
+[FE:028] LSD_LootableSchoolDesks.esl
+[FE:029] SSTMinutemanWatchtowers.esl
+[FE:02A] CPDHP.esl
+[FE:02B] MGHP.esl
+[FE:02C] ArcJetHelipad.esl
+[FE:02D] MedTekHelipad.esl
+[FE:02E] VaultTecHQHelipad.esl
+[FE:02F] NVG - Train crow landing height fix plus added train.esl
+[FE:030] SettlementCopBot.esl
+[FE:031] SettlementMedicBot.esl
+[FE:032] SettlementFixerBot.esl
+[FE:033] WhirligigRadarStation.esl
+[FE:034] LARGE_Immersive_MolotovsESL.esl
+[FE:035] NPSShopping.esl
+[FE:036] SS2_Addon_PETAdd.esl
+[FE:037] AUR_Rebuild_Shared.esp
+[FE:038] DiamondCityAmbience.esl
+[FE:039] NewLights.esl
+[FE:03A] Dank_ArmorPaintExtended.esl
+[FE:03B] Munitions - An Ammo Expansion.esl
+[FE:03C] Munitions - Vanilla Ammo Addon.esl
+[FE:03D] CanarySaveFileMonitor.esl
+[FE:03E] MoreDoghouses.esl
+[FE:03F] MIRVChildProjectileFix.esl
+[FE:040] Actually Viable Junk Jet.esl
+[FE:041] HCKTerminalHack.esl
+[FE:042] SS2CityPlanContest_Abernathy_GavMan_S3.esl
+[FE:043] SS2CityPlanContest_BostonAirport_GwenstheName_S3.esl
+[FE:044] SS2CityPlanContest_BostonAirport_NigauD_S3.esl
+[FE:045] SS2CityPlanContest_BostonAirport_xMORIDARx_S3.esl
+[FE:046] SS2CityPlanContest_BunkerHIll_Karvoc_S2.esl
+[FE:047] SS2CityPlanContest_BunkerHill_Ausplat_S2.esl
+[FE:048] SS2CityPlanContest_BunkerHill_NigauD_S3.esl
+[FE:049] SS2CityPlanContest_BunkerHill_WaningGibbous_S3.esl
+[FE:04A] SS2CityPlanContest_CoastalCottage_Cessori_S3.esl
+[FE:04B] SS2CityPlanContest_CoastalCottage_CryingCube2_S3.esl
+[FE:04C] SS2CityPlanContest_CoastalCottage_PhilTCasual_S1.esl
+[FE:04D] SS2CityPlanContest_CountryCrossing_Myrmarachne_S1.esl
+[FE:04E] SS2CityPlanContest_CountyCrossing_SimSatan_S3.esl
+[FE:04F] SS2CityPlanContest_CountyCrossing_TTG_S1.esl
+[FE:050] SS2CityPlanContest_CountyCrossing_WaningGibbous_S3.esl
+[FE:051] SS2CityPlanContest_Covenant_GavMan_S3.esl
+[FE:052] SS2CityPlanContest_Covenant_harkness13_S2.esl
+[FE:053] SS2CityPlanContest_CroupManor_Gavman_S3.esl
+[FE:054] SS2CityPlanContest_CroupManor_Karvoc_S3.esl
+[FE:055] SS2CityPlanContest_CroupManor_NDCowdy_S1.esl
+[FE:056] SS2CityPlanContest_CroupManor_WaningGibbous_S3.esl
+[FE:057] SS2CityPlanContest_CroupManor_alan0n_S3.esl
+[FE:058] SS2CityPlanContest_CroupManor_reina_S3.esl
+[FE:059] SS2CityPlanContest_DaltonFarm_Choochoo1_S3.esl
+[FE:05A] SS2CityPlanContest_DaltonFarm_KezzDaddy_S3.esl
+[FE:05B] SS2CityPlanContest_DaltonFarm_NDCowdy_S2.esl
+[FE:05C] SS2CityPlanContest_DaltonFarm_veelynnlove_S3.esl
+[FE:05D] SS2CityPlanContest_EchoLakeLumber_KynthiaBarnes_S2.esl
+[FE:05E] SS2CityPlanContest_EchoLakeLumber_NDCowdy_S2.esl
+[FE:05F] SS2CityPlanContest_EchoLakeLumber_aSemioticGhost_S2.esl
+[FE:060] SS2CityPlanContest_EgretToursMarina_Blackbelt_S3.esl
+[FE:061] SS2CityPlanContest_EgretToursMarina_GavMan_S3.esl
+[FE:062] SS2CityPlanContest_EgretToursMarina_NDCowdy_S1.esl
+[FE:063] SS2CityPlanContest_FinchFarm_Gavman_S3.esl
+[FE:064] SS2CityPlanContest_FinchFarm_Karvoc_S3.esl
+[FE:065] SS2CityPlanContest_FinchFarm_Myrmarachne_S1.esl
+[FE:066] SS2CityPlanContest_FinchFarm_NigauD_S3.esl
+[FE:067] SS2CityPlanContest_Graygarden_Cessori_S3.esl
+[FE:068] SS2CityPlanContest_Graygarden_CodeNamed1_S3.esl
+[FE:069] SS2CityPlanContest_Graygarden_UNDRCVRGmrLdy_S3.esl
+[FE:06A] SS2CityPlanContest_Graygarden_tate1066_S3.esl
+[FE:06B] SS2CityPlanContest_GreentopNursery_Cessori_S3.esl
+[FE:06C] SS2CityPlanContest_GreentopNursery_MadGax_S3.esl
+[FE:06D] SS2CityPlanContest_GreentopNursery_NigauD_S3.esl
+[FE:06E] SS2CityPlanContest_GreentopNursery_UNDRCVRGmrLdy_S3.esl
+[FE:06F] SS2CityPlanContest_GreentopNursery_altasilvapuer_S1.esl
+[FE:070] SS2CityPlanContest_GreentopNursery_tate1066_S3.esl
+[FE:071] SS2CityPlanContest_GreentopNursery_veelynnlove_S3.esl
+[FE:072] SS2CityPlanContest_HangmansAlley_FenPhile_S3.esl
+[FE:073] SS2CityPlanContest_HangmansAlley_Freddrick_S3.esl
+[FE:074] SS2CityPlanContest_HangmansAlley_NDCowdy_S1.esl
+[FE:075] SS2CityPlanContest_HangmansAlley_Phil_T_Casual_S1.esl
+[FE:076] SS2CityPlanContest_HangmansAlley_xMORIDARx_S3.esl
+[FE:077] SS2CityPlanContest_JamaicaPlain_Gavman_S3.esl
+[FE:078] SS2CityPlanContest_JamaicaPlain_NiGaud_S3.esl
+[FE:079] SS2CityPlanContest_JamaicaPlain_harkness13_S1.esl
+[FE:07A] SS2CityPlanContest_KingsportLighthouse_Carinth_S3.esl
+[FE:07B] SS2CityPlanContest_KingsportLighthouse_Karvoc_S3.esl
+[FE:07C] SS2CityPlanContest_KingsportLighthouse_KynthiaBarnes_S1.esl
+[FE:07D] SS2CityPlanContest_KingsportLighthouse_WaningGibbous_S3.esl
+[FE:07E] SS2CityPlanContest_KingsportLighthouse_altasilvapuer_S1.esl
+[FE:07F] SS2CityPlanContest_KingsportLighthouse_harkness13_S1.esl
+[FE:080] SS2CityPlanContest_LongfellowsCabin_Ausplat_S2.esl
+[FE:081] SS2CityPlanContest_LongfellowsCabin_GavMan_S3.esl
+[FE:082] SS2CityPlanContest_LongfellowsCabin_Kharon93_S2.esl
+[FE:083] SS2CityPlanContest_LongfellowsCabin_KynthiaBarnes_S2.esl
+[FE:084] SS2CityPlanContest_MechanistsLair_Karvoc_S2.esl
+[FE:085] SS2CityPlanContest_MechanistsLair_LouAshfield_S3.esl
+[FE:086] SS2CityPlanContest_MechanistsLair_NigauD_S3.esl
+[FE:087] SS2CityPlanContest_MechanistsLair_UNDRCVRGmrLdy_S3.esl
+[FE:088] SS2CityPlanContest_MechanistsLair_tate1066_S3.esl
+[FE:089] SS2CityPlanContest_MechanistsLair_veelynnlove_S3.esl
+[FE:08A] SS2CityPlanContest_Murkwater_Blackbelt_S3.esl
+[FE:08B] SS2CityPlanContest_Murkwater_Carinth_S3.esl
+[FE:08C] SS2CityPlanContest_Murkwater_GavMan_S3.esl
+[FE:08D] SS2CityPlanContest_Murkwater_Karvoc_S3.esl
+[FE:08E] SS2CityPlanContest_Murkwater_NDCowdy_S1.esl
+[FE:08F] SS2CityPlanContest_Murkwater_Niguad_S3.esl
+[FE:090] SS2CityPlanContest_Murkwater_PyrateLV_S1.esl
+[FE:091] SS2CityPlanContest_Murkwater_WaningGibbous_S3.esl
+[FE:092] SS2CityPlanContest_NPVCenter_Blackbelt_S3.esl
+[FE:093] SS2CityPlanContest_NPVCenter_Carinth_S3.esl
+[FE:094] SS2CityPlanContest_NPVCenter_FEAROFCAPS_S3.esl
+[FE:095] SS2CityPlanContest_NPVCenter_Myrmarachne_S2.esl
+[FE:096] SS2CityPlanContest_NPVCenter_NDCowdy_S2.esl
+[FE:097] SS2CityPlanContest_NPVCenter_pedertl_S3.esl
+[FE:098] SS2CityPlanContest_NordhagenBeach_Cessori_S3.esl
+[FE:099] SS2CityPlanContest_NordhagenBeach_GavMan_S3.esl
+[FE:09A] SS2CityPlanContest_NordhagenBeach_Myrmarachne_S1.esl
+[FE:09B] SS2CityPlanContest_NordhagenBeach_Phil_T_Casual_S1.esl
+[FE:09C] SS2CityPlanContest_NukaRedRocket_Myrmarachne_S1.esl
+[FE:09D] SS2CityPlanContest_NukaRedRocket_NigauD_S3.esl
+[FE:09E] SS2CityPlanContest_NukaRedRocket_Skywise_S3.esl
+[FE:09F] SS2CityPlanContest_NukaRedRocket_UNDRCVRGmrLdy_S3.esl
+[FE:0A0] SS2CityPlanContest_NukaRedRocket_tate1066_S3.esl
+[FE:0A1] SS2CityPlanContest_NukaRedRocket_veelynnlove_S3.esl
+[FE:0A2] SS2CityPlanContest_OberlandStation_CryingCube_S3.esl
+[FE:0A3] SS2CityPlanContest_OberlandStation_Myrmarachne_S1.esl
+[FE:0A4] SS2CityPlanContest_OberlandStation_NigauD_S3.esl
+[FE:0A5] SS2CityPlanContest_OberlandStation_RowanNightstalker_S3.esl
+[FE:0A6] SS2CityPlanContest_OutpostZimonja_Ausplat_S2.esl
+[FE:0A7] SS2CityPlanContest_OutpostZimonja_GavMan_S3.esl
+[FE:0A8] SS2CityPlanContest_OutpostZimonja_Karvoc_S2.esl
+[FE:0A9] SS2CityPlanContest_OutpostZimonja_PhilTCasual_S2.esl
+[FE:0AA] SS2CityPlanContest_OutpostZimonja_WaningGibbous_S3.esl
+[FE:0AB] SS2CityPlanContest_OutpostZimonja_zhinjio_S3.esl
+[FE:0AC] SS2CityPlanContest_RedRocket_NDCowdy_S1.esl
+[FE:0AD] SS2CityPlanContest_RedRocket_Niguad_S3.esl
+[FE:0AE] SS2CityPlanContest_RedRocket_Rudy_S3.esl
+[FE:0AF] SS2CityPlanContest_RedRocket_Tagyrit_S3.esl
+[FE:0B0] SS2CityPlanContest_RedRocket_moonracer_S3.esl
+[FE:0B1] SS2CityPlanContest_RedRocket_xMORIDARx_S3.esl
+[FE:0B2] SS2CityPlanContest_SanctuaryHills_Karvoc_S2.esl
+[FE:0B3] SS2CityPlanContest_SanctuaryHills_Myrmarachne_S2.esl
+[FE:0B4] SS2CityPlanContest_SanctuaryHills_SimSatan_S3.esl
+[FE:0B5] SS2CityPlanContest_SanctuaryHills_WaningGibbous_S3.esl
+[FE:0B6] SS2CityPlanContest_Slog_KynthiaBarnes_S1.esl
+[FE:0B7] SS2CityPlanContest_Slog_NDCowdy_S1.esl
+[FE:0B8] SS2CityPlanContest_Slog_NigauD_S3.esl
+[FE:0B9] SS2CityPlanContest_Slog_WaningGibbous_S3.esl
+[FE:0BA] SS2CityPlanContest_Slog_xMoridarx_S1.esl
+[FE:0BB] SS2CityPlanContest_SomervillePlace_Ausplat_S1.esl
+[FE:0BC] SS2CityPlanContest_SomervillePlace_GavMan_S3.esl
+[FE:0BD] SS2CityPlanContest_SomervillePlace_Karvoc_S3.esl
+[FE:0BE] SS2CityPlanContest_SomervillePlace_tate1066_S3.esl
+[FE:0BF] SS2CityPlanContest_SpectacleIsland_Blackbelt_S3.esl
+[FE:0C0] SS2CityPlanContest_SpectacleIsland_KynthiaBarnes_S1.esl
+[FE:0C1] SS2CityPlanContest_SpectacleIsland_Myrmarachne_S1.esl
+[FE:0C2] SS2CityPlanContest_SpectacleIsland_WaningGibbous_S3.esl
+[FE:0C3] SS2CityPlanContest_StarlightDrivein_Carinth_S3.esl
+[FE:0C4] SS2CityPlanContest_StarlightDrivein_Cessori_S3.esl
+[FE:0C5] SS2CityPlanContest_StarlightDrivein_CryingCube2_S3.esl
+[FE:0C6] SS2CityPlanContest_StarlightDrivein_FenPhile_S3.esl
+[FE:0C7] SS2CityPlanContest_StarlightDrivein_Fredderick_S3.esl
+[FE:0C8] SS2CityPlanContest_StarlightDrivein_GavMan_S3.esl
+[FE:0C9] SS2CityPlanContest_StarlightDrivein_Karvoc_S3.esl
+[FE:0CA] SS2CityPlanContest_StarlightDrivein_Myrmarachne_S1.esl
+[FE:0CB] SS2CityPlanContest_StarlightDrivein_Reina_S3.esl
+[FE:0CC] SS2CityPlanContest_StarlightDrivein_Rudy_S1.esl
+[FE:0CD] SS2CityPlanContest_StarlightDrivein_tate1066_S3.esl
+[FE:0CE] SS2CityPlanContest_StarlightDrivein_veelynnlove_S3.esl
+[FE:0CF] SS2CityPlanContest_StarlightDrivein_zhinjio_S3.esl
+[FE:0D0] SS2CityPlanContest_SunshineTidings_Carinth_S3.esl
+[FE:0D1] SS2CityPlanContest_SunshineTidings_Karvoc_S3.esl
+[FE:0D2] SS2CityPlanContest_SunshineTidings_NigauD_S3.esl
+[FE:0D3] SS2CityPlanContest_TaffingtonBoathouse_KynthiaBarnes_S1.esl
+[FE:0D4] SS2CityPlanContest_TaffingtonBoathouse_NDCowdy_S1.esl
+[FE:0D5] SS2CityPlanContest_TaffingtonBoathouse_SimSatan_S3.esl
+[FE:0D6] SS2CityPlanContest_TaffingtonBoathouse_xMORIDARx_S1.esl
+[FE:0D7] SS2CityPlanContest_Tenpines Bluff_Carinth_S3.esl
+[FE:0D8] SS2CityPlanContest_Tenpines Bluff_Karvoc_S3.esl
+[FE:0D9] SS2CityPlanContest_TheCastle_GavMan_S3.esl
+[FE:0DA] SS2CityPlanContest_TheCastle_Karvoc_S2.esl
+[FE:0DB] SS2CityPlanContest_TheCastle_Karvoc_S3.esl
+[FE:0DC] SS2CityPlanContest_TheCastle_Tarkkh_S3.esl
+[FE:0DD] SS2CityPlanContest_TheCastle_Tori_S2.esl
+[FE:0DE] SS2CityPlanContest_TheCastle_veelynnlove_S3.esl
+[FE:0DF] SS2CityPlanContest_Vault88_Choochoo1_S3.esl
+[FE:0E0] SS2CityPlanContest_Vault88_GavMan_S3.esl
+[FE:0E1] SS2CityPlanContest_Vault88_Myrmarachne_S2.esl
+[FE:0E2] SS2CityPlanContest_Vault88_harkness13_S2.esl
+[FE:0E3] SS2CityPlanContest_Warwick_Karvoc_S3.esl
+[FE:0E4] SS2CityPlanContest_Warwick_Tarkh_S3.esl
+[FE:0E5] SS2CityPlanContest_Warwick_xMORIDARx_S3.esl
+[FE:0E6] CompanionHolotape.esl
+[FE:0E7] AUR_SanctuaryRepaired.esp
+[FE:0E8] A Forest-Base Mod Patch.esp
+[FE:0E9] AUR_Rebuild_Starlight.esp
+[FE:0EA] WCLI_RockIslandLighthouse.esp
+[FE:0EB] ArmorClothingOverhaul.esp
+[FE:0EC] Dank_ArmorOverrides.esp
+[FE:0ED] PH_HighwayNukaWorld.esp
+[FE:0EE] lnl_glowingsea_glowingcritters.esp
+[FE:0EF] SS2_RobotMod.esp
+[FE:0F0] Dank_LAB.esp
+[FE:0F1] Dank_LAB_DLCNukaWorld.esp
+[FE:0F2] MedfordMemorialHelipad.esp
+[FE:0F3] Dank_LEO.esp
+[FE:0F4] Dank_LAB_LEO.esp
+[FE:0F5] PH_HighwayNukaWorldGunner.esp
+[FE:0F6] Dank_ECO.esp
+[FE:0F7] BrahminVariation.esp
+[FE:0F8] AUR_SanctuaryRepaired_Previs.esp
+[FE:0F9] 4estGimp - HAO_WI-StreetLampRestore.esp
+[FE:0FA] FPVertibird.esp
+[FE:0FB] LootableVertibirds.esp
+[FE:0FC] Binoculars_FireSupport.esp
+[FE:0FD] FSD_Doors.esp
+[FE:0FE] Patch GhoulBlood-FeralPriest.esp
+[FE:0FF] BadBoys-PowerArmorCivilServants.esp
+[FE:100] Dank_LEO_DLCNukaWorld.esp
+[FE:101] Dank_ECO-LEO.esp
+[FE:102] Dank_LEO-Automatron.esp
+[FE:103] Dank_LEO_DLCCoast.esp
+[FE:104] Dank_ECO-INNR.esp
+[FE:105] Dank_ECO_DLCCoast.esp
+[FE:106] Dank_ECO_DLCNukaWorld.esp
+[FE:107] Dank_ECO_DLCRobot.esp
+[FE:108] CleanCodsworth.esp
+[FE:109] SS2_XDI Patch.esp
+[FE:10A] Longer Overheat Time - 5x.esp
+[FE:10B] BrahminVariation-SS2.esp
+[FE:10C] Sim Settlers 2 Go Shopping.esp
+[FE:10D] MS SS2 Unlock Vanilla Recruitable Vendors.esp
+[FE:10E] PAVertibirdDockFix.esp
+[FE:10F] PAVertibirdNoFSTFix.esp
+[FE:110] FPV_Armored.esp
+[FE:111] 4estGimp - Outskirts FSD DC Security Office Door.esp
+[FE:112] More Legendary Effects.esp
+[FE:113] CROSS_InstituteExpeditionarySuit.esp
+[FE:114] CROSS_CourserStrigidae.esp
+[FE:115] Dank_CrossArmorIntegration.esp
+[FE:116] Dank_LEO-MLM.esp
+[FE:117] DynamicGlowingBeveragePack.esp
+[FE:118] Dank_SynthArmorDarkDefault.esp
+[FE:119] ACO_DLCw03.esp
+[FE:11A] ACO_WATM.esp
+[FE:11B] Dank_ECO-Munitions.esp
+[FE:11C] Dank_ECO-Munitions_INNR.esp
+[FE:11D] Dank_ArmorOverrides_DLCCoast.esp
+[FE:11E] Dank_ArmorOverrides_DLCNukaWorld.esp
+[FE:11F] Dank_ArmorOverrides_DLCRobot.esp
+[FE:120] Dank_INNRoverride.esp
+[FE:121] Molotov Crafting use Bottles.esp
+[FE:122] RobotSettlerNeverDestruct.esp
+[FE:123] Fill My Bottles.esp
+[FE:124] NoMoreRadsInScenes.esp
+[FE:125] Binoculars_FireSp_Stingray.esp
+[FE:126] SS2Addon_MS_BareEssentials.esp
+[FE:127] [SS20Addon] BloodMoonRaiders.esp
+[FE:128] SS2AOP_VaultTecTools.esp
+[FE:129] MoreVertibirdCrashSitesLVPatch.esp
+[FE:12A] BoSFoodVendor.esp
+[FE:12B] Larger Spotlight.esp
+[FE:12C] VulpinePlayer.esp
+[FE:12D] SS2_Addon_ShazbotsCots.esp
+[FE:12E] PRP.esp
+[FE:12F] PRP-SS2-Ch3-CR.esp

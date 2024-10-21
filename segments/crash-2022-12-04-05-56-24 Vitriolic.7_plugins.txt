@@ -1,0 +1,166 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     WorkshopFramework.esm
+[09]     HUDFramework.esm
+[0A]     XDI.esm
+[0B]     SS2.esm
+[0C]     SS2_XPAC_Chapter2.esm
+[0D]     CWPointLookoutFO4.esm
+[0E]     TrueStormsFO4.esm
+[0F]     TacticalReload.esm
+[10]     Armament.esp
+[11]     T6M_Mini-Minigun.esp
+[12]     MojaveImports.esp
+[13]     Hit Em Where It Hurts- FH & NW.esp
+[14]     VzenVendingMachine.esp
+[15]     BetterCompanions.esp
+[16]     CBBE.esp
+[17]     TrueStormsFO4-EarlierSunsets.esp
+[18]     TrueStormsFO4-FarHarbor.esp
+[19]     TrueStormsFO4-EarlierSunsetsFH.esp
+[1A]     TrueStormsFO4-NukaWorld-FH-Compat.esp
+[1B]     True Nights v03.esp
+[1C]     ClarityTS.esp
+[1D]     K9TacticalHarness.esp
+[1E]     NoAffinityCooldown.esp
+[1F]     SuperAffinity.esp
+[20]     SuperAffinitySeason.esp
+[21]     PowerArmorCollection.esp
+[22]     OutcastsAndRemnants.esp
+[23]     ProjectValkyrie.esp
+[24]     WestTekTacticalOptics.esp
+[25]     AnimatedCandles.esp
+[26]     WD_44.esp
+[27]     RRTV_FizztopGrilleEnhancements.esp
+[28]     BetterFarHarbor_Open.esp
+[29]     FBFH_EE_Acadia_Cleanup.esp
+[2A]     ECO.esp
+[2B]     BetterDrumlinDiner.esp
+[2C]     SS2Extended.esp
+[2D]     RRTV_GoodneighborCondo.esp
+[2E]     CheatTerminal.esp
+[2F]     TheConcordClover.esp
+[30]     Backpacks of the Commonwealth.esp
+[31]     BottelingWater.esp
+[32]     W.A.T.Minutemen.esp
+[33]     MilitarizedMinutemen.esp
+[34]     MilitarisedMinutemen_PatchesAddon.esp
+[35]     Nexus_PMC.esp
+[36]     PMC_extended.esp
+[37]     WorkingFridges.esp
+[38]     TFRangerGear.esp
+[39]     MK18.esp
+[3A]     AER15.esp
+[3B]     SettlementTidyBot.esp
+[3C]     G3Family.esp
+[3D]     UndergroundHideout.esp
+[3E]     SCRAP.esp
+[3F]     BasementLiving.esp
+[40]     SKKGlobalStashScrapping.esp
+[41]     HK_UMP.esp
+[42]     HK_MP5.esp
+[43]     HRP_Mk23.esp
+[44]     Better_Settlement_Defence.esp
+[45]     RussianAssaultPack.esp
+[46]     MK18 Armory Project.esp
+[47]     AnotherMK18Addon.esp
+[48]     SW1905.esp
+[49]     MP40.esp
+[4A]     SCM.esp
+[4B]     Glock19x.esp
+[4C]     PPK.esp
+[4D]     Nuka-MixUniqueTextures.esp
+[4E]     RustDevilRedux.esp
+[4F]     Remington700.esp
+[50]     RiotShotgun.esp
+[51]     VltSec10mmSmg.esp
+[52]     HKUSP9mm.esp
+[53]     BH_Colt M1911.esp
+[54]     DogBed.esp
+[55]     Dogmeat's Backpack.esp
+[56]     M203.esp
+[57]     TestWorldspace.esp
+[58]     Zenit.esp
+[59]     Pip-Boy Flashlight.esp
+[5A]     X12Plasmacaster.esp
+[5B]     Mossberg500.esp
+[5C]     M8r Complex Sorter.esp
+[FE:000] ccbgsfo4020-powerarmorskin(black).esl
+[FE:001] ccbgsfo4033-powerarmorskinwhite.esl
+[FE:002] ccfsvfo4002-midcenturymodern.esl
+[FE:003] cceejfo4001-decorationpack.esl
+[FE:004] ccbgsfo4045-advarccab.esl
+[FE:005] cceejfo4002-nuka.esl
+[FE:006] VendorTrunk.esl
+[FE:007] CanarySaveFileMonitor.esl
+[FE:008] IDEKsLogisticsStation2.esl
+[FE:009] LIF.esl
+[FE:00A] CombinedMinorTweaks.esl
+[FE:00B] CWPointLookoutFO4Patch.esl
+[FE:00C] ImmersiveDogmeatQuietPaws.esl
+[FE:00D] 4estGimp - AI Edits_Crippled.esp
+[FE:00E] QuestsTags_01_patch_UFO4P.esp
+[FE:00F] QuestsTags_00_AllDLC.esp
+[FE:010] UncappedSettlementSurplus.esp
+[FE:011] ECO_LegendaryModificationEnhanced.esp
+[FE:012] ECO_MythicLegendaryModifications.esp
+[FE:013] ECO_Armament.esp
+[FE:014] 4estGimp - AnimatedCandles_TrainBar.esp
+[FE:015] ECO_ArmorOverrides.esp
+[FE:016] WestTekDummyOptics.esp
+[FE:017] WATM-MM-MMUPAIA_CustomPatch.esp
+[FE:018] DP_CaravanShotgun.esp
+[FE:019] PMC_extended_lore.esp
+[FE:01A] PMC_Flashlights.esp
+[FE:01B] Nuka-Cola Can.esp
+[FE:01C] Kedr.esp
+[FE:01D] SS2_DLCSettlerPatch.esp
+[FE:01E] Modern Weapon Replacer - AnotherOne PP-91 Kedr - Pipe Guns.esp
+[FE:01F] Modern Weapon Replacer - MK18 CQBR - Assault Rifles.esp
+[FE:020] Energy Weapon Replacer - AER15 - Laser Guns.esp
+[FE:021] Energy Weapon Replacer - AER15 - Laser Muskets.esp
+[FE:022] NVRH Enhanced.esp
+[FE:023] ECO_WeAreTheMinutemen.esp
+[FE:024] IDEKsLogisticsStation2_SS2_Patch.esp
+[FE:025] SS2_WestTek.esp
+[FE:026] Glock19X Tweaks and Fixes.esp
+[FE:027] mysteriousrefill.esp
+[FE:028] mysteriousrefillCAN.esp
+[FE:029] mysteriousrefillWI.esp
+[FE:02A] M8rDisablePipboyEffects.esp
+[FE:02B] MP40_TacReload.esp
+[FE:02C] Modern Weapon Replacer - MP5 Complex - Submachine Guns.esp
+[FE:02D] Modern Weapon Replacer - Super Mutant Leveled List Override - Melee Weapons.esp
+[FE:02E] Remington700_Addon.esp
+[FE:02F] ODW - Winchester Model 1873.esp
+[FE:030] Glock 19X - Pistol 1stP PA Footstep Fix.esp
+[FE:031] HK_MP5_TacticalReloadPatch.esp
+[FE:032] HK_MP5 1stP PA Footstep Fix.esp
+[FE:033] Remington700 1stP PA Footstep Fix.esp
+[FE:034] MMSREP.esp
+[FE:035] Provisioners New Dog.esp
+[FE:036] WIP_G3Family.esp
+[FE:037] HK_UMP_TacticalReloadPatch.esp
+[FE:038] HRP_Mk23_TacticalReloadPatch.esp
+[FE:039] Kedr_TacticalReloadPatch.esp
+[FE:03A] MK18_TacticalReloadPatch.esp
+[FE:03B] RiotShotgun_TacticalReloadPatch.esp
+[FE:03C] TacticalReload_IngameSwitch.esp
+[FE:03D] PKK_TacticalReloadPatch.esp
+[FE:03E] HKUSP9mmTacReload.esp
+[FE:03F] Modern Weapon Replacer - HK USP - 10mm Pistols.esp
+[FE:040] G3Family_TacReload.esp
+[FE:041] Zenit_TacticalReloadPatch.esp
+[FE:042] Zenit Replacer.esp
+[FE:043] SS2_XDI Patch.esp
+[FE:044] SS2_MagnussonTerminalFix.esp
+[FE:045] QoL_patch.esp
+[FE:046] X12-PlasmaReplacer.esp
+[FE:047] Armament Ammunition Vanilla.esp
+[FE:048] ECO_INNRoverride.esp

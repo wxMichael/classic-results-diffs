@@ -1,0 +1,4 @@
+Buffout 4 v1.35.1 Jul  5 2024 20:37:23
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF65882045C Fallout4.exe+20C045C	mov [rsi+rcx*1-0x08], rax 
+  FUN_1420c0300_20C045C)

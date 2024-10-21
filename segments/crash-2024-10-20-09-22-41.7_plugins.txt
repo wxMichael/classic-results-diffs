@@ -1,0 +1,132 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     unofficial fallout 4 patch.esp
+[08]     HUDFramework.esm
+[09]     WorkshopFramework.esm
+[0A]     XDI.esm
+[0B]     TheSewers.esm
+[0C]     TheMoleratTunnels.esm
+[0D]     INE_BoonIsland.esp
+[0E]     AshlandStationSettlement.esp
+[0F]     NPCScaling.esm
+[10]     Vault4.esp
+[11]     You Are Exceptional.esp
+[12]     ITOcore.esp
+[13]     Wattz3000mkII.esp
+[14]     CSEPLoadedBases.esp
+[15]     CSEPBountyMod.esp
+[16]     CSEPTheExperiment.esp
+[17]     The Wild Key Chase.esp
+[18]     AttachPack.esp
+[19]     CavesOfTheCommonwealth.esp
+[1A]     LooksMenu.esp
+[1B]     Pride2023.esp
+[1C]     SettlementMenuManager.esp
+[1D]     afpABetterWorldWorkshop_Cabin.esp
+[1E]     cVc Dead Wasteland 6.esp
+[1F]     BradbertonInteriors.esp
+[20]     cVc Dead Wasteland 6 DLC.esp
+[21]     cVc Dead Wasteland 6 DLC2.esp
+[22]     cVc Dead Wasteland 6 DLC3.esp
+[23]     NoFreeConcordPA.esp
+[24]     ITOworldedits.esp
+[25]     RAW INPUT.esp
+[26]     DakMateba.esp
+[27]     DakRollingBlock.esp
+[28]     FO76AmmoCraftingMunitionsPatch.esp
+[29]     3dscopes-replacer.esp
+[2A]     NPCScaling - Actors.esp
+[2B]     BlockingOverhaul.esp
+[2C]     Vault-Tec Workshop Overhaul Redux.esp
+[2D]     Vault88 - Essentials.esp
+[2E]     SKKFastStartNewGame.esp
+[2F]     M8r Complex Sorter.esp
+[FE:000] ccBGSFO4044-HellfirePowerArmor.esl
+[FE:001] ccBGSFO4115-X02.esl
+[FE:002] ccBGSFO4116-HeavyFlamer.esl
+[FE:003] ccBGSFO4110-WS_Enclave.esl
+[FE:004] ccBGSFO4096-AS_Enclave.esl
+[FE:005] ccFSVFO4007-Halloween.esl
+[FE:006] ccBGSFO4046-TesCan.esl
+[FE:007] ccSBJFO4003-Grenade.esl
+[FE:008] ccOTMFO4001-Remnants.esl
+[FE:009] BakaFramework.esm
+[FE:00A] ppf.esm
+[FE:00B] community fixes merged.esp
+[FE:00C] Ownership Fixes.esp
+[FE:00D] REFramework.esm
+[FE:00E] FO76AmmoCrafting.esl
+[FE:00F] Munitions - An Ammo Expansion.esl
+[FE:010] Munitions - Vanilla Ammo Addon.esl
+[FE:011] DaksLLAdjustments.esl
+[FE:012] NPCScaling - Encounter Zones.esl
+[FE:013] FOVSlider.esl
+[FE:014] RunningWithHandsAnim.esl
+[FE:015] Hit Those Objects.esm
+[FE:016] Dynamic Activation Key.esp
+[FE:017] Fixed Gobo Effects.esp
+[FE:018] Wetness Shader Fix.esp
+[FE:019] FO4ParticlePatch.esp
+[FE:01A] Simple Creation Club Delayed NG.esp
+[FE:01B] DLC Timing.esp
+[FE:01C] Some Trees.esp
+[FE:01D] Dank_LEO.esp
+[FE:01E] Vault4-eXoPatch.esp
+[FE:01F] F4llout76 - Mutations.esp
+[FE:020] TerrainUndersides.esp
+[FE:021] Attach Pack Modcol.esp
+[FE:022] PRPCotCPatch.esp
+[FE:023] Dank_LEO-Automatron.esp
+[FE:024] Dank_LEO_DLCCoast.esp
+[FE:025] Dank_LEO_DLCNukaWorld.esp
+[FE:026] ITO-Addon.esp
+[FE:027] ITOSynthNPC.esp
+[FE:028] ITOmunitionsPatch.esp
+[FE:029] CHALLENGES.esp
+[FE:02A] DakVintageRepeater.esp
+[FE:02B] DakRugerRifles.esp
+[FE:02C] DakEnergyPistol.esp
+[FE:02D] DakPoliceShotgun.esp
+[FE:02E] DakLindaPistol.esp
+[FE:02F] DakM43.esp
+[FE:030] DakRiotShotgun.esp
+[FE:031] DakSpitfire.esp
+[FE:032] Dak1887.esp
+[FE:033] DAKMAC.esp
+[FE:034] 22Pack.esp
+[FE:035] DakSwedishK.esp
+[FE:036] DakBAR.esp
+[FE:037] Dak127mmPistol.esp
+[FE:038] DakRevolverRifle.esp
+[FE:039] DakHydeCarbine.esp
+[FE:03A] DakBorz.esp
+[FE:03B] DakSW59.esp
+[FE:03C] DakLolife.esp
+[FE:03D] Dak20mm.esp
+[FE:03E] DakHomemadeVityaz.esp
+[FE:03F] VarmintShotgun.esp
+[FE:040] PuddleReflectionFix.esp
+[FE:041] 10mmRevolver.esp
+[FE:042] Makeshifttextures.esp
+[FE:043] HandmaderefinedRECONscopes.esp
+[FE:044] Legendary Mutation Messages Fix.esp
+[FE:045] Gloomy Glass.esp
+[FE:046] M8rDisablePipboyEffects.esp
+[FE:047] WhoIsTheGeneral.esp
+[FE:048] Keep Radiants In Commonwealth.esp
+[FE:049] WTG - KRIC Patch.esp
+[FE:04A] YAE - Damage Nerf Patch.esp
+[FE:04B] YAE + PBT Compatibility Patch.esp
+[FE:04C] Alternative Activation Prompts.esp
+[FE:04D] Flutter Flicker Fixer For Foliage.esp
+[FE:04E] WET.esp
+[FE:04F] Lightweight Lighting.esp
+[FE:050] prp.esp
+[FE:051] CSEPTheExperiment_Patch.esp
+[FE:052] Em_Vault4_Previs.esp
+[FE:053] PRPBountiesPatch.esp

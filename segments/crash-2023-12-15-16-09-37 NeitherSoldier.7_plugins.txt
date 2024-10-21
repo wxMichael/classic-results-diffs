@@ -1,0 +1,163 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     ccrzrfo4001-tunnelsnakes.esm
+[08]     ccswkfo4001-astronautpowerarmor.esm
+[09]     cczsef04001-bhouse.esm
+[0A]     cctosfo4001-neosky.esm
+[0B]     cctosfo4002_neonflats.esm
+[0C]     Unofficial Fallout 4 Patch.esp
+[0D]     HUDFramework.esm
+[0E]     XDI.esm
+[0F]     WorkshopFramework.esm
+[10]     TrueStormsFO4.esm
+[11]     SS2.esm
+[12]     SS2_XPAC_Chapter2.esm
+[13]     SS2_XPAC_Chapter3.esm
+[14]     PiperCaitCurieDialogueOverhaul.esp
+[15]     BetterModDescriptions.esp
+[16]     WeaponModFixes-GOTY.esp
+[17]     Unique NPCs.esp
+[18]     Unique NPCs - Creatures and Monsters.esp
+[19]     SS2Extended.esp
+[1A]     SuperMutantRedux.esp
+[1B]     Eli_Armour_Compendium.esp
+[1C]     CheatTerminal.esp
+[1D]     UniqueUniques.esp
+[1E]     3DNPC_FO4Settler.esp
+[1F]     CreationClubDelay.esp
+[20]     SS2_FDK_TinyLiving.esp
+[21]     ellen.esp
+[22]     PoliceWeaponPack.esp
+[23]     SS2WastelandVenturers.esp
+[24]     JunkTownTwo.esp
+[25]     FO4 NPCs Travel.esp
+[26]     Less Annoying Berry Mentats.esp
+[27]     BlockingOverhaul.esp
+[28]     Complex Vendors.esp
+[29]     DLC Timing.esp
+[2A]     SS2_CityPlanContestAssistant.esp
+[2B]     LD50_Leaders.esp
+[2C]     SS2 Excess Resource Manager.esp
+[2D]     SS2_Addon_3DNPC_SotC.esp
+[2E]     3dscopes-replacer.esp
+[2F]     Extended weapon mods.esp
+[30]     NPCs Use Items.esp
+[31]     RemoveBlur.esp
+[32]     ScopeOverlayDOF.esp
+[33]     TrueStormsFO4-EarlierSunsets.esp
+[34]     TrueStormsFO4-FarHarbor.esp
+[35]     TrueStormsFO4-EarlierSunsetsFH.esp
+[36]     TrueStormsFO4-NukaWorld-FH-Compat.esp
+[37]     AzarPonytailHairstyles.esp
+[38]     BetterSettlers.esp
+[39]     BetterSettlersNoLollygagging.esp
+[3A]     CBBE.esp
+[3B]     BetterSettlersCCAPack2.0.esp
+[3C]     DarkerNights.esp
+[3D]     DarkerNightsDetection.esp
+[3E]     Unique NPCs - UF4P.esp
+[3F]     SS2_CityPlanPack_RiseOfTheCommonwealth.esp
+[40]     BetterGenerators.esp
+[41]     BetterModDescriptionsSTCSReplacer.esp
+[42]     Faster Terminal Displays (5x).esp
+[43]     Insignificant Object Remover.esp
+[44]     JunkTown-FENCES2.esp
+[45]     SS2-PraRandomAddon.esp
+[46]     M8r Complex Sorter.esp
+[FE:000] ccbgsfo4016-prey.esl
+[FE:001] ccbgsfo4018-gaussrifleprototype.esl
+[FE:002] ccbgsfo4020-powerarmorskin(black).esl
+[FE:003] ccbgsfo4041-doommarinearmor.esl
+[FE:004] ccbgsfo4042-bfg.esl
+[FE:005] ccbgsfo4044-hellfirepowerarmor.esl
+[FE:006] ccfsvfo4001-modularmilitarybackpack.esl
+[FE:007] ccfrsfo4001-handmadeshotgun.esl
+[FE:008] ccbgsfo4045-advarccab.esl
+[FE:009] ccgcafo4001-factionws01army.esl
+[FE:00A] ccgcafo4007-factionws07hrflames.esl
+[FE:00B] ccgcafo4009-factionws09mm.esl
+[FE:00C] ccgcafo4018-factionas07mm.esl
+[FE:00D] ccgcafo4021-factionas10hrflames.esl
+[FE:00E] ccgcafo4023-factionas12army.esl
+[FE:00F] ccawnfo4001-brandedattire.esl
+[FE:010] ccswkfo4002-pipnuka.esl
+[FE:011] ccfrsfo4002-antimaterielrifle.esl
+[FE:012] cceejfo4002-nuka.esl
+[FE:013] ccbgsfo4078-pipreily.esl
+[FE:014] ccsbjfo4001-solarflare.esl
+[FE:015] ccqdrfo4001_powerarmorai.esl
+[FE:016] ccbgsfo4048-dovah.esl
+[FE:017] ccrzrfo4002-disintegrate.esl
+[FE:018] ccbgsfo4113-ws_reillysrangers.esl
+[FE:019] ccbgsfo4099-as_reillysrangers.esl
+[FE:01A] ccbgsfo4047-qthund.esl
+[FE:01B] ccfrsfo4003-cr75l.esl
+[FE:01C] ccacxfo4001-vsuit.esl
+[FE:01D] ccsbjfo4002_manwellrifle.esl
+[FE:01E] ccbgsfo4117-capmerc.esl
+[FE:01F] ccbgsfo4046-tescan.esl
+[FE:020] ccgcafo4025-pagunmm.esl
+[FE:021] REFramework.esm
+[FE:022] PPF.esm
+[FE:023] Community Fixes Merged.esp
+[FE:024] TMR_GlitchfinderAIO.esm
+[FE:025] OutlineWorkshopShader.esl
+[FE:026] WG City Plans Pack ESL.esl
+[FE:027] JamaicaPlainPathing.esm
+[FE:028] ThrowMoneyAtSS2.esl
+[FE:029] Ownership Fixes.esp
+[FE:02A] DiamondCityBillboards.esp
+[FE:02B] Enhanced Vanilla Armor and Clothing.esp
+[FE:02C] Fixed Gobo Effects.esp
+[FE:02D] Wetness Shader Fix.esp
+[FE:02E] FO4ParticlePatch.esp
+[FE:02F] Community Fixes Merged - Weapon Mod Fixes Patch.esp
+[FE:030] Region Names on Save Files.esp
+[FE:031] UNPC - ChickensRabbits.esp
+[FE:032] Thrive Redone.esp
+[FE:033] UNPC - SeaClaws.esp
+[FE:034] GoodneighborView.esp
+[FE:035] PRP-SS2-Fixes-Ch2.esp
+[FE:036] TerrainUndersides.esp
+[FE:037] PRP-SS2-Fixes-Ch1.esp
+[FE:038] SS2-Ch2-CR-NeonFlats.esp
+[FE:039] PuddleReflectionFix.esp
+[FE:03A] Less intrusive tutorial.esp
+[FE:03B] LetMeUseThat.esp
+[FE:03C] Bastion.esp
+[FE:03D] Chemfluence AI Combat Dynamics.esp
+[FE:03E] Community Fixes Merged - BPA Redux Patch.esp
+[FE:03F] WhoIsTheGeneral.esp
+[FE:040] Keep Radiants In Commonwealth.esp
+[FE:041] SS2_NobodysLeaders2.esp
+[FE:042] SS2AOP_VaultTecTools.esp
+[FE:043] Complex Vendors - UFO4P Patch.esp
+[FE:044] DLC Timing - UFO4P Patch.esp
+[FE:045] SimplePowerArmorReductionSystem.esp
+[FE:046] Weapon Scrapping Redone.esp
+[FE:047] Clothing Scrapping Redone.esp
+[FE:048] WTG - KRIC Patch.esp
+[FE:049] Gloomy Glass.esp
+[FE:04A] Targeted Textures.esp
+[FE:04B] WAVE.esp
+[FE:04C] TrueStormsFO4 - Region Names Patch.esp
+[FE:04D] SS2 Better Outfits.esp
+[FE:04E] SS2 Junk Storage Capacity.esp
+[FE:04F] SS2_NobodysLeaders2_Automatron.esp
+[FE:050] SS2_NobodysLeaders2_VaultTecWorkshop.esp
+[FE:051] SS2C2PoliceWeaponsPatch.esp
+[FE:052] M8rDisablePipboyEffects.esp
+[FE:053] SS2_XDI Patch.esp
+[FE:054] ImTalkingToYou.esp
+[FE:055] Lightweight Lighting.esp
+[FE:056] WET.esp
+[FE:057] PRP.esp
+[FE:058] PRP-Compat-RegionNames.esp
+[FE:059] PRP-SS2.esp
+[FE:05A] PRP-SS2-Ch3-CR.esp
+[FE:05B] SS2-PraRandomAddon-FIS.esp

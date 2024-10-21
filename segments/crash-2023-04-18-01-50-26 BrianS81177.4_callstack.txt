@@ -1,0 +1,349 @@
+[ 0] 0x7FF7523F1E80 Fallout4.exe+03D1E80	call [rax+0x40] |  BSVisit::TraverseScenegraphGeometries<_lambda_27a7d64a6e564e677e0644a5f7a222ad_>(NiAVObject*,_lambda_27a7d64a6e564e677e0644a5f7a222ad_&)_3D1E80 -> 869027+0x20	call [rax+0x40]
+[ 1] 0x7FF7523D40F5 Fallout4.exe+03B40F5	test r14, r14 |  TESObjectCELL::AttachCombinedObjectArt(void)_3B40F5 -> 1491658+0x4D5	test r14, r14
+[ 2] 0x7FF7523D1B66 Fallout4.exe+03B1B66	mov rcx, rdi |  TESObjectCELL::AttachToWorld(NiNode*)_3B1B66 -> 1105920+0x76	mov rcx, rdi
+[ 3] 0x7FF7521F3A8E Fallout4.exe+01D3A8E	mov dl, 0x01 |  GridCellArray::PerformQueuedCellAttachDetach(bool)_1D3A8E -> 833533+0x1AE	mov dl, 0x01
+[ 4] 0x7FF752115DA8 Fallout4.exe+00F5DA8	jmp 0x00007FF752115DB4 |  TES::HandleQueuedLoadedAreaShift(void)_F5DA8 -> 431181+0x48	jmp 0x00007FF752115DB4
+[ 5] 0x7FF752D5C080 Fallout4.exe+0D3C080	mov rcx, [0x00007FF757AC4288] |  Main::StartOfFrameUpdate(void)_D3C080 -> 826184+0x130	mov rcx, [0x00007FF757AC4288]
+[ 6] 0x7FF752CDE5B0 Fallout4.exe+0CBE5B0	xor ecx, ecx |  JobListManager::AllRenderEndJob(void*)_CBE5B0 -> 169721+0x10	xor ecx, ecx
+[ 7] 0x7FF752CDD20D Fallout4.exe+0CBD20D	add rbx, 0x08 |  JobListManager::ServingThread::RunJobLists(void)_CBD20D -> 151212+0x7D	add rbx, 0x08
+[ 8] 0x7FF752CE07A7 Fallout4.exe+0CC07A7	mov rcx, [rbx+0x60] |  JobListManager::ServingThread::ThreadProc(void)_CC07A7 -> 1166392+0x87	mov rcx, [rbx+0x60]
+[ 9] 0x7FF753B3CFED Fallout4.exe+1B1CFED	mov rcx, [0x00007FF757B7BD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF757B7BD38]
+[10] 0x7FFF68FA269D KERNEL32.DLL+001269D
+[11] 0x7FFF6A02A9F8    ntdll.dll+005A9F8
+
+REGISTERS:
+RAX 0x0                (size_t) [0]
+RCX 0x1C3D6EA4200      (void*)
+RDX 0x55ED86FA10       (void*)
+RBX 0x0                (size_t) [0]
+RSP 0x55ED86F900       (void*)
+RBP 0x55ED86FA09       (void*)
+RSI 0x55ED86FA10       (void*)
+RDI 0x1C3D6EA4200      (void*)
+R8  0x181              (size_t) [385]
+R9  0x8                (size_t) [8]
+R10 0x55ED86F9C0       (BSTArrayBase::IAllocatorFunctor*)
+R11 0x55ED86FA88       (void*)
+R12 0xF831AAC9         (size_t) [4164004553]
+R13 0x1C36D55FA00      (TESObjectCELL*)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+R14 0x1C337EE8F00      (bhkWorldM*)
+R15 0x1C3D6EA4200      (void*)
+
+STACK:
+[RSP+0  ] 0x1C3DA915080      (NiNode*)
+Name: "0000E2E3_Physics"
+RTTIName: "NiNode"
+Flags: 80000e
+Name: "0000E2E3_Physics"
+[RSP+8  ] 0x7FF752129D1D     (void* -> Fallout4.exe+0109D1D	test rax, rax |  TESObjectCELL::GetChildNode(TESObjectCELL::CELLNODE)_109D1D)
+[RSP+10 ] 0x55ED86FA09       (void*)
+[RSP+18 ] 0x1C3DF8052F0      (void*)
+[RSP+20 ] 0x1C41CAB54AC      (void*)
+[RSP+28 ] 0x1C3DF8052F0      (void*)
+[RSP+30 ] 0x1C41D0B71C0      (void*)
+[RSP+38 ] 0x7FF7523D40F5     (void* -> Fallout4.exe+03B40F5	test r14, r14 |  TESObjectCELL::AttachCombinedObjectArt(void)_3B40F5)
+[RSP+40 ] 0x1C41CAB54A8      (void*)
+[RSP+48 ] 0x55ED86FA10       (void*)
+[RSP+50 ] 0x1C3DF8052F0      (void*)
+[RSP+58 ] 0x5500000000       (size_t) [365072220160]
+[RSP+60 ] 0x1C300000007      (void*)
+[RSP+68 ] 0x7FFF1E0AA600     (void* -> Buffout4.dll+00AA600	call 0x00007FFF1E073600 |  E:\Documents\source\repos\Buffout4\src\Fixes\EncounterZoneResetFix.h:32 ?ProcessEvent@Sink@detail@EncounterZoneResetFix@Fixes@@EEAA?AW4BSEventNotifyControl@RE@@AEBUCellAttachDetachEvent@6@PEAV?$BSTEventSource@UCellAttachDetachEvent@RE@@@6@@Z)
+[RSP+70 ] 0x0                (size_t) [0]
+[RSP+78 ] 0x1                (size_t) [1]
+[RSP+80 ] 0x1C3A3829F80      (NiNode*)
+RTTIName: "NiNode"
+Flags: 80002000280f
+Checking Parent:
+RTTIName: "BSMultiBoundNode"
+Flags: 2000280e
+[RSP+88 ] 0x1C41CAB54AC      (void*)
+[RSP+90 ] 0x1C337EE8F00      (bhkWorldM*)
+[RSP+98 ] 0x1C41CAB54A8      (void*)
+[RSP+A0 ] 0x67               (size_t) [103]
+[RSP+A8 ] 0x7FF7520444E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+B0 ] 0x1C2EB42F710      (void*)
+[RSP+B8 ] 0x1C37464A748      (void*)
+[RSP+C0 ] 0x7FF754C696C8     (void* -> Fallout4.exe+2C496C8	 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C496C8)
+[RSP+C8 ] 0x1C41D0B71C0      (void*)
+[RSP+D0 ] 0x7FF700000000     (size_t) [140698833649664]
+[RSP+D8 ] 0x0                (size_t) [0]
+[RSP+E0 ] 0x0                (size_t) [0]
+[RSP+E8 ] 0x0                (size_t) [0]
+[RSP+F0 ] 0x0                (size_t) [0]
+[RSP+F8 ] 0x1C37464A768      (void*)
+[RSP+100] 0x2                (size_t) [2]
+[RSP+108] 0x7FF754710A55     (void* -> Fallout4.exe+26F0A55	cmp eax, 0x06 |  BSScript::Variable::Cleanup(void)_26F0A55)
+[RSP+110] 0x1C36D55FA00      (TESObjectCELL*)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+[RSP+118] 0x7FFFF831AAC9     (size_t) [140737357392585]
+[RSP+120] 0x55ED86F9A4       (void*)
+[RSP+128] 0x55ED86F980       (void*)
+[RSP+130] 0x9C0              (size_t) [2496]
+[RSP+138] 0x1C2EB42F710      (void*)
+[RSP+140] 0x0                (size_t) [0]
+[RSP+148] 0x1C36D55FA00      (TESObjectCELL*)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+[RSP+150] 0x1C2B9C6CCC0      (NiNode*)
+Name: "ObjectLODRoot"
+RTTIName: "NiNode"
+Flags: 8002000280e
+Checking Parent:
+Name: "shadow scene node"
+RTTIName: "ShadowSceneNode"
+Flags: 2000280e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 2000280e
+Name: "ObjectLODRoot"
+[RSP+158] 0x2                (size_t) [2]
+[RSP+160] 0x0                (size_t) [0]
+[RSP+168] 0x7FF7523D1B66     (void* -> Fallout4.exe+03B1B66	mov rcx, rdi |  TESObjectCELL::AttachToWorld(NiNode*)_3B1B66)
+[RSP+170] 0x0                (size_t) [0]
+[RSP+178] 0x55ED86FA90       (void*)
+[RSP+180] 0x1C37464A768      (void*)
+[RSP+188] 0x7FF7AA9104A6     (size_t) [140701695280294]
+[RSP+190] 0x1C36D55FA00      (TESObjectCELL*)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+[RSP+198] 0x7FF700000000     (size_t) [140698833649664]
+[RSP+1A0] 0x36CC             (size_t) [14028]
+[RSP+1A8] 0x7FF7520444E3     (void* -> Fallout4.exe+00244E3	mov esi, eax |  BSSpinLock::Lock(char*)_244E3)
+[RSP+1B0] 0x0                (size_t) [0]
+[RSP+1B8] 0x1C337DB3DD0      (GridCellArray*)
+[RSP+1C0] 0x0                (size_t) [0]
+[RSP+1C8] 0x7FF757A8BDC0     (JobListManager::ServingThread*)
+[RSP+1D0] 0x1C36D55FA00      (TESObjectCELL*)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> MutantMenagerie.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "QuincyRuinsExt06"
+FormID: 0x0000E2E3
+FormType: kCELL (63)
+[RSP+1D8] 0x7FF7521F3A8E     (void* -> Fallout4.exe+01D3A8E	mov dl, 0x01 |  GridCellArray::PerformQueuedCellAttachDetach(bool)_1D3A8E)
+[RSP+1E0] 0x0                (size_t) [0]
+[RSP+1E8] 0x1C2943648D0      (void*)
+[RSP+1F0] 0x0                (size_t) [0]
+[RSP+1F8] 0x0                (size_t) [0]
+[RSP+200] 0x7FF757A8BDC0     (JobListManager::ServingThread*)
+[RSP+208] 0x1C294284260      (void*)
+[RSP+210] 0x1C337D6BEC0      (TES*)
+[RSP+218] 0x7FF752115DA8     (void* -> Fallout4.exe+00F5DA8	jmp 0x00007FF752115DB4 |  TES::HandleQueuedLoadedAreaShift(void)_F5DA8)
+[RSP+220] 0x1C337D6BEC0      (TES*)
+[RSP+228] 0x1C2943648D0      (void*)
+[RSP+230] 0x0                (size_t) [0]
+[RSP+238] 0x7FFF67AADB7B     (void* -> KERNELBASE.dll+006DB7B	nop [rax+rax*1], eax)
+[RSP+240] 0x0                (size_t) [0]
+[RSP+248] 0x7FF757A8BDC0     (JobListManager::ServingThread*)
+[RSP+250] 0x0                (size_t) [0]
+[RSP+258] 0x7FF757A8BDC0     (JobListManager::ServingThread*)
+[RSP+260] 0x0                (size_t) [0]
+[RSP+268] 0x7FFF67A79BDE     (void* -> KERNELBASE.dll+0039BDE	nop [rax+rax*1], eax)
+[RSP+270] 0x6                (size_t) [6]
+[RSP+278] 0x1C2B9B6DC20      (void*)
+[RSP+280] 0x1C36D55F800      (TESObjectCELL*)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> PPF.esm -> MutantMenagerie_PointLookout.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "AtomatoysFactoryExt03"
+FormID: 0x0000E2E5
+FormType: kCELL (63)
+File: "SouthOfTheSea[Previs].esp"
+Modified by: Fallout4.esm -> Unofficial Fallout 4 Patch.esp -> PPF.esm -> MutantMenagerie_PointLookout.esm -> PRP.esp -> SouthOfTheSea[Previs].esp
+Flags: 0x0004000B
+EditorID: "AtomatoysFactoryExt03"
+FormID: 0x0000E2E5
+FormType: kCELL (63)
+[RSP+288] 0x7FF752D5C080     (void* -> Fallout4.exe+0D3C080	mov rcx, [0x00007FF757AC4288] |  Main::StartOfFrameUpdate(void)_D3C080)
+[RSP+290] 0x1C200000000      (size_t) [1932735283200]
+[RSP+298] 0x0                (size_t) [0]
+[RSP+2A0] 0x48               (size_t) [72]
+[RSP+2A8] 0x1                (size_t) [1]
+[RSP+2B0] 0x0                (size_t) [0]
+[RSP+2B8] 0x0                (size_t) [0]
+[RSP+2C0] 0xC7B11ABF4690283C (size_t) [uint: 14389311693250373692 int: -4057432380459177924]
+[RSP+2C8] 0x444BAAE7         (size_t) [1145809639]
+[RSP+2D0] 0x0                (size_t) [0]
+[RSP+2D8] 0x7FF752CDE5B0     (void* -> Fallout4.exe+0CBE5B0	xor ecx, ecx |  JobListManager::AllRenderEndJob(void*)_CBE5B0)
+[RSP+2E0] 0x1C2943648C8      (void*)
+[RSP+2E8] 0x0                (size_t) [0]
+[RSP+2F0] 0x7FF757A8BDC0     (JobListManager::ServingThread*)
+[RSP+2F8] 0x1C294284260      (void*)
+[RSP+300] 0x0                (size_t) [0]
+[RSP+308] 0x7FF752CDD20D     (void* -> Fallout4.exe+0CBD20D	add rbx, 0x08 |  JobListManager::ServingThread::RunJobLists(void)_CBD20D)
+[RSP+310] 0x1C2943648C8      (void*)
+[RSP+318] 0x1C2943648D0      (void*)
+[RSP+320] 0x0                (size_t) [0]
+[RSP+328] 0x4E20             (size_t) [20000]
+[RSP+330] 0x0                (size_t) [0]
+[RSP+338] 0x0                (size_t) [0]
+[RSP+340] 0x7FF757A8BDC0     (JobListManager::ServingThread*)
+[RSP+348] 0x7FF752CE07A7     (void* -> Fallout4.exe+0CC07A7	mov rcx, [rbx+0x60] |  JobListManager::ServingThread::ThreadProc(void)_CC07A7)
+[RSP+350] 0x1C294364880      (void*)
+[RSP+358] 0x1C2943648D0      (void*)
+[RSP+360] 0x0                (size_t) [0]
+[RSP+368] 0x0                (size_t) [0]
+[RSP+370] 0x7FF757A8BDC0     (JobListManager::ServingThread*)
+[RSP+378] 0x7FF753B3CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF757B7BD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+380] 0x4E4C             (size_t) [20044]
+[RSP+388] 0x55ED86FCA0       (void*)
+[RSP+390] 0x1C2B9B4BC90      (void*)
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A0] 0x7FF757A8BDC0     (JobListManager::ServingThread*)
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x7FFF68FA269D     (void* -> KERNEL32.DLL+001269D	mov ecx, eax)
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D0] 0x0                (size_t) [0]
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E0] 0x0                (size_t) [0]
+[RSP+3E8] 0x7FFF6A02A9F8     (void* -> ntdll.dll+005A9F8	jmp 0x00007FFF6A02AA19)
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+400] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x702DCE8300000000 (size_t) [8083343968235945984]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+430] 0x4F0FFFFFB30      (size_t) [5433133628208]
+[RSP+438] 0x7FFF67B95B00     (void* -> KERNELBASE.dll+0155B00	mov [rsp+0x10], rbx)
+[RSP+440] 0x55ED86EA40       (void*)
+[RSP+448] 0x60000FFFE2F292B0 (size_t) [6917546619339707056]
+[RSP+450] 0x7FFF17949583     (size_t) [140733589001603]
+[RSP+458] 0x55ED86EA40       (void*)
+[RSP+460] 0x0                (size_t) [0]
+[RSP+468] 0x0                (size_t) [0]
+[RSP+470] 0x0                (size_t) [0]
+[RSP+478] 0x0                (size_t) [0]
+[RSP+480] 0x0                (size_t) [0]
+[RSP+488] 0x0                (size_t) [0]
+[RSP+490] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A0] 0x0                (size_t) [0]
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B0] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]
+[RSP+4C0] 0x0                (size_t) [0]
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D0] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E0] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F0] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+510] 0x0                (size_t) [0]
+[RSP+518] 0x0                (size_t) [0]
+[RSP+520] 0x0                (size_t) [0]
+[RSP+528] 0x0                (size_t) [0]
+[RSP+530] 0x0                (size_t) [0]
+[RSP+538] 0x0                (size_t) [0]
+[RSP+540] 0x0                (size_t) [0]
+[RSP+548] 0x0                (size_t) [0]
+[RSP+550] 0x0                (size_t) [0]
+[RSP+558] 0x0                (size_t) [0]
+[RSP+560] 0x0                (size_t) [0]
+[RSP+568] 0x0                (size_t) [0]
+[RSP+570] 0x0                (size_t) [0]
+[RSP+578] 0x0                (size_t) [0]
+[RSP+580] 0x0                (size_t) [0]
+[RSP+588] 0x0                (size_t) [0]
+[RSP+590] 0x0                (size_t) [0]
+[RSP+598] 0x0                (size_t) [0]
+[RSP+5A0] 0x0                (size_t) [0]
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B0] 0x0                (size_t) [0]
+[RSP+5B8] 0x0                (size_t) [0]
+[RSP+5C0] 0x0                (size_t) [0]
+[RSP+5C8] 0x0                (size_t) [0]
+[RSP+5D0] 0x0                (size_t) [0]
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5E0] 0x0                (size_t) [0]
+[RSP+5E8] 0x0                (size_t) [0]
+[RSP+5F0] 0x0                (size_t) [0]
+[RSP+5F8] 0x0                (size_t) [0]
+[RSP+600] 0x0                (size_t) [0]
+[RSP+608] 0x0                (size_t) [0]
+[RSP+610] 0x0                (size_t) [0]
+[RSP+618] 0x0                (size_t) [0]
+[RSP+620] 0x0                (size_t) [0]
+[RSP+628] 0x0                (size_t) [0]
+[RSP+630] 0x0                (size_t) [0]
+[RSP+638] 0x0                (size_t) [0]
+[RSP+640] 0x0                (size_t) [0]
+[RSP+648] 0x0                (size_t) [0]
+[RSP+650] 0x0                (size_t) [0]
+[RSP+658] 0x0                (size_t) [0]
+[RSP+660] 0x0                (size_t) [0]
+[RSP+668] 0x0                (size_t) [0]
+[RSP+670] 0x0                (size_t) [0]
+[RSP+678] 0x0                (size_t) [0]
+[RSP+680] 0x0                (size_t) [0]
+[RSP+688] 0x0                (size_t) [0]
+[RSP+690] 0x0                (size_t) [0]
+[RSP+698] 0x0                (size_t) [0]
+[RSP+6A0] 0x0                (size_t) [0]
+[RSP+6A8] 0x0                (size_t) [0]
+[RSP+6B0] 0x0                (size_t) [0]
+[RSP+6B8] 0x0                (size_t) [0]
+[RSP+6C0] 0x0                (size_t) [0]
+[RSP+6C8] 0x0                (size_t) [0]
+[RSP+6D0] 0x0                (size_t) [0]
+[RSP+6D8] 0x0                (size_t) [0]
+[RSP+6E0] 0x0                (size_t) [0]
+[RSP+6E8] 0x0                (size_t) [0]
+[RSP+6F0] 0x0                (size_t) [0]
+[RSP+6F8] 0x0                (size_t) [0]

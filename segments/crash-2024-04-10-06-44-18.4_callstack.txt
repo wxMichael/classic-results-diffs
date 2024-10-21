@@ -1,0 +1,485 @@
+[ 0] 0x7FF6FC52300A Fallout4.exe+1B4300A -> 1204430+0x3A
+[ 1] 0x7FF6FAF91975 Fallout4.exe+05B1975 -> 1091278+0x75
+[ 2] 0x7FF6FB80A443 Fallout4.exe+0E2A443 -> 628510+0xB3
+[ 3] 0x7FF6FB78E0BB Fallout4.exe+0DAE0BB -> 574183+0x3B
+[ 4] 0x7FF6FB841006 Fallout4.exe+0E61006 -> 114457+0x7A6
+[ 5] 0x7FF6FB84CFCE Fallout4.exe+0E6CFCE -> 685791+0x1AE
+[ 6] 0x7FF6FB742C8F Fallout4.exe+0D62C8F -> 1546751+0x284F
+[ 7] 0x7FF6FB73EBB4 Fallout4.exe+0D5EBB4 -> 360114+0xA4
+[ 8] 0x7FF6FC687E53 Fallout4.exe+1CA7E53 -> 1362677+0xA3
+[ 9] 0x7FF6FC6849E0 Fallout4.exe+1CA49E0 -> 679918+0x20
+[10] 0x7FF6FC687701 Fallout4.exe+1CA7701 -> 1034198+0x261
+[11] 0x7FF6FC4FCFED Fallout4.exe+1B1CFED -> 1079791+0x3D
+[12] 0x7FF9F1D6257D KERNEL32.DLL+001257D
+[13] 0x7FF9F2B6AA48    ntdll.dll+005AA48
+
+REGISTERS:
+RAX 0x7FF700547580     (void* -> Fallout4.exe+5B67580)
+RCX 0x28D1400E1E0      (void*)
+RDX 0x0                (size_t)
+RBX 0x28D1400E1E0      (void*)
+RSP 0xD318B7F4F0       (void*)
+RBP 0xD318B7F609       (void*)
+RSI 0x28D1400E1E0      (void*)
+RDI 0x34               (size_t)
+R8  0xBE7002B2         (size_t)
+R9  0xD318B7F600       (void*)
+R10 0x7FF700547580     (void* -> Fallout4.exe+5B67580)
+R11 0x292B4B23FE0      (void*)
+R12 0x28CE78E4800      (BSFadeNode*)
+Name: "skeleton.nif"
+R13 0x28BB97DF580      (TESNPC*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+Full Name: "Resident"
+R14 0xD318B7F690       (void*)
+R15 0xD318B7F6B8       (void*)
+
+STACK:
+[RSP+0  ] 0x28CE5101940      (NiNode*)
+Name: "RArm_ForeArm1"
+[RSP+8  ] 0x7FF6FB7BDB4F     (void* -> Fallout4.exe+0DDDB4F)
+[RSP+10 ] 0x0                (size_t)
+[RSP+18 ] 0x0                (size_t)
+[RSP+20 ] 0x0                (size_t)
+[RSP+28 ] 0x35               (size_t)
+[RSP+30 ] 0xD318B7F609       (void*)
+[RSP+38 ] 0x28D1400E1E0      (void*)
+[RSP+40 ] 0x28C82CCD600      (void*)
+[RSP+48 ] 0x7FF6FAF91975     (void* -> Fallout4.exe+05B1975)
+[RSP+50 ] 0x0                (size_t)
+[RSP+58 ] 0x10               (size_t)
+[RSP+60 ] 0x7FF700547580     (void* -> Fallout4.exe+5B67580)
+[RSP+68 ] 0x7FF6FD1AD36C     (void* -> Fallout4.exe+27CD36C)
+[RSP+70 ] 0x28CE5100E00      (NiNode*)
+Name: "RArm_Collarbone"
+[RSP+78 ] 0x3                (size_t)
+[RSP+80 ] 0x28CE5100E00      (NiNode*)
+Name: "RArm_Collarbone"
+[RSP+88 ] 0x7FF6FB7BDB8A     (void* -> Fallout4.exe+0DDDB8A)
+[RSP+90 ] 0x0                (size_t)
+[RSP+98 ] 0x0                (size_t)
+[RSP+A0 ] 0x0                (size_t)
+[RSP+A8 ] 0x7FF6FD1AD36C     (void* -> Fallout4.exe+27CD36C)
+[RSP+B0 ] 0x28CE5102E80      (NiNode*)
+Name: "Chest"
+[RSP+B8 ] 0xB                (size_t)
+[RSP+C0 ] 0x28CE5102E80      (NiNode*)
+Name: "Chest"
+[RSP+C8 ] 0x7FF6FC4F093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+D0 ] 0x0                (size_t)
+[RSP+D8 ] 0x0                (size_t)
+[RSP+E0 ] 0x0                (size_t)
+[RSP+E8 ] 0x7FF6FC4F093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+F0 ] 0x290B07B6BC0      (void*)
+[RSP+F8 ] 0x7FF6FAA236DE     (void* -> Fallout4.exe+00436DE)
+[RSP+100] 0x290B07B6BE0      (void*)
+[RSP+108] 0x7FF6FB7BDB4F     (void* -> Fallout4.exe+0DDDB4F)
+[RSP+110] 0x290B07B6BC0      (void*)
+[RSP+118] 0x7FF6FAA236DE     (void* -> Fallout4.exe+00436DE)
+[RSP+120] 0x0                (size_t)
+[RSP+128] 0x0                (size_t)
+[RSP+130] 0x0                (size_t)
+[RSP+138] 0x0                (size_t)
+[RSP+140] 0xFFFFFFFF         (size_t)
+[RSP+148] 0x2902C45B200      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00420409
+Form ID: 0x1402A87F
+Form Type: 65
+[RSP+150] 0x2902C46F400      (void*)
+[RSP+158] 0x13               (size_t)
+[RSP+160] 0x2902C45B200      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00420409
+Form ID: 0x1402A87F
+Form Type: 65
+[RSP+168] 0x28C82CCD600      (void*)
+[RSP+170] 0x28CE78E4800      (BSFadeNode*)
+Name: "skeleton.nif"
+[RSP+178] 0x7FF6FB80A443     (void* -> Fallout4.exe+0E2A443)
+[RSP+180] 0x28BB97DF580      (TESNPC*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+Full Name: "Resident"
+[RSP+188] 0x28BB97DF580      (TESNPC*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+Full Name: "Resident"
+[RSP+190] 0x28BB97DF580      (TESNPC*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+Full Name: "Resident"
+[RSP+198] 0x28C3F1F8100      (BSFlattenedBoneTree*)
+Name: "Root"
+[RSP+1A0] 0x3ECF2AEA3E4A6EB0 (size_t)
+[RSP+1A8] 0x7FF63ECB9DBE     (size_t)
+[RSP+1B0] 0x2902C45B200      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00420409
+Form ID: 0x1402A87F
+Form Type: 65
+[RSP+1B8] 0x7FF6FB78E0BB     (void* -> Fallout4.exe+0DAE0BB)
+[RSP+1C0] 0x28CE78E4800      (BSFadeNode*)
+Name: "skeleton.nif"
+[RSP+1C8] 0x28C82CCD600      (void*)
+[RSP+1D0] 0x0                (size_t)
+[RSP+1D8] 0x0                (size_t)
+[RSP+1E0] 0x28C3F1F8100      (BSFlattenedBoneTree*)
+Name: "Root"
+[RSP+1E8] 0x0                (size_t)
+[RSP+1F0] 0x0                (size_t)
+[RSP+1F8] 0x28CE78E4800      (BSFadeNode*)
+Name: "skeleton.nif"
+[RSP+200] 0x0                (size_t)
+[RSP+208] 0x0                (size_t)
+[RSP+210] 0x0                (size_t)
+[RSP+218] 0x0                (size_t)
+[RSP+220] 0x0                (size_t)
+[RSP+228] 0x7FF6FB841006     (void* -> Fallout4.exe+0E61006)
+[RSP+230] 0x28CE78E4800      (BSFadeNode*)
+Name: "skeleton.nif"
+[RSP+238] 0x56               (size_t)
+[RSP+240] 0x28CE78E4800      (BSFadeNode*)
+Name: "skeleton.nif"
+[RSP+248] 0x56               (size_t)
+[RSP+250] 0x2902C441D00      (void*)
+[RSP+258] 0x7FF6FB842A7C     (void* -> Fallout4.exe+0E62A7C)
+[RSP+260] 0x28B3CC8A080      (BSFaceGenNiNode*)
+Name: "BSFaceGenNiNodeSkinned"
+[RSP+268] 0x2902C46F400      (void*)
+[RSP+270] 0x28D536E2B00      (BSFaceGenAnimationData*)
+[RSP+278] 0x2902C46F400      (void*)
+[RSP+280] 0x28BB7E782C0      (BSDynamicTriShape*)
+Name: "MaleEyesHumanHazel"
+[RSP+288] 0x28CE5101300      (NiNode*)
+Name: "Head"
+[RSP+290] 0x28A72F26610      (void*)
+[RSP+298] 0x28D536E2B00      (BSFaceGenAnimationData*)
+[RSP+2A0] 0x2906545F4C0      (AIProcess::PendingActorHeadData*)
+[RSP+2A8] 0x2902C45B200      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00420409
+Form ID: 0x1402A87F
+Form Type: 65
+[RSP+2B0] 0x28CE78E4800      (BSFadeNode*)
+Name: "skeleton.nif"
+[RSP+2B8] 0x2902C46F400      (void*)
+[RSP+2C0] 0x28B79500F00      (IOManagerThread*)
+[RSP+2C8] 0xD318B7FD30       (char*) "l"
+[RSP+2D0] 0x2902C45B200      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00420409
+Form ID: 0x1402A87F
+Form Type: 65
+[RSP+2D8] 0x7FF6FB84CFCE     (void* -> Fallout4.exe+0E6CFCE)
+[RSP+2E0] 0x28D536E2B00      (BSFaceGenAnimationData*)
+[RSP+2E8] 0xFFFFFFFF         (size_t)
+[RSP+2F0] 0x28B3CC8A001      (void*)
+[RSP+2F8] 0x310AE5           (size_t)
+[RSP+300] 0x28A72F26610      (void*)
+[RSP+308] 0x2                (size_t)
+[RSP+310] 0x400041A281A28    (size_t)
+[RSP+318] 0x7FF6FA9E0000     (void*)
+[RSP+320] 0x2906545F4C0      (AIProcess::PendingActorHeadData*)
+[RSP+328] 0x7FF6FB742C8F     (void* -> Fallout4.exe+0D62C8F)
+[RSP+330] 0x29200310AE5      (void*)
+[RSP+338] 0x0                (size_t)
+[RSP+340] 0x2902C45B200      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x14032318
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00420409
+Form ID: 0x1402A87F
+Form Type: 65
+[RSP+348] 0xD318B7F920       (void*)
+[RSP+350] 0x28BE3706220      (char*) "."
+[RSP+358] 0x28BE3705D68      (void*)
+[RSP+360] 0xD318B7FA00       (void*)
+[RSP+368] 0x0                (size_t)
+[RSP+370] 0x0                (size_t)
+[RSP+378] 0x7FF8E767AC90     (void* -> Buffout4.dll+004AC90)
+[RSP+380] 0x28A72F26610      (void*)
+[RSP+388] 0x0                (size_t)
+[RSP+390] 0x0                (size_t)
+[RSP+398] 0x0                (size_t)
+[RSP+3A0] 0x28D13D92040      (void*)
+[RSP+3A8] 0x7FF8E767C289     (void* -> Buffout4.dll+004C289)
+[RSP+3B0] 0x28D13D92040      (void*)
+[RSP+3B8] 0x0                (size_t)
+[RSP+3C0] 0x28B79500F00      (IOManagerThread*)
+[RSP+3C8] 0x28D536E2B00      (BSFaceGenAnimationData*)
+[RSP+3D0] 0xFFFFFFFF         (size_t)
+[RSP+3D8] 0x7FF6FAB752B7     (void* -> Fallout4.exe+01952B7)
+[RSP+3E0] 0x28D13D92040      (void*)
+[RSP+3E8] 0x2904F37D640      (void*)
+[RSP+3F0] 0x0                (size_t)
+[RSP+3F8] 0x2906545F530      (void*)
+[RSP+400] 0x2906545F530      (void*)
+[RSP+408] 0x7FF6FB06B682     (void* -> Fallout4.exe+068B682)
+[RSP+410] 0xFFFFFFFF         (size_t)
+[RSP+418] 0x28D536E2B00      (BSFaceGenAnimationData*)
+[RSP+420] 0xD318B7FA00       (void*)
+[RSP+428] 0xD300000000       (size_t)
+[RSP+430] 0x7FF6FD7F7100     (char*) "H"
+[RSP+438] 0x28B3CC8A080      (BSFaceGenNiNode*)
+Name: "BSFaceGenNiNodeSkinned"
+[RSP+440] 0x28D208BB9C0      (void*)
+[RSP+448] 0x7009A18955       (size_t)
+[RSP+450] 0x10000067FA81E    (size_t)
+[RSP+458] 0xD318B7FA20       (char*) "Meshes\Actors\Character\FaceGenData\FaceGeom\Fallout4.esm\00216248.NIF"
+[RSP+460] 0xD318B7F928       (void*)
+[RSP+468] 0x2906545F538      (void*)
+[RSP+470] 0xD318B7FD80       (void*)
+[RSP+478] 0xD318B7FD98       (void*)
+[RSP+480] 0xD318B7F920       (void*)
+[RSP+488] 0x0                (size_t)
+[RSP+490] 0x0                (size_t)
+[RSP+498] 0x0                (size_t)
+[RSP+4A0] 0x0                (size_t)
+[RSP+4A8] 0x0                (size_t)
+[RSP+4B0] 0x0                (size_t)
+[RSP+4B8] 0x0                (size_t)
+[RSP+4C0] 0x0                (size_t)
+[RSP+4C8] 0x7FF6FE0B8CA8     (void* -> Fallout4.exe+36D8CA8)
+[RSP+4D0] 0x0                (size_t)
+[RSP+4D8] 0x0                (size_t)
+[RSP+4E0] 0x0                (size_t)
+[RSP+4E8] 0x0                (size_t)
+[RSP+4F0] 0x0                (size_t)
+[RSP+4F8] 0x7FF6FE0B8CAC     (void* -> Fallout4.exe+36D8CAC)
+[RSP+500] 0x0                (size_t)
+[RSP+508] 0x0                (size_t)
+[RSP+510] 0x2400000001       (size_t)
+[RSP+518] 0x3F8000003F800000 (size_t)
+[RSP+520] 0x3F800000         (size_t)
+[RSP+528] 0x0                (size_t)
+[RSP+530] 0x415C73656873654D (size_t)
+[RSP+538] 0x68435C73726F7463 (size_t)
+[RSP+540] 0x5C72657463617261 (size_t)
+[RSP+548] 0x446E654765636146 (size_t)
+[RSP+550] 0x656361465C617461 (size_t)
+[RSP+558] 0x6C61465C6D6F6547 (size_t)
+[RSP+560] 0x73652E3474756F6C (size_t)
+[RSP+568] 0x3236313230305C6D (size_t)
+[RSP+570] 0x46494E2E3834     (size_t)
+[RSP+578] 0xD318B7FA38       (char*) "FaceGenData\FaceGeom\Fallout4.esm\00216248.NIF"
+[RSP+580] 0x4                (size_t)
+[RSP+588] 0xCEDDC5A          (size_t)
+[RSP+590] 0x0                (size_t)
+[RSP+598] 0x7FF6FBEB7272     (void* -> Fallout4.exe+14D7272)
+[RSP+5A0] 0x2904F328E60      (void*)
+[RSP+5A8] 0x1                (size_t)
+[RSP+5B0] 0x18               (size_t)
+[RSP+5B8] 0x1                (size_t)
+[RSP+5C0] 0x8D0              (size_t)
+[RSP+5C8] 0x7FF6FC1215AB     (void* -> Fallout4.exe+17415AB)
+[RSP+5D0] 0x28CCE4D2E20      (hkbBehaviorGraph*)
+[RSP+5D8] 0x0                (size_t)
+[RSP+5E0] 0x0                (size_t)
+[RSP+5E8] 0x28D5CAF7650      (void*)
+[RSP+5F0] 0x28D5CAF75A0      (hkaSplineCompressedAnimation*)
+[RSP+5F8] 0xD318B7FC50       (char*) "aracter\FaceGenData\FaceGeom\Fallout4.esm\00216248.NIF.p"
+[RSP+600] 0xD318B7FC70       (char*) "lout4.esm\00216248.NIF.p"
+[RSP+608] 0xD318B7FC40       (char*) "Meshes\Actors\Character\FaceGenData\FaceGeom\Fallout4.esm\00216248.NIF.p"
+[RSP+610] 0xD318B7FB01       (void*)
+[RSP+618] 0x7FF8E767BDCE     (void* -> Buffout4.dll+004BDCE)
+[RSP+620] 0x2CE4D3501        (size_t)
+[RSP+628] 0x100000001        (size_t)
+[RSP+630] 0xD318B7FBE0       (void*)
+[RSP+638] 0x0                (size_t)
+[RSP+640] 0x0                (size_t)
+[RSP+648] 0x0                (size_t)
+[RSP+650] 0x28CCE4D3910      (void*)
+[RSP+658] 0x28C4FFA1090      (void*)
+[RSP+660] 0x48               (size_t)
+[RSP+668] 0x7FF8E767BDCE     (void* -> Buffout4.dll+004BDCE)
+[RSP+670] 0x0                (size_t)
+[RSP+678] 0x0                (size_t)
+[RSP+680] 0x0                (size_t)
+[RSP+688] 0x0                (size_t)
+[RSP+690] 0x0                (size_t)
+[RSP+698] 0x0                (size_t)
+[RSP+6A0] 0x0                (size_t)
+[RSP+6A8] 0x0                (size_t)
+[RSP+6B0] 0x0                (size_t)
+[RSP+6B8] 0x0                (size_t)
+[RSP+6C0] 0x0                (size_t)
+[RSP+6C8] 0x0                (size_t)
+[RSP+6D0] 0x0                (size_t)
+[RSP+6D8] 0x0                (size_t)
+[RSP+6E0] 0x0                (size_t)
+[RSP+6E8] 0x0                (size_t)
+[RSP+6F0] 0x0                (size_t)
+[RSP+6F8] 0x7FF6FA9EE2C9     (void* -> Fallout4.exe+000E2C9)
+[RSP+700] 0x7FF700843A20     (void* -> Fallout4.exe+5E63A20)
+[RSP+708] 0x0                (size_t)
+[RSP+710] 0x0                (size_t)
+[RSP+718] 0x0                (size_t)
+[RSP+720] 0x7FF70084EB60     (void* -> Fallout4.exe+5E6EB60)
+[RSP+728] 0x0                (size_t)
+[RSP+730] 0x7                (size_t)
+[RSP+738] 0xD318B7FD20       (void*)
+[RSP+740] 0x0                (size_t)
+[RSP+748] 0xD318B7FC40       (char*) "Meshes\Actors\Character\FaceGenData\FaceGeom\Fallout4.esm\00216248.NIF.p"
+[RSP+750] 0x415C73656873654D (size_t)
+[RSP+758] 0x68435C73726F7463 (size_t)
+[RSP+760] 0x5C72657463617261 (size_t)
+[RSP+768] 0x446E654765636146 (size_t)
+[RSP+770] 0x656361465C617461 (size_t)
+[RSP+778] 0x6C61465C6D6F6547 (size_t)
+[RSP+780] 0x73652E3474756F6C (size_t)
+[RSP+788] 0x3236313230305C6D (size_t)
+[RSP+790] 0x702E46494E2E3834 (size_t)
+[RSP+798] 0x7FF6FA9E3D00     (void* -> Fallout4.exe+0003D00)
+[RSP+7A0] 0x28B79500F00      (IOManagerThread*)
+[RSP+7A8] 0x7FF6FABB9D80     (void* -> Fallout4.exe+01D9D80)
+[RSP+7B0] 0x0                (size_t)
+[RSP+7B8] 0x7FF6FC4F093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+7C0] 0x0                (size_t)
+[RSP+7C8] 0x0                (size_t)
+[RSP+7D0] 0xD318B7FD50       (void*)
+[RSP+7D8] 0x400041A281A28    (size_t)
+[RSP+7E0] 0x28B79500F00      (IOManagerThread*)
+[RSP+7E8] 0x2906545F4C0      (AIProcess::PendingActorHeadData*)
+[RSP+7F0] 0x0                (size_t)
+[RSP+7F8] 0x7FFFFFFFFFFFFFF  (size_t)
+[RSP+800] 0x28A6CDB8120      (void*)
+[RSP+808] 0x5                (size_t)
+[RSP+810] 0x4                (size_t)
+[RSP+818] 0x7FF6FB73EBB4     (void* -> Fallout4.exe+0D5EBB4)
+[RSP+820] 0x2906545F538      (void*)
+[RSP+828] 0x7FF6FB6BCF53     (void* -> Fallout4.exe+0CDCF53)
+[RSP+830] 0x28B996C7A7F      (void*)
+[RSP+838] 0x28BA5AFE780      (TESNPC*)
+File: "Fallout4.esm"
+Flags: 0x00040009
+Form ID: 0x00216248
+Form Type: 45
+Full Name: "Resident"
+[RSP+840] 0x6C               (size_t)
+[RSP+848] 0x2906545F4C0      (AIProcess::PendingActorHeadData*)
+[RSP+850] 0x0                (size_t)
+[RSP+858] 0x0                (size_t)
+[RSP+860] 0x0                (size_t)
+[RSP+868] 0x0                (size_t)
+[RSP+870] 0x0                (size_t)
+[RSP+878] 0x0                (size_t)
+[RSP+880] 0x0                (size_t)
+[RSP+888] 0x0                (size_t)
+[RSP+890] 0x0                (size_t)
+[RSP+898] 0x0                (size_t)
+[RSP+8A0] 0x0                (size_t)
+[RSP+8A8] 0x0                (size_t)
+[RSP+8B0] 0x0                (size_t)
+[RSP+8B8] 0x0                (size_t)
+[RSP+8C0] 0x7FF6FA9E0000     (void*)
+[RSP+8C8] 0x7FF6FC687E53     (void* -> Fallout4.exe+1CA7E53)
+[RSP+8D0] 0x2906545F4C0      (AIProcess::PendingActorHeadData*)
+[RSP+8D8] 0x0                (size_t)
+[RSP+8E0] 0x0                (size_t)
+[RSP+8E8] 0x7FF6FB05B33F     (void* -> Fallout4.exe+067B33F)
+[RSP+8F0] 0x28B4DB75600      (IOManager*)
+[RSP+8F8] 0x7FF6FC6849E0     (void* -> Fallout4.exe+1CA49E0)
+[RSP+900] 0x3                (size_t)
+[RSP+908] 0x2906545F4C0      (AIProcess::PendingActorHeadData*)
+[RSP+910] 0x3                (size_t)
+[RSP+918] 0x1                (size_t)
+[RSP+920] 0x2906545F4C0      (AIProcess::PendingActorHeadData*)
+[RSP+928] 0x7FF6FC687701     (void* -> Fallout4.exe+1CA7701)
+[RSP+930] 0xFFFFFFFF         (size_t)
+[RSP+938] 0xFFFFFFFF         (size_t)
+[RSP+940] 0x28B4DB75600      (IOManager*)
+[RSP+948] 0x8                (size_t)
+[RSP+950] 0x28A000037E8      (void*)
+[RSP+958] 0x0                (size_t)
+[RSP+960] 0x7FFFFFFFFFFFFFF  (size_t)
+[RSP+968] 0x28B792DE650      (void*)
+[RSP+970] 0x28B792DE650      (void*)
+[RSP+978] 0x0                (size_t)
+[RSP+980] 0x0                (size_t)
+[RSP+988] 0x0                (size_t)
+[RSP+990] 0x0                (size_t)
+[RSP+998] 0x0                (size_t)
+[RSP+9A0] 0x0                (size_t)
+[RSP+9A8] 0x0                (size_t)
+[RSP+9B0] 0x0                (size_t)
+[RSP+9B8] 0x0                (size_t)
+[RSP+9C0] 0x28B79500F00      (IOManagerThread*)
+[RSP+9C8] 0x7FF6FC4FCFED     (void* -> Fallout4.exe+1B1CFED)
+[RSP+9D0] 0x28B79500F00      (IOManagerThread*)
+[RSP+9D8] 0xD318B7FE00       (void*)
+[RSP+9E0] 0x28A6CDBBC00      (NiTPrimitiveArray<void (*)(NiStream &,NiObject *)>*)
+[RSP+9E8] 0xFFFFFFFF         (size_t)
+[RSP+9F0] 0x28B79500F00      (IOManagerThread*)
+[RSP+9F8] 0x0                (size_t)
+[RSP+A00] 0x0                (size_t)
+[RSP+A08] 0x7FF9F1D6257D     (void* -> KERNEL32.DLL+001257D)
+[RSP+A10] 0x0                (size_t)
+[RSP+A18] 0x0                (size_t)
+[RSP+A20] 0x0                (size_t)
+[RSP+A28] 0x0                (size_t)
+[RSP+A30] 0x0                (size_t)
+[RSP+A38] 0x7FF9F2B6AA48     (void* -> ntdll.dll+005AA48)
+[RSP+A40] 0x0                (size_t)
+[RSP+A48] 0x0                (size_t)
+[RSP+A50] 0x0                (size_t)
+[RSP+A58] 0x0                (size_t)
+[RSP+A60] 0x0                (size_t)
+[RSP+A68] 0x0                (size_t)
+[RSP+A70] 0xC64E994800000000 (size_t)
+[RSP+A78] 0x0                (size_t)
+[RSP+A80] 0x4F0FFFFFB30      (size_t)
+[RSP+A88] 0x7FF9F051C880     (void* -> KERNELBASE.dll+015C880)
+[RSP+A90] 0xD318B7DFC0       (void*)
+[RSP+A98] 0xC800007FF9361F51 (size_t)
+[RSP+AA0] 0x7FF9361F51C8     (size_t)
+[RSP+AA8] 0xD318B7DFC0       (void*)
+[RSP+AB0] 0x0                (size_t)
+[RSP+AB8] 0x0                (size_t)
+[RSP+AC0] 0x0                (size_t)
+[RSP+AC8] 0x0                (size_t)
+[RSP+AD0] 0x0                (size_t)
+[RSP+AD8] 0x0                (size_t)
+[RSP+AE0] 0x0                (size_t)
+[RSP+AE8] 0x0                (size_t)
+[RSP+AF0] 0x0                (size_t)
+[RSP+AF8] 0x0                (size_t)
+[RSP+B00] 0x0                (size_t)
+[RSP+B08] 0x0                (size_t)

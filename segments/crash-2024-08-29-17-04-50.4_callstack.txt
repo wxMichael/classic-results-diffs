@@ -1,0 +1,439 @@
+[ 0] 0x7FF780F8F764 Fallout4.exe+065F764 -> 1273713+0x94	movss xmm2, dword ptr [rdi+0x24]
+[ 1] 0x7FF780F91EC3 Fallout4.exe+0661EC3 -> 1137654+0x13	mov rcx, [rbx+0x08]
+[ 2] 0x7FF78141E1C2 Fallout4.exe+0AEE1C2 -> 475551+0x992	movaps xmm6, xmm7
+[ 3] 0x7FF78144F005 Fallout4.exe+0B1F005 -> 579386+0x245	cmp qword ptr [rbp-0x11], 0x00
+[ 4] 0x7FF7814483D5 Fallout4.exe+0B183D5 -> 1461108+0x225	jmp 0x00007FF781448FB0
+[ 5] 0x7FF7829C7DB9 Fallout4.exe+2097DB9 -> 1370838+0x299	mov edx, [rbp-0x31]
+[ 6] 0x7FF7829C80C2 Fallout4.exe+20980C2 -> 79342+0xA2	jmp 0x00007FF7829C89C0
+[ 7] 0x7FF782A0F608 Fallout4.exe+20DF608 -> 1370175+0x3B8	mov ecx, [rbp-0x68]
+[ 8] 0x7FF7829C53FB Fallout4.exe+20953FB -> 424437+0x140B	jmp 0x00007FF7829C52C2
+[ 9] 0x7FF7829C3F63 Fallout4.exe+2093F63 -> 344994+0x23	cmp byte ptr [rdi+0xA8], 0x00
+[10] 0x7FF7829C893F Fallout4.exe+209893F -> 79342+0x91F	jmp 0x00007FF7829C8316
+[11] 0x7FF782B50D63 Fallout4.exe+2220D63 -> 1134266+0x1A3	test dil, 0x02
+[12] 0x7FF782B51607 Fallout4.exe+2221607 -> 333337+0x247	mov rcx, [rsp+0x140]
+[13] 0x7FF782B57385 Fallout4.exe+2227385 -> 1412707+0x455	movzx eax, byte ptr [rbx+0x5C]
+[14] 0x7FF782B3CF78 Fallout4.exe+220CF78 -> 877886+0xA8	mov rax, [rsp+0x40]
+[15] 0x7FF7829C98C0 Fallout4.exe+20998C0 -> 429241+0x2F0	cmp [r14+0xA8], sil
+[16] 0x7FF782A0E2C3 Fallout4.exe+20DE2C3 -> 432943+0x143	mov ecx, [rbp+0x78]
+[17] 0x7FF7829C521F Fallout4.exe+209521F -> 424437+0x122F	jmp 0x00007FF7829C4C3D
+[18] 0x7FF7829C3F63 Fallout4.exe+2093F63 -> 344994+0x23	cmp byte ptr [rdi+0xA8], 0x00
+[19] 0x7FF7829C893F Fallout4.exe+209893F -> 79342+0x91F	jmp 0x00007FF7829C8316
+[20] 0x7FF782B50F8F Fallout4.exe+2220F8F -> 1134266+0x3CF	test r15b, 0x08
+[21] 0x7FF782B514E5 Fallout4.exe+22214E5 -> 333337+0x125	test al, al
+[22] 0x7FF782B57385 Fallout4.exe+2227385 -> 1412707+0x455	movzx eax, byte ptr [rbx+0x5C]
+[23] 0x7FF782B3CF78 Fallout4.exe+220CF78 -> 877886+0xA8	mov rax, [rsp+0x40]
+[24] 0x7FF7829C98C0 Fallout4.exe+20998C0 -> 429241+0x2F0	cmp [r14+0xA8], sil
+[25] 0x7FF782A0E2C3 Fallout4.exe+20DE2C3 -> 432943+0x143	mov ecx, [rbp+0x78]
+[26] 0x7FF7829C521F Fallout4.exe+209521F -> 424437+0x122F	jmp 0x00007FF7829C4C3D
+[27] 0x7FF7829C3F63 Fallout4.exe+2093F63 -> 344994+0x23	cmp byte ptr [rdi+0xA8], 0x00
+[28] 0x7FF7829C893F Fallout4.exe+209893F -> 79342+0x91F	jmp 0x00007FF7829C8316
+[29] 0x7FF782A8BCA3 Fallout4.exe+215BCA3 -> 917062+0x1B3	mov ecx, [rbp-0x19]
+[30] 0x7FF7829C98C0 Fallout4.exe+20998C0 -> 429241+0x2F0	cmp [r14+0xA8], sil
+[31] 0x7FF782A0E2C3 Fallout4.exe+20DE2C3 -> 432943+0x143	mov ecx, [rbp+0x78]
+[32] 0x7FF7829C521F Fallout4.exe+209521F -> 424437+0x122F	jmp 0x00007FF7829C4C3D
+[33] 0x7FF7829C3F63 Fallout4.exe+2093F63 -> 344994+0x23	cmp byte ptr [rdi+0xA8], 0x00
+[34] 0x7FF7829C860C Fallout4.exe+209860C -> 79342+0x5EC	jmp 0x00007FF7829C89C0
+[35] 0x7FF782A02AC9 Fallout4.exe+20D2AC9 -> 349892+0x499	mov ecx, [rbp-0x19]
+[36] 0x7FF782A013FF Fallout4.exe+20D13FF -> 145087+0xFF	movzx edi, byte ptr [rax]
+[37] 0x7FF782A009F9 Fallout4.exe+20D09F9 -> 1360149+0x419	cmp byte ptr [rax], 0x00
+[38] 0x7FF781450952 Fallout4.exe+0B20952 -> 836193+0x572	mov eax, [rbp-0x48]
+[39] 0x7FF78144A53B Fallout4.exe+0B1A53B -> 1396668+0x8BB	mov rcx, r15
+[40] 0x7FF781448173 Fallout4.exe+0B18173 -> 1395000+0x193	xor ecx, ecx
+[41] 0x7FF782973629 Fallout4.exe+2043629 -> 910928+0xF9	mov eax, [0x00007FF786EA74C4]
+[42] 0x7FF7816695F6 Fallout4.exe+0D395F6 -> 633524+0x796	mov rcx, [0x00007FF78638FE10]
+[43] 0x7FF781666E10 Fallout4.exe+0D36E10 -> 1125396+0xC0	mov rcx, [0x00007FF7863D4278]
+[44] 0x7FF781665950 Fallout4.exe+0D35950 -> 668528+0x20	call 0x00007FF70356004F
+[45] 0x7FF783267157 Fallout4.exe+2937157 -> 1104651+0x143	mov [0x00007FF7870647C8], eax
+[46] 0x7FFEC6B3257D KERNEL32.DLL+001257D
+[47] 0x7FFEC750AF28    ntdll.dll+005AF28
+
+REGISTERS:
+RAX 0x22177715000      (AlchemyItem*)
+File: "MutantMenagerie.esm"
+Flags: 0x00000009
+FormID: 0x0F00E683
+FormType: kALCH (48)
+GetFullName: "Starlight Berry"
+RSI 0x22127426E80      (TESObjectWEAP::InstanceData*)
+R13 0x2217F34D000      (TESObjectWEAP*)
+File: "Dank_ECO_SS2.esp"
+Modified by: SS2_XPAC_Chapter3.esm -> Dank_ECO_SS2.esp
+Flags: 0x40000009
+Name: "Gun"
+FormID: 0x12016FC8
+FormType: kWEAP (43)
+GetFullName: "Stheno"
+
+STACK:
+[RSP+18  ] 0x22127426E80      (TESObjectWEAP::InstanceData*)
+[RSP+80  ] 0x22177715000      (AlchemyItem*)
+File: "MutantMenagerie.esm"
+Flags: 0x00000009
+FormID: 0x0F00E683
+FormType: kALCH (48)
+GetFullName: "Starlight Berry"
+[RSP+D8  ] 0x22127426E80      (TESObjectWEAP::InstanceData*)
+[RSP+E0  ] 0x22177715000      (AlchemyItem*)
+File: "MutantMenagerie.esm"
+Flags: 0x00000009
+FormID: 0x0F00E683
+FormType: kALCH (48)
+GetFullName: "Starlight Berry"
+[RSP+1B0 ] 0x2217F34D000      (TESObjectWEAP*)
+File: "Dank_ECO_SS2.esp"
+Modified by: SS2_XPAC_Chapter3.esm -> Dank_ECO_SS2.esp
+Flags: 0x40000009
+Name: "Gun"
+FormID: 0x12016FC8
+FormType: kWEAP (43)
+GetFullName: "Stheno"
+[RSP+1B8 ] 0x22127426E80      (TESObjectWEAP::InstanceData*)
+[RSP+1C0 ] 0x7FF786388630     (AnimationClipDataSingleton*)
+[RSP+1E0 ] 0x2217F34D000      (TESObjectWEAP*)
+File: "Dank_ECO_SS2.esp"
+Modified by: SS2_XPAC_Chapter3.esm -> Dank_ECO_SS2.esp
+Flags: 0x40000009
+Name: "Gun"
+FormID: 0x12016FC8
+FormType: kWEAP (43)
+GetFullName: "Stheno"
+[RSP+1E8 ] 0x22127426E80      (TESObjectWEAP::InstanceData*)
+[RSP+300 ] 0x2216EFE4950      (TESIdleForm*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "RaiderReload"
+FormID: 0x000BDDA6
+FormType: kIDLE (81)
+[RSP+328 ] 0x2216EFE4950      (TESIdleForm*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "RaiderReload"
+FormID: 0x000BDDA6
+FormType: kIDLE (81)
+[RSP+3A0 ] 0x2216EFE4950      (TESIdleForm*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "RaiderReload"
+FormID: 0x000BDDA6
+FormType: kIDLE (81)
+[RSP+3A8 ] 0x7FFE6693D26E     (void* -> Buffout4.dll+010D26E	cmp eax, ebx |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2537 ?freeOwnObject@Block@internal@rml@@QEAAXPEAX@Z)
+[RSP+3B8 ] 0x2216EFE4950      (TESIdleForm*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "RaiderReload"
+FormID: 0x000BDDA6
+FormType: kIDLE (81)
+[RSP+3D8 ] 0x7FFE6693E393     (void* -> Buffout4.dll+010E393	mov rdi, [rsp+0x30] |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:3185 scalable_aligned_free)
+[RSP+3E0 ] 0x22177715000      (AlchemyItem*)
+File: "MutantMenagerie.esm"
+Flags: 0x00000009
+FormID: 0x0F00E683
+FormType: kALCH (48)
+GetFullName: "Starlight Berry"
+[RSP+410 ] 0x22169582400      (TESRace*)
+File: "BLD_LooksMenuPatch.esp"
+Modified by: Fallout4.esm -> Better Locational Damage.esp -> LooksMenu Customization Compendium.esp -> BLD_LooksMenuPatch.esp
+Flags: 0x00000009
+EditorID: "HumanRace"
+FormID: 0x00013746
+FormType: kRACE (17)
+GetFullName: "Human"
+[RSP+5C8 ] 0x7FFE6693E393     (void* -> Buffout4.dll+010E393	mov rdi, [rsp+0x30] |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:3185 scalable_aligned_free)
+[RSP+5D8 ] 0x7FFE66B42EB0     (void* -> Buffout4.dll+0312EB0	add [rax], al |  ?memPoolListLock@MemoryPool@internal@rml@@2VMallocMutex@@A_312EB0)
+[RSP+728 ] 0x7FFE6693D26E     (void* -> Buffout4.dll+010D26E	cmp eax, ebx |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2537 ?freeOwnObject@Block@internal@rml@@QEAAXPEAX@Z)
+[RSP+888 ] 0x221C3818B80      (TESObjectWEAP::InstanceData*)
+[RSP+8A8 ] 0x221C3818B80      (TESObjectWEAP::InstanceData*)
+[RSP+8B8 ] 0x7FFE6693DAD5     (void* -> Buffout4.dll+010DAD5	mov r8d, eax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2567 ?getTLS@MemoryPool@internal@rml@@QEAAPEAVTLSData@23@_N@Z)
+[RSP+8D8 ] 0x7FF784016318     (BGSMod::Property::Bridge<TESObjectWEAP::InstanceData>*)
+[RSP+998 ] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+9D8 ] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+A10 ] 0x22097B17EF0      (ScrapHeap*)
+[RSP+A58 ] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+AA0 ] 0x221C3818B80      (TESObjectWEAP::InstanceData*)
+[RSP+E50 ] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+EA8 ] 0x22210B9ABF8      (char*) "C"
+[RSP+1060] 0x22210B9AC18      (char*) "O"
+[RSP+1090] 0x22210485678      (char*) "H"
+[RSP+1128] 0x7FFE03441F20     (void* -> nvwgf2umx.dll+01A1F20	add rsp, 0x68)
+[RSP+1150] 0x400008           (void* -> XINPUT1_3.dll+0000008	add al, 0x00)
+[RSP+1158] 0x7FFE033BC8F0     (void* -> nvwgf2umx.dll+011C8F0	cmp r13d, 0x05)
+[RSP+11A8] 0x7FFEC07CD614     (void* -> d3d11.dll+003D614	mov ebx, eax)
+[RSP+11D8] 0x7FFEC07BF813     (void* -> d3d11.dll+002F813	mov ebx, eax)
+[RSP+11E8] 0x7FFE034198CA     (void* -> nvwgf2umx.dll+01798CA	add rsp, 0x3E8)
+[RSP+1208] 0x7FFEC07BEA19     (void* -> d3d11.dll+002EA19	lea r11, [rsp+0xB0])
+[RSP+13E8] 0x7FFE03419D51     (void* -> nvwgf2umx.dll+0179D51	add rsp, 0x120)
+[RSP+1428] 0x7FFEC07BF813     (void* -> d3d11.dll+002F813	mov ebx, eax)
+[RSP+1458] 0x7FFEC07BF7C6     (void* -> d3d11.dll+002F7C6	test eax, eax)
+[RSP+14B8] 0x7FFE0341E56B     (void* -> nvwgf2umx.dll+017E56B	add rsp, 0x78)
+[RSP+1558] 0x7FFE033BC477     (void* -> nvwgf2umx.dll+011C477	add rsp, 0x70)
+[RSP+1588] 0x7FFE0332E548     (void* -> nvwgf2umx.dll+008E548	mov rbx, [rsp+0x108])
+[RSP+15A0] 0x400008           (void* -> XINPUT1_3.dll+0000008	add al, 0x00)
+[RSP+15F8] 0x7FFE033BCE61     (void* -> nvwgf2umx.dll+011CE61	mov r12d, eax)
+[RSP+1608] 0x7FFEC74DA0A1     (void* -> ntdll.dll+002A0A1	mov r10, rbx)
+[RSP+1618] 0x7FFE03D5D100     (void* -> nvwgf2umx.dll+0ABD100	movzx eax, byte ptr [rdi+0x568])
+[RSP+1648] 0x7FFEC74D7027     (void* -> ntdll.dll+0027027	jmp 0x00007FFEC74D6FC3)
+[RSP+1658] 0x7FFE03B9B7F0     (void* -> nvwgf2umx.dll+08FB7F0	push rbp)
+[RSP+1678] 0x7FFE033B2D2D     (void* -> nvwgf2umx.dll+0112D2D	add rsp, 0x2F8)
+[RSP+1A98] 0x7FFEC74ED68A     (void* -> ntdll.dll+003D68A	mov r14, [rsp+0x38])
+[RSP+1B58] 0x7FFEC74ECC9A     (void* -> ntdll.dll+003CC9A	mov rsi, rax)
+[RSP+1B78] 0x7FFE57D0DFB2     (void* -> NvCamera64.dll+01EDFB2	mov rdi, [rsi+0x60])
+[RSP+1B90] 0x220E43B6F20      (AnselBufferHudless*)
+[RSP+1BA8] 0x7FFE57D1020F     (void* -> NvCamera64.dll+01F020F	lea r11, [rsp+0xF0])
+[RSP+1BC0] 0x220E43B6F20      (AnselBufferHudless*)
+[RSP+1BF8] 0x7FFE57E938E7     (void* -> NvCamera64.dll+03738E7	mov rbx, [rsp+0x70])
+[RSP+1CA8] 0x221C466DB40      (char*) "S"
+[RSP+1E38] 0x221C4870100      (char*) "
+"
+[RSP+1F88] 0x7FF7829B6DC3     (char*) "Hc"
+[RSP+2220] 0x221C485CF20      (char*) "C"
+[RSP+2258] 0x221C485CF10      (char*) "B"
+[RSP+2260] 0x50EB2FC6B8       (char*) "
+"
+[RSP+2550] 0x2221229E0E0      (char*) "c"
+[RSP+25F8] 0x2215D0B1580      (char*) "b"
+[RSP+2708] 0x2221229E2A8      (char*) "G"
+[RSP+2740] 0x2221229E2A8      (char*) "G"
+[RSP+2818] 0x2220F539098      (char*) "H"
+[RSP+2850] 0x2220F539098      (char*) "H"
+[RSP+2BD0] 0x221483EA230      (char*) "l"
+[RSP+2C90] 0x50EB2FCD44       (char*) ":"
+[RSP+2D38] 0x221483EA230      (char*) "l"
+[RSP+3148] 0x7FF7829B6DC3     (char*) "Hc"
+[RSP+33E0] 0x22210471E08      (char*) "C"
+[RSP+3418] 0x22210471DF8      (char*) "B"
+[RSP+3420] 0x50EB2FD878       (char*) "
+"
+[RSP+3708] 0x7FFE6693DAD5     (void* -> Buffout4.dll+010DAD5	mov r8d, eax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2567 ?getTLS@MemoryPool@internal@rml@@QEAAPEAVTLSData@23@_N@Z)
+[RSP+3758] 0x7FFE6693E3DE     (void* -> Buffout4.dll+010E3DE	mov rbx, rax |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:3106 scalable_aligned_malloc)
+[RSP+3828] 0x221C57CF5E8      (char*) "
+"
+[RSP+38E8] 0x7FF7829B6DC3     (char*) "Hc"
+[RSP+3A68] 0x2220FEDC100      (char*) "
+"
+[RSP+3D20] 0x221C4842300      (char*) "0"
+[RSP+3D78] 0x2221301B718      (char*) "*"
+[RSP+3DE0] 0x2221301B810      (char*) "H"
+[RSP+3E18] 0x7FF7829B6DC3     (char*) "Hc"
+[RSP+3F80] 0x2221301B718      (char*) "*"
+[RSP+3F98] 0x2221301B718      (char*) "*"
+[RSP+40B0] 0x2221301B7F8      (char*) "C"
+[RSP+40D8] 0x2221301B7E8      (char*) "l"
+[RSP+40F0] 0x50EB2FE548       (char*) "
+"
+[RSP+43F8] 0x22210485678      (char*) "H"
+[RSP+44F8] 0x221C57CF5E8      (char*) "
+"
+[RSP+4558] 0x2221214CF78      (char*) "H"
+[RSP+4590] 0x2221214CF78      (char*) "H"
+[RSP+4A18] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+4B98] 0x7FF78364BCB0     (char*) "entryList"
+[RSP+4BF8] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+4C30] 0x7FF78364BCB0     (char*) "entryList"
+[RSP+4CE0] 0x50EB2FEEB0       (TESObjectWEAP*)
+Flags: 0x112EC660
+FormID: 0x00000222
+FormType: kKEYM (47)
+[RSP+4DF0] 0x50EB2FEEB0       (TESObjectWEAP*)
+Flags: 0x112EC660
+FormID: 0x00000222
+FormType: kKEYM (47)
+[RSP+4E10] 0x2217F34D150      (TESObjectWEAP*)
+File: "Dank_ECO_SS2.esp"
+Modified by: SS2_XPAC_Chapter3.esm -> Dank_ECO_SS2.esp
+Flags: 0x40000009
+Name: "Gun"
+FormID: 0x12016FC8
+FormType: kWEAP (43)
+GetFullName: "Stheno"
+[RSP+4E28] 0x2217F93C160      (BGSKeyword*)
+File: "SS2_XPAC_Chapter3.esm"
+Flags: 0x00000009
+EditorID: "SS2C3_ma_IDRF"
+FormID: 0x1200558B
+FormType: kKYWD (04)
+[RSP+4E80] 0x2217F34D150      (TESObjectWEAP*)
+File: "Dank_ECO_SS2.esp"
+Modified by: SS2_XPAC_Chapter3.esm -> Dank_ECO_SS2.esp
+Flags: 0x40000009
+Name: "Gun"
+FormID: 0x12016FC8
+FormType: kWEAP (43)
+GetFullName: "Stheno"
+[RSP+4E98] 0x2217F93C160      (BGSKeyword*)
+File: "SS2_XPAC_Chapter3.esm"
+Flags: 0x00000009
+EditorID: "SS2C3_ma_IDRF"
+FormID: 0x1200558B
+FormType: kKYWD (04)
+[RSP+4EC8] 0x22096031600      (BGSMod::Attachment::Mod*)
+File: "SS2_XPAC_Chapter3.esm"
+Flags: 0x00000009
+FormID: 0x1200564B
+FormType: kOMOD (144)
+GetFullName: "Short Night Vision Scope"
+[RSP+4ED8] 0x22096031600      (BGSMod::Attachment::Mod*)
+File: "SS2_XPAC_Chapter3.esm"
+Flags: 0x00000009
+FormID: 0x1200564B
+FormType: kOMOD (144)
+GetFullName: "Short Night Vision Scope"
+[RSP+4F20] 0x2217F34D2E8      (BGSAttachParentArray*)
+[RSP+4F38] 0x22095FF6240      (BGSMod::Attachment::Mod*)
+File: "SS2_XPAC_Chapter3.esm"
+Flags: 0x00000009
+FormID: 0x1200558A
+FormType: kOMOD (144)
+GetFullName: "Iron Sights"
+[RSP+4F40] 0x2215BC4E080      (PlayerCharacter*)
+Flags: 0x00400448
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+File: "Better Locational Damage.esp"
+Modified by: Fallout4.esm -> Better Locational Damage.esp
+Flags: 0x00040009
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00400448
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+4F48] 0x2215BC4E080      (PlayerCharacter*)
+Flags: 0x00400448
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+File: "Better Locational Damage.esp"
+Modified by: Fallout4.esm -> Better Locational Damage.esp
+Flags: 0x00040009
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00400448
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+4F60] 0x221BCABF040      (BGSMod::Attachment::Mod*)
+File: "[Leader] Lobotomites.esp"
+Flags: 0x00000018
+FormID: 0xFE093801
+FormType: kOMOD (144)
+GetFullName: "Crazy Marty (Attack of the Lobotomites)"
+[RSP+4F68] 0x221BCABF040      (BGSMod::Attachment::Mod*)
+File: "[Leader] Lobotomites.esp"
+Flags: 0x00000018
+FormID: 0xFE093801
+FormType: kOMOD (144)
+GetFullName: "Crazy Marty (Attack of the Lobotomites)"
+[RSP+4F78] 0x22095FF6240      (BGSMod::Attachment::Mod*)
+File: "SS2_XPAC_Chapter3.esm"
+Flags: 0x00000009
+FormID: 0x1200558A
+FormType: kOMOD (144)
+GetFullName: "Iron Sights"
+[RSP+4F80] 0x221BC171780      (TESObjectMISC*)
+File: "M8r Complex Sorter.esp"
+Modified by: Dank_LEO.esp -> M8r Complex Sorter.esp
+Flags: 0x00000088
+FormID: 0xFE073885
+FormType: kMISC (35)
+GetFullName: "(Valuable) L1 - Instigating"
+[RSP+4FA8] 0x2217F34D150      (TESObjectWEAP*)
+File: "Dank_ECO_SS2.esp"
+Modified by: SS2_XPAC_Chapter3.esm -> Dank_ECO_SS2.esp
+Flags: 0x40000009
+Name: "Gun"
+FormID: 0x12016FC8
+FormType: kWEAP (43)
+GetFullName: "Stheno"
+[RSP+5008] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+5058] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+5078] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+5098] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+50A0] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+50C0] 0x221687548B0      (BGSKeyword*)
+File: "Fallout4.esm"
+Flags: 0x00000009
+EditorID: "ap_gun_Scope"
+FormID: 0x00022499
+FormType: kKYWD (04)
+[RSP+50C8] 0x2217F34D000      (TESObjectWEAP*)
+File: "Dank_ECO_SS2.esp"
+Modified by: SS2_XPAC_Chapter3.esm -> Dank_ECO_SS2.esp
+Flags: 0x40000009
+Name: "Gun"
+FormID: 0x12016FC8
+FormType: kWEAP (43)
+GetFullName: "Stheno"
+[RSP+50D0] 0x221D7775AB0      (BGSInventoryItem::Stack*)
+[RSP+50E8] 0x7FFE94FC6529     (void* -> MSVCR110.dll+0036529	xor eax, eax)
+[RSP+51C8] 0x2215BC4E080      (PlayerCharacter*)
+Flags: 0x00400448
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+File: "Better Locational Damage.esp"
+Modified by: Fallout4.esm -> Better Locational Damage.esp
+Flags: 0x00040009
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00400448
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+51D8] 0x7FFE66B42EB0     (void* -> Buffout4.dll+0312EB0	add [rax], al |  ?memPoolListLock@MemoryPool@internal@rml@@2VMallocMutex@@A_312EB0)
+[RSP+51E8] 0x50EB2FF3C0       (char*) "I"
+[RSP+5200] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+5208] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+5228] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+5240] 0x50EB2FF3C0       (char*) "I"
+[RSP+5268] 0x2215BC4E080      (PlayerCharacter*)
+Flags: 0x00400448
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+File: "Better Locational Damage.esp"
+Modified by: Fallout4.esm -> Better Locational Damage.esp
+Flags: 0x00040009
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00400448
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+5290] 0x22126A89660      (BSScaleformTranslator*)
+[RSP+52B8] 0x221C04FA5F0      (BGSObjectInstanceExtra*)
+[RSP+5300] 0x2217F34D000      (TESObjectWEAP*)
+File: "Dank_ECO_SS2.esp"
+Modified by: SS2_XPAC_Chapter3.esm -> Dank_ECO_SS2.esp
+Flags: 0x40000009
+Name: "Gun"
+FormID: 0x12016FC8
+FormType: kWEAP (43)
+GetFullName: "Stheno"
+[RSP+53B0] 0x22202E707C0      (BGSObjectInstanceExtra*)
+[RSP+53E8] 0x221CD0F9800      (HUDAmmoCounter*)
+[RSP+53F8] 0x221CD0F9800      (HUDAmmoCounter*)
+[RSP+5438] 0x221C04FA5F0      (BGSObjectInstanceExtra*)
+[RSP+5440] 0x2217F34D000      (TESObjectWEAP*)
+File: "Dank_ECO_SS2.esp"
+Modified by: SS2_XPAC_Chapter3.esm -> Dank_ECO_SS2.esp
+Flags: 0x40000009
+Name: "Gun"
+FormID: 0x12016FC8
+FormType: kWEAP (43)
+GetFullName: "Stheno"
+[RSP+5448] 0x22095FF74A0      (BGSMod::Attachment::Mod*)
+File: "SS2_XPAC_Chapter3.esm"
+Flags: 0x00000009
+FormID: 0x120055E7
+FormType: kOMOD (144)
+GetFullName: "Iron Sights - Front"
+[RSP+54C0] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+5500] 0x221F0BBCB80      (ExamineMenu*)
+[RSP+5508] 0x7FF786396DD0     (UI*)
+[RSP+5558] 0x221C596E2E0      (VignetteMenu*)
+[RSP+5590] 0x7FF786396DD0     (UI*)
+[RSP+5598] 0x7FF786396DD0     (UI*)
+[RSP+55A0] 0x22097B17EF0      (ScrapHeap*)
+[RSP+55E0] 0x220BE1F7D80      (Main*)
+[RSP+56B0] 0x22097B168D0      (char*) """
+[RSP+56E8] 0x7FFEC6B3257D     (void* -> KERNEL32.DLL+001257D	mov ecx, eax)
+[RSP+5718] 0x7FFEC750AF28     (void* -> ntdll.dll+005AF28	jmp 0x00007FFEC750AF49)
+[RSP+5768] 0x7FFEC4B209D0     (void* -> KERNELBASE.dll+01609D0	mov [rsp+0x10], rbx)
+[RSP+5790] 0x7FFEC750AF00     (void* -> ntdll.dll+005AF00	sub rsp, 0x78)

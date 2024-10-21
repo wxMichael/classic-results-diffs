@@ -1,0 +1,163 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     HUDFramework.esm
+[09]     WorkshopFramework.esm
+[0A]     XDI.esm
+[0B]     SettlementMenuManager.esp
+[0C]     InstitWeapPosit.esp
+[0D]     HoloTime.esp
+[0E]     ConsumeWithoutPickup.esp
+[0F]     AnimatedCandles.esp
+[10]     Some Assembly Required.esp
+[11]     Capped Out.esp
+[12]     FOFW_ALL_IN_ONE_VANILLA.esp
+[13]     DirtyPreWarClothesRestored.esp
+[14]     Reverb and Ambiance Overhaul.esp
+[15]     PlayerComments.esp
+[16]     BetterJunkFences.esp
+[17]     Upgradeable Vault Suit.esp
+[18]     DCRE.esp
+[19]     K9TacticalHarness.esp
+[1A]     Complex Vendors.esp
+[1B]     Perk Up.esp
+[1C]     LooksMenu.esp
+[1D]     AOSuperAlloysCohesion.esp
+[1E]     CTHColoredFriendlies.esp
+[1F]     Better_Settlement_Defence.esp
+[20]     AA Better Companions - No Conflicts.esp
+[21]     WWE.esp
+[22]     CBBE.esp
+[23]     Piercings.esp
+[24]     RutahTattooPack_FO4.esp
+[25]     KSHairdos.esp
+[26]     LooksMenu Customization Compendium.esp
+[27]     The Eyes Of Beauty.esp
+[28]     KSHairdos_oel.esp
+[29]     EasyHacking.esp
+[2A]     EasyLockpicking.esp
+[2B]     Jumpsuit.esp
+[2C]     StartMeUp.esp
+[2D]     NS4U.esp
+[FE:000] PPF.esm
+[FE:001] CanarySaveFileMonitor.esl
+[FE:002] Autorun Console Commands.esl
+[FE:003] ConfigurableHotkeys.esl
+[FE:004] SwimmingAnims.esl
+[FE:005] Community Fixes Merged.esp
+[FE:006] Ownership Fixes.esp
+[FE:007] No Quest Autostart.esl
+[FE:008] DeadGeneral.esl
+[FE:009] FastTravelAIDetectionFix.esl
+[FE:00A] FOVSlider.esl
+[FE:00B] REFramework.esm
+[FE:00C] WSFWLayouts - space2jump.esl
+[FE:00D] SSTMinutemenOrganizedMilitiaOutfits.esl
+[FE:00E] SSTNoSmolderingTurrets.esl
+[FE:00F] RRTV_TeaganSellsBOSClothing.esl
+[FE:010] Enhanced Vanilla Armor and Clothing.esp
+[FE:011] Fixed Gobo Effects.esp
+[FE:012] FO4LODGen-DLCNukaWorld.esp
+[FE:013] FO4LODGen-DLCWorkshop03.esp
+[FE:014] FO4LODGen-FullModelLOD.esp
+[FE:015] Wetness Shader Fix.esp
+[FE:016] Randomized DC Guard Outfits.esp
+[FE:017] WAVE.esp
+[FE:018] 4estGimp - AI Edits.esp
+[FE:019] PD_LowerWeapon.esp
+[FE:01A] RAW INPUT.esp
+[FE:01B] PA-Quick Animations.esp
+[FE:01C] Better Landscape Grass.esp
+[FE:01D] FO4LODGen.esp
+[FE:01E] Optimized Vanilla Tree LODs.esp
+[FE:01F] FO4LODGen-HighTrees.esp
+[FE:020] Vanilla Navmesh Update.esp
+[FE:021] Thrive Redone.esp
+[FE:022] FO4ParticlePatch.esp
+[FE:023] FOLIP - New LODs.esp
+[FE:024] FO4LODGen-DLCCoast.esp
+[FE:025] Fallout 4 AI Overhaul.esp
+[FE:026] GoodneighborView.esp
+[FE:027] LOST Audio Tweaks.esp
+[FE:028] FastTravelFromQuestHubs.esp
+[FE:029] WestonWaterLOD.esp
+[FE:02A] MissingMags.esp
+[FE:02B] Amelia and Dan at Bunker Hill.esp
+[FE:02C] IntGrievingRaider.esp
+[FE:02D] TerrainUndersides.esp
+[FE:02E] FO4LODGen-DLCCoast-WindTurbines.esp
+[FE:02F] DiamondCityBillboards.esp
+[FE:030] ODT - Pip Boy Skins.esp
+[FE:031] LOD Fixes and Additons.esp
+[FE:032] Soundtrack Extension.esp
+[FE:033] BetterBloatflies.esp
+[FE:034] SimpleAttackReactions.esp
+[FE:035] Weapon Scrapping Redone.esp
+[FE:036] Clothing Scrapping Redone.esp
+[FE:037] Companion Thoughts Overhaul.esp
+[FE:038] WhoIsTheGeneral.esp
+[FE:039] Less intrusive tutorial.esp
+[FE:03A] Legendary Mutation Messages Fix.esp
+[FE:03B] Streamlined Weapons.esp
+[FE:03C] MiscAnimTweaks.esp
+[FE:03D] MGRemesh.esp
+[FE:03E] ScalingTweak.esp
+[FE:03F] Keep Radiants In Commonwealth.esp
+[FE:040] Perennial Power Armor.esp
+[FE:041] Natural Grasses & Groundcovers.esp
+[FE:042] Peeling Posters.esp
+[FE:043] Blasted Billboards.esp
+[FE:044] Frame Job.esp
+[FE:045] Rusty Face Fix.esp
+[FE:046] Live Action Handy - With GlowMap.esp
+[FE:047] Genetical Father 1.0.1.esp
+[FE:048] Base Face.esp
+[FE:049] LegendariesTheyCanUse.esp
+[FE:04A] LockedSafesLegendaryLoot.esp
+[FE:04B] Makeshifttextures.esp
+[FE:04C] Terrains LOD.esp
+[FE:04D] Publick Occurrences Expanded.esp
+[FE:04E] Consistent Crops.esp
+[FE:04F] ElevatorLights.esp
+[FE:050] MinimalMinutemenRadiants.esp
+[FE:051] Resized_10mm_Pistol.esp
+[FE:052] Crimsomrider's 1950s Feminine Outfits.esp
+[FE:053] HelpMePackItUp.esp
+[FE:054] Gloomy Glass.esp
+[FE:055] RB_LJDanse.esp
+[FE:056] DaksCombatRifle.esp
+[FE:057] Docile Radstags.esp
+[FE:058] Less Annoying Berry Mentats.esp
+[FE:059] CastleRecruiter.esp
+[FE:05A] FastTravelFromVault81.esp
+[FE:05B] TrueInvisibility.esp
+[FE:05C] Curated Companions AIO.esp
+[FE:05D] AOSuperAlloysCubemap.esp
+[FE:05E] Non-repeating player comments in Vault 111.esp
+[FE:05F] MagRack.esp
+[FE:060] Snapgasm.esp
+[FE:061] dD-Enhanced Blood Basic.esp
+[FE:062] dD - Limited Blood Decals.esp
+[FE:063] dD - Small Splatter Size.esp
+[FE:064] SSNPC - DCResidentsAIO.esp
+[FE:065] SSNPC - KelloggNEW.esp
+[FE:066] T60to51.esp
+[FE:067] Light Radius Redux AIO.esp
+[FE:068] Better Workshop Street Oil Lamps.esp
+[FE:069] PRP-NukalurkRecipeBook.esp
+[FE:06A] Un-Randomized Workshop Turrets.esp
+[FE:06B] whisperAbraxoSugarBombsPaintJobs.esp
+[FE:06C] whisperVaultTecPaintJob.esp
+[FE:06D] Lightweight Lighting.esp
+[FE:06E] extendedLightsWS - No shadows.esp
+[FE:06F] WET.esp
+[FE:070] Conflict Resolution Patch.esp
+[FE:071] PRP.esp
+[FE:072] PuddleReflectionFix.esp
+[FE:073] VividFallout - AiO - 1k.esp
+[FE:074] Vivid Fallout - LOD.esp

@@ -1,0 +1,257 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     ccrzrfo4001-tunnelsnakes.esm
+[08]     ccswkfo4001-astronautpowerarmor.esm
+[09]     cczsefo4002-smanor.esm
+[0A]     Unofficial Fallout 4 Patch.esp
+[0B]     ArmorKeywords.esm
+[0C]     HUDFramework.esm
+[0D]     WorkshopFramework.esm
+[0E]     Armament.esp
+[0F]     SS2.esm
+[10]     SS2_XPAC_Chapter2.esm
+[11]     ProjectMojave.esm
+[12]     LooksMenu.esp
+[13]     Mosin.esp
+[14]     CutWeaponModsRestored-GOTY.esp
+[15]     Extended weapon mods.esp
+[16]     MoreUniques.esp
+[17]     Armorsmith Extended.esp
+[18]     Eli_Armour_Compendium.esp
+[19]     FallComplete.esp
+[1A]     ECO.esp
+[1B]     Isolation.esp
+[1C]     WZWildWasteland.esp
+[1D]     SS2Extended.esp
+[1E]     W.A.T.Minutemen.esp
+[1F]     Vault4.esp
+[20]     AmazingFollowerTweaks.esp
+[21]     CombinedArmsNV.esp
+[22]     CombinedArmsEXPack.esp
+[23]     Flashy_CrimeAndPunishment_GunForHire_Addon.esp
+[24]     UniqueUniques.esp
+[25]     DOOMMerged.esp
+[26]     LAER.esp
+[27]     F4NVServiceRifleRedux.esp
+[28]     Glock 17&18.esp
+[29]     SVT40.esp
+[2A]     BetterAutomatronWeapons.esp
+[2B]     ChineseStealthSuit.esp
+[2C]     KSHairdos.esp
+[2D]     EasyHacking.esp
+[2E]     fn five-seven v3.0.esp
+[2F]     Scopes.esp
+[30]     [ARRETH] FGEP.esp
+[31]     Hellfirenew.esp
+[32]     Immersive HUD.esp
+[33]     ImmersiveScrapping_SeasonPassVisPatch.esp
+[34]     LooksMenu Customization Compendium.esp
+[35]     ValentineCases.esp
+[36]     JSSynths.esp
+[37]     PipeShotgun.esp
+[38]     RightHandedHuntingRifle.esp
+[39]     ReconPack.esp
+[3A]     P220.esp
+[3B]     The Eyes Of Beauty.esp
+[3C]     TheEyesOfBeauty.esp
+[3D]     MP5.esp
+[FE:000] ccbgsfo4018-gaussrifleprototype.esl
+[FE:001] ccbgsfo4041-doommarinearmor.esl
+[FE:002] ccbgsfo4042-bfg.esl
+[FE:003] ccfsvfo4001-modularmilitarybackpack.esl
+[FE:004] ccfrsfo4001-handmadeshotgun.esl
+[FE:005] ccfrsfo4002-antimaterielrifle.esl
+[FE:006] ccbgsfo4075-pipshroud.esl
+[FE:007] ccbgsfo4048-dovah.esl
+[FE:008] ccbgsfo4116-heavyflamer.esl
+[FE:009] ccbgsfo4118-ws_tunnelsnakes.esl
+[FE:00A] ccbgsfo4103-as_tunnelsnakes.esl
+[FE:00B] ccbgsfo4047-qthund.esl
+[FE:00C] ccfrsfo4003-cr75l.esl
+[FE:00D] ccsbjfo4002_manwellrifle.esl
+[FE:00E] AmeliaRace.esp
+[FE:00F] TrainandResearch.esl
+[FE:010] PPF.esm
+[FE:011] RecruitDarla.esl
+[FE:012] AMELIA_Curie_Replacer.esp
+[FE:013] AmeliaPlayer.esp
+[FE:014] MoreCustomEyes.esp
+[FE:015] BetterModDescriptions.esp
+[FE:016] FPSL.esp
+[FE:017] Ownership Fixes.esp
+[FE:018] Armor_Mods_Expanded_v1b2.esp
+[FE:019] The Deadly Commonwealth Expansion.esp
+[FE:01A] WhoIsTheGeneral.esp
+[FE:01B] Wasteland Water Revival - Caribbean Blue.esp
+[FE:01C] Craftable Armor Size.esp
+[FE:01D] More Power Armour Mods.esp
+[FE:01E] Better Armour & Weapon Naming - All DLC.esp
+[FE:01F] Cryolator.esp
+[FE:020] BetterGenerators.esp
+[FE:021] BetterLoneWanderer.esp
+[FE:022] CBBE.esp
+[FE:023] Craftable Armor Size - Fix Material Requirements.esp
+[FE:024] dD-Enhanced Blood Basic.esp
+[FE:025] Faster Terminal Displays (20x).esp
+[FE:026] FoodGenerators.esp
+[FE:027] Fr4nssonsLightTweaks.esp
+[FE:028] eniusGamePerk.esp
+[FE:029] uckyYouPerk.esp
+[FE:02A] ImmersiveScrapping.esp
+[FE:02B] LongerPowerLines3x.esp
+[FE:02C] MinigunDamage.esp
+[FE:02D] Move (Get Out the Way).esp
+[FE:02E] NPC Accuracy Revised.esp
+[FE:02F] LoweredSprintAPDrain.esp
+[FE:030] No Aggro Impact Landing.esp
+[FE:031] PipeShotgun-AWKCR.esp
+[FE:032] AzarPonytailHairstyles.esp
+[FE:033] RAW INPUT.esp
+[FE:034] RaiderPerksFromKillingLeaders.esp
+[FE:035] Realistic Survival Damage.esp
+[FE:036] Repaired Roofs.esp
+[FE:037] RichMerchants.esp
+[FE:038] SVT40-AWKCR.esp
+[FE:039] This is MY Bed (Basic).esp
+[FE:03A] True-Frags_v1-2_MidDmg_Knockdown_MidRange_NukaDLC.esp
+[FE:03B] UltimateLockpick.esp
+[FE:03C] AnS Wearable Backpacks and Pouches.esp
+[FE:03D] BetterWeapons.esp
+[FE:03E] Classic Speech Checks.esp
+[FE:03F] LuckyYouPerk.esp
+[FE:040] Keep Radiants In Commonwealth.esp
+[FE:041] Lightweight Lighting.esp
+[FE:042] Faster Stations.esp
+[FE:043] Increased.esp
+[FE:044] PRP.esp
+[FE:045] PRP-SS2.esp
+
+
+Scanner Log:
+
+crash-2022-09-14-02-54-58.log
+This crash log was automatically scanned.
+VER 1.2 | MIGHT CONTAIN FALSE POSITIVES.
+====================================================
+Main Error: Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF6F5637FD3 Fallout4.exe+01B7FD3
+====================================================
+Detected Buffout Version: Buffout 4 v1.26.2
+Latest Buffout Version: Buffout 4 v1.26.2
+You have the lastest version of Buffout 4!
+====================================================
+CHECKING IF BUFFOUT4.TOML PARAMETERS ARE CORRECT...
+====================================================
+Achievements parameter is correctly configured.
+-----
+Memory Manager parameter is correctly configured.
+-----
+Looks Menu (F4EE) parameter is correctly configured.
+-----
+====================================================
+CHECKING IF LOG MATCHES ANY KNOWN CRASH MESSAGES...
+====================================================
+Checking for Stack Overflow Crash.........All Clear
+Checking for Active Effects Crash.........All Clear
+Checking for Bad Math Crash...............All Clear
+Checking for Null Crash...................All Clear
+Checking for DLL Crash....................All Clear
+Checking for LOD Crash....................All Clear
+Checking for MCM Crash....................All Clear
+Checking for Decal Crash..................All Clear
+Checking for Equip Crash..................All Clear
+Checking for Script Crash.................All Clear
+Checking for Generic Crash................All Clear
+Checking for BA2 Limit Crash..............All Clear
+Checking for Rendering Crash..............All Clear
+Checking for Grid Scrap Crash.............All Clear
+Checking for Mesh (NIF) Crash.............All Clear
+Checking for Texture (DDS) Crash..........All Clear
+Checking for Material (BGSM) Crash........All Clear
+Checking for BitDefender Crash............All Clear
+Checking for NPC Pathing Crash............All Clear
+Checking for Audio Driver Crash...........All Clear
+Checking for Body Physics Crash...........All Clear
+Checking for Plugin Limit Crash...........All Clear
+Checking for Plugin Order Crash...........All Clear
+Checking for MO2 Extractor Crash..........All Clear
+Checking for Nvidia Debris Crash..........All Clear
+Checking for Nvidia Driver Crash..........All Clear
+Checking for Vulkan Memory Crash..........CULPRIT FOUND!
+> Priority Level: [5] | Detected number of KERNELBASE.dll | MSVCP140.dll | DxvkSubmissionQueue:  1  |  0  |  0
+Checking for Vulkan Settings Crash........All Clear
+Checking for Corrupted Audio Crash........All Clear
+Checking for Console Command Crash........All Clear
+Checking for Particle Effects Crash.......All Clear
+Checking for Animation / Physics Crash....All Clear
+Checking for Archive Invalidation Crash...All Clear
+---------- Unsolved Crash Messages Below ----------
+Checking for *[Save0Crash]................All Clear
+Checking for *[Precombines0Crash].........All Clear
+Checking for *[Ammo0Counter0Crash]........All Clear
+Checking for *[Player0Character0Crash]....All Clear
+-----
+FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CULPRITS,
+CHECK THE 'HOW TO READ CRASH LOGS' PDF DOCUMENT INCLUDED WITH THE AUTO-SCANNER!
+====================================================
+CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...
+====================================================
+IF YOU'RE USING DYNAMIC PERFORMANCE TUNER AND/OR LOAD ACCELERATOR,
+remove these mods completely and switch to High FPS Physics Fix!
+Link: https://www.nexusmods.com/fallout4/mods/44798?tab=files
+-----
+AUTOSCAN FOUND NO PROBLEMATIC MODS THAT MATCH THE CURRENT DATABASE FOR THIS LOG.
+THAT DOESN'T MEAN THERE AREN'T ANY! YOU SHOULD RUN PLUGIN CHECKER IN WRYE BASH.
+Wrye Bash Link: https://www.nexusmods.com/fallout4/mods/20032?tab=files
+-----
+====================================================
+CHECKING FOR MODS WITH SOLUTIONS & COMMUNITY PATCHES
+====================================================
+[!] FOUND 	[0B] ARMOR AND WEAPON KEYWORDS
+If you don't rely on AWKCR, you should switch to Equipment and Crafting Overhaul
+Better Alternative: https://www.nexusmods.com/fallout4/mods/55503?tab=files
+-----
+[!] FOUND 	[16] MORE UNIQUE WEAPONS EXPANSION
+Causes crashes due to broken precombines and compatibility issues with other weapon mods.
+Recommended Patch: https://www.nexusmods.com/fallout4/mods/54848?tab=files
+-----
+====================================================
+CHECKING FOR MODS PATCHED THROUGH OPC INSTALLER...
+====================================================
+- Found 	[1F] Fourville (Vault 4)
+- Found 	[FE:019] Deadly Commonwealth Expansion
+-----
+FOR PATCH REPOSITORY THAT PREVENTS CRASHES AND FIXES PROBLEMS IN THESE AND OTHER MODS,
+VISIT OPTIMIZATION PATCHES COLLECTION: https://www.nexusmods.com/fallout4/mods/54872
+-----
+====================================================
+SCANNING THE LOG FOR SPECIFIC (POSSIBLE) CUPLRITS...
+====================================================
+LIST OF (POSSIBLE) PLUGIN CULRIPTS:
+AUTOSCAN COULDN'T FIND ANY PLUGIN CULRIPTS
+-----
+LIST OF (POSSIBLE) FORM ID CULRIPTS:
+Form ID: 000179E5
+Form ID: 000179D9
+-----
+These Form IDs were caught by Buffout 4 and some of them might be related to this crash.
+You can try searching any listed Form IDs in FO4Edit and see if they lead to relevant records.
+-----
+LIST OF (POSSIBLE) FILE CULPRITS:
+AUTOSCAN COULDN'T FIND ANY FILE CULRIPTS
+-----
+FOR FULL LIST OF MODS THAT CAUSE PROBLEMS, THEIR ALTERNATIVES AND DETAILED SOLUTIONS,
+VISIT THE BUFFOUT 4 CRASH ARTICLE: https://www.nexusmods.com/fallout4/articles/3115
+====================================================
+DISCORD | Author/Made By: Poet#9800 & MakeHate#6753 | END OF SCAN
+SCAN RESULTS ARE AVAILABE IN FILES NAMED crash-date-and-time-AUTOSCAN.md
+===============================================================================
+FOR FULL LIST OF MODS THAT CAUSE PROBLEMS, THEIR ALTERNATIVES AND DETAILED SOLUTIONS,
+VISIT THE BUFFOUT 4 CRASH ARTICLE: https://www.nexusmods.com/fallout4/articles/3115
+====================================== CONTACT INFO =====================================
+END OF AUTOSCAN | DISCORD | Author/Made By: Poet#9800 & MakeHate#6753 | All Rights Reserved.
+=========================================================================================

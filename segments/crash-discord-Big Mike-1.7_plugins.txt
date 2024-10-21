@@ -1,0 +1,294 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     XDI.esm
+[09]     HUDFramework.esm
+[0A]     WorkshopFramework.esm
+[0B]     DamnApocalypse_CORE.esm
+[0C]     T6M_WeapCondFramework.esm
+[0D]     BuildingBlocks.esm
+[0E]     DamageThresholdFramework.esm
+[0F]     DamnApocalypse_Loot.esp
+[10]     T6M-WORedux.esp
+[11]     3dscopes-replacer.esp
+[12]     ECO.esp
+[13]     DamnApocalypse_PowerArmor.esp
+[14]     Adamantium Skeleton Improved - No Falling Damage.esp
+[15]     AnimatedRadaway.esp
+[16]     DamnApocalypse_Radiation.esp
+[17]     Be Exceptional.esp
+[18]     Craftable Armor Size.esp
+[19]     DamnApocalypse_CombatTweaks.esp
+[1A]     GibsofGlory.esp
+[1B]     BashPlus.esp
+[1C]     Be Exceptional Rebalanced (LVL 117).esp
+[1D]     BetterLowHealth_50only.esp
+[1E]     BetterScroungerRank4.esp
+[1F]     bifurious.esp
+[20]     NAC.esp
+[21]     CBBE.esp
+[22]     CROSS_Jetpack.esp
+[23]     CROSS100Dampener.esp
+[24]     CROSS_Cybernetics.esp
+[25]     ZombieWalkers.esp
+[26]     SKKSyntheticPlayer.esp
+[27]     DLC Timing.esp
+[28]     Dynamic Music Overhaul.esp
+[29]     SKKOmodStripper.esp
+[2A]     Realistic Death Physics - ALL DLC.esp
+[2B]     Elzee Human Grab Attacks.esp
+[2C]     WestTekTacticalOptics.esp
+[2D]     Esk_NoTeleportingCreatures.esp
+[2E]     Glowing Animals Emit Light.esp
+[2F]     KelloggsLeftoverBits.esp
+[30]     LooksMenu.esp
+[31]     Mister Sandman Affects crits too.esp
+[32]     Move (Get Out the Way).esp
+[33]     NullifyMoleratDisease.esp
+[34]     PA-Quick Animations.esp
+[35]     RAW INPUT.esp
+[36]     Real Tough.esp
+[37]     SilentProtagonist.esp
+[38]     SkipHSH1_6.esp
+[39]     STALKER Music_Complete.esp
+[3A]     SteadyAimChange.esp
+[3B]     Strong Back - DLCCoast.esp
+[3C]     SubtleSneakText.esp
+[3D]     WeightOnLevelUp.esp
+[3E]     No Aggro Impact Landing.esp
+[3F]     BTA_ForceOpen.esp
+[40]     PowerArmorRelay.esp
+[41]     NAC-FH.esp
+[42]     NAC-NW.esp
+[43]     EvenFasterSprintingWithOverdriveServosPowerArmor100.esp
+[44]     ESPExplorerFO4.esp
+[45]     DamnApocalypse_Radiation_NAC.esp
+[46]     Stealth Field Stability, A.esp
+[47]     WmkActiveEffects.esp
+[48]     WheelMenu.esp
+[49]     PhotoMode.esp
+[4A]     QuickTrade.esp
+[4B]     TNR Shoulder Lamp.esp
+[4C]     TNR Shoulder Lamp - Settings.esp
+[4D]     Project Reality Footsteps FO4.esp
+[4E]     PersistentVolumeSliders.esp
+[4F]     MG42.esp
+[50]     CROSS_Sounds_Replacer.esp
+[51]     DamnApocalypse_Radiation_UFO4P.esp
+[52]     UNnaked Power Armor.esp
+[53]     SKKRESystemManager.esp
+[54]     D98R_EarTacLight.esp
+[55]     FeralGhoulOUTBREAK.esp
+[56]     Snappy_HouseK.esp
+[57]     Backpacks of the Commonwealth.esp
+[58]     SKKFastReunions.esp
+[59]     DB_NoPowerArmorStrengthCap+10.esp
+[5A]     HumblePerksPack.esp
+[5B]     T6M_RifleGrenades.esp
+[5C]     SimpleBounties.esp
+[5D]     SkipDiMAMemories.esp
+[5E]     SKKGlobalStashScrapping.esp
+[5F]     EAMR.esp
+[60]     smmg.esp
+[61]     Crippled limbs fix.esp
+[62]     DTFOptionalPlugin.esp
+[63]     Jetpack Overhaul.esp
+[64]     dcc-palock.esp
+[65]     Locksmith.esp
+[66]     [ARR] FallEvil - Mega Zombie Pack.esp
+[67]     SettlementMenuManager.esp
+[68]     ImmersiveAnimationFramework.esp
+[69]     QuickHarvest.esp
+[6A]     Better Thermal Vision.esp
+[6B]     Scavenging station get more item x10.esp
+[6C]     SKKScriptLatencyTest.esp
+[6D]     ConstructionLight_MAXBright_Shadows_Wireless.esp
+[6E]     DogBed.esp
+[6F]     Grasslands - Healthy.esp
+[70]     Snappy_DLC03.esp
+[71]     Snappy_DLC_Scrap.esp
+[72]     This is MY Bed (Basic).esp
+[73]     Water Sources Expanded.esp
+[74]     VanillaArmorPaints.esp
+[75]     GWS-HandmadeRiflePaints.esp
+[76]     GunmetalArmorSkins.esp
+[77]     SimplyCosmeticPipboyPaintjobs.esp
+[78]     SimplyCosmeticPipboyPaintjobs-FactionPack.esp
+[79]     BuildingBlocks-Foundations.esp
+[7A]     T6M_WO-R_RifleGrenade.esp
+[7B]     no_pipboy_light.esp
+[7C]     AIO SS.esp
+[7D]     SKKVertibirdWorldTravel.esp
+[7E]     SKKPlayerUndead.esp
+[7F]     argvPerceptionEnergyWeapons.esp
+[80]     T6M_WO-R_MG42.esp
+[81]     T6M_WO-R_SMM2.esp
+[82]     T6M_WeapCond_WO-R.esp
+[83]     T6M_WeapCond_WO-R_MG42.esp
+[84]     T6M_WeapCond_Widget_Number.esp
+[85]     T6M_WO-R_Neanka-ANW.esp
+[86]     T6M_WO-R_3dScopes-replacer.esp
+[87]     T6M_PerksPack.esp
+[88]     SatelliteWorldMap.esp
+[89]     M8r Complex Sorter.esp
+[FE:000] ccbgsfo4001-pipboy(black).esl
+[FE:001] ccbgsfo4002-pipboy(blue).esl
+[FE:002] ccbgsfo4003-pipboy(camo01).esl
+[FE:003] ccbgsfo4004-pipboy(camo02).esl
+[FE:004] ccbgsfo4006-pipboy(chrome).esl
+[FE:005] ccbgsfo4012-pipboy(red).esl
+[FE:006] ccbgsfo4014-pipboy(white).esl
+[FE:007] ccbgsfo4005-bluecamo.esl
+[FE:008] ccgcafo4001-factionws01army.esl
+[FE:009] ccgcafo4002-factionws02acat.esl
+[FE:00A] ccgcafo4003-factionws03bos.esl
+[FE:00B] ccgcafo4004-factionws04gun.esl
+[FE:00C] ccgcafo4005-factionws05hrpink.esl
+[FE:00D] ccgcafo4006-factionws06hrshark.esl
+[FE:00E] ccgcafo4007-factionws07hrflames.esl
+[FE:00F] ccgcafo4008-factionws08inst.esl
+[FE:010] ccgcafo4009-factionws09mm.esl
+[FE:011] ccgcafo4010-factionws10rr.esl
+[FE:012] ccgcafo4011-factionws11vt.esl
+[FE:013] ccgcafo4012-factionas01acat.esl
+[FE:014] ccgcafo4013-factionas02bos.esl
+[FE:015] ccgcafo4014-factionas03gun.esl
+[FE:016] ccgcafo4015-factionas04hrpink.esl
+[FE:017] ccgcafo4016-factionas05hrshark.esl
+[FE:018] ccgcafo4017-factionas06inst.esl
+[FE:019] ccgcafo4018-factionas07mm.esl
+[FE:01A] ccgcafo4019-factionas08nuk.esl
+[FE:01B] ccgcafo4020-factionas09rr.esl
+[FE:01C] ccgcafo4021-factionas10hrflames.esl
+[FE:01D] ccgcafo4022-factionas11vt.esl
+[FE:01E] ccgcafo4023-factionas12army.esl
+[FE:01F] ccswkfo4002-pipnuka.esl
+[FE:020] ccswkfo4003-pipquan.esl
+[FE:021] ccrzrfo4004-pipinst.esl
+[FE:022] ccbgsfo4062-pippat.esl
+[FE:023] ccrzrfo4003-pipover.esl
+[FE:024] ccygpfo4001-pipcruiser.esl
+[FE:025] ccbgsfo4072-pipgrog.esl
+[FE:026] ccbgsfo4073-pipmman.esl
+[FE:027] ccbgsfo4074-pipinspect.esl
+[FE:028] ccbgsfo4075-pipshroud.esl
+[FE:029] ccbgsfo4076-pipmystery.esl
+[FE:02A] ccbgsfo4071-piparc.esl
+[FE:02B] ccbgsfo4079-pipvim.esl
+[FE:02C] ccbgsfo4078-pipreily.esl
+[FE:02D] ccbgsfo4077-piprocket.esl
+[FE:02E] ccbgsfo4070-pipabra.esl
+[FE:02F] ccbgsfo4008-pipgrn.esl
+[FE:030] ccbgsfo4015-pipyell.esl
+[FE:031] ccbgsfo4009-piporan.esl
+[FE:032] ccbgsfo4011-pippurp.esl
+[FE:033] ccgrcfo4001-pipgreytort.esl
+[FE:034] ccgrcfo4002-pipgreenvim.esl
+[FE:035] ccbgsfo4013-piptan.esl
+[FE:036] ccbgsfo4010-pippnk.esl
+[FE:037] ccbgsfo4101-as_shi.esl
+[FE:038] ccbgsfo4114-ws_shi.esl
+[FE:039] ccbgsfo4091-as_bats.esl
+[FE:03A] ccbgsfo4092-as_camoblue.esl
+[FE:03B] ccbgsfo4093-as_camogreen.esl
+[FE:03C] ccbgsfo4094-as_camotan.esl
+[FE:03D] ccbgsfo4097-as_jack-olantern.esl
+[FE:03E] ccbgsfo4104-ws_bats.esl
+[FE:03F] ccbgsfo4105-ws_camoblue.esl
+[FE:040] ccbgsfo4106-ws_camogreen.esl
+[FE:041] ccbgsfo4107-ws_camotan.esl
+[FE:042] ccbgsfo4111-ws_jack-olantern.esl
+[FE:043] ccbgsfo4118-ws_tunnelsnakes.esl
+[FE:044] ccbgsfo4113-ws_reillysrangers.esl
+[FE:045] ccbgsfo4112-ws_pickman.esl
+[FE:046] ccbgsfo4110-ws_enclave.esl
+[FE:047] ccbgsfo4108-ws_childrenofatom.esl
+[FE:048] ccbgsfo4103-as_tunnelsnakes.esl
+[FE:049] ccbgsfo4099-as_reillysrangers.esl
+[FE:04A] ccbgsfo4098-as_pickman.esl
+[FE:04B] ccbgsfo4096-as_enclave.esl
+[FE:04C] ccbgsfo4095-as_childrenofatom.esl
+[FE:04D] ccbgsfo4090-piptribal.esl
+[FE:04E] ccbgsfo4089-pipsynthwave.esl
+[FE:04F] ccbgsfo4087-piphaida.esl
+[FE:050] ccbgsfo4085-piphawaii.esl
+[FE:051] ccbgsfo4084-pipretro.esl
+[FE:052] ccbgsfo4083-pipartdeco.esl
+[FE:053] ccbgsfo4082-pipprc.esl
+[FE:054] ccbgsfo4081-pipphenolresin.esl
+[FE:055] ccbgsfo4080-pippop.esl
+[FE:056] ccbgsfo4086-pipadventure.esl
+[FE:057] cccrsfo4001-pipcoa.esl
+[FE:058] _LandAnimMod.esl
+[FE:059] Dogs can grab player.esl
+[FE:05A] MoreScrapItemsDLC.esl
+[FE:05B] MerchantsSellsWeaponMods.esl
+[FE:05C] More XP from quests.esl
+[FE:05D] RTH_SneakAttacksAreCriticals.esl
+[FE:05E] Small blur Crafting screen background.esl
+[FE:05F] PowerArmorNightVision.esl
+[FE:060] DDLL.esl
+[FE:061] Sniper Perk Sneak Tweak.esl
+[FE:062] BARDS_UltimateObjectsCollector.esl
+[FE:063] PPF.esm
+[FE:064] NISTRONHDColorSystem.esl
+[FE:065] StandaloneWorkbenches.esl
+[FE:066] Quick_Change_Armor_by_tooun.esl
+[FE:067] Horrorghouls2.2.esl
+[FE:068] ColterFix.esp
+[FE:069] ECO_INNRoverride.esp
+[FE:06A] 4estGimp - FallUI_R88_PA_INNR.esp
+[FE:06B] Annoying Noise Remover.esp
+[FE:06C] Ownership Fixes.esp
+[FE:06D] Assaultron Grab Skills.esp
+[FE:06E] Deathclaw Grab Skills.esp
+[FE:06F] ECO_AutoOmodStripper.esp
+[FE:070] Elzee Recoil Shake.esp
+[FE:071] WestTekDummyOptics.esp
+[FE:072] Feral Ghoul Bite Skills.esp
+[FE:073] Jump Grunt.esp
+[FE:074] Keep Radiants In Commonwealth.esp
+[FE:075] Radscorpion Stab Skill.esp
+[FE:076] Radstag Grab Skill.esp
+[FE:077] Stimpaks help you breathe.esp
+[FE:078] Yaoguai grab skill.esp
+[FE:079] SimpleImpact.esp
+[FE:07A] PowerArmorNightVisionFarHarborPatch.esp
+[FE:07B] ConditionBoy.esp
+[FE:07C] M8rDisablePipboyEffects.esp
+[FE:07D] RaiderPerksFromKillingLeaders.esp
+[FE:07E] spacefiddle_Follower-Stealth-Distance-Fixes.esp
+[FE:07F] Fortune Finder 4 Fix.esp
+[FE:080] Fog Remover II (AIO) Recommended.esp
+[FE:081] DK811_BeExceptional_ClassicPerks.esp
+[FE:082] NAC X Water LOD Fix.esp
+[FE:083] DiamondCityGateMapMarker.esp
+[FE:084] GoodneighborEntranceMapMarker.esp
+[FE:085] Portable Junk Recycler Mk 2.esp
+[FE:086] ECO_LegendaryModificationEnhanced.esp
+[FE:087] ECO_MythicLegendaryModifications.esp
+[FE:088] [ARR] FallEvil - MZP Nuka World Patch.esp
+[FE:089] [ARR] MZP Far Harbor Patch.esp
+[FE:08A] [ARR] FallEvil - MZP and Walkers Patch.esp
+[FE:08B] DynStoreMats.esp
+[FE:08C] DynGuardMats.esp
+[FE:08D] HighlightConsoleReference.esp
+[FE:08E] IAF - Far Harbor & Nuka World.esp
+[FE:08F] UncappedSettlementSurplus.esp
+[FE:090] DialogueWeddingRings.esp
+[FE:091] Useful Combinations - Terminal Speed.esp
+[FE:092] Elzee Dynamic Timescale.esp
+[FE:093] Luxor's Summer - All DLCs.esp
+[FE:094] SolarPower.esp
+[FE:095] 4estGimp - AI Edits_Crippled.esp
+[FE:096] Elzee Human Grab Attacks - Bad guys can't grab.esp
+[FE:097] Useful Combinations - NPC Navigation.esp
+[FE:098] 4estGimp_StandaloneWorkbenches_ECO_Patch.esp
+[FE:099] ECO_WOR.esp
+[FE:09A] Overrides.esp
+[FE:09B] PRP.esp

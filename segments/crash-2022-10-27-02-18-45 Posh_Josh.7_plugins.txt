@@ -1,0 +1,181 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     cctosfo4001-neosky.esm
+[08]     cctosfo4002_neonflats.esm
+[09]     Unofficial Fallout 4 Patch.esp
+[0A]     ArmorKeywords.esm
+[0B]     HUDFramework.esm
+[0C]     WorkshopFramework.esm
+[0D]     TacticalReload.esm
+[0E]     VotWMaster.esm
+[0F]     WeaponsFramework.esm
+[10]     Homemaker.esm
+[11]     SettlementKeywords.esm
+[12]     DEF_WIDGETS_CORE.esm
+[13]     The Collector's Guides.esp
+[14]     ToggleFanning.esp
+[15]     RRShutters.esp
+[16]     10SPECIAL.esp
+[17]     AN94.esp
+[18]     AnimatedRadaway.esp
+[19]     BetterGenerators.esp
+[1A]     WD_44.esp
+[1B]     EasyHacking.esp
+[1C]     EasyLockpicking.esp
+[1D]     Faster Terminal Displays (20x).esp
+[1E]     CapsWidget.esp
+[1F]     ImmersiveAnimationFramework.esp
+[20]     LongerPowerLines3x.esp
+[21]     ManufacturingExtended.esp
+[22]     MP153.esp
+[23]     NoAffinityCooldown.esp
+[24]     NoNegativeAffinityNoFucks.esp
+[25]     SkjAlert_All_DLC.esp
+[26]     BetterJunkFences.esp
+[27]     DD_All_the_COncrete.esp
+[28]     InstituteReformation.esp
+[29]     Better_Settlement_Defence.esp
+[2A]     Vault-Tec Power Armor by NewerMind43 & Captain-Ultima.esp
+[2B]     AnS Wearable Backpacks and Pouches.esp
+[2C]     Armorsmith Extended.esp
+[2D]     wd_huntingrifle.esp
+[2E]     BF1 Animations - Double Barrel Shotgun v2.3.esp
+[2F]     AnS Wearable Backpacks and Pouches - Power Armor Carry Capacity.esp
+[30]     WeightlessAid.esp
+[31]     WeightlessMods.esp
+[32]     WeightlessJunk.esp
+[33]     WeightlessSpecialAmmo.esp
+[34]     Workshop_Planters.esp
+[35]     InstitutePaintAfterSynthRetention.esp
+[36]     IP4APA.esp
+[37]     Homemaker - Streetlights Use Passive Power.esp
+[38]     Homemaker - Unlocked Institute Objects.esp
+[39]     argvPerceptionEnergyWeapons.esp
+[3A]     EnergyWeaponsEqualized.esp
+[3B]     AWKCR - Mod Power Armor Engine Glitch Fix.esp
+[3C]     OWR.esp
+[3D]     OWR_CraftableDecor.esp
+[3E]     OWR_CraftableDecor_CW.esp
+[3F]     OWR_CraftableDecor_CW_SKEPatch.esp
+[40]     OWR_CraftableDecor_SKEPatch.esp
+[41]     OWR_SKEPatch.esp
+[42]     OWR2.esp
+[43]     OWR2_CraftableDecor.esp
+[44]     OWR2_CraftableDecor_CW.esp
+[45]     OWR2_CraftableDecor_CW_SKPatch.esp
+[46]     OWR2_CraftableDecor_SKPatch.esp
+[47]     OWR2_SKEPatch.esp
+[48]     SimplyCosmeticPipboyPaintjobs.esp
+[49]     3dscopes.esp
+[4A]     GunmetalArmorSkins-SynthUniform.esp
+[4B]     MadScienceSuit.esp
+[4C]     RRP4APA.esp
+[4D]     realisticheadshots.esp
+[4E]     SurvivalOptions.esp
+[4F]     DEF_WIDGETS_SURVIVAL1.esp
+[50]     WeightlessAmmoForSurvival.esp
+[51]     StartMeUp.esp
+[52]     StartMeUpFarHarborPatch.esp
+[53]     StartMeUpNukaWorldPatch.esp
+[54]     Scrap Everything - Ultimate Edition.esp
+[55]     DogmeatNoOpeningDoors.esp
+[56]     RobotFactionPaint.esp
+[57]     MT_AutomatronVoices.esp
+[FE:000] ccbgsfo4001-pipboy(black).esl
+[FE:001] ccbgsfo4002-pipboy(blue).esl
+[FE:002] ccbgsfo4004-pipboy(camo02).esl
+[FE:003] ccbgsfo4012-pipboy(red).esl
+[FE:004] ccbgsfo4005-bluecamo.esl
+[FE:005] ccbgsfo4016-prey.esl
+[FE:006] ccbgsfo4033-powerarmorskinwhite.esl
+[FE:007] ccbgsfo4038-horsearmor.esl
+[FE:008] ccbgsfo4041-doommarinearmor.esl
+[FE:009] ccbgsfo4042-bfg.esl
+[FE:00A] ccgcafo4001-factionws01army.esl
+[FE:00B] ccgcafo4002-factionws02acat.esl
+[FE:00C] ccgcafo4003-factionws03bos.esl
+[FE:00D] ccgcafo4004-factionws04gun.esl
+[FE:00E] ccgcafo4005-factionws05hrpink.esl
+[FE:00F] ccgcafo4006-factionws06hrshark.esl
+[FE:010] ccgcafo4007-factionws07hrflames.esl
+[FE:011] ccgcafo4008-factionws08inst.esl
+[FE:012] ccgcafo4009-factionws09mm.esl
+[FE:013] ccgcafo4010-factionws10rr.esl
+[FE:014] ccgcafo4011-factionws11vt.esl
+[FE:015] ccgcafo4014-factionas03gun.esl
+[FE:016] ccgcafo4015-factionas04hrpink.esl
+[FE:017] ccgcafo4018-factionas07mm.esl
+[FE:018] ccgcafo4021-factionas10hrflames.esl
+[FE:019] ccgcafo4022-factionas11vt.esl
+[FE:01A] ccawnfo4001-brandedattire.esl
+[FE:01B] ccswkfo4003-pipquan.esl
+[FE:01C] ccbgsfo4053-dggoldr.esl
+[FE:01D] ccbgsfo4055-dghusk.esl
+[FE:01E] ccbgsfo4059-dgpit.esl
+[FE:01F] ccbgsfo4036-trnsdg.esl
+[FE:020] ccbgsfo4062-pippat.esl
+[FE:021] ccrzrfo4003-pipover.esl
+[FE:022] cceejfo4002-nuka.esl
+[FE:023] ccbgsfo4074-pipinspect.esl
+[FE:024] ccbgsfo4075-pipshroud.esl
+[FE:025] ccbgsfo4076-pipmystery.esl
+[FE:026] ccbgsfo4071-piparc.esl
+[FE:027] ccbgsfo4079-pipvim.esl
+[FE:028] ccbgsfo4078-pipreily.esl
+[FE:029] ccbgsfo4077-piprocket.esl
+[FE:02A] ccbgsfo4070-pipabra.esl
+[FE:02B] ccbgsfo4008-pipgrn.esl
+[FE:02C] ccbgsfo4009-piporan.esl
+[FE:02D] ccbgsfo4011-pippurp.esl
+[FE:02E] ccbgsfo4029-powerarmorskinpink.esl
+[FE:02F] ccbgsfo4013-piptan.esl
+[FE:030] ccbgsfo4010-pippnk.esl
+[FE:031] ccsbjfo4001-solarflare.esl
+[FE:032] ccbgsfo4114-ws_shi.esl
+[FE:033] ccbgsfo4115-x02.esl
+[FE:034] ccbgsfo4104-ws_bats.esl
+[FE:035] ccbgsfo4105-ws_camoblue.esl
+[FE:036] ccbgsfo4106-ws_camogreen.esl
+[FE:037] ccbgsfo4107-ws_camotan.esl
+[FE:038] ccbgsfo4111-ws_jack-olantern.esl
+[FE:039] ccbgsfo4118-ws_tunnelsnakes.esl
+[FE:03A] ccbgsfo4113-ws_reillysrangers.esl
+[FE:03B] ccbgsfo4112-ws_pickman.esl
+[FE:03C] ccbgsfo4110-ws_enclave.esl
+[FE:03D] ccbgsfo4108-ws_childrenofatom.esl
+[FE:03E] ccbgsfo4098-as_pickman.esl
+[FE:03F] ccbgsfo4096-as_enclave.esl
+[FE:040] ccbgsfo4090-piptribal.esl
+[FE:041] ccbgsfo4089-pipsynthwave.esl
+[FE:042] ccbgsfo4087-piphaida.esl
+[FE:043] ccbgsfo4085-piphawaii.esl
+[FE:044] ccbgsfo4084-pipretro.esl
+[FE:045] ccbgsfo4082-pipprc.esl
+[FE:046] ccbgsfo4081-pipphenolresin.esl
+[FE:047] ccjvdfo4001-holiday.esl
+[FE:048] ccacxfo4001-vsuit.esl
+[FE:049] ccgcafo4025-pagunmm.esl
+[FE:04A] VotWSpecialVideos.esl
+[FE:04B] BetterLoneWanderer.esp
+[FE:04C] Dogmeat is Dogmeat.esp
+[FE:04D] IAF - Far Harbor & Nuka World.esp
+[FE:04E] NV_LMG.esp
+[FE:04F] VanBuren_223.esp
+[FE:050] XR92_Rifle.esp
+[FE:051] StartMeUpShaunDefaultAppearance.esp
+[FE:052] Scrap (Not Quite) Everything - 1 Sanctuary Roads, Foundations, Houses and Driveways.esp
+[FE:053] Scrap (Not Quite) Everything - 1a Retaining Walls.esp
+[FE:054] Scrap (Not Quite) Everything - 1a Sanctuary Sidewalks.esp
+[FE:055] Scrap (Not Quite) Everything - 1a Sanctuary Sign.esp
+[FE:056] Scrap (Not Quite) Everything - 1a Sanctuary Steps.esp
+[FE:057] Scrap (Not Quite) Everything - 2 Red Rocket and Starlight Combo.esp
+[FE:058] Scrap (Not Quite) Everything - 4 Covenant Houses.esp
+[FE:059] Scrap (Not Quite) Everything - 4 Covenant Sign.esp
+[FE:05A] Scrap (Not Quite) Everything - 4 Covenant Turret Platforms.esp
+[FE:05B] Scrap (Not Quite) Everything - 4 Covenant Walls.esp
+[FE:05C] IdiotsInspirationTest.esp

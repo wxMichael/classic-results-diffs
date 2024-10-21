@@ -1,0 +1,4 @@
+Buffout 4 v1.31.1 Feb 28 2023 00:32:02
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF7E743B8EF Fallout4.exe+12EB8EF	movzx edx, byte ptr [r12+0x1A] 
+  GameScript::CombatEventHandler::ProcessEvent(TESHitEvent&,BSTEventSource<TESHitEvent>*)_12EB8EF)

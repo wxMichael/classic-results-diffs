@@ -1,0 +1,4 @@
+Buffout 4 v1.31.1 Feb 28 2023 00:32:02
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF695841E9C Fallout4.exe+1D81E9C	jmp [rax+0x1A0] 
+  bhkNPCollisionProxyObject::bhkNPCollisionProxyObject(bhkNPCollisionObject&,NiTransform&)_1D81E9C)

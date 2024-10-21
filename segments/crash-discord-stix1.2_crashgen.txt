@@ -1,0 +1,29 @@
+F4EE: true
+[Fixes]
+ActorIsHostileToActor: true
+CellInit: true
+EncounterZoneReset: true
+GreyMovies: true
+MagicEffectApplyEvent: true
+MovementPlanner: true
+PackageAllocateLocation: true
+SafeExit: true
+UnalignedLoad: true
+UtilityShader: true
+[Patches]
+Achievements: false
+BSMTAManager: true
+BSPreCulledObjects: true
+BSTextureStreamerLocalHeap: true
+HavokMemorySystem: true
+INISettingCollection: true
+InputSwitch: false
+MaxStdIO: -1
+MemoryManager: false
+MemoryManagerDebug: false
+ScaleformAllocator: true
+SmallBlockAllocator: true
+WorkshopMenu: true
+[Warnings]
+CreateTexture2D: true
+ImageSpaceAdapter: true

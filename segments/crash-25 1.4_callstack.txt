@@ -1,0 +1,261 @@
+[0] 0x7FF827F6ECA0 d3d11.dll+012ECA0
+
+REGISTERS:
+RAX 0x2A96EF34148      (void*)
+RCX 0x2A96EF34140      (void*)
+RDX 0x0                (size_t) [0]
+RBX 0x2A9818D3108      (void*)
+RSP 0xBC2B95F9A8       (void*)
+RBP 0x0                (size_t) [0]
+RSI 0x2A98189A840      (void*)
+RDI 0x2A97DE73FC0      (char*) "B"
+R8  0x7FF627D6DACC     (void* -> Fallout4.exe+214DACC	test eax, eax |  Scaleform::Render::D3D1x::RenderSync::IsPending(Scaleform::Render::FenceType,unsigned___int64,Scaleform::Render::FenceFrame&)_214DACC)
+R9  0x7FF82F770000     (void*)
+R10 0x10               (size_t) [16]
+R11 0xBC2B95F7C0       (void*)
+R12 0x0                (size_t) [0]
+R13 0x0                (size_t) [0]
+R14 0x0                (size_t) [0]
+R15 0x0                (size_t) [0]
+
+STACK:
+[RSP+0  ] 0x7FF627D6C489     (void* -> Fallout4.exe+214C489	mov rcx, [rbx+0xA8] |  Scaleform::Render::D3D1x::RenderSync::EndFrame(void)_214C489)
+[RSP+8  ] 0x2A9818D3108      (void*)
+[RSP+10 ] 0x0                (size_t) [0]
+[RSP+18 ] 0x2A97DE73FC0      (char*) "B"
+[RSP+20 ] 0x2A98189A840      (void*)
+[RSP+28 ] 0x7FF62C1B1B38     (void* -> Fallout4.exe+6591B38	pop rax |  aDiveBombChance_6591B38)
+[RSP+30 ] 0x7FF627F52D0A     (void* -> Fallout4.exe+2332D0A	mov rax, [rsi] |  Scaleform::Render::HAL::EndDisplay(void)_2332D0A)
+[RSP+38 ] 0x2                (size_t) [2]
+[RSP+40 ] 0x2A98189A840      (void*)
+[RSP+48 ] 0x2A97DE73FC0      (char*) "B"
+[RSP+50 ] 0x7FF62B686DD0     (UI*)
+[RSP+58 ] 0x7FF62B686DD0     (UI*)
+[RSP+60 ] 0x7FF627C63B4F     (void* -> Fallout4.exe+2043B4F	mov rsi, [rsp+0x40] |  UI::EndRender(void)_2043B4F)
+[RSP+68 ] 0x7FF629487C98     (void* -> Fallout4.exe+3867C98	add [rax], al |  aDiveBombChance_3867C98)
+[RSP+70 ] 0x2                (size_t) [2]
+[RSP+78 ] 0x2A97DE73FC0      (char*) "B"
+[RSP+80 ] 0x0                (size_t) [0]
+[RSP+88 ] 0x0                (size_t) [0]
+[RSP+90 ] 0x7FF626958906     (void* -> Fallout4.exe+0D38906	jmp 0x00007FF6269589C7 |  Main::Swap(void)_D38906)
+[RSP+98 ] 0x2A98008C730      (Main*)
+[RSP+A0 ] 0x0                (size_t) [0]
+[RSP+A8 ] 0x0                (size_t) [0]
+[RSP+B0 ] 0x0                (size_t) [0]
+[RSP+B8 ] 0x2A92880C800      (void*)
+[RSP+C0 ] 0x2A9368D43F0      (BSMultiBoundNode*)
+RTTIName: "BSMultiBoundNode"
+Flags: 8002000000f
+Checking Parent:
+RTTIName: "NiNode"
+Flags: 8002000280e
+Checking Parent:
+RTTIName: "BSMultiBoundNode"
+Flags: 8002000280e
+Checking Parent:
+Name: "ObjectLODRoot"
+RTTIName: "NiNode"
+Flags: 8002000280e
+Checking Parent:
+Name: "shadow scene node"
+RTTIName: "ShadowSceneNode"
+Flags: 2000280e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 2000280e
+[RSP+C8 ] 0x0                (size_t) [0]
+[RSP+D0 ] 0x2A92880CA90      (void*)
+[RSP+D8 ] 0x2A92880C8A0      (ShadowSceneNode*)
+Name: "shadow scene node"
+RTTIName: "ShadowSceneNode"
+Flags: 2000280e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 2000280e
+Name: "shadow scene node"
+[RSP+E0 ] 0x7FF625D1E71F     (void* -> Fallout4.exe+00FE71F	add rbx, 0x08 |  TES::UpdateMultiBoundVisibility(BSCullingProcess*)_FE71F)
+[RSP+E8 ] 0x2A9399371B8      (void*)
+[RSP+F0 ] 0x2A9399371B0      (void*)
+[RSP+F8 ] 0xBC2B95FAF9       (void*)
+[RSP+100] 0x0                (size_t) [0]
+[RSP+108] 0x9C0              (size_t) [2496]
+[RSP+110] 0x0                (size_t) [0]
+[RSP+118] 0xBC2B95FB40       (void*)
+[RSP+120] 0x7FF626961B0A     (void* -> Fallout4.exe+0D41B0A	mov rcx, [rax+0x108] |  _lambda_774c312478e3f5808debc6c3e76528a0_::operator()_D41B0A)
+[RSP+128] 0x2A97DE73600      (void*)
+[RSP+130] 0x2A936ED8588      (void*)
+[RSP+138] 0x2A98008C738      (void*)
+[RSP+140] 0xBC2B95FB98       (void*)
+[RSP+148] 0xC4B2F334         (size_t) [3300062004]
+[RSP+150] 0x44365FCA44BECAF4 (size_t) [4915221365662862068]
+[RSP+158] 0xC4B3ED4F         (size_t) [3300126031]
+[RSP+160] 0x0                (size_t) [0]
+[RSP+168] 0x2                (size_t) [2]
+[RSP+170] 0x7FF62695AA75     (void* -> Fallout4.exe+0D3AA75	cmp eax, 0x01 |  Main::OnIdle_UpdateHighActorsArraySorted(float)_D3AA75)
+[RSP+178] 0x2A936ED8588      (void*)
+[RSP+180] 0x2A936ED858C      (void*)
+[RSP+188] 0x0                (size_t) [0]
+[RSP+190] 0x2A929542F00      (Actor*)
+Object Reference:
+File: "Fallout4.esm"
+Flags: 0x00040009
+FormID: 0x0005668D
+FormType: kNPC_ (45)
+File: "Fallout4.esm"
+Flags: 0x00400009
+FormID: 0x00070089
+FormType: kACHR (65)
+[RSP+198] 0xBC2B95FB90       (void*)
+[RSP+1A0] 0x2A98008C730      (Main*)
+[RSP+1A8] 0x42A00000         (size_t) [1117782016]
+[RSP+1B0] 0x0                (size_t) [0]
+[RSP+1B8] 0x0                (size_t) [0]
+[RSP+1C0] 0x0                (size_t) [0]
+[RSP+1C8] 0x2A98008C730      (Main*)
+[RSP+1D0] 0x0                (size_t) [0]
+[RSP+1D8] 0x2A98008C730      (Main*)
+[RSP+1E0] 0x7FF626959551     (void* -> Fallout4.exe+0D39551	xor ecx, ecx |  Main::OnIdle(void)_D39551)
+[RSP+1E8] 0x7FF62B686DD0     (UI*)
+[RSP+1F0] 0x218B37           (size_t) [2198327]
+[RSP+1F8] 0x7FF62B686DD0     (UI*)
+[RSP+200] 0x2A98008C730      (Main*)
+[RSP+208] 0x1                (size_t) [1]
+[RSP+210] 0x0                (size_t) [0]
+[RSP+218] 0x0                (size_t) [0]
+[RSP+220] 0x0                (size_t) [0]
+[RSP+228] 0x0                (size_t) [0]
+[RSP+230] 0x7FF626956E10     (void* -> Fallout4.exe+0D36E10	mov rcx, [0x00007FF62B6C4278] |  Main::Run(void)_D36E10)
+[RSP+238] 0xA617B6           (size_t) [10885046]
+[RSP+240] 0xA                (size_t) [10]
+[RSP+248] 0xA                (size_t) [10]
+[RSP+250] 0x0                (size_t) [0]
+[RSP+258] 0x0                (size_t) [0]
+[RSP+260] 0x7FF626955950     (void* -> Fallout4.exe+0D35950	call 0x00007FF5A883004F |  WinMain_D35950)
+[RSP+268] 0x2A97DE775F7      (void*)
+[RSP+270] 0xA617B6           (size_t) [10885046]
+[RSP+278] 0x6569B85A         (size_t) [1701427290]
+[RSP+280] 0x2A97DE775F7      (void*)
+[RSP+288] 0x0                (size_t) [0]
+[RSP+290] 0x7FF628557157     (void* -> Fallout4.exe+2937157	mov [0x00007FF62C3547C8], eax |  entry_2937157)
+[RSP+298] 0x2A97DE775F6      (char*) """
+[RSP+2A0] 0xA                (size_t) [10]
+[RSP+2A8] 0x0                (size_t) [0]
+[RSP+2B0] 0xA                (size_t) [10]
+[RSP+2B8] 0x0                (size_t) [0]
+[RSP+2C0] 0x2A97DE775F7      (void*)
+[RSP+2C8] 0x0                (size_t) [0]
+[RSP+2D0] 0x7FF82F657344     (void* -> KERNEL32.DLL+0017344	mov ecx, eax)
+[RSP+2D8] 0x0                (size_t) [0]
+[RSP+2E0] 0x0                (size_t) [0]
+[RSP+2E8] 0x0                (size_t) [0]
+[RSP+2F0] 0x0                (size_t) [0]
+[RSP+2F8] 0x0                (size_t) [0]
+[RSP+300] 0x7FF82F7C26B1     (void* -> ntdll.dll+00526B1	jmp 0x00007FF82F7C26D3)
+[RSP+308] 0x0                (size_t) [0]
+[RSP+310] 0x0                (size_t) [0]
+[RSP+318] 0x0                (size_t) [0]
+[RSP+320] 0x0                (size_t) [0]
+[RSP+328] 0x0                (size_t) [0]
+[RSP+330] 0x0                (size_t) [0]
+[RSP+338] 0x1C10AA7500000000 (size_t) [2022303652177248256]
+[RSP+340] 0x0                (size_t) [0]
+[RSP+348] 0x0                (size_t) [0]
+[RSP+350] 0x7FF82D49DE30     (void* -> KERNELBASE.dll+012DE30	mov [rsp+0x10], rbx)
+[RSP+358] 0xBC2B95EA80       (void*)
+[RSP+360] 0x3FFC18ACBA22800  (size_t) [288161703041050624]
+[RSP+368] 0x7FF831597445     (size_t) [140703956563013]
+[RSP+370] 0xBC2B95EA80       (void*)
+[RSP+378] 0x0                (size_t) [0]
+[RSP+380] 0x0                (size_t) [0]
+[RSP+388] 0x0                (size_t) [0]
+[RSP+390] 0x0                (size_t) [0]
+[RSP+398] 0x0                (size_t) [0]
+[RSP+3A0] 0x0                (size_t) [0]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x0                (size_t) [0]
+[RSP+3D0] 0x0                (size_t) [0]
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E0] 0x0                (size_t) [0]
+[RSP+3E8] 0x0                (size_t) [0]
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+3F8] 0x0                (size_t) [0]
+[RSP+400] 0x0                (size_t) [0]
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x0                (size_t) [0]
+[RSP+428] 0x0                (size_t) [0]
+[RSP+430] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+440] 0x0                (size_t) [0]
+[RSP+448] 0x0                (size_t) [0]
+[RSP+450] 0x0                (size_t) [0]
+[RSP+458] 0x0                (size_t) [0]
+[RSP+460] 0x0                (size_t) [0]
+[RSP+468] 0x0                (size_t) [0]
+[RSP+470] 0x0                (size_t) [0]
+[RSP+478] 0x0                (size_t) [0]
+[RSP+480] 0x0                (size_t) [0]
+[RSP+488] 0x0                (size_t) [0]
+[RSP+490] 0x0                (size_t) [0]
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A0] 0x0                (size_t) [0]
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B0] 0x0                (size_t) [0]
+[RSP+4B8] 0x0                (size_t) [0]
+[RSP+4C0] 0x0                (size_t) [0]
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D0] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E0] 0x0                (size_t) [0]
+[RSP+4E8] 0x0                (size_t) [0]
+[RSP+4F0] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+510] 0x0                (size_t) [0]
+[RSP+518] 0x0                (size_t) [0]
+[RSP+520] 0x0                (size_t) [0]
+[RSP+528] 0x0                (size_t) [0]
+[RSP+530] 0x0                (size_t) [0]
+[RSP+538] 0x0                (size_t) [0]
+[RSP+540] 0x0                (size_t) [0]
+[RSP+548] 0x0                (size_t) [0]
+[RSP+550] 0x0                (size_t) [0]
+[RSP+558] 0x0                (size_t) [0]
+[RSP+560] 0x0                (size_t) [0]
+[RSP+568] 0x0                (size_t) [0]
+[RSP+570] 0x0                (size_t) [0]
+[RSP+578] 0x0                (size_t) [0]
+[RSP+580] 0x0                (size_t) [0]
+[RSP+588] 0x0                (size_t) [0]
+[RSP+590] 0x0                (size_t) [0]
+[RSP+598] 0x0                (size_t) [0]
+[RSP+5A0] 0x0                (size_t) [0]
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B0] 0x0                (size_t) [0]
+[RSP+5B8] 0x0                (size_t) [0]
+[RSP+5C0] 0x0                (size_t) [0]
+[RSP+5C8] 0x0                (size_t) [0]
+[RSP+5D0] 0x0                (size_t) [0]
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5E0] 0x0                (size_t) [0]
+[RSP+5E8] 0x0                (size_t) [0]
+[RSP+5F0] 0x0                (size_t) [0]
+[RSP+5F8] 0x0                (size_t) [0]
+[RSP+600] 0x0                (size_t) [0]
+[RSP+608] 0x0                (size_t) [0]
+[RSP+610] 0x0                (size_t) [0]
+[RSP+618] 0x0                (size_t) [0]
+[RSP+620] 0x0                (size_t) [0]
+[RSP+628] 0x0                (size_t) [0]
+[RSP+630] 0x0                (size_t) [0]
+[RSP+638] 0x0                (size_t) [0]
+[RSP+640] 0x0                (size_t) [0]
+[RSP+648] 0x0                (size_t) [0]
+[RSP+650] 0x0                (size_t) [0]

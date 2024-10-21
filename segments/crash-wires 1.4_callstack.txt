@@ -1,0 +1,959 @@
+[ 0] 0x7FFEC19ABE43      Buffout4.dll+004BE43
+[ 1] 0x7FFEC19AC289      Buffout4.dll+004C289
+[ 2] 0x7FF6A209FEBC      Fallout4.exe+015FEBC -> 165330+0x6C
+[ 3] 0x7FF6A209FD78      Fallout4.exe+015FD78 -> 1495562+0x18
+[ 4] 0x7FF6A224C969      Fallout4.exe+030C969 -> 1505404+0xE9
+[ 5] 0x7FF6A224E4A4      Fallout4.exe+030E4A4 -> 722808+0x14
+[ 6] 0x7FF6A209BE82      Fallout4.exe+015BE82 -> 603811+0xD2
+[ 7] 0x7FF6A209C671      Fallout4.exe+015C671 -> 507405+0xE1
+[ 8] 0x7FF6A233C0CA      Fallout4.exe+03FC0CA -> 78185+0x5CA
+[ 9] 0x7FF6A233D133      Fallout4.exe+03FD133 -> 44391+0x513
+[10] 0x7FF6A233D4D5      Fallout4.exe+03FD4D5 -> 69131+0x385
+[11] 0x7FF6A233D946      Fallout4.exe+03FD946 -> 957249+0x186
+[12] 0x7FF6A1FDFA7C      Fallout4.exe+009FA7C -> 516776+0x253C
+[13] 0x7FF6A232F70C      Fallout4.exe+03EF70C -> 996018+0x15C
+[14] 0x7FF6A2CDF9D4      Fallout4.exe+0D9F9D4 -> 1386333+0x124
+[15] 0x7FF6A2C1F289      Fallout4.exe+0CDF289 -> 1328347+0x899
+[16] 0x7FFECA98EDC5 f4se_1_10_163.dll+000EDC5
+[17] 0x7FF6A2C2DA7D      Fallout4.exe+0CEDA7D -> 540706+0x38D
+[18] 0x7FF6A2C33A4D      Fallout4.exe+0CF3A4D -> 646554+0x2D
+[19] 0x7FF6A3A90F26      Fallout4.exe+1B50F26 -> 329005+0xC6
+[20] 0x7FF6A3A91432      Fallout4.exe+1B51432 -> 194800+0x202
+[21] 0x7FF6A3A93F67      Fallout4.exe+1B53F67 -> 1492866+0x67
+[22] 0x7FF6A3A5CFED      Fallout4.exe+1B1CFED -> 1079791+0x3D
+[23] 0x7FFF101D257D      KERNEL32.DLL+001257D
+[24] 0x7FFF108EAA78         ntdll.dll+005AA78
+
+REGISTERS:
+RCX 0x7FF6A4FF4108     (void* -> Fallout4.exe+30B4108)
+RDX 0x7FF6A4B99FA8     (void* -> Fallout4.exe+2C59FA8)
+RBX 0x7FF6A4B98010     (void* -> Fallout4.exe+2C58010)
+RBP 0x7FF6A4B99FA8     (void* -> Fallout4.exe+2C59FA8)
+RSI 0x7FF6A4B98000     (void* -> Fallout4.exe+2C58000)
+RDI 0x7FF6A4B99FA8     (void* -> Fallout4.exe+2C59FA8)
+R9  0x58               (size_t)
+R11 0x5580D1E7A0       (BSTArrayAllocatorFunctor<BSScrapArrayAllocator>*)
+R12 0x19C008D77E8      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+R13 0x19C008D77A8      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+R14 0x19C008D7820      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+R15 0x19C008D7810      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+
+STACK:
+[RSP+0   ] 0x7FF6A7AA7580     (void* -> Fallout4.exe+5B67580)
+[RSP+8   ] 0x7FF6A7B27D10     (void* -> Fallout4.exe+5BE7D10)
+[RSP+18  ] 0x7FF6A2213200     (void* -> Fallout4.exe+02D3200)
+[RSP+20  ] 0x7FFEC1C78CA0     (void* -> Buffout4.dll+0318CA0)
+[RSP+28  ] 0x7FFEC19AC289     (void* -> Buffout4.dll+004C289)
+[RSP+30  ] 0x7FF6A4B99FA8     (void* -> Fallout4.exe+2C59FA8)
+[RSP+38  ] 0x19B43CE2D10      (char*) "b"
+[RSP+48  ] 0x0                (size_t)
+[RSP+50  ] 0x19C008D78B0      (TESModel*)
+[RSP+58  ] 0x7FF6A209FEBC     (void* -> Fallout4.exe+015FEBC)
+[RSP+68  ] 0x8                (size_t)
+[RSP+78  ] 0x7FFEC19AC1EC     (void* -> Buffout4.dll+004C1EC)
+[RSP+80  ] 0x19C008D7860      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+[RSP+88  ] 0x7FF6A209FD78     (void* -> Fallout4.exe+015FD78)
+[RSP+90  ] 0x19C008D78B0      (TESModel*)
+[RSP+98  ] 0x19C008D77F8      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+[RSP+A0  ] 0x19C008D7830      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+[RSP+A8  ] 0x7FF6A20E57B1     (void* -> Fallout4.exe+01A57B1)
+[RSP+B0  ] 0x19C008D7880      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+[RSP+B8  ] 0x7FF6A224C969     (void* -> Fallout4.exe+030C969)
+[RSP+C8  ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+D8  ] 0x7FFEC19AC3CE     (void* -> Buffout4.dll+004C3CE)
+[RSP+E8  ] 0x0                (size_t)
+[RSP+F8  ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+100 ] 0x19C008D7730      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+[RSP+108 ] 0x7FF6A224E4A4     (void* -> Fallout4.exe+030E4A4)
+[RSP+110 ] 0x19C008D7730      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+[RSP+120 ] 0x5580D1E789       (void*)
+[RSP+128 ] 0x19C008D77A8      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+[RSP+138 ] 0x7FF6A209BE82     (void* -> Fallout4.exe+015BE82)
+[RSP+148 ] 0x19C008D77A8      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+[RSP+158 ] 0x7FF6A1F836DE     (void* -> Fallout4.exe+00436DE)
+[RSP+168 ] 0x7FF6A1F836DE     (void* -> Fallout4.exe+00436DE)
+[RSP+178 ] 0x7FF6A20ED907     (void* -> Fallout4.exe+01AD907)
+[RSP+188 ] 0x7FF6A1FD036B     (void* -> Fallout4.exe+009036B)
+[RSP+198 ] 0x0                (size_t)
+[RSP+1A8 ] 0x5580D1E778       (void*)
+[RSP+1B0 ] 0x19B43CE2C70      (ScrapHeap*)
+[RSP+1C0 ] 0x21905700000010   (size_t)
+[RSP+1D0 ] 0x0                (size_t)
+[RSP+1E0 ] 0x0                (size_t)
+[RSP+1F0 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+1F8 ] 0x7FF6A22B2D85     (void* -> Fallout4.exe+0372D85)
+[RSP+208 ] 0x0                (size_t)
+[RSP+218 ] 0x0                (size_t)
+[RSP+228 ] 0x7FF600000000     (size_t)
+[RSP+230 ] 0x7FF6A4B89DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+240 ] 0x0                (size_t)
+[RSP+250 ] 0x19C008D77A8      (TESAmmo*)
+File: ""
+Flags: 0xA4BB4A68
+Form ID: 0x00007FF6
+Form Type: 60
+[RSP+258 ] 0x7FF6A209C671     (void* -> Fallout4.exe+015C671)
+[RSP+260 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+270 ] 0x5580D10001       (void*)
+[RSP+280 ] 0xFFFFFFFF         (size_t)
+[RSP+288 ] 0x7FF6A1FCA400     (void* -> Fallout4.exe+008A400)
+[RSP+298 ] 0x0                (size_t)
+[RSP+2A8 ] 0x0                (size_t)
+[RSP+2B8 ] 0x7FF6A233C0CA     (void* -> Fallout4.exe+03FC0CA)
+[RSP+2C0 ] 0x19C008D7740      (TESAmmo*)
+File: "Better Locational Damage - Valdacil's Item Sorting - Patch.esp"
+Flags: 0x00000009
+Form ID: 0x0001F673
+Form Type: 44
+Full Name: "
+N"
+[RSP+2D0 ] 0x5580D1E930       (void*)
+[RSP+2E0 ] 0x5580D1E8B4       (void*)
+[RSP+2F0 ] 0x0                (size_t)
+[RSP+2F8 ] 0x7FF6A209E321     (void* -> Fallout4.exe+015E321)
+[RSP+300 ] 0x19C0D5BDD00      (TESAmmo*)
+File: "Munitions - An Ammo Expansion.esl"
+Flags: 0x00000009
+Form ID: 0xFE000FAC
+Form Type: 44
+Full Name: "20 Gauge Shell"
+[RSP+308 ] 0x5580D1E920       (char*) "^"
+[RSP+318 ] 0x1                (size_t)
+[RSP+328 ] 0x1A209E237        (size_t)
+[RSP+338 ] 0xC19ABF65         (size_t)
+[RSP+348 ] 0x19C00000000      (void*)
+[RSP+358 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+368 ] 0x5                (size_t)
+[RSP+370 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+380 ] 0x0                (size_t)
+[RSP+390 ] 0x0                (size_t)
+[RSP+3A0 ] 0x0                (size_t)
+[RSP+3B0 ] 0x5E               (size_t)
+[RSP+3B8 ] 0x7FF6A1FBFE4A     (void* -> Fallout4.exe+007FE4A)
+[RSP+3C8 ] 0x19B43CE2D10      (char*) "b"
+[RSP+3D8 ] 0x7FF63F800000     (size_t)
+[RSP+3E8 ] 0x7FF6A1FC046C     (void* -> Fallout4.exe+008046C)
+[RSP+3F0 ] 0x19C4E0C03A0      (ExtraLeveledItem*)
+[RSP+400 ] 0x19C4E0C03A0      (ExtraLeveledItem*)
+[RSP+410 ] 0x7FF6A4B9CAD8     (void* -> Fallout4.exe+2C5CAD8)
+[RSP+420 ] 0x0                (size_t)
+[RSP+430 ] 0x1                (size_t)
+[RSP+440 ] 0x0                (size_t)
+[RSP+450 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+460 ] 0x19C4E0BACB0      (void*)
+[RSP+470 ] 0x5580D1EA79       (void*)
+[RSP+478 ] 0x7FF6A233D133     (void* -> Fallout4.exe+03FD133)
+[RSP+488 ] 0x19C0FD48D00      (TESObjectWEAP*)
+File: "PipeShotgunCollectionDiacuted.esp"
+Flags: 0x40000008
+Form ID: 0xFE022001
+Form Type: 43
+Full Name: "Pipe Revolver Shotgun"
+[RSP+498 ] 0x5500000001       (size_t)
+[RSP+4A8 ] 0x19C4E0F8F30      (void*)
+[RSP+4B8 ] 0x5580D1EA88       (void*)
+[RSP+4C8 ] 0x0                (size_t)
+[RSP+4D8 ] 0x7FF600000000     (size_t)
+[RSP+4E8 ] 0x0                (size_t)
+[RSP+4F8 ] 0x19C4E0BACB0      (void*)
+[RSP+508 ] 0x19C0FCF4E00      (TESLevItem*)
+File: "PipeShotgunCollectionDiacuted.esp"
+Flags: 0x00000008
+Form ID: 0xFE0221C9
+Form Type: 56
+[RSP+518 ] 0x0                (size_t)
+[RSP+528 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+538 ] 0x19C4E0E4C28      (void*)
+[RSP+540 ] 0x19C00725EE0      (TESLevItem*)
+File: "Mauser.esp"
+Flags: 0x00200009
+Form ID: 0x0005E8E5
+Form Type: 56
+[RSP+550 ] 0x5                (size_t)
+[RSP+560 ] 0x5580D1EB89       (void*)
+[RSP+568 ] 0x7FF6A233D4D5     (void* -> Fallout4.exe+03FD4D5)
+[RSP+570 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+580 ] 0x550005E8E5       (size_t)
+[RSP+590 ] 0x0                (size_t)
+[RSP+5A0 ] 0x0                (size_t)
+[RSP+5B0 ] 0x7FF6A4B896C8     (void* -> Fallout4.exe+2C496C8)
+[RSP+5C0 ] 0x5580D1EBF0       (void*)
+[RSP+5C8 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+5D0 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+5E0 ] 0x19C4E10001E      (void*)
+[RSP+5E8 ] 0x19B43CE2C70      (ScrapHeap*)
+[RSP+5F8 ] 0x19C00000010      (void*)
+[RSP+608 ] 0x19C0005E8E5      (void*)
+[RSP+618 ] 0x19C4E104440      (void*)
+[RSP+628 ] 0x5580D1ED50       (void*)
+[RSP+638 ] 0x0                (size_t)
+[RSP+648 ] 0x0                (size_t)
+[RSP+650 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+660 ] 0x19C0C4A0F01      (void*)
+[RSP+668 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+678 ] 0x7FF6A233D946     (void* -> Fallout4.exe+03FD946)
+[RSP+688 ] 0x19C00000008      (void*)
+[RSP+698 ] 0x19C0C4A0F01      (void*)
+[RSP+6A0 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+6A8 ] 0x7FF6A2CC887E     (void* -> Fallout4.exe+0D8887E)
+[RSP+6B8 ] 0x19C4E0B5980      (TESNPC*)
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+Full Name: "Raider Douchebag"
+[RSP+6C8 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+6D0 ] 0x5580D1F1F0       (BGSLoadFormBuffer*)
+[RSP+6D8 ] 0x7FF6A1FDFA7C     (void* -> Fallout4.exe+009FA7C)
+[RSP+6E8 ] 0x5580D1ED50       (void*)
+[RSP+6F8 ] 0x0                (size_t)
+[RSP+700 ] 0x7FF6A4C879AC     (void* -> Fallout4.exe+2D479AC)
+[RSP+710 ] 0x7FF600000000     (size_t)
+[RSP+718 ] 0x7FF6A4C879AC     (void* -> Fallout4.exe+2D479AC)
+[RSP+728 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+738 ] 0x7FF6A79433D0     (void* -> Fallout4.exe+5A033D0)
+[RSP+740 ] 0x7FF6A79433D0     (void* -> Fallout4.exe+5A033D0)
+[RSP+748 ] 0x7FFEC19ABF65     (void* -> Buffout4.dll+004BF65)
+[RSP+750 ] 0x19C4E0BB6A0      (CustomActorPackageData*)
+[RSP+758 ] 0x5580D1F1F0       (BGSLoadFormBuffer*)
+[RSP+768 ] 0x7FFEC19ABDCE     (void* -> Buffout4.dll+004BDCE)
+[RSP+778 ] 0x19C3D152B00      (MovementControllerNPC*)
+[RSP+780 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+790 ] 0x19C00000058      (void*)
+[RSP+798 ] 0x7FFEC19AC289     (void* -> Buffout4.dll+004C289)
+[RSP+7A8 ] 0x0                (size_t)
+[RSP+7B8 ] 0x0                (size_t)
+[RSP+7C8 ] 0x10000000000      (size_t)
+[RSP+7D8 ] 0x0                (size_t)
+[RSP+7E8 ] 0x0                (size_t)
+[RSP+7F8 ] 0x0                (size_t)
+[RSP+808 ] 0x0                (size_t)
+[RSP+818 ] 0x0                (size_t)
+[RSP+828 ] 0x0                (size_t)
+[RSP+838 ] 0x0                (size_t)
+[RSP+848 ] 0x0                (size_t)
+[RSP+858 ] 0x0                (size_t)
+[RSP+868 ] 0x0                (size_t)
+[RSP+878 ] 0x7FF6A2C46E45     (void* -> Fallout4.exe+0D06E45)
+[RSP+888 ] 0x5580D1F1F0       (BGSLoadFormBuffer*)
+[RSP+898 ] 0x7FF6A2E7FC46     (void* -> Fallout4.exe+0F3FC46)
+[RSP+8A8 ] 0x7FF6A2E7FC46     (void* -> Fallout4.exe+0F3FC46)
+[RSP+8B0 ] 0x19C0C8AB200      (TESNPC*)
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00040009
+Form ID: 0x0B074E52
+Form Type: 45
+Full Name: "Raider Douchebag"
+[RSP+8B8 ] 0x7FF6A2C46E45     (void* -> Fallout4.exe+0D06E45)
+[RSP+8C0 ] 0x5580D1ED00       (char*) "X"
+[RSP+8C8 ] 0x7FF6A2E81873     (void* -> Fallout4.exe+0F41873)
+[RSP+8D8 ] 0x7FF6A2E81764     (void* -> Fallout4.exe+0F41764)
+[RSP+8E8 ] 0x7FF6A2E7FC46     (void* -> Fallout4.exe+0F3FC46)
+[RSP+8F8 ] 0x7FF6A3A82FE8     (void* -> Fallout4.exe+1B42FE8)
+[RSP+908 ] 0x19C3D14EB00      (MovementAgentPathFollowerVirtual*)
+[RSP+918 ] 0x7FF6A44830D4     (void* -> Fallout4.exe+25430D4)
+[RSP+928 ] 0x0                (size_t)
+[RSP+938 ] 0x58               (size_t)
+[RSP+948 ] 0x7FF6A2E6C20F     (void* -> Fallout4.exe+0F2C20F)
+[RSP+958 ] 0x19C00D1E400      (TESNPC*)
+File: "Better Locational Damage.esp"
+Flags: 0x00040009
+Form ID: 0x00149C9F
+Form Type: 45
+Full Name: "Raider Veteran"
+[RSP+968 ] 0x19C00D1E400      (TESNPC*)
+File: "Better Locational Damage.esp"
+Flags: 0x00040009
+Form ID: 0x00149C9F
+Form Type: 45
+Full Name: "Raider Veteran"
+[RSP+978 ] 0x0                (size_t)
+[RSP+988 ] 0x0                (size_t)
+[RSP+990 ] 0x19C00D1E400      (TESNPC*)
+File: "Better Locational Damage.esp"
+Flags: 0x00040009
+Form ID: 0x00149C9F
+Form Type: 45
+Full Name: "Raider Veteran"
+[RSP+9A0 ] 0x0                (size_t)
+[RSP+9A8 ] 0x19C00D1E400      (TESNPC*)
+File: "Better Locational Damage.esp"
+Flags: 0x00040009
+Form ID: 0x00149C9F
+Form Type: 45
+Full Name: "Raider Veteran"
+[RSP+9B0 ] 0x19C00D1E400      (TESNPC*)
+File: "Better Locational Damage.esp"
+Flags: 0x00040009
+Form ID: 0x00149C9F
+Form Type: 45
+Full Name: "Raider Veteran"
+[RSP+9B8 ] 0x7FF6A2E6983F     (void* -> Fallout4.exe+0F2983F)
+[RSP+9C8 ] 0x104F8            (size_t)
+[RSP+9D0 ] 0x5580D1F1F0       (BGSLoadFormBuffer*)
+[RSP+9E0 ] 0x0                (size_t)
+[RSP+9F0 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+A00 ] 0x0                (size_t)
+[RSP+A08 ] 0x7FF6A232F70C     (void* -> Fallout4.exe+03EF70C)
+[RSP+A18 ] 0x5580D1F1F0       (BGSLoadFormBuffer*)
+[RSP+A28 ] 0x0                (size_t)
+[RSP+A30 ] 0x5580D1F1F0       (BGSLoadFormBuffer*)
+[RSP+A40 ] 0xB074E64          (size_t)
+[RSP+A48 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+A50 ] 0x5580D1F1F0       (BGSLoadFormBuffer*)
+[RSP+A58 ] 0x7FF6A2CDF9D4     (void* -> Fallout4.exe+0D9F9D4)
+[RSP+A68 ] 0x0                (size_t)
+[RSP+A78 ] 0x5580D1F1F0       (BGSLoadFormBuffer*)
+[RSP+A88 ] 0x19C4E41806C      (void*)
+[RSP+A98 ] 0x3                (size_t)
+[RSP+AA8 ] 0x0                (size_t)
+[RSP+AB8 ] 0x3EA8F5C33EA8F5C3 (size_t)
+[RSP+AC8 ] 0x3EA8F5C33EA8F5C3 (size_t)
+[RSP+AD8 ] 0x7FFED57F6480     (void* -> MSVCR110.dll+0036480)
+[RSP+AE8 ] 0x0                (size_t)
+[RSP+AF8 ] 0x7FFE00000000     (size_t)
+[RSP+B08 ] 0x0                (size_t)
+[RSP+B18 ] 0x0                (size_t)
+[RSP+B28 ] 0x0                (size_t)
+[RSP+B38 ] 0x7FF600000000     (size_t)
+[RSP+B48 ] 0xB074E64          (size_t)
+[RSP+B58 ] 0x5580D1F280       (void*)
+[RSP+B68 ] 0x7FF6A2C1A3F6     (void* -> Fallout4.exe+0CDA3F6)
+[RSP+B70 ] 0x19C1835C9C0      (BSFile*)
+[RSP+B78 ] 0x19C18392D40      (char*) "Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2"
+[RSP+B80 ] 0x19C1835C9C0      (BSFile*)
+[RSP+B90 ] 0x3D16DA28         (size_t)
+[RSP+BA0 ] 0x7FF6A56C9D2C     (void* -> Fallout4.exe+3789D2C)
+[RSP+BA8 ] 0x19C18392D40      (char*) "Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2"
+[RSP+BB8 ] 0x195D39           (size_t)
+[RSP+BC8 ] 0x104F8            (size_t)
+[RSP+BD8 ] 0x19BF61D6080      (void*)
+[RSP+BE0 ] 0x19C18392D40      (char*) "Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2"
+[RSP+BF0 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+C00 ] 0x5580D1F280       (void*)
+[RSP+C08 ] 0x7FF6A2C1F289     (void* -> Fallout4.exe+0CDF289)
+[RSP+C10 ] 0x5580D1F1F0       (BGSLoadFormBuffer*)
+[RSP+C20 ] 0x19C00040000      (void*)
+[RSP+C28 ] 0x19BF6C16B00      (TESWorldSpace*)
+File: "Minutemen Weapon Pack.esp"
+Flags: 0x0000000B
+Form ID: 0x0000003C
+Form Type: 74
+Full Name: "Commonwealth"
+[RSP+C38 ] 0xD0               (size_t)
+[RSP+C48 ] 0x29AA             (size_t)
+[RSP+C58 ] 0x19C4DA77900      (void*)
+[RSP+C68 ] 0x0                (size_t)
+[RSP+C78 ] 0x19C4DA77900      (void*)
+[RSP+C80 ] 0x7FF6A4B96C68     (void* -> Fallout4.exe+2C56C68)
+[RSP+C90 ] 0x19B43CE2C70      (ScrapHeap*)
+[RSP+CA0 ] 0x3B000002E1       (size_t)
+[RSP+CB0 ] 0x0                (size_t)
+[RSP+CB8 ] 0x19C0C4A0F00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF000CFF
+Form Type: 45
+File: "DCGuard_Overhaul.esp"
+Flags: 0x00200409
+Form ID: 0x0B074E64
+Form Type: 65
+[RSP+CC8 ] 0x44410000         (size_t)
+[RSP+CD0 ] 0x19B43CE2D10      (char*) "b"
+[RSP+CE0 ] 0x0                (size_t)
+[RSP+CF0 ] 0x19B00000000      (void*)
+[RSP+D00 ] 0x0                (size_t)
+[RSP+D10 ] 0x6FFD52006F2B16   (size_t)
+[RSP+D20 ] 0x37075A000F9F1E   (size_t)
+[RSP+D30 ] 0x29AA00000008     (size_t)
+[RSP+D40 ] 0x0                (size_t)
+[RSP+D50 ] 0x0                (size_t)
+[RSP+D60 ] 0x0                (size_t)
+[RSP+D70 ] 0x0                (size_t)
+[RSP+D80 ] 0xFFFFFFFF         (size_t)
+[RSP+D90 ] 0x0                (size_t)
+[RSP+D98 ] 0x7FF6A560DAD4     (void* -> Fallout4.exe+36CDAD4)
+[RSP+DA0 ] 0x19B0C13A1E0      (char*) "
+ull save path: C:\Users\Test\Documents\My Games\Fallout4\Saves\\Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2.f4setlyctly"
+[RSP+DB0 ] 0x3                (size_t)
+[RSP+DC0 ] 0x0                (size_t)
+[RSP+DC8 ] 0x7FF6A560DAD4     (void* -> Fallout4.exe+36CDAD4)
+[RSP+DD0 ] 0x7FFECAA440E8     (void* -> f4se_1_10_163.dll+00C40E8)
+[RSP+DE0 ] 0x311600000001     (size_t)
+[RSP+DE8 ] 0x7FFECA9F2F7D     (void* -> f4se_1_10_163.dll+0072F7D)
+[RSP+DF8 ] 0x4530444146395F30 (size_t)
+[RSP+E08 ] 0x3637353032453638 (size_t)
+[RSP+E18 ] 0x6C6165776E6F6D6D (size_t)
+[RSP+E28 ] 0x3131333230325F36 (size_t)
+[RSP+E38 ] 0x736F662E325F355F (size_t)
+[RSP+E40 ] 0x7FFECAA44000     (void* -> f4se_1_10_163.dll+00C4000)
+[RSP+E48 ] 0x7FFECA9F2BDC     (void* -> f4se_1_10_163.dll+0072BDC)
+[RSP+E58 ] 0x5580D1F420       (void*)
+[RSP+E68 ] 0x7FFECA9F2E18     (void* -> f4se_1_10_163.dll+0072E18)
+[RSP+E78 ] 0xA                (size_t)
+[RSP+E80 ] 0x19B79C85100      (char*) "7160/fozmediav1"
+[RSP+E88 ] 0x7FFECAA44270     (void* -> f4se_1_10_163.dll+00C4270)
+[RSP+E98 ] 0x19B79C85101      (char*) "160/fozmediav1"
+[RSP+EA8 ] 0x5580D1F400       (void*)
+[RSP+EB0 ] 0x7FFECAA440E8     (void* -> f4se_1_10_163.dll+00C40E8)
+[RSP+EB8 ] 0x7FFECAA440E8     (void* -> f4se_1_10_163.dll+00C40E8)
+[RSP+EC0 ] 0x5580D1F480       (char*) " 03:31:40, EXE Version: 1.10.163.0, Save Version 15.68"
+[RSP+ED0 ] 0x5580D1F488       (char*) "0, EXE Version: 1.10.163.0, Save Version 15.68"
+[RSP+ED8 ] 0x5580D1F490       (char*) "ersion: 1.10.163.0, Save Version 15.68"
+[RSP+EE0 ] 0x5580D1F498       (char*) "1.10.163.0, Save Version 15.68"
+[RSP+EE8 ] 0x7FFECA9F2CBD     (void* -> f4se_1_10_163.dll+0072CBD)
+[RSP+EF0 ] 0x7FFECAA11A70     (char*) "%s
+"
+[RSP+EF8 ] 0x7FFECAA440E8     (void* -> f4se_1_10_163.dll+00C40E8)
+[RSP+F08 ] 0x333230322F332F31 (size_t)
+[RSP+F18 ] 0x5620455845202C30 (size_t)
+[RSP+F28 ] 0x3336312E30312E31 (size_t)
+[RSP+F38 ] 0x6E6F697372655620 (size_t)
+[RSP+F48 ] 0x5580D1F548       (void*)
+[RSP+F58 ] 0x7FFECA9DF551     (void* -> f4se_1_10_163.dll+005F551)
+[RSP+F60 ] 0x7FFECAA11A70     (char*) "%s
+"
+[RSP+F68 ] 0x7FFECAA4B770     (char*) "full save path: C:\Users\Test\Documents\My Games\Fallout4\Saves\\Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2.f4se"
+[RSP+F78 ] 0x0                (size_t)
+[RSP+F88 ] 0x7FFED5776C58     (void* -> SprintSpeedController.dll+0006C58)
+[RSP+F98 ] 0x7FFECA9844EA     (void* -> f4se_1_10_163.dll+00044EA)
+[RSP+FA0 ] 0x19BD8BF6720      (char*) "C:\Users\Test\Documents\My Games\Fallout4\Saves\\Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2.f4se"
+[RSP+FB0 ] 0x4C               (size_t)
+[RSP+FC0 ] 0x31689A7948B      (size_t)
+[RSP+FC8 ] 0x19C18392D40      (char*) "Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2"
+[RSP+FD8 ] 0x7FFECA9DB371     (void* -> f4se_1_10_163.dll+005B371)
+[RSP+FE8 ] 0x9                (size_t)
+[RSP+FF8 ] 0x7                (size_t)
+[RSP+1000] 0x7FFECAA252B8     (char*) "F4SE"
+[RSP+1010] 0x19C18392D40      (char*) "Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2"
+[RSP+1018] 0x7FF6A79B34C0     (char*) "Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2"
+[RSP+1028] 0x0                (size_t)
+[RSP+1038] 0x1                (size_t)
+[RSP+1048] 0x7FFECA98EDC5     (void* -> f4se_1_10_163.dll+000EDC5)
+[RSP+1058] 0x19C18392D40      (char*) "Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2"
+[RSP+1060] 0x19C18392D40      (char*) "Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2"
+[RSP+1068] 0x7FFF0DE850F5     (void* -> KERNELBASE.dll+00B50F5)
+[RSP+1078] 0x0                (size_t)
+[RSP+1088] 0x0                (size_t)
+[RSP+1098] 0x0                (size_t)
+[RSP+10A8] 0x7FF6A2C2DA7D     (void* -> Fallout4.exe+0CEDA7D)
+[RSP+10B8] 0x5580D1F720       (void*)
+[RSP+10C0] 0x19BB989AB00      (BGSSaveLoadManager*)
+[RSP+10D0] 0x19C183A65A0      (void*)
+[RSP+10D8] 0x7FFEC19AC289     (void* -> Buffout4.dll+004C289)
+[RSP+10E8] 0x19B43CE2D10      (char*) "b"
+[RSP+10F8] 0x0                (size_t)
+[RSP+1100] 0x19B43CE2C70      (ScrapHeap*)
+[RSP+1110] 0x5500000001       (size_t)
+[RSP+1120] 0x19B43CE2D10      (char*) "b"
+[RSP+1130] 0x19C0934F600      (TESObjectCELL*)
+File: "DCGuard_Overhaul.esp"
+Flags: 0x0004040B
+Form ID: 0x06054375
+Form Type: 63
+Full Name: ""
+[RSP+1138] 0x7FF6A22EE41C     (void* -> Fallout4.exe+03AE41C)
+[RSP+1140] 0x19C09332B00      (Actor*)
+Object Reference:
+File: ""
+Flags: 0x00000008
+Form ID: 0xFF001256
+Form Type: 45
+File: "DLCNukaWorld.esm"
+Flags: 0x00620409
+Form ID: 0x0602621E
+Form Type: 65
+[RSP+1150] 0x0                (size_t)
+[RSP+1160] 0x5580D1F7C0       (void*)
+[RSP+1168] 0x7FF6A3AB1DB9     (void* -> Fallout4.exe+1B71DB9)
+[RSP+1178] 0x5580D1F7C0       (void*)
+[RSP+1188] 0x0                (size_t)
+[RSP+1198] 0x7FFE00000000     (size_t)
+[RSP+11A8] 0x0                (size_t)
+[RSP+11B8] 0x0                (size_t)
+[RSP+11C0] 0x19C183788C0      (ExtraLinkedRefChildren*)
+[RSP+11C8] 0x7FFEC19AC289     (void* -> Buffout4.dll+004C289)
+[RSP+11D0] 0x19C183788C0      (ExtraLinkedRefChildren*)
+[RSP+11D8] 0x5580D1F828       (char*) "4\Saves\Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2.fos"
+[RSP+11E0] 0x7FF6A4B896C8     (void* -> Fallout4.exe+2C496C8)
+[RSP+11F0] 0x9C0              (size_t)
+[RSP+1200] 0x0                (size_t)
+[RSP+1210] 0x0                (size_t)
+[RSP+1220] 0x0                (size_t)
+[RSP+1230] 0x0                (size_t)
+[RSP+1240] 0x0                (size_t)
+[RSP+1250] 0x0                (size_t)
+[RSP+1260] 0x0                (size_t)
+[RSP+1270] 0x19C0934F600      (TESObjectCELL*)
+File: "DCGuard_Overhaul.esp"
+Flags: 0x0004040B
+Form ID: 0x06054375
+Form Type: 63
+Full Name: ""
+[RSP+1278] 0x7FF6A2C469F0     (void* -> Fallout4.exe+0D069F0)
+[RSP+1280] 0x5580D1F840       (char*) "6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2.fos"
+[RSP+1290] 0x73726573555C3A43 (size_t)
+[RSP+12A0] 0x5C73746E656D7563 (size_t)
+[RSP+12B0] 0x74756F6C6C61465C (size_t)
+[RSP+12C0] 0x6576617374697845 (size_t)
+[RSP+12D0] 0x3646364134534636 (size_t)
+[RSP+12E0] 0x6F435F4236333639 (size_t)
+[RSP+12F0] 0x35313030305F6874 (size_t)
+[RSP+1300] 0x3534303130303330 (size_t)
+[RSP+1310] 0x8000             (size_t)
+[RSP+1320] 0x0                (size_t)
+[RSP+1328] 0x7FFEC1C78CE0     (void* -> Buffout4.dll+0318CE0)
+[RSP+1338] 0x7FFEC1C78CB0     (void* -> Buffout4.dll+0318CB0)
+[RSP+1348] 0x4000             (size_t)
+[RSP+1358] 0x3                (size_t)
+[RSP+1360] 0x7FFEC1C78CB0     (void* -> Buffout4.dll+0318CB0)
+[RSP+1368] 0x7FFEC19B56FB     (void* -> Buffout4.dll+00556FB)
+[RSP+1378] 0x0                (size_t)
+[RSP+1388] 0x7FFEC19AA221     (void* -> Buffout4.dll+004A221)
+[RSP+1398] 0x0                (size_t)
+[RSP+13A8] 0x4530444146395F30 (size_t)
+[RSP+13B8] 0x3637353032453638 (size_t)
+[RSP+13C8] 0x6C6165776E6F6D6D (size_t)
+[RSP+13D8] 0x3131333230325F36 (size_t)
+[RSP+13E8] 0x7F00325F355F     (size_t)
+[RSP+13F8] 0x7FF6A3A5093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+1408] 0x4700             (size_t)
+[RSP+1418] 0x7FFEC19AADC6     (void* -> Buffout4.dll+004ADC6)
+[RSP+1428] 0x7FF6A3F82234     (void* -> Fallout4.exe+2042234)
+[RSP+1430] 0x7FF6A79A6DD0     (UI*)
+[RSP+1440] 0x19B1776A6A0      (void*)
+[RSP+1450] 0x19B1765FE00      (void*)
+[RSP+1458] 0x7FF6A2DDAC99     (void* -> Fallout4.exe+0E9AC99)
+[RSP+1468] 0x0                (size_t)
+[RSP+1470] 0x19BF65BB040      (PlayerCharacter*)
+Object Reference:
+File: "Better Locational Damage.esp"
+Flags: 0x00240009
+Form ID: 0x00000007
+Form Type: 45
+File: ""
+Flags: 0x00600448
+Form ID: 0x00000014
+Form Type: 65
+[RSP+1478] 0x7FF6A79A6DD0     (UI*)
+[RSP+1488] 0x7FF6A3A5093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+1490] 0x19C0932E5C0      (TESObjectREFR*)
+Object Reference:
+File: "DLCNukaWorld.esm"
+Flags: 0x00008009
+Form ID: 0x0602778D
+Form Type: 36
+File: "DLCNukaWorld.esm"
+Flags: 0x00018409
+Form ID: 0x0605394C
+Form Type: 64
+[RSP+1498] 0x19C18386100      (TESObjectCELL*)
+File: ""
+Flags: 0x00002008
+Form ID: 0xFF000A9A
+Form Type: 63
+Full Name: ""
+[RSP+14A0] 0x19B43CE2D10      (char*) "b"
+[RSP+14B0] 0x6576617374697845 (size_t)
+[RSP+14C0] 0x3646364134534636 (size_t)
+[RSP+14D0] 0x6F435F4236333639 (size_t)
+[RSP+14E0] 0x35313030305F6874 (size_t)
+[RSP+14F0] 0x3534303130303330 (size_t)
+[RSP+1500] 0x19C18386300      (TESObjectCELL*)
+File: ""
+Flags: 0x00002008
+Form ID: 0xFF000A98
+Form Type: 63
+Full Name: ""
+[RSP+1508] 0x7FF6A3A5093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+1518] 0x7FF6A3A50DBA     (void* -> Fallout4.exe+1B10DBA)
+[RSP+1528] 0x19C0932E5C0      (TESObjectREFR*)
+Object Reference:
+File: "DLCNukaWorld.esm"
+Flags: 0x00008009
+Form ID: 0x0602778D
+Form Type: 36
+File: "DLCNukaWorld.esm"
+Flags: 0x00018409
+Form ID: 0x0605394C
+Form Type: 64
+[RSP+1530] 0x7FF6A7916ED0     (void* -> Fallout4.exe+59D6ED0)
+[RSP+1538] 0x7FF6A2338F0D     (void* -> Fallout4.exe+03F8F0D)
+[RSP+1548] 0x7FF6A23240F5     (void* -> Fallout4.exe+03E40F5)
+[RSP+1558] 0x7FF6A3A5093F     (void* -> Fallout4.exe+1B1093F)
+[RSP+1568] 0x7FF6A22F5A5B     (void* -> Fallout4.exe+03B5A5B)
+[RSP+1570] 0x19C0932E5C0      (TESObjectREFR*)
+Object Reference:
+File: "DLCNukaWorld.esm"
+Flags: 0x00008009
+Form ID: 0x0602778D
+Form Type: 36
+File: "DLCNukaWorld.esm"
+Flags: 0x00018409
+Form ID: 0x0605394C
+Form Type: 64
+[RSP+1578] 0x19C18386100      (TESObjectCELL*)
+File: ""
+Flags: 0x00002008
+Form ID: 0xFF000A9A
+Form Type: 63
+Full Name: ""
+[RSP+1588] 0x7FF6A1F836DE     (void* -> Fallout4.exe+00436DE)
+[RSP+1598] 0x7FF6A231FEF5     (void* -> Fallout4.exe+03DFEF5)
+[RSP+15A8] 0x2                (size_t)
+[RSP+15B0] 0x19C09A32200      (TESWorldSpace*)
+File: "Unofficial Fallout 4 Patch.esp"
+Flags: 0x0000000B
+Form ID: 0x06052931
+Form Type: 74
+Full Name: "Bradberton Amphitheater"
+[RSP+15B8] 0x7FF6A1FD3A1B     (void* -> Fallout4.exe+0093A1B)
+[RSP+15C8] 0x6F445C747365545C (size_t)
+[RSP+15D8] 0x73656D614720794D (size_t)
+[RSP+15E8] 0x5C73657661535C34 (size_t)
+[RSP+15F0] 0x7FF6A7B28000     (void* -> Fallout4.exe+5BE8000)
+[RSP+15F8] 0x19C18386000      (TESObjectCELL*)
+File: ""
+Flags: 0x00002008
+Form ID: 0xFF000A9B
+Form Type: 63
+Full Name: ""
+[RSP+1608] 0x7FF6A7B28088     (void* -> Fallout4.exe+5BE8088)
+[RSP+1618] 0x7FFEC19AC289     (void* -> Buffout4.dll+004C289)
+[RSP+1628] 0x19C0934F600      (TESObjectCELL*)
+File: "DCGuard_Overhaul.esp"
+Flags: 0x0004040B
+Form ID: 0x06054375
+Form Type: 63
+Full Name: ""
+[RSP+1638] 0x19C18386000      (TESObjectCELL*)
+File: ""
+Flags: 0x00002008
+Form ID: 0xFF000A9B
+Form Type: 63
+Full Name: ""
+[RSP+1648] 0x7FF6A3A514CA     (void* -> Fallout4.exe+1B114CA)
+[RSP+1658] 0x7FF6A2092004     (void* -> Fallout4.exe+0152004)
+[RSP+1668] 0x5580D1FC39       (void*)
+[RSP+1678] 0x7FF6A22FA392     (void* -> Fallout4.exe+03BA392)
+[RSP+1688] 0x19C0934F600      (TESObjectCELL*)
+File: "DCGuard_Overhaul.esp"
+Flags: 0x0004040B
+Form ID: 0x06054375
+Form Type: 63
+Full Name: ""
+[RSP+1690] 0x19C0934F600      (TESObjectCELL*)
+File: "DCGuard_Overhaul.esp"
+Flags: 0x0004040B
+Form ID: 0x06054375
+Form Type: 63
+Full Name: ""
+[RSP+16A0] 0x19C18386000      (TESObjectCELL*)
+File: ""
+Flags: 0x00002008
+Form ID: 0xFF000A9B
+Form Type: 63
+Full Name: ""
+[RSP+16A8] 0x19C09A31F00      (TESWorldSpace*)
+File: "DCGuard_Overhaul.esp"
+Flags: 0x0000000B
+Form ID: 0x06053C58
+Form Type: 74
+Full Name: "Nuka-Town Market"
+[RSP+16B0] 0x7FF6A4B89DB8     (void* -> Fallout4.exe+2C49DB8)
+[RSP+16C0] 0x0                (size_t)
+[RSP+16D0] 0x0                (size_t)
+[RSP+16E0] 0x7FF6A7B28084     (void* -> Fallout4.exe+5BE8084)
+[RSP+16F0] 0x7FF6A7B28080     (void* -> Fallout4.exe+5BE8080)
+[RSP+16F8] 0x7FF6A7B28088     (void* -> Fallout4.exe+5BE8088)
+[RSP+1708] 0x0                (size_t)
+[RSP+1718] 0x7FF6A2C33A4D     (void* -> Fallout4.exe+0CF3A4D)
+[RSP+1728] 0x7FF6A79B34C0     (char*) "Exitsave0_9FAD0E6FS4A6F686E205769636B_Commonwealth_000156_20231103001045_5_2"
+[RSP+1738] 0x19C00000000      (void*)
+[RSP+1740] 0x7FF6A7B28000     (void* -> Fallout4.exe+5BE8000)
+[RSP+1748] 0x7FFF0DE03F01     (void* -> KERNELBASE.dll+0033F01)
+[RSP+1750] 0x7FF6A7B2B578     (void* -> Fallout4.exe+5BEB578)
+[RSP+1758] 0x7FF6A3A90F26     (void* -> Fallout4.exe+1B50F26)
+[RSP+1768] 0x7FF6A7B2B578     (void* -> Fallout4.exe+5BEB578)
+[RSP+1778] 0x7FFF0DE3748D     (void* -> KERNELBASE.dll+006748D)
+[RSP+1788] 0x0                (size_t)
+[RSP+1790] 0x7FF6A7B3E900     (void* -> Fallout4.exe+5BFE900)
+[RSP+17A0] 0x7FF6A7B2B528     (BSJobs::JobThread*)
+[RSP+17A8] 0x7FF6A3A91432     (void* -> Fallout4.exe+1B51432)
+[RSP+17B8] 0x7FF6A7B2B528     (BSJobs::JobThread*)
+[RSP+17C8] 0x5580D1FD90       (void*)
+[RSP+17D8] 0x0                (size_t)
+[RSP+17E8] 0x7FF6A3A93F67     (void* -> Fallout4.exe+1B53F67)
+[RSP+17F0] 0x7FF6A7B2B528     (BSJobs::JobThread*)
+[RSP+1800] 0x0                (size_t)
+[RSP+1810] 0x7FF6A7B2B528     (BSJobs::JobThread*)
+[RSP+1818] 0x7FF6A3A5CFED     (void* -> Fallout4.exe+1B1CFED)
+[RSP+1828] 0x5580D1FDB0       (void*)
+[RSP+1838] 0x0                (size_t)
+[RSP+1840] 0x7FF6A7B2B528     (BSJobs::JobThread*)
+[RSP+1850] 0x0                (size_t)
+[RSP+1858] 0x7FFF101D257D     (void* -> KERNEL32.DLL+001257D)
+[RSP+1868] 0x0                (size_t)
+[RSP+1878] 0x0                (size_t)
+[RSP+1888] 0x7FFF108EAA78     (void* -> ntdll.dll+005AA78)
+[RSP+1898] 0x0                (size_t)
+[RSP+18A8] 0x0                (size_t)
+[RSP+18B8] 0x0                (size_t)
+[RSP+18C8] 0x0                (size_t)
+[RSP+18D8] 0x7FFF0DF2C550     (void* -> KERNELBASE.dll+015C550)
+[RSP+18E8] 0x2E0000FFFFF40C4F (size_t)
+[RSP+18F8] 0x5580D1D680       (void*)
+[RSP+1908] 0x0                (size_t)
+[RSP+1918] 0x0                (size_t)
+[RSP+1928] 0x0                (size_t)
+[RSP+1938] 0x0                (size_t)
+[RSP+1948] 0x0                (size_t)
+[RSP+1958] 0x0                (size_t)
+[RSP+1968] 0x0                (size_t)
+[RSP+1978] 0x0                (size_t)
+[RSP+1988] 0x0                (size_t)
+[RSP+1998] 0x0                (size_t)
+[RSP+19A8] 0x0                (size_t)
+[RSP+19B8] 0x0                (size_t)
+[RSP+19C8] 0x0                (size_t)
+[RSP+19D8] 0x0                (size_t)
+[RSP+19E8] 0x0                (size_t)
+[RSP+19F8] 0x0                (size_t)
+[RSP+1A08] 0x0                (size_t)
+[RSP+1A18] 0x0                (size_t)
+[RSP+1A28] 0x0                (size_t)
+[RSP+1A38] 0x0                (size_t)
+[RSP+1A48] 0x0                (size_t)
+[RSP+1A58] 0x0                (size_t)
+[RSP+1A68] 0x0                (size_t)
+[RSP+1A78] 0x0                (size_t)
+[RSP+1A88] 0x0                (size_t)

@@ -1,0 +1,120 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     XDI.esm
+[09]     WorkshopFramework.esm
+[0A]     SettlementKeywords.esm
+[0B]     Brawl Bug Fix.esp
+[0C]     def_inv_scrap_en.esp
+[0D]     BetterModDescriptionsLite.esp
+[0E]     Better Armour & Weapon Naming - All DLC.esp
+[0F]     Better Armour & Weapon Naming - Far Harbour.esp
+[10]     Better Armour & Weapon Naming - Automatron.esp
+[11]     Better Armour & Weapon Naming.esp
+[12]     NWA-Damage Version 3.esp
+[13]     Classic Speech Checks Extended.esp
+[14]     Scavver's Toolbox.esp
+[15]     GCM.esp
+[16]     LooksMenu.esp
+[17]     SPIExtended.esp
+[18]     Better Companion Perks.esp
+[19]     PerkEditCollectiblesSuperSize.esp
+[1A]     FoodGenerators.esp
+[1B]     Insignificant Object Remover.esp
+[1C]     Remove-Santuary-Fence-Fix.esp
+[1D]     Remove-deadman-dog.esp
+[1E]     SettlementMenuManager.esp
+[1F]     NoAffinityCooldown.esp
+[20]     SuperAffinity.esp
+[21]     Faster Terminal Displays (20x).esp
+[22]     CarryWeight99999.esp
+[23]     BetterGenerators.esp
+[24]     KSHairdos.esp
+[25]     AzarPonytailHairstyles.esp
+[26]     NukaVimRack.esp
+[27]     Buildable_PAFrames.esp
+[28]     SKKUnlockCompanions.esp
+[29]     Vault81DiseaseFixAndPowerArmorImmunity.esp
+[2A]     HappyPills.esp
+[2B]     RichMerchants.esp
+[2C]     AA Better Companions - No Conflicts.esp
+[2D]     Quieter Settlements - Contraptions.esp
+[2E]     Quieter Settlements - Vanilla.esp
+[2F]     Quieter Settlements - Wasteland Workshop.esp
+[30]     Third Person Movement Speed Fix.esp
+[31]     RAW INPUT.esp
+[32]     LovingPiper-TrueReporterSE.esp
+[33]     LovingCurie_1.0.3b.esp
+[34]     LovingCait.esp
+[35]     RestaurantsGiveFood_Vanilla.esp
+[36]     6 x XP.esp
+[37]     StartMeUp.esp
+[38]     StartMeUpNukaWorldPatch.esp
+[39]     Vault-Tec Workshop Overhaul Redux.esp
+[3A]     Vault88 - Essentials.esp
+[FE:000] VCM_LibrarySupportPlugin_F-ESL.esl
+[FE:001] GCM_DLC_Automatron.esl
+[FE:002] GCM_DLC_Far_Harbor.esl
+[FE:003] Loot Detector.esl
+[FE:004] LootDetector_Expansion.esl
+[FE:005] Faster Builders.esl
+[FE:006] SPECIAL20.esl
+[FE:007] PPF.esm
+[FE:008] FixRobotVisualEffects.esl
+[FE:009] CanarySaveFileMonitor.esl
+[FE:00A] StartMeUpShaunDefaultAppearance.esp
+[FE:00B] Dank_LEO.esp
+[FE:00C] Dank_LEO-Automatron.esp
+[FE:00D] Dank_LEO_DLCCoast.esp
+[FE:00E] Dank_LEO_DLCNukaWorld.esp
+[FE:00F] Region Names on Save Files.esp
+[FE:010] Dank_ECO.esp
+[FE:011] Dank_ECO_DLCCoast.esp
+[FE:012] Dank_ECO_DLCNukaWorld.esp
+[FE:013] Dank_ECO_DLCRobot.esp
+[FE:014] Classic speech checks bi gendered perks.esp
+[FE:015] Visible Idle Markers.esp
+[FE:016] DecorationAppreciation.esp
+[FE:017] FunctionalCats.esp
+[FE:018] FAR.esp
+[FE:019] PRP.esp
+[FE:01A] Sanctuary_DCnR_F-ESL.esp
+[FE:01B] SpectacleIsland_DCnR_F-ESL.esp
+[FE:01C] PRP-Compat-RegionNames.esp
+[FE:01D] Cov-TBH-DCnR_F-ESL.esp
+[FE:01E] TheCastle_DC_F-ESL.esp
+[FE:01F] Bunker Hill DCnR_F-ESL.esp
+[FE:020] Graygarden_DCnR_F-ESL.esp
+[FE:021] RedRocket_DC_F-ESL.esp
+[FE:022] EgretTours_DCnR_F-ESL.esp
+[FE:023] WarwickHomestead_DC_F-ESL.esp
+[FE:024] TheSlog_DC_F-ESL.esp
+[FE:025] JamaicaPlains_DCnR_F-ESL.esp
+[FE:026] CroupManor_DCnR_F-ESL.esp
+[FE:027] StarlightDrivein_DCnR_F-ESL.esp
+[FE:028] GreentopNursery_DCnr_F-ESL.esp
+[FE:029] AbernathyFarm_DC_F-ESL.esp
+[FE:02A] KingsportLighthouse_DCnR_F-ESL.esp
+[FE:02B] CoastalCottage_DCnR_F-ESL.esp
+[FE:02C] EchoLakeLumber_DCnR_F-ESL.esp
+[FE:02D] NationalParkVC_DCnR_F-ESL.esp
+[FE:02E] DaltonFarm_DCnR_F-ESL.esp
+[FE:02F] LongfellowsCabin_DCnR_F-ESL.esp
+[FE:030] SunshideTidings_DCnR_F-ESL.esp
+[FE:031] HangmansAlley_DC_F-ESL.esp
+[FE:032] NordhagenBeach_DC_F-ESL.esp
+[FE:033] TenpinesOutpostZimonja_DCnR_F-ESL.esp
+[FE:034] SomervillePlace_DCnR_F-ESL.esp
+[FE:035] CountyCrossing_DCnR_F-ESL.esp
+[FE:036] MurkwaterConstruction_DCnR_F-ESL.esp
+[FE:037] FinchFarm_DC_F-ESL.esp
+[FE:038] MechanistLair_DC_F-ESL.esp
+[FE:039] NukaWorldRedRocket_DC_F-ESL.esp
+[FE:03A] OberlandStation_DCnR_F-ESL.esp
+[FE:03B] Vault88_DC_F-ESL.esp
+[FE:03C] WorkshopFramework_ScriptOverride.esp

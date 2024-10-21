@@ -1,0 +1,44 @@
+F4EE: true
+[Debug]
+Symcache: c:symcache
+WaitForDebugger: false
+[Fixes]
+ActorIsHostileToActor: true
+BSLightingShaderMaterialGlowmap: true
+BackportedBA2Support: true
+CellInit: true
+CreateD3DAndSwapChain: true
+EncounterZoneReset: true
+FixScriptPageAllocation: true
+FixToggleScriptsCommand: true
+GameDataReady: true
+GreyMovies: true
+InteriorNavCut: true
+MagicEffectApplyEvent: true
+MovementPlanner: true
+PackageAllocateLocation: true
+PipboyLightInvFix: true
+SafeExit: true
+TESObjectREFRGetEncounterZone: true
+UnalignedLoad: true
+UtilityShader: true
+WorkBenchSwap: true
+[Patches]
+Achievements: true
+BSMTAManager: true
+BSPreCulledObjects: true
+BSTextureStreamerLocalHeap: false
+HavokMemorySystem: false
+INISettingCollection: true
+InputSwitch: false
+MaxStdIO: 2048
+MemoryManager: false
+MemoryManagerDebug: false
+ScaleformAllocator: false
+SmallBlockAllocator: false
+WorkshopMenu: true
+[Tweaks]
+MaxPapyrusOpsPerFrame: 500
+[Warnings]
+CreateTexture2D: true
+ImageSpaceAdapter: true

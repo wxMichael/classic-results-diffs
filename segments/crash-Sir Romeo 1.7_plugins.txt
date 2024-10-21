@@ -1,0 +1,381 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     WorkshopFramework.esm
+[09]     HUDFramework.esm
+[0A]     XDI.esm
+[0B]     ArmorKeywords.esm
+[0C]     MutantMenagerie.esm
+[0D]     Homemaker.esm
+[0E]     AAF.esm
+[0F]     CWWorkshopMaster.esm
+[10]     Phase4DLC.esp
+[11]     3DNPC_FO4.esp
+[12]     AtomicRadio.esp
+[13]     PhotoMode.esp
+[14]     Eli_Armour_Compendium.esp
+[15]     3DNPC_FO4Settler.esp
+[16]     BetterSettlers.esp
+[17]     Scopes.esp
+[18]     MoreVariedBodyShapesAndSkins.esp
+[19]     FO4 NPCs Travel.esp
+[1A]     3DNPC_FO4_DLC.esp
+[1B]     LooksMenu Customization Compendium.esp
+[1C]     The Eyes Of Beauty.esp
+[1D]     GCM.esp
+[1E]     Hairstyles for Male and Female.esp
+[1F]     KSHairdos.esp
+[20]     RealNameSettlers.esp
+[21]     tacticaltommy.esp
+[22]     OA_LootableMaterialsCrates_vanilla.esp
+[23]     Diamond City Clean up Project.esp
+[24]     PiperCaitCurieDialogueOverhaul.esp
+[25]     Unique NPCs - Creatures and Monsters.esp
+[26]     Boston Natural Surroundings.esp
+[27]     LootableCars.esp
+[28]     RynsFallout4.esp
+[29]     WelcometoGoodneighbor.esp
+[2A]     Armorsmith Extended.esp
+[2B]     Better Locational Damage.esp
+[2C]     UltraInteriorLighting.esp
+[2D]     RailroadRedone.esp
+[2E]     ENBLightsHDRPatch.esp
+[2F]     SuperMutantRedux.esp
+[30]     MojaveImports.esp
+[31]     AnimatedCandles.esp
+[32]     Wasteland Illumination.esp
+[33]     The Train.esp
+[34]     Cyberman.esp
+[35]     Reverb and Ambiance Overhaul.esp
+[36]     ZombieWalkers.esp
+[37]     jsrs.esp
+[38]     Raider Gang Extended NPC (Fixed & Cleaned).esp
+[39]     QuazVehicleOverhaul.esp
+[3A]     GhoulBlood.esp
+[3B]     InstituteJunkyard.esp
+[3C]     UniqueUniques.esp
+[3D]     Skb_RiflesRebirth.esp
+[3E]     MilitarizedMinutemen.esp
+[3F]     PIP-Pad.esp
+[40]     Minuteman Watchtowers.esp
+[41]     MakeshiftCMG.esp
+[42]     CWCreateABot.esp
+[43]     Heavy BoS.esp
+[44]     VarmintRifle.esp
+[45]     officersRevolver.esp
+[46]     CourserCrusher.esp
+[47]     CROSS_PlasRail.esp
+[48]     InstituteArsenalOverhaul.esp
+[49]     CrudeBlowback.esp
+[4A]     AKMnv.esp
+[4B]     DT_MercOutfitPack.esp
+[4C]     ElMudoStore.esp
+[4D]     SVT40.esp
+[4E]     EnclaveUniform.esp
+[4F]     BullpupBozar.esp
+[50]     DesertEagleNV.esp
+[51]     RedShiftPowerArmor.esp
+[52]     ConceptPlasma.esp
+[53]     WM Chinese Assault Rifle - Standalone.esp
+[54]     WinCowbowRepeater.esp
+[55]     SelectRapidMG.esp
+[56]     HuntingRevolver.esp
+[57]     DOOMThatGun.esp
+[58]     AKM_AKMS.esp
+[59]     AKM_AKMS_NWPatch.esp
+[5A]     VltSec10mmSmg.esp
+[5B]     Classic Fallout Music.esp
+[5C]     Classic Fallout Music Far Harbor.esp
+[5D]     Classic Fallout Music NukaWorld.esp
+[5E]     PrefabHouses.esp
+[5F]     Rusty Face Fix.esp
+[60]     VHCE.esp
+[61]     Commonwealth Climate.esp
+[62]     SKKFastMinutemen.esp
+[63]     Clothing Of The Commonwealth.esp
+[64]     Classic Combat Armor.esp
+[65]     CF_AtomicWarlord.esp
+[66]     Thematic and Practical.esp
+[67]     Better Explosives.esp
+[68]     Better Locational Damage - DLC_Far_Harbor.esp
+[69]     SPR300.esp
+[6A]     BF1 Animations - Double Barrel Shotgun v2.3.esp
+[6B]     PowerArmorLite.esp
+[6C]     Talos_Armor.esp
+[6D]     MakeshiftStealthPack.esp
+[6E]     Clean Water - Tropical.esp
+[6F]     Defective_Synth.esp
+[70]     Better_Settlement_Defence.esp
+[71]     Casio_W59.esp
+[72]     HandyOverhaul.esp
+[73]     CROSS_Cybernetics.esp
+[74]     RemingtonNewArmy.esp
+[75]     companion_FHSM.esp
+[76]     BE_Enhanced Grenades.esp
+[77]     GibsofGlory.esp
+[78]     QuickTrade.esp
+[79]     VGVolkssturmgewehr.esp
+[7A]     TrueGrass.esp
+[7B]     IWMacCready.esp
+[7C]     RightHandedHuntingRifle.esp
+[7D]     GreaseGunSMG.esp
+[7E]     CorpusPraesidium.esp
+[7F]     EnclaveX02.esp
+[80]     P.G.Overhaul.esp
+[81]     Jetpack Overhaul.esp
+[82]     Marmo1233 - PowerArmorAirdrop.esp
+[83]     CROSS_Jetpack.esp
+[84]     pulsecarbine.esp
+[85]     AEWS.esp
+[86]     CourierDuster.esp
+[87]     FusionCoreRefueler.esp
+[88]     MakeshiftAssaultPack.esp
+[89]     SF Danse.esp
+[8A]     M2Shotgun.esp
+[8B]     CROSS_GoreCrits.esp
+[8C]     RailwayPistol.esp
+[8D]     Crafting Mastery.esp
+[8E]     AnimChemRedux.esp
+[8F]     More_Clothes_Textures.esp
+[90]     3dscopes-replacer.esp
+[91]     Electrolasers Redux.esp
+[92]     Lasers Have No Recoil.esp
+[93]     SKKRESystemManager.esp
+[94]     Guards.esp
+[95]     Laser Weapon Reanimated.esp
+[96]     Zapgun.esp
+[97]     Archimedes-II.esp
+[98]     CROSS_RugerMkV.esp
+[99]     SelectMarksman.esp
+[9A]     HomemadeLasRevolver.esp
+[9B]     AA Better Companions - No Conflicts.esp
+[9C]     ImmersiveScrapping_FarHarbor.esp
+[9D]     Dlx_assaultron.esp
+[9E]     Weapons of Fate.esp
+[9F]     Locky Bastard.esp
+[A0]     EnergyComboDeal.esp
+[A1]     Brotherhood Power Armor Overhaul.esp
+[A2]     PAMAP.esp
+[A3]     Nexus_PMC.esp
+[A4]     PMC_extended.esp
+[A5]     SKKFastBOS.esp
+[A6]     SSNPC - Minutemen.esp
+[A7]     PIP-Pad_LMCC.esp
+[A8]     Synths Revamped.esp
+[A9]     GaussRevolver.esp
+[AA]     Hellfirenew.esp
+[AB]     StartMeUp.esp
+[AC]     StartMeUpNukaWorldPatch.esp
+[AD]     EnhancedLightsandFX.esp
+[AE]     PIP-Pad_Pip-BoyFlashlight.esp
+[AF]     W.A.T.Minutemen.esp
+[B0]     NukaRDC.esp
+[B1]     TrueReporter.esp
+[B2]     WestTekTacticalOptics.esp
+[B3]     Enclave-X02.esp
+[B4]     Backpacks of the Commonwealth.esp
+[FE:000] BakaFramework.esm
+[FE:001] CROSS_VertibirdFlightsuit.esl
+[FE:002] CROSS_Wasteland_Ronin.esl
+[FE:003] Quick_Change_Armor_by_tooun.esl
+[FE:004] PainTrainAndImpactLanding-BuffedAndReworked.esl
+[FE:005] RunningWithHandsAnim.esl
+[FE:006] FOVSlider.esl
+[FE:007] CWBrahmin.esl
+[FE:008] GKX Worthwhile Caps Stashes.esl
+[FE:009] YouAndWhatArmy.esl
+[FE:00A] CWDogmeat.esl
+[FE:00B] Geckos.esl
+[FE:00C] Skb-MinigunsRebirth.esl
+[FE:00D] CWYaoGuai.esl
+[FE:00E] Centaur.esl
+[FE:00F] ClassicMysteriousStranger.esl
+[FE:010] CW32Pistol.esl
+[FE:011] SwimmingAnims.esl
+[FE:012] ODT - Raider Armors Retextured.esl
+[FE:013] YouAndWhatArmy-ButItIsITheMechanist.esl
+[FE:014] YouAndWhatArmy-ButItsBrotherhood.esl
+[FE:015] YouAndWhatArmy-ButItsFailroad.esl
+[FE:016] YouAndWhatArmy-ButItsGunners.esl
+[FE:017] YouAndWhatArmy-ButItsRaiders.esl
+[FE:018] YouAndWhatArmy-ButItsTheInstitute.esl
+[FE:019] Skb_MachinegunsRebirth.esl
+[FE:01A] TeslaHeavyGun.esl
+[FE:01B] CWGaussRifle.esl
+[FE:01C] ClassicMeleePack.esl
+[FE:01D] nukaproject.esl
+[FE:01E] CWWorkshopPackPart2.esl
+[FE:01F] Unlimited Fusion Core power.esl
+[FE:020] GCM_DLC_Far_Harbor.esl
+[FE:021] GCM_DLC_Automatron.esl
+[FE:022] CBBE.esp
+[FE:023] Vivid Fallout - All in One - Best Choice.esp
+[FE:024] WET.esp
+[FE:025] AzarPonytailHairstyles.esp
+[FE:026] LooksMenu.esp
+[FE:027] BetterSettlersNoLollygagging.esp
+[FE:028] BetterSettlersCleanFacePack.esp
+[FE:029] SkipHSH1_6.esp
+[FE:02A] EveryonesBestFriend.esp
+[FE:02B] M8rDisablePipboyEffects.esp
+[FE:02C] Clarity.esp
+[FE:02D] Remove Interior Fog - All Dlc.esp
+[FE:02E] WeightlessJunk.esp
+[FE:02F] Fog Remover II (AIO) Recommended.esp
+[FE:030] JSRS_Regions.esp
+[FE:031] Fallout 4 AI Overhaul.esp
+[FE:032] ClassicGhoulRace2022.esp
+[FE:033] AntiqueGauss.esp
+[FE:034] Neons NPC Overhaul.esp
+[FE:035] CROSS_MojaveManhunter.esp
+[FE:036] DualGun.esp
+[FE:037] SelectRevolver.esp
+[FE:038] CROSS_BreakActionLaser.esp
+[FE:039] HellcatPA.esp
+[FE:03A] Look At Me PAA.esp
+[FE:03B] PPS43.esp
+[FE:03C] Leah's Modern Power.esp
+[FE:03D] RustyFaceFixRedux.esp
+[FE:03E] CROSS_2077.esp
+[FE:03F] Look At Me AE.esp
+[FE:040] CROSS_VertibirdFlightsuit.esp
+[FE:041] CROSS_Wasteland_Ronin.esp
+[FE:042] Look At Me CE.esp
+[FE:043] Crimsomrider's Accessories.esp
+[FE:044] Look At Me RAE.esp
+[FE:045] Look At Me RAE x CA Addon.esp
+[FE:046] Look At Me RAE x BLD x CA Addon.esp
+[FE:047] Look At Me RAE x BLD.esp
+[FE:048] TheKite_Railroad_Handmaiden.esp
+[FE:049] Look At Me NE.esp
+[FE:04A] CROSS_BrotherhoodRecon.esp
+[FE:04B] Look At Me BE.esp
+[FE:04C] Look At Me BE x BLD.esp
+[FE:04D] Look At Me TE.esp
+[FE:04E] Look At Me RE.esp
+[FE:04F] Better Locational Damage - DLC_Nuka_World.esp
+[FE:050] Burst Impact Blast FX.esp
+[FE:051] NZ41.esp
+[FE:052] MM Brotherhood.esp
+[FE:053] MM Shelter.esp
+[FE:054] ValiusHDTextures2K.esp
+[FE:055] FlaconOil_BA2_2K_Part3.esp
+[FE:056] FlaconOil_BA2_2K_Part2.esp
+[FE:057] FlaconOil_BA2_2K_Part1.esp
+[FE:058] FG_ReloadSounds.esp
+[FE:059] StartMeUpShaunDefaultAppearance.esp
+[FE:05A] Vault-tec brighter lights.esp
+[FE:05B] No Perk Level Requirements ALL DLC 3.0.esp
+[FE:05C] RemoveBlur.esp
+[FE:05D] LC's UHD Skeletons.esp
+[FE:05E] Realistic Roads - Black Asphalt.esp
+[FE:05F] Wasteland Workshop Streetlights.esp
+[FE:060] More Where That Came From Diamond City.esp
+[FE:061] SSNPC - DCResidentsAIO.esp
+[FE:062] Fixed Trading Prices.esp
+[FE:063] Better Explosives - Grenade Frequency 30.esp
+[FE:064] ImmersiveScrapping.esp
+[FE:065] Immersive_Molotovs_Flamer_Ruddy88ExtendedESP.esp
+[FE:066] Feral Ghoul Bite Skills.esp
+[FE:067] M8rDisableCreationClub.esp
+[FE:068] AVDelivererReplace.esp
+[FE:069] LaserGarand.esp
+[FE:06A] VGVolkssturmgewehrLL.esp
+[FE:06B] VGVolkssturmgewehrSTS.esp
+[FE:06C] GeniusGamePerk.esp
+[FE:06D] AKSounds.esp
+[FE:06E] SVT40-1.5xDMG.esp
+[FE:06F] SVT40-AWKCR.esp
+[FE:070] HeavySelectShotgun.esp
+[FE:071] MiscHairstyle.esp
+[FE:072] Repaired Roofs.esp
+[FE:073] PowerArmorAutopilot.esp
+[FE:074] Power Armor HUD Switcher.esp
+[FE:075] Suit Up.esp
+[FE:076] ManCoat.esp
+[FE:077] VWR - Explosives.esp
+[FE:078] VWR - 44 Magnum.esp
+[FE:079] DA44.esp
+[FE:07A] PA-Quick Animations.esp
+[FE:07B] YAWA - MECH Modifiable Bots.esp
+[FE:07C] Lots More Facial Hair.esp
+[FE:07D] BossChestsHaveLegendaries.esp
+[FE:07E] GatlingRifle.esp
+[FE:07F] GatlingRifle-Commando.esp
+[FE:080] GatlingRifle-NoIdiotSavant.esp
+[FE:081] Fog Remover Recommended.esp
+[FE:082] Faster Terminal Displays (20x).esp
+[FE:083] Ambient Wasteland.esp
+[FE:084] LongerPowerLines3x.esp
+[FE:085] SCOURGE - Vanilla.esp
+[FE:086] SCOURGE - Automatron.esp
+[FE:087] SCOURGE - Far Harbor.esp
+[FE:088] SCOURGE - Nuka World.esp
+[FE:089] CROSS_GoreCrits_FarHarborPatch.esp
+[FE:08A] HuntingRifleSounds.esp
+[FE:08B] Mason.esp
+[FE:08C] MagsBlack.esp
+[FE:08D] ImTalkingToYou.esp
+[FE:08E] Elzee Jolly Item Sounds.esp
+[FE:08F] WeightlessAid.esp
+[FE:090] chem redux.esp
+[FE:091] Faster Stations.esp
+[FE:092] Brotherhood of Steel Kit.esp
+[FE:093] Mags.esp
+[FE:094] MoreShipments-x5_CWFiberOptics.esp
+[FE:095] Realistic Survival Damage.esp
+[FE:096] Stimpaks help you breathe.esp
+[FE:097] RichMerchants.esp
+[FE:098] AVBMGReplace.esp
+[FE:099] Better Locational Damage - DLC_Automatron.esp
+[FE:09A] AVBMusket.esp
+[FE:09B] More Females.esp
+[FE:09C] DD_Perk_Reset_WIZURD_HAIRRYY.esp
+[FE:09D] Ghouls Revamped.esp
+[FE:09E] RAW INPUT.esp
+[FE:09F] SuperMutantRedux_ArmorSmithExtended.esp
+[FE:0A0] VCMT Expansion patch - PROJECT VARIANCE.esp
+[FE:0A1] Insignificant Object Remover.esp
+[FE:0A2] CROSS_CryoLance.esp
+[FE:0A3] PA increases your speed.esp
+[FE:0A4] VarmintRifle - AWKCR.esp
+[FE:0A5] CrudeBlowback - AWKCR.esp
+[FE:0A6] CROSS_RugerMkV_NovaDesert_Addon.esp
+[FE:0A7] PlatinumCurieV2.1.esp
+[FE:0A8] ImmersiveScrapping_Automatron.esp
+[FE:0A9] ImmersiveScrapping_VaultTecWS.esp
+[FE:0AA] LC's UHD Skeleton Wardrobe.esp
+[FE:0AB] wornplastic.esp
+[FE:0AC] Live Action Handy.esp
+[FE:0AD] LooneyLongfellow.esp
+[FE:0AE] Better Locational Damage - DLC_WWorkshop.esp
+[FE:0AF] Better VATS - 0.75.esp
+[FE:0B0] NoCombatMusic.esp
+[FE:0B1] SuperMutantRedux VIS Patch.esp
+[FE:0B2] Better Perks - Enhanced.esp
+[FE:0B3] WeightlessSpecialAmmo.esp
+[FE:0B4] GunmetalArmorSkins-SynthUniform.esp
+[FE:0B5] VGDoubleBarrel.esp
+[FE:0B6] VGDoubleBarrelReplacer.esp
+[FE:0B7] Consistent Power Armor Overhaul.esp
+[FE:0B8] CROSS_CoA.esp
+[FE:0B9] Look At Me GE.esp
+[FE:0BA] Crimsomrider's Transparent Cleanroom Suit.esp
+[FE:0BB] BostonFPSFixAIO.esp
+[FE:0BC] Pip-Boy Flashlight.esp
+[FE:0BD] CROSS_InstituteExpeditionarySuit.esp
+[FE:0BE] CROSS_CourserStrigidae.esp
+[FE:0BF] Look At Me IE.esp
+[FE:0C0] CROSS_Blades.esp
+[FE:0C1] Scrap Everything - Ultimate Edition.esp
+[FE:0C2] ImmersiveAnimationFramework.esp
+[FE:0C3] Nability - IAF Tales from the Commonwealth Patch.esp
+[FE:0C4] IAF - Far Harbor & Nuka World.esp
+[FE:0C5] Realistic Death Physics - ALL DLC.esp
+[FE:0C6] Skip DIMA memories.esp
+[FE:0C7] Bashed Patch, 0.esp

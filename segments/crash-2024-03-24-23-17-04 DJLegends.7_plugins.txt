@@ -1,0 +1,155 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     WorkshopFramework.esm
+[09]     XDI.esm
+[0A]     HUDFramework.esm
+[0B]     AAF.esm
+[0C]     MutantMenagerie.esm
+[0D]     CompanionIvy.esm
+[0E]     SS2.esm
+[0F]     SS2_XPAC_Chapter2.esm
+[10]     SS2_XPAC_Chapter3.esm
+[11]     PACE.esm
+[12]     PANPC.esm
+[13]     UneducatedReload.esm
+[14]     TacticalReload.esm
+[15]     CBBE.esp
+[16]     LooksMenu.esp
+[17]     XM2010_SniperRifle_by_tooun.esp
+[18]     TacticalReloadDLC.esp
+[19]     TacticalReloadVanilla.esp
+[1A]     WeaponModFixes-GOTY.esp
+[1B]     Q_DarkCommonwealth.esp
+[1C]     RED.esp
+[1D]     SS2Extended.esp
+[1E]     CompanionIvy_Nuka.esp
+[1F]     CompanionIvy_quest.esp
+[20]     IKAROS-Androids.esp
+[21]     CompanionIvy_Mags.esp
+[22]     llamaCompanionHeatherv2.esp
+[23]     SettlementMenuManager.esp
+[24]     CustomCamera.esp
+[25]     PhotoMode.esp
+[26]     HiPolyFaces.esp
+[27]     The Eyes Of Beauty.esp
+[28]     AzarPonytailHairstyles.esp
+[29]     Calamity Weathers.esp
+[2A]     Calamity Weathers - Nuka World.esp
+[2B]     Calamity Weathers - Far Harbor.esp
+[2C]     NAF.esp
+[2D]     THPoses.esp
+[2E]     TacticalTablet.esp
+[2F]     LooksMenu Customization Compendium.esp
+[30]     KSHairdos.esp
+[31]     aBitBetterGunnerFaces.esp
+[32]     CompanionStatus.esp
+[33]     WheelMenu.esp
+[34]     CharismaToCharmPerkGrid.esp
+[35]     CharismaToCharmTXT.esp
+[36]     QuickTrade.esp
+[37]     PACE - Less Combat Chatter.esp
+[38]     PANPC - Explosion Responses.esp
+[39]     PANPC - Trap Alerts.esp
+[3A]     No Underarmor Scalling.esp
+[3B]     PersistentVolumeSliders.esp
+[3C]     MusicMergedDLC.esp
+[3D]     STALKER Music_Complete.esp
+[3E]     TacticalTablet_LMCC.esp
+[3F]     USP .45_by_tooun.esp
+[40]     USP .45_by_tooun_TR_patch.esp
+[41]     Grab and Eat.esp
+[42]     InteractionAnimations.esp
+[43]     Broken Weapon System.esp
+[44]     StartMeUp.esp
+[45]     BashPatch 2.0.esp
+[46]     StartMeUpNukaWorldPatch.esp
+[47]     RED-StartMeUp.esp
+[48]     StartMeUpSS2Patch.esp
+[49]     PRP - Patches.esp
+[4A]     SatelliteWorldMap.esp
+[FE:000] BakaFramework.esm
+[FE:001] REFramework.esm
+[FE:002] PPF.esm
+[FE:003] Community Fixes Merged.esp
+[FE:004] TMR_GlitchfinderAIO.esm
+[FE:005] Ownership Fixes.esp
+[FE:006] HiPolyFacesCompanionPlugin.esl
+[FE:007] LIF.esl
+[FE:008] KillTips_by_tooun.esl
+[FE:009] Quick_Modification_Weapon_by_tooun.esl
+[FE:00A] M84FlashBang.esl
+[FE:00B] HCKTerminalHack.esl
+[FE:00C] FastTravelAIDetectionFix.esl
+[FE:00D] NPCRespawnFix.esl
+[FE:00E] pacify03.esl
+[FE:00F] StayAwayWhileBuilding.esl
+[FE:010] OutlineComponentShader.esl
+[FE:011] LightGreenWorkshopShader.esl
+[FE:012] VCM_Sanctuary_Navmesh_Update_W_Roof.esl
+[FE:013] VCM_RedRocket_Navmesh_Update.esl
+[FE:014] Dogs can grab player.esl
+[FE:015] Fixed Gobo Effects.esp
+[FE:016] Wetness Shader Fix.esp
+[FE:017] M8rDisablePipboyEffects.esp
+[FE:018] MiscAnimTweaks.esp
+[FE:019] Community Fixes Merged - Weapon Mod Fixes Patch.esp
+[FE:01A] Thrive Redone.esp
+[FE:01B] Fallout 4 AI Overhaul.esp
+[FE:01C] PRP-SS2-Fixes-Ch2.esp
+[FE:01D] PRP-SS2-Fixes-Ch1.esp
+[FE:01E] PuddleReflectionFix.esp
+[FE:01F] VividFallout - AiO - BestChoice.esp
+[FE:020] Vivid Fallout - LOD.esp
+[FE:021] Vivid Fallout - Nuka World LOD.esp
+[FE:022] Vivid Fallout - Far Harbor LOD.esp
+[FE:023] A-Body.esp
+[FE:024] ScreenArcherMenu.esp
+[FE:025] DiscreteFemaleSkeleton.esp
+[FE:026] aBitBetterRaidersFaces.esp
+[FE:027] aBitPrettierBOSFaces.esp
+[FE:028] DeftHands.esp
+[FE:029] Ivy Ikaros.esp
+[FE:02A] StartMeUpShaunDefaultAppearance.esp
+[FE:02B] Assaultron Grab Skills.esp
+[FE:02C] Deathclaw Grab Skills.esp
+[FE:02D] Feral Ghoul Bite Skills.esp
+[FE:02E] Radscorpion Stab Skill.esp
+[FE:02F] Radstag Grab Skill.esp
+[FE:030] Yaoguai grab skill.esp
+[FE:031] Less intrusive tutorial.esp
+[FE:032] 00LK_MW_Explosions.esp
+[FE:033] 00LK_MW_Explosion_Reflection_Amplified.esp
+[FE:034] 00LK_MWGS.esp
+[FE:035] DLCCoast_MWGS_Patch_KSSM_Ver.esp
+[FE:036] DLCNukaWorld_MWGS_Patch_KSSM_Ver.esp
+[FE:037] Fallout4_Vanilla_Weapons_MWGS_Patch_KSSM_Ver.esp
+[FE:038] 4estGimp - LostWorld_STALKER_Merged.esp
+[FE:039] GLXRM_FlashlightHolster.esp
+[FE:03A] llama_Heather_NOSHAUN_PATCH.esp
+[FE:03B] XM2010_SniperRifle_STS_consoleFOV90_100.esp
+[FE:03C] XM2010_SniperRifle_TR_patch.esp
+[FE:03D] SS2 XDI Perk Speech Checks.esp
+[FE:03E] SS2_MagnussonTerminalFix.esp
+[FE:03F] SS2_XDI Patch.esp
+[FE:040] SS2_DLCSettlerPatch.esp
+[FE:041] SS2Extended_OutfitInjectionPatch.esp
+[FE:042] Elzee Cut SFX Restored.esp
+[FE:043] Jump Grunt.esp
+[FE:044] Elzee Cough.esp
+[FE:045] Elzee_idroid.esp
+[FE:046] Elzee Jolly Item Sounds.esp
+[FE:047] Elzee Recoil Shake.esp
+[FE:048] Elzee Dynamic Timescale.esp
+[FE:049] Stimpaks help you breathe.esp
+[FE:04A] Elzee Have a Seat.esp
+[FE:04B] Elzee Breathe.esp
+[FE:04C] Elzee Car Alarm.esp
+[FE:04D] Elzee Stomp.esp
+[FE:04E] PRP.esp
+[FE:04F] PRP-SS2.esp

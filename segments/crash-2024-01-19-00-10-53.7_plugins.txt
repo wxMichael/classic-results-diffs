@@ -1,0 +1,173 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     HUDFramework.esm
+[09]     XDI.esm
+[0A]     WorkshopFramework.esm
+[0B]     SS2.esm
+[0C]     SS2_XPAC_Chapter2.esm
+[0D]     DCGuard_Overhaul.esp
+[0E]     AmericaRising2.esm
+[0F]     CWPointLookoutFO4.esm
+[10]     SouthOfTheSea.esm
+[11]     Darlene.esm
+[12]     TrueStormsFO4.esm
+[13]     SS2_XPAC_Chapter3.esm
+[14]     KSHairdos.esp
+[15]     KSHairdos_oel.esp
+[16]     AzarPonytailHairstyles.esp
+[17]     CBBE.esp
+[18]     LooksMenu Customization Compendium.esp
+[19]     LooksMenu.esp
+[1A]     Lots More Female Hairstyles.esp
+[1B]     StartMeUp.esp
+[1C]     PlayerComments.esp
+[1D]     TBOS-AntoHairPack.esp
+[1E]     The Eyes of Beauty Looking Stranger.esp
+[1F]     The Eyes Of Beauty.esp
+[20]     TheEyesOfBeauty.esp
+[21]     Immersive HUD.esp
+[22]     SkjAlert_All_DLC.esp
+[23]     dD-Enhanced Blood Basic.esp
+[24]     FlaconOil_BA2_2K_Part1.esp
+[25]     FlaconOil_BA2_2K_Part2.esp
+[26]     FlaconOil_BA2_2K_Part3.esp
+[27]     SS2Extended.esp
+[28]     SS2WastelandReconstructionKit.esp
+[29]     InstituteSettlements2.esp
+[2A]     OutcastsAndRemnants.esp
+[2B]     AA FusionCityRising.esp
+[2C]     ProjectValkyrie.esp
+[2D]     Depravity.esp
+[2E]     CrimeTown.esp
+[2F]     FaceMaxson.esp
+[30]     AmazingFollowerTweaks.esp
+[31]     AFT_Hotkey_Recipes.esp
+[32]     AmazingFollowerTweaks_XDI_FIX.esp
+[33]     llamaCompanionHeatherv2.esp
+[34]     Dogmeat  A True Companion Normal.esp
+[35]     ellen.esp
+[36]     BetterCompanions.esp
+[37]     NoSharedDogmeatTemplate.esp
+[38]     EnhancedLightsandFX.esp
+[39]     TrueStormsFO4-FarHarbor.esp
+[3A]     TrueStormsFO4-NukaWorld-FH-Compat.esp
+[3B]     UltraInteriorLighting.esp
+[3C]     Fr4nssonsLightTweaks.esp
+[3D]     Reverb and Ambiance Overhaul.esp
+[3E]     A Forest.esp
+[3F]     TrueGrass.esp
+[40]     VELDT.esp
+[41]     Radiant Clouds and Fogs.esp
+[42]     D.E.C.A.Y.esp
+[43]     StartMeUpNukaWorldPatch.esp
+[FE:000] CanarySaveFileMonitor.esl
+[FE:001] Congruent Sensitivity - FO4.esl
+[FE:002] SS2WorkshopHUDOverride.esl
+[FE:003] CWPointLookoutFO4Patch.esl
+[FE:004] LushAmbience.esl
+[FE:005] CityAmbience.esl
+[FE:006] PPF.esm
+[FE:007] Wetness Shader Fix.esp
+[FE:008] Fixed Alpha Maps.esp
+[FE:009] Fixed Gobo Effects.esp
+[FE:00A] Flicker Fixer.esp
+[FE:00B] StartMeUpShaunDefaultAppearance.esp
+[FE:00C] M8rDisablePipboyEffects.esp
+[FE:00D] UltraLODf.esp
+[FE:00E] VividFallout - AiO - 2k.esp
+[FE:00F] WET.esp
+[FE:010] SS2_DLCSettlerPatch.esp
+[FE:011] SS2_XDI Patch.esp
+[FE:012] SS2_MagnussonTerminalFix.esp
+[FE:013] SS2_FensSheriffDept_Patch.esp
+[FE:014] Keep Radiants In Commonwealth.esp
+[FE:015] llama_Heather_NOSHAUN_PATCH.esp
+[FE:016] DogmeatNoOpeningDoors.esp
+[FE:017] NoFeralGhoulDoorOpening.esp
+[FE:018] PushAwayCompanions.esp
+[FE:019] spacefiddle_Follower-Stealth-Distance-Fixes.esp
+[FE:01A] Laser Weapons Reposition.esp
+[FE:01B] SimpleDodges.esp
+[FE:01C] SimpleFirearmPowerAttacks.esp
+[FE:01D] SimpleAttackReactions.esp
+[FE:01E] SimpleDeathReactions.esp
+[FE:01F] A Forest-Base Mod Patch.esp
+[FE:020] PRP.esp
+[FE:021] PRP-Compat-UIL.esp
+[FE:022] SouthOfTheSea[Previs].esp
+[FE:023] JOTCPatch PlayerComments UFO4P.esp
+[FE:024] JOTCPatch PlayerComments StartMeUp.esp
+[FE:025] PlayerCommentsStartMeUpPiperFix.esp
+[FE:026] JOTCPatch PlayerComments PlayerCommentsStartMeUpPiperFix.esp
+[FE:027] JOTCPatch AFT PlayerComments.esp
+[FE:028] JOTCPatch StartMeUpNukaWorldPatch Forward.esp
+[FE:029] JOTCPatch SS2_XPAC_Chapter2 UFO4P.esp
+[FE:02A] JOTCPatch TheFens UFO4P.esp
+[FE:02B] JOTCPatch BetterGoodneighbor UFO4P.esp
+[FE:02C] JOTCPatch TheFens SS2.esp
+[FE:02D] JOTCPatch OAR DLC.esp
+[FE:02E] JOTCPatch OAR UFO4P.esp
+[FE:02F] JOTCPatch OAR PlayerComments.esp
+[FE:030] JOTCPatch OAR SS2.esp
+[FE:031] JOTCPatch OAR TheFens.esp
+[FE:032] JOTCPatch AmericaRising2 Depravity.esp
+[FE:033] JOTCPatch AmericaRising2 DLC.esp
+[FE:034] JOTCPatch SouthOfTheSea DLC.esp
+[FE:035] JOTCPatch SouthOfTheSea FusionCity.esp
+[FE:036] JOTCPatch SS2Extended Forward.esp
+[FE:037] JOTCPatch FusionCity PlayerComments.esp
+[FE:038] JOTCPatch FusionCity UFO4P.esp
+[FE:039] JOTCPatch Depravity Forward.esp
+[FE:03A] JOTCPatch Depravity PlayerComments.esp
+[FE:03B] JOTCPatch Depravity TheFens.esp
+[FE:03C] JOTCPatch Depravity UFO4P.esp
+[FE:03D] JOTCPatch PointLookout Depravity Patch.esp
+[FE:03E] JOTCPatch DanseDilemma PlayerComments.esp
+[FE:03F] JOTCPatch DanseDilemma UFO4P.esp
+[FE:040] JOTCPatch OAR DanseDilemma PlayerComments.esp
+[FE:041] JOTCPatch KeepRadiants Forward.esp
+[FE:042] JOTCPatch KeepRadiants PlayerComments.esp
+[FE:043] JOTCPatch KeepRadiants SS2.esp
+[FE:044] JOTCPatch AFT UFO4P.esp
+[FE:045] JOTCPatch Ellen SS2.esp
+[FE:046] JOTCPatch BetterCompanions UFO4P.esp
+[FE:047] JOTCPatch BetterCompanionsNoSharedDogmeat UFO4P.esp
+[FE:048] JOTCPatch Danse Dilemma Forward.esp
+[FE:049] JOTCPatch DogmeatTrueCompanion AllDogsNoDoorOpening.esp
+[FE:04A] JOTCPatch ELFX WET.esp
+[FE:04B] JOTCPatch ELFX UFO4P.esp
+[FE:04C] JOTCPatch ELFX TheFens.esp
+[FE:04D] JOTCPatch ELFX SS2.esp
+[FE:04E] JOTCPatch ELFX FusionCity.esp
+[FE:04F] JOTCPatch SS2 UFO4P.esp
+[FE:050] JOTCPatch TrueStorms FarHarbor NukaWorld.esp
+[FE:051] JOTCPatch UltraInteriorLighting UFO4P.esp
+[FE:052] JOTCPatch UltraInteriorLighting ELFX.esp
+[FE:053] JOTCPatch UltraInteriorLighting Depravity.esp
+[FE:054] JOTCPatch Fr4nssonsLightTweaks ELFX.esp
+[FE:055] JOTCPatch Fr4nssonsLightTweaks UltraInteriorLighting.esp
+[FE:056] JOTCPatch Fr4nssonsLightTweaks UltraInteriorLighting ELFX.esp
+[FE:057] JOTCPatch Fr4nssonsLightTweaks WET.esp
+[FE:058] JOTCPatch ReverbAmbianceOverhaul TrueStorms.esp
+[FE:059] JOTCPatch LushAmbience DLC.esp
+[FE:05A] JOTCPatch LushAmbience Forward.esp
+[FE:05B] JOTCPatch LushAmbience TheFens.esp
+[FE:05C] JOTCPatch CityAmbience Forward.esp
+[FE:05D] JOTCPatch CityAmbience TrueStorms.esp
+[FE:05E] JOTCPatch AForest AmericaRising2.esp
+[FE:05F] JOTCPatch AForest OAR.esp
+[FE:060] JOTCPatch AForest UFO4P.esp
+[FE:061] JOTCPatch RadiantCloudsAndFog TrueStorms.esp
+[FE:062] JOTCPatch NoFeralGhoulDoorOpening DECAY.esp
+[FE:063] JOTCPatch PRP AForest.esp
+[FE:064] JOTCPatch PRP BetterGoodneighbor.esp
+[FE:065] JOTCPatch PRP DLC.esp
+[FE:066] JOTCPatch PRP ELFX.esp
+[FE:067] JOTCPatch PRP PointLookout.esp
+[FE:068] JOTCPatch PRP TheFens.esp

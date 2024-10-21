@@ -1,0 +1,297 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     ArmorKeywords.esm
+[09]     WorkshopFramework.esm
+[0A]     XDI.esm
+[0B]     HUDFramework.esm
+[0C]     AAF.esm
+[0D]     TacticalReload.esm
+[0E]     SS2.esm
+[0F]     SS2_XPAC_Chapter2.esm
+[10]     a149 My Little Armor.esm
+[11]     Arbitration - Resources.esm
+[12]     TrueStormsFO4.esm
+[13]     FlirtyCommonwealth.esp
+[14]     M&P 2.0.esp
+[15]     Winter Overhaul.esp
+[16]     Icepick Overhaul.esp
+[17]     Armorsmith Extended.esp
+[18]     Unique NPCs.esp
+[19]     Stm_DiamondCityExpansion.esp
+[1A]     PlayerComments.esp
+[1B]     ImmersiveGenericDialogues.esp
+[1C]     PiperCaitCurieDialogueOverhaul.esp
+[1D]     clothingoverhaul.esp
+[1E]     SS2Extended.esp
+[1F]     Eli_Armour_Compendium.esp
+[20]     AA FusionCityRising.esp
+[21]     BOCW Outfit Pack.esp
+[22]     HN66Fo4_EasyGirl_BS.esp
+[23]     PMC Operators Pack.esp
+[24]     Reverb and Ambiance Overhaul.esp
+[25]     VisibleCompanionAffinity.esp
+[26]     FunctionalDisplays.esp
+[27]     NAC.esp
+[28]     Be Exceptional.esp
+[29]     Flashy_PersonalEssentials.esp
+[2A]     Vivid Weathers - FO4.esp
+[2B]     CombinedArmsNV.esp
+[2C]     CombinedArmsEXPack.esp
+[2D]     CheatTerminal.esp
+[2E]     DarkerNights.esp
+[2F]     Gas Masks of the Wasteland.esp
+[30]     Gas Mask NPC.esp
+[31]     BetterSettlers.esp
+[32]     VAFS Redux.esp
+[33]     BetterCompanions.esp
+[34]     PollutedClimate-Winter.esp
+[35]     MilitarizedMinutemen.esp
+[36]     M2_Flamethrower_2.2.esp
+[37]     ABundleofTape.esp
+[38]     FallEvil - Complete Edition.esp
+[39]     Nuclear Winter.esp
+[3A]     3dscopes-replacer.esp
+[3B]     ZombieWalkers.esp
+[3C]     [ARRETH] FGEP.esp
+[3D]     MK18.esp
+[3E]     Wana_SA58.esp
+[3F]     llamaCompanionHeatherv2.esp
+[40]     BH_MCX_Spear.esp
+[41]     AK74M.esp
+[42]     RU556.esp
+[43]     SigMCX.esp
+[44]     AtomicRadio.esp
+[45]     MP7.esp
+[46]     Armament.esp
+[47]     Atomic Lust.esp
+[48]     RugerMini14.esp
+[49]     Campsite.esp
+[4A]     Campsite - Nuclear Winter.esp
+[4B]     CigaretteInMouth.esp
+[4C]     ClothingOverhaulSP_XB1_PC.esp
+[4D]     STEALTH AND DETECTION SYSTEM(base).esp
+[4E]     ESPExplorerFO4.esp
+[4F]     Female Deathclaws - Seperate Actors.esp
+[50]     PIP-Pad.esp
+[51]     LooksMenu Customization Compendium.esp
+[52]     Ghoulification.esp
+[53]     Glock19x.esp
+[54]     ImmersiveLoversEmbraceMagnolia.esp
+[55]     KSHairdos.esp
+[56]     KSHairdos_oel.esp
+[57]     LightUp2.0.esp
+[58]     The Eyes Of Beauty.esp
+[59]     PAMAP.esp
+[5A]     PeopleCollars.esp
+[5B]     RU556Armouryprojectv3.esp
+[5C]     ScopeOverlayDOF.esp
+[5D]     Scopes.esp
+[5E]     SKKCombatStalkers.esp
+[5F]     TheEyesOfBeauty.esp
+[60]     WestTekTacticalOptics.esp
+[61]     FO4Hotkeys.esp
+[62]     GCM.esp
+[63]     QuickTrade.esp
+[64]     SettlementMenuManager.esp
+[65]     Give Me That Bottle.esp
+[66]     CompanionStatus.esp
+[67]     WmkActiveEffects.esp
+[68]     Casio_W59.esp
+[69]     M2Agency.esp
+[6A]     1CAS_ServiceRifle.esp
+[6B]     FnScar.esp
+[6C]     GIAT_FAMAS.esp
+[6D]     McMillanCS5.esp
+[6E]     Escape from Boston - Springfield M14.esp
+[6F]     MODGirlyAnimation.esp
+[70]     P90.esp
+[71]     CazadorML.esp
+[72]     L96A1.esp
+[73]     Remington700.esp
+[74]     Escape from Boston - M200 Intervention.esp
+[75]     FOrigin12.esp
+[76]     G36Complex.esp
+[77]     HK_MP5.esp
+[78]     HK_UMP.esp
+[79]     Mac10.esp
+[7A]     ReconPack.esp
+[7B]     RussianAssaultPack.esp
+[7C]     StartMeUp.esp
+[7D]     StartMeUpNukaWorldPatch.esp
+[7E]     EnhancedLightsandFX.esp
+[7F]     Bashed Patch, 0.esp
+[FE:000] BakaFramework.esm
+[FE:001] MultipleMarkerBeds.esl
+[FE:002] SupplyLinesPlus.esl
+[FE:003] HiPolyFacesCompanionPlugin.esl
+[FE:004] RunningWithHandsAnim.esl
+[FE:005] SwimmingAnims.esl
+[FE:006] GCM_DLC_Automatron.esl
+[FE:007] GCM_DLC_Far_Harbor.esl
+[FE:008] LootedWorld.esl
+[FE:009] LootedWorld_DLCCoast.esl
+[FE:00A] LootedWorld_DLCNukaWorld.esl
+[FE:00B] LootedWorld_DLCRobot.esl
+[FE:00C] IllumBillboardsAIO.esl
+[FE:00D] VIS-G Item Sorting.esp
+[FE:00E] VIS-G Item Sorting Vanilla Weight Patch.esp
+[FE:00F] Fast Travel from Interiors.esp
+[FE:010] BOCW Outfit - Trappers.esp
+[FE:011] Companion Infinite Ammo.esp
+[FE:012] DCE_female_body_replacer_EasyGirl.esp
+[FE:013] FAR.esp
+[FE:014] Faster Terminal Displays (20x).esp
+[FE:015] FirstPersonMessages.esp
+[FE:016] Glowing Animals Emit Light.esp
+[FE:017] Immersive Fallout - Movement (DLC).esp
+[FE:018] Insignificant Object Remover.esp
+[FE:019] LongerPowerLines3x.esp
+[FE:01A] Multiple Floors Sandboxing.esp
+[FE:01B] NakedKiller.esp
+[FE:01C] Nexus_PMC.esp
+[FE:01D] Quieter Settlements - Contraptions.esp
+[FE:01E] Quieter Settlements - Vanilla.esp
+[FE:01F] Quieter Settlements - Wasteland Workshop.esp
+[FE:020] RAW INPUT.esp
+[FE:021] ActualizedPA.esp
+[FE:022] ALR - All DLC.esp
+[FE:023] ImmersiveAnimationFramework.esp
+[FE:024] Idiot Slut.esp
+[FE:025] MAIM Distributor.esp
+[FE:026] MAIM 2.esp
+[FE:027] Immersive Fallout - Real Recoil (DLC).esp
+[FE:028] TrueStormsFO4-FarHarbor.esp
+[FE:029] Radiant Clouds and Fogs.esp
+[FE:02A] AddEnemyFootstepSound.esp
+[FE:02B] T6M_PerksPack.esp
+[FE:02C] RussianStimpack.esp
+[FE:02D] Stimpaks help you breathe.esp
+[FE:02E] PMC Operators - Institute.esp
+[FE:02F] TrueStormsFO4-NukaWorld-FH-Compat.esp
+[FE:030] WET.esp
+[FE:031] Vivid Waters.esp
+[FE:032] MetroMegaPatch.esp
+[FE:033] Gas Mask True Storms.esp
+[FE:034] Modern Weapon Replacer - Combined Arms - AKM - Handmade Rifles.esp
+[FE:035] Modern Weapon Replacer - Combined Arms - M1911 - Pipe Revolvers.esp
+[FE:036] Modern Weapon Replacer - Combined Arms - SV-98 - Pipe Bolt Action.esp
+[FE:037] 4estGimp - FGEP_TankTweakFix.esp
+[FE:038] Dank_ECO.esp
+[FE:039] AnimatedIngestibles.esp
+[FE:03A] Aogaras - AE Tweaks.esp
+[FE:03B] More Power Armour Mods.esp
+[FE:03C] AWKCR - Mod Power Armor Engine Glitch Fix.esp
+[FE:03D] AzarPonytailHairstyles.esp
+[FE:03E] BobbleGirl.esp
+[FE:03F] Consistent Power Armor Overhaul.esp
+[FE:040] Brotherhood Power Armor Overhaul.esp
+[FE:041] HiPolyFaces.esp
+[FE:042] CBBE.esp
+[FE:043] Crafting Workbench.esp
+[FE:044] Crafting Workbenches - Ammo.esp
+[FE:045] Crafting Workbenches - Ammo Special.esp
+[FE:046] Crafting Workbenches - Faction and Quest Requirements.esp
+[FE:047] Crows&Creatures_V1.esp
+[FE:048] Dank_ECO-INNR.esp
+[FE:049] Dank_ECO_DLCCoast.esp
+[FE:04A] ClassicGhoulRace2022.esp
+[FE:04B] Dank_ECO_DLCNukaWorld.esp
+[FE:04C] Dank_ECO_DLCRobot.esp
+[FE:04D] dD-Enhanced Blood Basic.esp
+[FE:04E] dD - Limited Blood Decals.esp
+[FE:04F] DoubleBarrelRifle.esp
+[FE:050] FirstPersonViewableItemsExpanded.esp
+[FE:051] FunctionalDisplays-Collectibles.esp
+[FE:052] MWR_Opfor.esp
+[FE:053] CoD MW OpFor - CoA.esp
+[FE:054] FunctionalDisplays-Patch-DLC-ALL.esp
+[FE:055] Hot and Horny Wastelands Billboards.esp
+[FE:056] ImmersiveLoversEmbraceRemastered.esp
+[FE:057] Improved - Animated Accessible Backpack.esp
+[FE:058] LMBTOverlays.esp
+[FE:059] Wasteland Heroines Replacer All in One_2.0.esp
+[FE:05A] LovingCait.esp
+[FE:05B] LovingCurie_1.0.3b.esp
+[FE:05C] More Where That Came From Diamond City.esp
+[FE:05D] MyCart_Biohazard.esp
+[FE:05E] NW_AllDLC.esp
+[FE:05F] NW_Clothing.esp
+[FE:060] NW_VividWeathers.esp
+[FE:061] dD - Small Splatter Size.esp
+[FE:062] NW_PollutedClimate.esp
+[FE:063] Paintings Straight.esp
+[FE:064] PIP-Pad_LMCC.esp
+[FE:065] PMC Operators - Nuka-World Raiders (Disciples).esp
+[FE:066] PMC Operators - Railroad.esp
+[FE:067] PMC_extended.esp
+[FE:068] Russian_Operator_Pack.esp
+[FE:069] Sunshine.esp
+[FE:06A] M8rDisablePipboyEffects.esp
+[FE:06B] FIS-Naming-Weap-Armo-EN.esp
+[FE:06C] LooksMenu.esp
+[FE:06D] Gas Mask ArmorKeywords.esp
+[FE:06E] QuestsTags_00_AllDLC.esp
+[FE:06F] Skip DIMA memories.esp
+[FE:070] SCOURGE - Vanilla.esp
+[FE:071] SCOURGE - Far Harbor.esp
+[FE:072] BOCW Outfit Pack-Gunners.esp
+[FE:073] SCOURGE - Nuka World.esp
+[FE:074] SCOURGE - Automatron.esp
+[FE:075] Suit Up.esp
+[FE:076] FunctionalDisplays-AID-Vanilla.esp
+[FE:077] FunctionalDisplays-MISC-Vanilla.esp
+[FE:078] Arbitration - Button Lowered Weapons.esp
+[FE:079] VAFS Redux DLC Patch.esp
+[FE:07A] Unique NPCs FarHarbor.esp
+[FE:07B] CustomCamera.esp
+[FE:07C] IAF - Far Harbor & Nuka World.esp
+[FE:07D] StartMeUpShaunDefaultAppearance.esp
+[FE:07E] DarkerNightsDetection.esp
+[FE:07F] NAC-NW.esp
+[FE:080] Vivid Weathers - FO4 - Far Harbor.esp
+[FE:081] NAC-FH.esp
+[FE:082] True Shadows - All DLC.esp
+[FE:083] Vivid Weathers - FO4 - Winter.esp
+[FE:084] Vivid Weathers - Natural Bright.esp
+[FE:085] Vivid Weathers - Nuka World.esp
+[FE:086] VividFallout - AiO - BestChoice.esp
+[FE:087] NW_NACX.esp
+[FE:088] Be Exceptional - Uninstall.esp
+[FE:089] WheelMenu.esp
+[FE:08A] BH_MCX_Spear_STS_Patch.esp
+[FE:08B] BH_MCX_Spear_TR.esp
+[FE:08C] M2AgencyTacticalReloadPatch.esp
+[FE:08D] Famas_Addon.esp
+[FE:08E] Modern Weapon Replacer - Smith and Wesson M-P 2.0 - 10mm Pistols.esp
+[FE:08F] Modern Weapon Replacer - Agency Arms Benelli M2 - Combat Shotguns.esp
+[FE:090] SIGMCXArmoryProject.esp
+[FE:091] Modern Weapon Replacer - Escape From Boston Springfield M14 - Hunting Rifles.esp
+[FE:092] Modern Weapon Replacer - MP7 - Pipe Guns.esp
+[FE:093] Modern Weapon Replacer - SREP Redux - Assault Rifles.esp
+[FE:094] Modern Weapon Replacer - Sig MCX - Combat Rifles.esp
+[FE:095] Immersive Fallout - Realistic ADS (DLC).esp
+[FE:096] M9A3.esp
+[FE:097] M9A3_ArmamentPatchTR.esp
+[FE:098] M9A3_LvlLists.esp
+[FE:099] Remington700_TR.esp
+[FE:09A] BRN-180.esp
+[FE:09B] BRN-180 Tactical Reload Patch.esp
+[FE:09C] FnScar_TacticalReload.esp
+[FE:09D] McMillan CS5 - See Through Combat Scopes Patch.esp
+[FE:09E] P90NPC.esp
+[FE:09F] SigMCX_LvlListPatch.esp
+[FE:0A0] Modern Weapon Replacer - Cazador Missile Launcher - Missile Launchers.esp
+[FE:0A1] Modern Weapon Replacer - MP5 Complex - Submachine Guns.esp
+[FE:0A2] MAIM 2 - EZ Keywords.esp
+[FE:0A3] MAIM 2 - Stimpaks Help You Breathe Patch.esp
+[FE:0A4] MAIM 2 - Russian Stimpak Patch.esp
+[FE:0A5] MAIM 2 - Dismemberment Patch.esp
+[FE:0A6] Pip-Boy Flashlight.esp
+[FE:0A7] PIP-Pad_Pip-BoyFlashlight.esp
+[FE:0A8] SatelliteWorldMap.esp

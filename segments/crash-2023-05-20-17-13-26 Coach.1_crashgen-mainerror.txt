@@ -1,0 +1,4 @@
+Buffout 4 v1.31.1 Feb 28 2023 00:32:02
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF63E6B4951 Fallout4.exe+1D14951	lock dec dword ptr [rdx+0x38] 
+  BSGraphics::Renderer::CleanupCommandBuffer(char*)_1D14951)

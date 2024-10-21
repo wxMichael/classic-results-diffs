@@ -1,0 +1,387 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     ccrzrfo4001-tunnelsnakes.esm
+[08]     ccswkfo4001-astronautpowerarmor.esm
+[09]     cczsef04001-bhouse.esm
+[0A]     cctosfo4001-neosky.esm
+[0B]     cczsefo4002-smanor.esm
+[0C]     cctosfo4002_neonflats.esm
+[0D]     Unofficial Fallout 4 Patch.esp
+[0E]     HUDFramework.esm
+[0F]     WorkshopFramework.esm
+[10]     XDI.esm
+[11]     TacticalReload.esm
+[12]     SS2.esm
+[13]     SS2_XPAC_Chapter2.esm
+[14]     SS2_XPAC_Chapter3.esm
+[15]     YouAndWhatArmy2.esm
+[16]     SNR2_Vampire.esp
+[17]     Perk Up.esp
+[18]     WeaponModFixes-GOTY.esp
+[19]     SS2Extended.esp
+[1A]     W.A.T.Minutemen.esp
+[1B]     Backpacks of the Commonwealth.esp
+[1C]     Forced Evolution.esp
+[1D]     AttachPack.esp
+[1E]     MobiusModding_KitAER.esp
+[1F]     F4NVServiceRifleRedux.esp
+[20]     CWCreateABot.esp
+[21]     DakRiotShotgun.esp
+[22]     DakEnergyPistol.esp
+[23]     MTs255.esp
+[24]     Dak127mmPistol.esp
+[25]     DakM43.esp
+[26]     DakFAL.esp
+[27]     Dak4570Pistol.esp
+[28]     VarmintShotgun.esp
+[29]     DakJudgeRevolver.esp
+[2A]     DakRollingBlock.esp
+[2B]     22Pack.esp
+[2C]     DakRevolverRifle.esp
+[2D]     HuntingRevolver.esp
+[2E]     10mmRevolver.esp
+[2F]     AVBPipeGunsReplace.esp
+[30]     3dscopes-replacer.esp
+[31]     Give Me That Bottle.esp
+[32]     AdrenalineRedone.esp
+[33]     Complete Molotov Overhaul.esp
+[34]     Reverb and Ambiance Overhaul.esp
+[35]     Dak_is_tired.esp
+[36]     Smoke-able Cigars.esp
+[37]     SS2_CustomizableFactionIdentity.esp
+[38]     MedMeleePack.esp
+[39]     DakSurvivalHatchet.esp
+[3A]     GCM.esp
+[3B]     ImprovedBoS.esp
+[3C]     ImprovedBoSEncounters.esp
+[3D]     Laser Weapon Reanimated.esp
+[3E]     MoreEnemies.esp
+[3F]     PD_LowerWeapon.esp
+[40]     Reload Sounds.esp
+[41]     SCM.esp
+[42]     SS2WastelandReconstructionKit.esp
+[43]     WD_44.esp
+[44]     WorkshopPlus.esp
+[45]     Campsite.esp
+[46]     SlowTime.esp
+[47]     ManualReload.esp
+[48]     DeathPenalty.esp
+[49]     BRAWL Synthesis Patcher.esp
+[FE:000] ccbgsfo4001-pipboy(black).esl
+[FE:001] ccbgsfo4002-pipboy(blue).esl
+[FE:002] ccbgsfo4003-pipboy(camo01).esl
+[FE:003] ccbgsfo4004-pipboy(camo02).esl
+[FE:004] ccbgsfo4006-pipboy(chrome).esl
+[FE:005] ccbgsfo4012-pipboy(red).esl
+[FE:006] ccbgsfo4014-pipboy(white).esl
+[FE:007] ccbgsfo4005-bluecamo.esl
+[FE:008] ccbgsfo4016-prey.esl
+[FE:009] ccbgsfo4018-gaussrifleprototype.esl
+[FE:00A] ccbgsfo4019-chinesestealtharmor.esl
+[FE:00B] ccbgsfo4020-powerarmorskin(black).esl
+[FE:00C] ccbgsfo4022-powerarmorskin(camo01).esl
+[FE:00D] ccbgsfo4023-powerarmorskin(camo02).esl
+[FE:00E] ccbgsfo4025-powerarmorskin(chrome).esl
+[FE:00F] ccbgsfo4033-powerarmorskinwhite.esl
+[FE:010] ccbgsfo4024-pacamo03.esl
+[FE:011] ccbgsfo4038-horsearmor.esl
+[FE:012] ccbgsfo4041-doommarinearmor.esl
+[FE:013] ccbgsfo4042-bfg.esl
+[FE:014] ccBGSFO4044-HellfirePowerArmor.esl
+[FE:015] ccfsvfo4001-modularmilitarybackpack.esl
+[FE:016] ccfsvfo4002-midcenturymodern.esl
+[FE:017] ccfrsfo4001-handmadeshotgun.esl
+[FE:018] cceejfo4001-decorationpack.esl
+[FE:019] ccbgsfo4045-advarccab.esl
+[FE:01A] ccfsvfo4003-slocum.esl
+[FE:01B] ccgcafo4001-factionws01army.esl
+[FE:01C] ccgcafo4002-factionws02acat.esl
+[FE:01D] ccgcafo4003-factionws03bos.esl
+[FE:01E] ccgcafo4004-factionws04gun.esl
+[FE:01F] ccgcafo4005-factionws05hrpink.esl
+[FE:020] ccgcafo4006-factionws06hrshark.esl
+[FE:021] ccgcafo4007-factionws07hrflames.esl
+[FE:022] ccgcafo4008-factionws08inst.esl
+[FE:023] ccgcafo4009-factionws09mm.esl
+[FE:024] ccgcafo4010-factionws10rr.esl
+[FE:025] ccgcafo4011-factionws11vt.esl
+[FE:026] ccgcafo4012-factionas01acat.esl
+[FE:027] ccgcafo4013-factionas02bos.esl
+[FE:028] ccgcafo4014-factionas03gun.esl
+[FE:029] ccgcafo4015-factionas04hrpink.esl
+[FE:02A] ccgcafo4016-factionas05hrshark.esl
+[FE:02B] ccgcafo4017-factionas06inst.esl
+[FE:02C] ccgcafo4018-factionas07mm.esl
+[FE:02D] ccgcafo4019-factionas08nuk.esl
+[FE:02E] ccgcafo4020-factionas09rr.esl
+[FE:02F] ccgcafo4021-factionas10hrflames.esl
+[FE:030] ccgcafo4022-factionas11vt.esl
+[FE:031] ccgcafo4023-factionas12army.esl
+[FE:032] ccawnfo4001-brandedattire.esl
+[FE:033] ccswkfo4002-pipnuka.esl
+[FE:034] ccswkfo4003-pipquan.esl
+[FE:035] ccbgsfo4050-dgbcoll.esl
+[FE:036] ccbgsfo4051-dgbox.esl
+[FE:037] ccbgsfo4052-dgdal.esl
+[FE:038] ccbgsfo4053-dggoldr.esl
+[FE:039] ccbgsfo4054-dggreatd.esl
+[FE:03A] ccbgsfo4055-dghusk.esl
+[FE:03B] ccbgsfo4056-dglabb.esl
+[FE:03C] ccbgsfo4057-dglaby.esl
+[FE:03D] ccbgsfo4058-dglabc.esl
+[FE:03E] ccbgsfo4059-dgpit.esl
+[FE:03F] ccbgsfo4060-dgrot.esl
+[FE:040] ccbgsfo4061-dgshiinu.esl
+[FE:041] ccbgsfo4036-trnsdg.esl
+[FE:042] ccrzrfo4004-pipinst.esl
+[FE:043] ccbgsfo4062-pippat.esl
+[FE:044] ccrzrfo4003-pipover.esl
+[FE:045] ccfrsfo4002-antimaterielrifle.esl
+[FE:046] cceejfo4002-nuka.esl
+[FE:047] ccygpfo4001-pipcruiser.esl
+[FE:048] ccbgsfo4072-pipgrog.esl
+[FE:049] ccbgsfo4073-pipmman.esl
+[FE:04A] ccbgsfo4074-pipinspect.esl
+[FE:04B] ccbgsfo4075-pipshroud.esl
+[FE:04C] ccbgsfo4076-pipmystery.esl
+[FE:04D] ccbgsfo4071-piparc.esl
+[FE:04E] ccbgsfo4079-pipvim.esl
+[FE:04F] ccbgsfo4078-pipreily.esl
+[FE:050] ccbgsfo4077-piprocket.esl
+[FE:051] ccbgsfo4070-pipabra.esl
+[FE:052] ccbgsfo4008-pipgrn.esl
+[FE:053] ccbgsfo4015-pipyell.esl
+[FE:054] ccbgsfo4009-piporan.esl
+[FE:055] ccbgsfo4011-pippurp.esl
+[FE:056] ccbgsfo4021-powerarmorskinblue.esl
+[FE:057] ccbgsfo4027-powerarmorskingreen.esl
+[FE:058] ccbgsfo4034-powerarmorskinyellow.esl
+[FE:059] ccbgsfo4028-powerarmorskinorange.esl
+[FE:05A] ccbgsfo4031-powerarmorskinred.esl
+[FE:05B] ccbgsfo4030-powerarmorskinpurple.esl
+[FE:05C] ccbgsfo4032-powerarmorskintan.esl
+[FE:05D] ccbgsfo4029-powerarmorskinpink.esl
+[FE:05E] ccgrcfo4001-pipgreytort.esl
+[FE:05F] ccgrcfo4002-pipgreenvim.esl
+[FE:060] ccbgsfo4013-piptan.esl
+[FE:061] ccbgsfo4010-pippnk.esl
+[FE:062] ccsbjfo4001-solarflare.esl
+[FE:063] cckgjfo4001-bastion.esl
+[FE:064] ccbgsfo4063-papat.esl
+[FE:065] ccqdrfo4001_powerarmorai.esl
+[FE:066] ccbgsfo4048-dovah.esl
+[FE:067] ccbgsfo4101-as_shi.esl
+[FE:068] ccbgsfo4114-ws_shi.esl
+[FE:069] ccBGSFO4115-X02.esl
+[FE:06A] ccrzrfo4002-disintegrate.esl
+[FE:06B] ccBGSFO4116-HeavyFlamer.esl
+[FE:06C] ccbgsfo4091-as_bats.esl
+[FE:06D] ccbgsfo4092-as_camoblue.esl
+[FE:06E] ccbgsfo4093-as_camogreen.esl
+[FE:06F] ccbgsfo4094-as_camotan.esl
+[FE:070] ccbgsfo4097-as_jack-olantern.esl
+[FE:071] ccbgsfo4104-ws_bats.esl
+[FE:072] ccbgsfo4105-ws_camoblue.esl
+[FE:073] ccbgsfo4106-ws_camogreen.esl
+[FE:074] ccbgsfo4107-ws_camotan.esl
+[FE:075] ccbgsfo4111-ws_jack-olantern.esl
+[FE:076] ccbgsfo4118-ws_tunnelsnakes.esl
+[FE:077] ccbgsfo4113-ws_reillysrangers.esl
+[FE:078] ccbgsfo4112-ws_pickman.esl
+[FE:079] ccBGSFO4110-WS_Enclave.esl
+[FE:07A] ccbgsfo4108-ws_childrenofatom.esl
+[FE:07B] ccbgsfo4103-as_tunnelsnakes.esl
+[FE:07C] ccbgsfo4099-as_reillysrangers.esl
+[FE:07D] ccbgsfo4098-as_pickman.esl
+[FE:07E] ccBGSFO4096-AS_Enclave.esl
+[FE:07F] ccbgsfo4095-as_childrenofatom.esl
+[FE:080] ccbgsfo4090-piptribal.esl
+[FE:081] ccbgsfo4089-pipsynthwave.esl
+[FE:082] ccbgsfo4087-piphaida.esl
+[FE:083] ccbgsfo4085-piphawaii.esl
+[FE:084] ccbgsfo4084-pipretro.esl
+[FE:085] ccbgsfo4083-pipartdeco.esl
+[FE:086] ccbgsfo4082-pipprc.esl
+[FE:087] ccbgsfo4081-pipphenolresin.esl
+[FE:088] ccbgsfo4080-pippop.esl
+[FE:089] ccbgsfo4035-pint.esl
+[FE:08A] ccbgsfo4086-pipadventure.esl
+[FE:08B] ccjvdfo4001-holiday.esl
+[FE:08C] ccbgsfo4047-qthund.esl
+[FE:08D] ccfrsfo4003-cr75l.esl
+[FE:08E] ccacxfo4001-vsuit.esl
+[FE:08F] ccbgsfo4040-vrworkshop01.esl
+[FE:090] ccfsvfo4005-vrdesertisland.esl
+[FE:091] ccfsvfo4006-vrwasteland.esl
+[FE:092] ccFSVFO4007-Halloween.esl
+[FE:093] ccsbjfo4002_manwellrifle.esl
+[FE:094] ccbgsfo4117-capmerc.esl
+[FE:095] ccfsvfo4004-vrworkshopgnrplaza.esl
+[FE:096] ccBGSFO4046-TesCan.esl
+[FE:097] ccgcafo4025-pagunmm.esl
+[FE:098] cccrsfo4001-pipcoa.esl
+[FE:099] ccSBJFO4003-Grenade.esl
+[FE:09A] ccOTMFO4001-Remnants.esl
+[FE:09B] BakaFramework.esm
+[FE:09C] REFramework.esm
+[FE:09D] PPF.esm
+[FE:09E] Community Fixes Merged.esp
+[FE:09F] fakeInt.esp
+[FE:0A0] TMR_GlitchfinderAIO.esm
+[FE:0A1] Ownership Fixes.esp
+[FE:0A2] fakeInt_Boston.esp
+[FE:0A3] fakeInt_DLC.esp
+[FE:0A4] PPF-HeavyFlamer-CR.esm
+[FE:0A5] Munitions - An Ammo Expansion.esl
+[FE:0A6] IDEKsLogisticsStation2.esl
+[FE:0A7] CWRaiders.esl
+[FE:0A8] NoDialogueAutoRotAndForcedPos.esl
+[FE:0A9] SelectRevolver.esl
+[FE:0AA] CW10mmPistol.esl
+[FE:0AB] GCM_DLC_Automatron.esl
+[FE:0AC] PipWS_Replacer.esl
+[FE:0AD] GCM_DLC_Far_Harbor.esl
+[FE:0AE] RunningWithHandsAnim.esl
+[FE:0AF] Diamond City Supplements.esm
+[FE:0B0] NoGunSneakAttackMultiplier.esl
+[FE:0B1] Munitions - Vanilla Ammo Addon.esl
+[FE:0B2] SwimmingAnims.esl
+[FE:0B3] Quick_Change_Armor_by_tooun.esl
+[FE:0B4] PPF-NeonFlats-CR.esm
+[FE:0B5] Enhanced Vanilla Armor and Clothing.esp
+[FE:0B6] Fixed Gobo Effects.esp
+[FE:0B7] Wetness Shader Fix.esp
+[FE:0B8] DiamondCityBillboards.esp
+[FE:0B9] FO4ParticlePatch.esp
+[FE:0BA] HardcoreHealthOverhaul.esp
+[FE:0BB] NPCRespawnFix.esp
+[FE:0BC] JumpFallPoseFix.esp
+[FE:0BD] GeneralAtomicsMrGutsyGuards.esp
+[FE:0BE] MiscAnimTweaks.esp
+[FE:0BF] Legendary Mutation Messages Fix.esp
+[FE:0C0] WhoIsTheGeneral.esp
+[FE:0C1] NoLegendaries.esp
+[FE:0C2] GoodneighborView.esp
+[FE:0C3] VividFallout - AiO - 1k.esp
+[FE:0C4] Targeted Textures.esp
+[FE:0C5] PRP-SS2-Fixes-Ch2.esp
+[FE:0C6] TerrainUndersides.esp
+[FE:0C7] DakMateba.esp
+[FE:0C8] (Tumba) Gunner Power Armor.esp
+[FE:0C9] PRP-SS2-Fixes-Ch1.esp
+[FE:0CA] SS2-Ch2-CR-NeonFlats.esp
+[FE:0CB] DakFR2.esp
+[FE:0CC] DakLolife.esp
+[FE:0CD] Extended Fake Interior - CC Enclave Remnants Patch.esp
+[FE:0CE] (Tumba) Heavy Flamer Armor.esp
+[FE:0CF] 3dscopes-replacer-ccpack.esp
+[FE:0D0] SS2_XDI Patch.esp
+[FE:0D1] Attach Pack Modcol.esp
+[FE:0D2] 3rd Person Cam SmallFix.esp
+[FE:0D3] BF1 Animations - Hunting Rifle v1.3.esp
+[FE:0D4] EveryonesBestFriend.esp
+[FE:0D5] Attach Pack Mod Description Fixes.esp
+[FE:0D6] BlockingOverhaul.esp
+[FE:0D7] CapsWidget.esp
+[FE:0D8] CW10MM_TacReload.esp
+[FE:0D9] True Damage - Perk Module.esp
+[FE:0DA] DoubleDamage_PerkOverhaul.esp
+[FE:0DB] dcc-molotov-nerf.esp
+[FE:0DC] FOVSlider.esp
+[FE:0DD] Faster Terminal Displays (20x).esp
+[FE:0DE] Chemfluence AI Combat Dynamics.esp
+[FE:0DF] dynamicHelmet.esp
+[FE:0E0] Makeshifttextures.esp
+[FE:0E1] IDEKsLogisticsStation2_SS2_Patch.esp
+[FE:0E2] WAVE.esp
+[FE:0E3] SimpleDodges.esp
+[FE:0E4] NPCs Use Items.esp
+[FE:0E5] The Attachment Pack - Implementation WMF Patch.esp
+[FE:0E6] ImprovedBoSBoss.esp
+[FE:0E7] CommonwealthEncounterPack.esp
+[FE:0E8] Companion Infinite Ammo.esp
+[FE:0E9] ImmersiveAnimationFramework.esp
+[FE:0EA] dD-Enhanced Blood Basic.esp
+[FE:0EB] dD - Limited Blood Decals.esp
+[FE:0EC] dD - Screen Blood Duration Medium.esp
+[FE:0ED] DLC Timing.esp
+[FE:0EE] DLC Timing - UFO4P Patch.esp
+[FE:0EF] DodgeInvincibilityFrames.esp
+[FE:0F0] DIFWorkshopPlusPatch.esp
+[FE:0F1] Dogmeat Follow Behind.esp
+[FE:0F2] Elzee Have a Seat.esp
+[FE:0F3] Elzee Recoil Shake.esp
+[FE:0F4] GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
+[FE:0F5] Gloomy Glass.esp
+[FE:0F6] IAF - Far Harbor & Nuka World.esp
+[FE:0F7] ImprovedBoSVertibirdGunPA.esp
+[FE:0F8] True Damage.esp
+[FE:0F9] Weapons of Fate.esp
+[FE:0FA] Keep Radiants In Commonwealth.esp
+[FE:0FB] Less Annoying Berry Mentats.esp
+[FE:0FC] LongerPowerLines3x.esp
+[FE:0FD] Lots More Facial Hair.esp
+[FE:0FE] Lots More Male Hairstyles.esp
+[FE:0FF] M8rDisableCreationClub.esp
+[FE:100] M8rDisablePipboyEffects.esp
+[FE:101] minutemen_scout.esp
+[FE:102] Munitions-Additional Ammo.esp
+[FE:103] No Sneaking in Power Armor.esp
+[FE:104] NPC Accuracy Revised.esp
+[FE:105] Realistic Sprinting.esp
+[FE:106] RAW INPUT.esp
+[FE:107] Warfighters Deliverer.esp
+[FE:108] RemoveBlur.esp
+[FE:109] Simple Creation Club Delayed NG.esp
+[FE:10A] ThirdPersonFirstPersonAiming.esp
+[FE:10B] Tumba_Bos_Armor_Collection.esp
+[FE:10C] ImprovedBoSTumbaBoSPatch.esp
+[FE:10D] Tumba_Bos_GavilReplacer.esp
+[FE:10E] Tumba_Bos_BrandisReplacer.esp
+[FE:10F] Tumba_Bos_LuciaReplacer.esp
+[FE:110] Tumba_Bos_QuinlanReplacer.esp
+[FE:111] Tumba_Bos_TheScribeReplacer.esp
+[FE:112] Tumba_Bos_DanseReplacer.esp
+[FE:113] Tumba_Bos_HaylenReplacer.esp
+[FE:114] Tumba_Bos_MaxsonReplacer.esp
+[FE:115] Tumba_Bos_NeriahReplacer.esp
+[FE:116] Tumba_Bos_SoldierReplacer.esp
+[FE:117] UniqueFlagsForFarHarbor.esp
+[FE:118] Workshop Highlight Fix.esp
+[FE:119] WTG - KRIC Patch.esp
+[FE:11A] 3dscopes-replacer-servicerifle.esp
+[FE:11B] 3dscopes-replacer-huntingrevolver.esp
+[FE:11C] Tumba_Bos_BallisticWeave.esp
+[FE:11D] ConditionBoy.esp
+[FE:11E] Suit Up.esp
+[FE:11F] FAR.esp
+[FE:120] NPC's Use Grenades.esp
+[FE:121] SCM_EBF_GMTB.esp
+[FE:122] CompanionStatus-Settings.esp
+[FE:123] True Damage - Munitions.esp
+[FE:124] Bastion.esp
+[FE:125] True Damage - Adrenaline Module.esp
+[FE:126] True Damage - Vehicle Module.esp
+[FE:127] True Damage - DLC.esp
+[FE:128] True Damage - Perk Module DLC.esp
+[FE:129] SCOURGE.esp
+[FE:12A] SCOURGE - DLCCoast.esp
+[FE:12B] SCOURGE - DLCNukaWorld.esp
+[FE:12C] SCOURGE - DLCRobot.esp
+[FE:12D] SCOURGE - Fallout4.esp
+[FE:12E] Infinite Sprinting Out of Combat.esp
+[FE:12F] FPSDodgeAVF.esp
+[FE:130] FPSDWorkshopPlusPatch.esp
+[FE:131] Broken Weapon System.esp
+[FE:132] Lightweight Lighting.esp
+[FE:133] WET.esp
+[FE:134] PRP.esp
+[FE:135] SNR2_Vampire_Patch.esp
+[FE:136] PRP-SS2.esp
+[FE:137] Pip-Boy Flashlight.esp
+[FE:138] PuddleReflectionFix.esp

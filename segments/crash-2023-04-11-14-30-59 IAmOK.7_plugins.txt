@@ -1,0 +1,123 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     Fallout 4 Fixes.esm
+[09]     TacticalReload.esm
+[0A]     XDI.esm
+[0B]     HUDFramework.esm
+[0C]     WorkshopFramework.esm
+[0D]     SS2.esm
+[0E]     SS2_XPAC_Chapter2.esm
+[0F]     Fallout 4 Consistency Tweaks.esp
+[10]     Fixed Alpha Maps.esp
+[11]     Move Store and Assign Power Armor.esp
+[12]     RAW INPUT.esp
+[13]     LeverActionBCR.esp
+[14]     Reverb and Ambiance Overhaul.esp
+[15]     EveryonesBestFriend.esp
+[16]     The Collector's Guides.esp
+[17]     FO4 NPCs Travel.esp
+[18]     3dscopes-replacer.esp
+[19]     Scopes.esp
+[1A]     LongerPowerLinesInf.esp
+[1B]     FIS-Naming-Weap-Armo-EN.esp
+[1C]     WheelMenu.esp
+[1D]     WmkActiveEffects.esp
+[1E]     SlowTime.esp
+[1F]     Commonwealth Climate.esp
+[20]     InstitWeapPosit.esp
+[21]     RemoveBlur.esp
+[22]     Pip-Boy Flashlight.esp
+[23]     ValiusHDTextures2K.esp
+[24]     Vivid Fallout - All in One - 2k.esp
+[25]     JJShutUpAndTrade.esp
+[26]     CBBE.esp
+[27]     LooksMenu.esp
+[28]     LooksMenu Customization Compendium.esp
+[29]     skeletonmaleplayer.esp
+[2A]     KSHairdos_oel.esp
+[2B]     The Eyes Of Beauty.esp
+[2C]     HiPolyFaces.esp
+[2D]     W.A.T.Minutemen.esp
+[2E]     DLCCoast_WorkshopDialogue_Doctor.esp
+[2F]     NPCSTRAVELFIXES.esp
+[30]     JJRobotVendorFix.esp
+[31]     SkipHSH1_6.esp
+[32]     Nuka-World Collectable Markers.esp
+[33]     strongheight.esp
+[34]     G3A3.esp
+[35]     G3A3_AnimationUpdate.esp
+[36]     G3_R91_Expansion.esp
+[37]     KrissVector.esp
+[38]     CombinedArmsNV.esp
+[39]     CombinedArmsEXPack.esp
+[3A]     Schotel22.esp
+[3B]     SigSauer127.esp
+[3C]     127mmSMG.esp
+[3D]     RiotShotgun.esp
+[3E]     AA12.esp
+[3F]     Bozar Fix.esp
+[40]     ImmersiveAnimationFramework.esp
+[41]     BF1 Animations - Double Barrel Shotgun v2.3.esp
+[42]     WD_44.esp
+[43]     BF1 Animations - Hunting Rifle v1.3.esp
+[44]     Laser Weapon Reanimated.esp
+[45]     Assault Rifle Reanimated.esp
+[46]     PA-Quick Animations.esp
+[47]     CombinedArmsMK12PowerArmorPatch.esp
+[48]     AKSounds.esp
+[49]     SS2Extended.esp
+[4A]     MMP4APA-blue.esp
+[4B]     MMP4APA.esp
+[4C]     SKKSettlementAttackSystem.esp
+[4D]     BossChestsHaveLegendaries.esp
+[4E]     UltraInteriorLighting.esp
+[FE:000] LegendaryDropBugfix.esl
+[FE:001] PPF.esm
+[FE:002] LIF.esl
+[FE:003] CanarySaveFileMonitor.esl
+[FE:004] FOVSlider.esl
+[FE:005] HiPolyFacesCompanionPlugin.esl
+[FE:006] AWHD4KFull.esl
+[FE:007] dppsychoandmedx.esl
+[FE:008] dpjetandxcell.esl
+[FE:009] Legendary, rearmed.esl
+[FE:00A] Ownership Fixes.esp
+[FE:00B] PRP-Compat-UIL.esp
+[FE:00C] PRP.esp
+[FE:00D] Wetness Shader Fix.esp
+[FE:00E] M8rDisableCreationClub.esp
+[FE:00F] MiscAnimTweaks.esp
+[FE:010] Fortune Finder 4 Fix.esp
+[FE:011] LOST Audio Tweaks.esp
+[FE:012] Keep Radiants In Commonwealth.esp
+[FE:013] WhoIsTheGeneral.esp
+[FE:014] M8rDisablePipboyEffects.esp
+[FE:015] WorkshopFramework_ScriptOverride.esp
+[FE:016] UncappedSettlementSurplus.esp
+[FE:017] TerrainUndersides.esp
+[FE:018] Enemy Footstep Overhaul.esp
+[FE:019] Stimpaks help you breathe.esp
+[FE:01A] RussianStimpack.esp
+[FE:01B] G3A3LvlListPatch.esp
+[FE:01C] CombinedArms-DirtyPAFix.esp
+[FE:01D] G3A3 1stP PA Footstep Fix.esp
+[FE:01E] Riot Shotgun - Unofficial Update.esp
+[FE:01F] BullpupBozar.esp
+[FE:020] Bozar - No Barrel spawn Fix.esp
+[FE:021] IAF - Far Harbor & Nuka World.esp
+[FE:022] RadRifleReload.esp
+[FE:023] CombinedArmsIntegrationProject.esp
+[FE:024] CombinedArmsIntegrationProject_TR.esp.esp
+[FE:025] AA12_TacticalReloadPatch.esp
+[FE:026] BullpupBozar_TacticalReloadPatch.esp
+[FE:027] CombinedArmsNV_TacticalReloadPatch.esp
+[FE:028] KrissVector_TacticalReloadPatch.esp
+[FE:029] RiotShotgun_TacticalReloadPatch.esp
+[FE:02A] SigSauer127_TacticalReloadPatch.esp
+[FE:02B] SS2_DLCSettlerPatch.esp

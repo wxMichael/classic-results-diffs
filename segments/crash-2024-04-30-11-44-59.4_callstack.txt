@@ -1,0 +1,387 @@
+[ 0] 0x7FF65CBA9300      Fallout4.exe+0DB9300	mov edx, [rax+0x1A0] |  Actor::ShouldCutNavmesh(void)_DB9300 -> 62480+0x10	mov edx, [rax+0x1A0]
+[ 1] 0x7FF65CB9DBCC      Fallout4.exe+0DADBCC	test al, al |  Actor::InitItemImpl(void)_DADBCC -> 643034+0xEC	test al, al
+[ 2] 0x7FF65BF42C3C      Fallout4.exe+0152C3C	or dword ptr [rdi+0x10], 0x08 |  TESForm::InitItem(void)_152C3C -> 1420843+0x7C	or dword ptr [rdi+0x10], 0x08
+[ 3] 0x7FF65CB2E89A      Fallout4.exe+0D3E89A	mov rdi, [0x00007FF661894388] |  `anonymous_namespace'::Main_InitPlayerCharacter(void)_D3E89A -> 330940+0xCA	mov rdi, [0x00007FF661894388]
+[ 4] 0x7FF65CB27D0D      Fallout4.exe+0D37D0D	call 0x00007FF65C423430 |  Main::InitTES(NiNode*)_D37D0D -> 708657+0x32D	call 0x00007FF65C423430
+[ 5] 0x7FF65CB2F253      Fallout4.exe+0D3F253	call 0x00007FF65CB2E910 |  `anonymous_namespace'::Main_InitGameData(void)_D3F253 -> 407290+0x263	call 0x00007FF65CB2E910
+[ 6] 0x7FF65CB435A9      Fallout4.exe+0D535A9	call 0x00007FF65D94CBC0 |  `anonymous_namespace'::InitGameDataThread::ThreadProc(void)_D535A9 -> 1085735+0x29	call 0x00007FF65D94CBC0
+[ 7] 0x7FF9264BA8AC f4se_1_10_163.dll+000A8AC
+[ 8] 0x7FF65D90CFED      Fallout4.exe+1B1CFED	mov rcx, [0x00007FF66194BD38] |  BSThread::CallThreadProc(void)_1B1CFED -> 1079791+0x3D	mov rcx, [0x00007FF66194BD38]
+[ 9] 0x7FFA1800257D      KERNEL32.DLL+001257D
+[10] 0x7FFA1958AA48         ntdll.dll+005AA48
+
+REGISTERS:
+RAX 0x0                (size_t) [0]
+RCX 0x1AD65FBB040      (PlayerCharacter*)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+Flags: 0x00000008
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+RDX 0x0                (size_t) [0]
+RBX 0x1AD65FBB040      (PlayerCharacter*)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+Flags: 0x00000008
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+RSP 0x51315CF8B0       (void*)
+RBP 0x9C0              (size_t) [2496]
+RSI 0x1AD65FBB040      (PlayerCharacter*)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+Flags: 0x00000008
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+RDI 0x1AD65FBB040      (PlayerCharacter*)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+Flags: 0x00000008
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+R8  0x1AC58E77F80      (void*)
+R9  0x1AD64950E10      (void*)
+R10 0x47D50001         (size_t) [1205141505]
+R11 0x51315CF2A8       (void*)
+R12 0x0                (size_t) [0]
+R13 0x0                (size_t) [0]
+R14 0x1AC7EE0F930      (void*)
+R15 0x9C0              (size_t) [2496]
+
+STACK:
+[RSP+0  ] 0x1AD65FBB040      (PlayerCharacter*)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+Flags: 0x00000008
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+8  ] 0x9C0              (size_t) [2496]
+[RSP+10 ] 0x1AC7EE102F0      (char*) "b"
+[RSP+18 ] 0x1AD65FBB040      (PlayerCharacter*)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+Flags: 0x00000008
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+20 ] 0x1AC7EE102F0      (char*) "b"
+[RSP+28 ] 0x7FF65CB9DBCC     (void* -> Fallout4.exe+0DADBCC	test al, al |  Actor::InitItemImpl(void)_DADBCC)
+[RSP+30 ] 0x1AD65FBB040      (PlayerCharacter*)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+Flags: 0x00000008
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+38 ] 0x6700000066       (size_t) [442381631590]
+[RSP+40 ] 0x0                (size_t) [0]
+[RSP+48 ] 0x0                (size_t) [0]
+[RSP+50 ] 0x66               (size_t) [102]
+[RSP+58 ] 0x7FF65BF42C3C     (void* -> Fallout4.exe+0152C3C	or dword ptr [rdi+0x10], 0x08 |  TESForm::InitItem(void)_152C3C)
+[RSP+60 ] 0x1AD65FBB040      (PlayerCharacter*)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+Flags: 0x00000008
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+68 ] 0x66               (size_t) [102]
+[RSP+70 ] 0x0                (size_t) [0]
+[RSP+78 ] 0x0                (size_t) [0]
+[RSP+80 ] 0x1AD65FBB040      (PlayerCharacter*)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+Object Reference:
+Flags: 0x00000008
+FormID: 0x00000007
+FormType: kNPC_ (45)
+Flags: 0x00000408
+FormID: 0x00000014
+FormType: kACHR (65)
+[RSP+88 ] 0x0                (size_t) [0]
+[RSP+90 ] 0x0                (size_t) [0]
+[RSP+98 ] 0x0                (size_t) [0]
+[RSP+A0 ] 0x0                (size_t) [0]
+[RSP+A8 ] 0x0                (size_t) [0]
+[RSP+B0 ] 0x0                (size_t) [0]
+[RSP+B8 ] 0x0                (size_t) [0]
+[RSP+C0 ] 0x0                (size_t) [0]
+[RSP+C8 ] 0x0                (size_t) [0]
+[RSP+D0 ] 0x0                (size_t) [0]
+[RSP+D8 ] 0x0                (size_t) [0]
+[RSP+E0 ] 0x0                (size_t) [0]
+[RSP+E8 ] 0x0                (size_t) [0]
+[RSP+F0 ] 0x0                (size_t) [0]
+[RSP+F8 ] 0x0                (size_t) [0]
+[RSP+100] 0x0                (size_t) [0]
+[RSP+108] 0x0                (size_t) [0]
+[RSP+110] 0x0                (size_t) [0]
+[RSP+118] 0x0                (size_t) [0]
+[RSP+120] 0x0                (size_t) [0]
+[RSP+128] 0x0                (size_t) [0]
+[RSP+130] 0x0                (size_t) [0]
+[RSP+138] 0x0                (size_t) [0]
+[RSP+140] 0x0                (size_t) [0]
+[RSP+148] 0x0                (size_t) [0]
+[RSP+150] 0x0                (size_t) [0]
+[RSP+158] 0x0                (size_t) [0]
+[RSP+160] 0x0                (size_t) [0]
+[RSP+168] 0x0                (size_t) [0]
+[RSP+170] 0x0                (size_t) [0]
+[RSP+178] 0x0                (size_t) [0]
+[RSP+180] 0x0                (size_t) [0]
+[RSP+188] 0x0                (size_t) [0]
+[RSP+190] 0x0                (size_t) [0]
+[RSP+198] 0x0                (size_t) [0]
+[RSP+1A0] 0x0                (size_t) [0]
+[RSP+1A8] 0x0                (size_t) [0]
+[RSP+1B0] 0x0                (size_t) [0]
+[RSP+1B8] 0x0                (size_t) [0]
+[RSP+1C0] 0x0                (size_t) [0]
+[RSP+1C8] 0x0                (size_t) [0]
+[RSP+1D0] 0x0                (size_t) [0]
+[RSP+1D8] 0x0                (size_t) [0]
+[RSP+1E0] 0x0                (size_t) [0]
+[RSP+1E8] 0x0                (size_t) [0]
+[RSP+1F0] 0x1AC7EE0F900      (void*)
+[RSP+1F8] 0x7FF65CB2E89A     (void* -> Fallout4.exe+0D3E89A	mov rdi, [0x00007FF661894388] |  `anonymous_namespace'::Main_InitPlayerCharacter(void)_D3E89A)
+[RSP+200] 0x2                (size_t) [2]
+[RSP+208] 0x0                (size_t) [0]
+[RSP+210] 0x0                (size_t) [0]
+[RSP+218] 0x0                (size_t) [0]
+[RSP+220] 0x0                (size_t) [0]
+[RSP+228] 0x1AC7EE0F900      (void*)
+[RSP+230] 0x4500000045000000 (size_t) [4971973989774655488]
+[RSP+238] 0x0                (size_t) [0]
+[RSP+240] 0x1AC58DB2800      (SceneGraph*)
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 280e
+Name: "WorldRoot Node"
+[RSP+248] 0x7FF65CB27D0D     (void* -> Fallout4.exe+0D37D0D	call 0x00007FF65C423430 |  Main::InitTES(NiNode*)_D37D0D)
+[RSP+250] 0x7FF65F57E400     (void* -> Fallout4.exe+378E400	cmp [rdx+0x7FF65EB2], bh |  aDiveBombChance_378E400)
+[RSP+258] 0x1AC58EBCCC0      (NiNode*)
+Name: "ObjectLODRoot"
+RTTIName: "NiNode"
+Flags: 280e
+Checking Parent:
+Name: "shadow scene node"
+RTTIName: "ShadowSceneNode"
+Flags: 280e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 280e
+Name: "ObjectLODRoot"
+[RSP+260] 0x7FF65F57E400     (void* -> Fallout4.exe+378E400	cmp [rdx+0x7FF65EB2], bh |  aDiveBombChance_378E400)
+[RSP+268] 0x1AC7EE0F900      (void*)
+[RSP+270] 0x0                (size_t) [0]
+[RSP+278] 0x1AC58EBCF40      (NiNode*)
+Name: "WaterLOD"
+RTTIName: "NiNode"
+Flags: 280e
+Checking Parent:
+Name: "LODRoot"
+RTTIName: "BSClearZNode"
+Flags: e
+Checking Parent:
+Name: "shadow scene node"
+RTTIName: "ShadowSceneNode"
+Flags: 280e
+Checking Parent:
+Name: "WorldRoot Node"
+RTTIName: "SceneGraph"
+Flags: 280e
+Name: "WaterLOD"
+[RSP+280] 0x0                (size_t) [0]
+[RSP+288] 0x0                (size_t) [0]
+[RSP+290] 0x80000            (size_t) [524288]
+[RSP+298] 0x7FF600000000     (size_t) [140694538682368]
+[RSP+2A0] 0x5D60             (size_t) [23904]
+[RSP+2A8] 0x7FFA195CFB20     (void* -> ntdll.dll+009FB20	jmp 0x00007FFA00020008)
+[RSP+2B0] 0x5D60             (size_t) [23904]
+[RSP+2B8] 0x0                (size_t) [0]
+[RSP+2C0] 0x7FF6618CD640     (GameScript::PathingCallbackMgr*)
+[RSP+2C8] 0x7FF65D900DBA     (void* -> Fallout4.exe+1B10DBA	test al, al |  BSTArrayBase::AddUninitialized(BSTArrayBase::IAllocatorFunctor&,uint,uint)_1B10DBA)
+[RSP+2D0] 0x7FF661895178     (void* -> Fallout4.exe+5AA5178	add [rax], eax |  aDiveBombChance_5AA5178)
+[RSP+2D8] 0x7FF661895168     (void* -> Fallout4.exe+5AA5168	or byte ptr [rax+0x1AD64F4], 0x00 |  aDiveBombChance_5AA5168)
+[RSP+2E0] 0x246              (size_t) [582]
+[RSP+2E8] 0x0                (size_t) [0]
+[RSP+2F0] 0x0                (size_t) [0]
+[RSP+2F8] 0x1AD2F0E60E0      (void*)
+[RSP+300] 0x7FF661895160     (void* -> Fallout4.exe+5AA5160	add [rax], al |  aDiveBombChance_5AA5160)
+[RSP+308] 0x7FF65D131B9B     (void* -> Fallout4.exe+1341B9B	cmp eax, 0xFFFFFFFF |  BSTEventSource<BSPathEvent>::RegisterSink(BSTEventSink<BSPathEvent>*)_1341B9B)
+[RSP+310] 0x7FF661895160     (void* -> Fallout4.exe+5AA5160	add [rax], al |  aDiveBombChance_5AA5160)
+[RSP+318] 0x0                (size_t) [0]
+[RSP+320] 0x1AC7EE102F0      (char*) "b"
+[RSP+328] 0xC9D31081897D0000 (size_t) [uint: 14542985770252959744 int: -3903758303456591872]
+[RSP+330] 0x206              (size_t) [518]
+[RSP+338] 0x7FF8FD21B53E     (void* -> Buffout4.dll+00FB53E	cmp eax, ebx |  E:\Documents\source\repos\vcpkg\buildtrees\tbb\src\v2021.8.0-b8941aa9b2.clean\src\tbbmalloc\frontend.cpp:2537 ?freeOwnObject@Block@internal@rml@@QEAAXPEAX@Z)
+[RSP+340] 0x5D60             (size_t) [23904]
+[RSP+348] 0x0                (size_t) [0]
+[RSP+350] 0x7FF65EA3A948     (void* -> Fallout4.exe+2C4A948	shl byte ptr [rdx], 0x01 |  hkbInternal::hks::execute<0>(hkbInternal::lua_State*,hkbInternal::hksInstruction*,int)_2C4A948)
+[RSP+358] 0x7FF661895168     (void* -> Fallout4.exe+5AA5168	or byte ptr [rax+0x1AD64F4], 0x00 |  aDiveBombChance_5AA5168)
+[RSP+360] 0x7FF6618CD640     (GameScript::PathingCallbackMgr*)
+[RSP+368] 0x7FF65D12FDE6     (void* -> Fallout4.exe+133FDE6	mov [rsi], ebx |  GameScript::PathingCallbackMgr::PathingCallbackMgr(void)_133FDE6)
+[RSP+370] 0x0                (size_t) [0]
+[RSP+378] 0x1AC7EE102F0      (char*) "b"
+[RSP+380] 0x2                (size_t) [2]
+[RSP+388] 0x0                (size_t) [0]
+[RSP+390] 0x1AC7EE102F0      (char*) "b"
+[RSP+398] 0x7FF65D161DAA     (void* -> Fallout4.exe+1371DAA	mov [0x00007FF6618CCF30], rax |  GameVM::PostThreadInit(void)_1371DAA)
+[RSP+3A0] 0x2                (size_t) [2]
+[RSP+3A8] 0x0                (size_t) [0]
+[RSP+3B0] 0x0                (size_t) [0]
+[RSP+3B8] 0x0                (size_t) [0]
+[RSP+3C0] 0x0                (size_t) [0]
+[RSP+3C8] 0x7FF65CB2F253     (void* -> Fallout4.exe+0D3F253	call 0x00007FF65CB2E910 |  `anonymous_namespace'::Main_InitGameData(void)_D3F253)
+[RSP+3D0] 0x2                (size_t) [2]
+[RSP+3D8] 0x0                (size_t) [0]
+[RSP+3E0] 0x0                (size_t) [0]
+[RSP+3E8] 0x1AC7EE102F0      (char*) "b"
+[RSP+3F0] 0x0                (size_t) [0]
+[RSP+3F8] 0x7FF65CB435A9     (void* -> Fallout4.exe+0D535A9	call 0x00007FF65D94CBC0 |  `anonymous_namespace'::InitGameDataThread::ThreadProc(void)_D535A9)
+[RSP+400] 0x1AD1203E740      (`anonymous namespace'::InitGameDataThread*)
+[RSP+408] 0x0                (size_t) [0]
+[RSP+410] 0x0                (size_t) [0]
+[RSP+418] 0x0                (size_t) [0]
+[RSP+420] 0x1AD1203E740      (`anonymous namespace'::InitGameDataThread*)
+[RSP+428] 0x7FF9264BA8AC     (void* -> f4se_1_10_163.dll+000A8AC	mov rcx, [0x00007FF92657F7D8])
+[RSP+430] 0x0                (size_t) [0]
+[RSP+438] 0x0                (size_t) [0]
+[RSP+440] 0x0                (size_t) [0]
+[RSP+448] 0x0                (size_t) [0]
+[RSP+450] 0x0                (size_t) [0]
+[RSP+458] 0x0                (size_t) [0]
+[RSP+460] 0x1AD1203E740      (`anonymous namespace'::InitGameDataThread*)
+[RSP+468] 0x0                (size_t) [0]
+[RSP+470] 0x0                (size_t) [0]
+[RSP+478] 0x7FF65D90CFED     (void* -> Fallout4.exe+1B1CFED	mov rcx, [0x00007FF66194BD38] |  BSThread::CallThreadProc(void)_1B1CFED)
+[RSP+480] 0x0                (size_t) [0]
+[RSP+488] 0x51315CFD50       (void*)
+[RSP+490] 0x1AC58D9BC90      (void*)
+[RSP+498] 0x0                (size_t) [0]
+[RSP+4A0] 0x1AD1203E740      (`anonymous namespace'::InitGameDataThread*)
+[RSP+4A8] 0x0                (size_t) [0]
+[RSP+4B0] 0x0                (size_t) [0]
+[RSP+4B8] 0x7FFA1800257D     (void* -> KERNEL32.DLL+001257D	mov ecx, eax)
+[RSP+4C0] 0x0                (size_t) [0]
+[RSP+4C8] 0x0                (size_t) [0]
+[RSP+4D0] 0x0                (size_t) [0]
+[RSP+4D8] 0x0                (size_t) [0]
+[RSP+4E0] 0x0                (size_t) [0]
+[RSP+4E8] 0x7FFA1958AA48     (void* -> ntdll.dll+005AA48	jmp 0x00007FFA1958AA69)
+[RSP+4F0] 0x0                (size_t) [0]
+[RSP+4F8] 0x0                (size_t) [0]
+[RSP+500] 0x0                (size_t) [0]
+[RSP+508] 0x0                (size_t) [0]
+[RSP+510] 0x0                (size_t) [0]
+[RSP+518] 0x0                (size_t) [0]
+[RSP+520] 0x89E6CE1A00000000 (size_t) [uint: 9936856238904049664 int: -8509887834805501952]
+[RSP+528] 0x0                (size_t) [0]
+[RSP+530] 0x4F0FFFFFB30      (size_t) [5433133628208]
+[RSP+538] 0x7FFA16A4CBB0     (void* -> KERNELBASE.dll+015CBB0	mov [rsp+0x10], rbx)
+[RSP+540] 0x51315CE380       (void*)
+[RSP+548] 0xD0816A80001FFEA7 (size_t) [uint: 15024406929875140263 int: -3422337143834411353]
+[RSP+550] 0x7FFA9F4205AA     (size_t) [140714390455722]
+[RSP+558] 0x51315CE380       (void*)
+[RSP+560] 0x0                (size_t) [0]
+[RSP+568] 0x0                (size_t) [0]
+[RSP+570] 0x0                (size_t) [0]
+[RSP+578] 0x0                (size_t) [0]
+[RSP+580] 0x0                (size_t) [0]
+[RSP+588] 0x0                (size_t) [0]
+[RSP+590] 0x0                (size_t) [0]
+[RSP+598] 0x0                (size_t) [0]
+[RSP+5A0] 0x0                (size_t) [0]
+[RSP+5A8] 0x0                (size_t) [0]
+[RSP+5B0] 0x0                (size_t) [0]
+[RSP+5B8] 0x0                (size_t) [0]
+[RSP+5C0] 0x0                (size_t) [0]
+[RSP+5C8] 0x0                (size_t) [0]
+[RSP+5D0] 0x0                (size_t) [0]
+[RSP+5D8] 0x0                (size_t) [0]
+[RSP+5E0] 0x0                (size_t) [0]
+[RSP+5E8] 0x0                (size_t) [0]
+[RSP+5F0] 0x0                (size_t) [0]
+[RSP+5F8] 0x0                (size_t) [0]
+[RSP+600] 0x0                (size_t) [0]
+[RSP+608] 0x0                (size_t) [0]
+[RSP+610] 0x0                (size_t) [0]
+[RSP+618] 0x0                (size_t) [0]
+[RSP+620] 0x0                (size_t) [0]
+[RSP+628] 0x0                (size_t) [0]
+[RSP+630] 0x0                (size_t) [0]
+[RSP+638] 0x0                (size_t) [0]
+[RSP+640] 0x0                (size_t) [0]
+[RSP+648] 0x0                (size_t) [0]
+[RSP+650] 0x0                (size_t) [0]
+[RSP+658] 0x0                (size_t) [0]
+[RSP+660] 0x0                (size_t) [0]
+[RSP+668] 0x0                (size_t) [0]
+[RSP+670] 0x0                (size_t) [0]
+[RSP+678] 0x0                (size_t) [0]
+[RSP+680] 0x0                (size_t) [0]
+[RSP+688] 0x0                (size_t) [0]
+[RSP+690] 0x0                (size_t) [0]
+[RSP+698] 0x0                (size_t) [0]
+[RSP+6A0] 0x0                (size_t) [0]
+[RSP+6A8] 0x0                (size_t) [0]
+[RSP+6B0] 0x0                (size_t) [0]
+[RSP+6B8] 0x0                (size_t) [0]
+[RSP+6C0] 0x0                (size_t) [0]
+[RSP+6C8] 0x0                (size_t) [0]
+[RSP+6D0] 0x0                (size_t) [0]
+[RSP+6D8] 0x0                (size_t) [0]
+[RSP+6E0] 0x0                (size_t) [0]
+[RSP+6E8] 0x0                (size_t) [0]
+[RSP+6F0] 0x0                (size_t) [0]
+[RSP+6F8] 0x0                (size_t) [0]
+[RSP+700] 0x0                (size_t) [0]
+[RSP+708] 0x0                (size_t) [0]
+[RSP+710] 0x0                (size_t) [0]
+[RSP+718] 0x0                (size_t) [0]
+[RSP+720] 0x0                (size_t) [0]
+[RSP+728] 0x0                (size_t) [0]
+[RSP+730] 0x0                (size_t) [0]
+[RSP+738] 0x0                (size_t) [0]
+[RSP+740] 0x0                (size_t) [0]
+[RSP+748] 0x0                (size_t) [0]

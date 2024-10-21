@@ -1,0 +1,556 @@
+[0] 0x7FF66C627388 Fallout4.exe+05D7388 -> 845755+0x18
+
+REGISTERS:
+RAX 0x4110000000000002 (size_t)
+RCX 0x1A018360100      (BGSExplosion*)
+File: "SS2Extended.esp"
+Flags: 0x00000008
+Form ID: 0x1C0065B1
+Form Type: 90
+Full Name: ""
+RDX 0x2                (size_t)
+RBX 0x15B442F5D8       (void*)
+RSP 0x15B442F408       (void*)
+RBP 0x15B442F540       (void*)
+RSI 0x2                (size_t)
+RDI 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+R8  0x0                (size_t)
+R9  0x15B442F5D8       (void*)
+R10 0x1A018360100      (BGSExplosion*)
+File: "SS2Extended.esp"
+Flags: 0x00000008
+Form ID: 0x1C0065B1
+Form Type: 90
+Full Name: ""
+R11 0x2                (size_t)
+R12 0xFFFFFFFF         (size_t)
+R13 0x1A00A63C718      (char*) ";"
+R14 0x15B442F650       (void*)
+R15 0x0                (size_t)
+
+STACK:
+[RSP+0  ] 0x7FF66C519A84     (void* -> Fallout4.exe+04C9A84)
+[RSP+8  ] 0x1                (size_t)
+[RSP+10 ] 0x15B442F540       (void*)
+[RSP+18 ] 0x15B442F520       (void*)
+[RSP+20 ] 0x15B442F430       (void*)
+[RSP+28 ] 0x1A018360100      (BGSExplosion*)
+File: "SS2Extended.esp"
+Flags: 0x00000008
+Form ID: 0x1C0065B1
+Form Type: 90
+Full Name: ""
+[RSP+30 ] 0x7FF66C77CAAA     (void* -> Fallout4.exe+072CAAA)
+[RSP+38 ] 0x6B               (size_t)
+[RSP+40 ] 0x7FF66DB92FE8     (void* -> Fallout4.exe+1B42FE8)
+[RSP+48 ] 0x19F4A627A00      (void*)
+[RSP+50 ] 0x7FF671B2D9F0     (GameScript::FragmentEventHandler*)
+[RSP+58 ] 0x0                (size_t)
+[RSP+60 ] 0x0                (size_t)
+[RSP+68 ] 0x1                (size_t)
+[RSP+70 ] 0x15B442F650       (void*)
+[RSP+78 ] 0x15B442F539       (void*)
+[RSP+80 ] 0x6B               (size_t)
+[RSP+88 ] 0x1                (size_t)
+[RSP+90 ] 0x7FF66D358A64     (void* -> Fallout4.exe+1308A64)
+[RSP+98 ] 0x0                (size_t)
+[RSP+A0 ] 0x1000677E         (size_t)
+[RSP+A8 ] 0x7FF671BB7580     (void* -> Fallout4.exe+5B67580)
+[RSP+B0 ] 0x15B442F650       (void*)
+[RSP+B8 ] 0x15B442F500       (void*)
+[RSP+C0 ] 0x15B442F5A0       (void*)
+[RSP+C8 ] 0x15B442F540       (void*)
+[RSP+D0 ] 0x0                (size_t)
+[RSP+D8 ] 0x15B442FFFF       (void*)
+[RSP+E0 ] 0x15B442F660       (void*)
+[RSP+E8 ] 0x15B442F520       (void*)
+[RSP+F0 ] 0x0                (size_t)
+[RSP+F8 ] 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+[RSP+100] 0x0                (size_t)
+[RSP+108] 0x1A009719000      (TESQuest*)
+File: "M8r_Tags_SimSettlements2_C1_C2_Ext.esp"
+Flags: 0x00400009
+Form ID: 0x100065B1
+Form Type: 80
+Full Name: "[Quest] Fire Up The Presses"
+[RSP+110] 0x0                (size_t)
+[RSP+118] 0x0                (size_t)
+[RSP+120] 0x0                (size_t)
+[RSP+128] 0x0                (size_t)
+[RSP+130] 0x0                (size_t)
+[RSP+138] 0x0                (size_t)
+[RSP+140] 0x0                (size_t)
+[RSP+148] 0x0                (size_t)
+[RSP+150] 0x0                (size_t)
+[RSP+158] 0x0                (size_t)
+[RSP+160] 0x1A00A65A400      (BGSScene*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00000009
+Form ID: 0x1000677E
+Form Type: 126
+[RSP+168] 0x7FF671C38080     (void* -> Fallout4.exe+5BE8080)
+[RSP+170] 0x19F4A6278C8      (void*)
+[RSP+178] 0x19F4A627890      (void*)
+[RSP+180] 0x19F4A6278B0      (void*)
+[RSP+188] 0x19F4A6278C0      (void*)
+[RSP+190] 0x1A00A638501      (void*)
+[RSP+198] 0x1A00A626400      (void*)
+[RSP+1A0] 0x1A00A63C700      (void*)
+[RSP+1A8] 0x15B442F650       (void*)
+[RSP+1B0] 0x7FF66C77B773     (void* -> Fallout4.exe+072B773)
+[RSP+1B8] 0x1A00A63C700      (void*)
+[RSP+1C0] 0x7FF600000000     (size_t)
+[RSP+1C8] 0x3B23D70B3B23D70B (size_t)
+[RSP+1D0] 0x3C23D70B00000000 (size_t)
+[RSP+1D8] 0x0                (size_t)
+[RSP+1E0] 0x7FFDD7919E2E     (void* -> Buffout4.dll+0049E2E)
+[RSP+1E8] 0x7FF671C38084     (void* -> Fallout4.exe+5BE8084)
+[RSP+1F0] 0x0                (size_t)
+[RSP+1F8] 0x7FF671C38080     (void* -> Fallout4.exe+5BE8080)
+[RSP+200] 0x7FF671C38088     (void* -> Fallout4.exe+5BE8088)
+[RSP+208] 0x1A00A6385E0      (BGSSceneActionStartScene*)
+[RSP+210] 0x0                (size_t)
+[RSP+218] 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+[RSP+220] 0x7FF66C318A84     (void* -> Fallout4.exe+02C8A84)
+[RSP+228] 0x0                (size_t)
+[RSP+230] 0x0                (size_t)
+[RSP+238] 0x1A00A6264C0      (void*)
+[RSP+240] 0x0                (size_t)
+[RSP+248] 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+[RSP+250] 0x0                (size_t)
+[RSP+258] 0x1A009719000      (TESQuest*)
+File: "M8r_Tags_SimSettlements2_C1_C2_Ext.esp"
+Flags: 0x00400009
+Form ID: 0x100065B1
+Form Type: 80
+Full Name: "[Quest] Fire Up The Presses"
+[RSP+260] 0x0                (size_t)
+[RSP+268] 0x0                (size_t)
+[RSP+270] 0x0                (size_t)
+[RSP+278] 0x0                (size_t)
+[RSP+280] 0x0                (size_t)
+[RSP+288] 0x0                (size_t)
+[RSP+290] 0x0                (size_t)
+[RSP+298] 0x0                (size_t)
+[RSP+2A0] 0x0                (size_t)
+[RSP+2A8] 0x0                (size_t)
+[RSP+2B0] 0x1A00A6385E0      (BGSSceneActionStartScene*)
+[RSP+2B8] 0x1                (size_t)
+[RSP+2C0] 0x1A00A6385E0      (BGSSceneActionStartScene*)
+[RSP+2C8] 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+[RSP+2D0] 0x7FF66C318C02     (void* -> Fallout4.exe+02C8C02)
+[RSP+2D8] 0x1A0002694AB      (void*)
+[RSP+2E0] 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+[RSP+2E8] 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+[RSP+2F0] 0x1A00A65A400      (BGSScene*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00000009
+Form ID: 0x1000677E
+Form Type: 126
+[RSP+2F8] 0x1A00A6385E0      (BGSSceneActionStartScene*)
+[RSP+300] 0x7FF66C0DFB9B     (void* -> Fallout4.exe+008FB9B)
+[RSP+308] 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+[RSP+310] 0x15B442F7B0       (void*)
+[RSP+318] 0x1                (size_t)
+[RSP+320] 0x1A00A6385E0      (BGSSceneActionStartScene*)
+[RSP+328] 0x15B442F7B0       (void*)
+[RSP+330] 0x7FF66C5E062F     (void* -> Fallout4.exe+059062F)
+[RSP+338] 0x1                (size_t)
+[RSP+340] 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+[RSP+348] 0x0                (size_t)
+[RSP+350] 0x15B442F7B0       (void*)
+[RSP+358] 0x1                (size_t)
+[RSP+360] 0x1A00A65A400      (BGSScene*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00000009
+Form ID: 0x1000677E
+Form Type: 126
+[RSP+368] 0x1A00A6346D8      (void*)
+[RSP+370] 0x0                (size_t)
+[RSP+378] 0x1A00A6346D0      (void*)
+[RSP+380] 0x7FF66C5DFB1D     (void* -> Fallout4.exe+058FB1D)
+[RSP+388] 0x1A00A65A400      (BGSScene*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00000009
+Form ID: 0x1000677E
+Form Type: 126
+[RSP+390] 0x7FF66C0DFB9B     (void* -> Fallout4.exe+008FB9B)
+[RSP+398] 0x1A0002694AB      (void*)
+[RSP+3A0] 0x1A05E10AB00      (Actor*)
+Object Reference:
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00040009
+Form ID: 0x1000677C
+Form Type: 45
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00400409
+Form ID: 0x10016B44
+Form Type: 65
+[RSP+3A8] 0x1A00A65A400      (BGSScene*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00000009
+Form ID: 0x1000677E
+Form Type: 126
+[RSP+3B0] 0x100000000        (size_t)
+[RSP+3B8] 0x1A00A65A400      (BGSScene*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00000009
+Form ID: 0x1000677E
+Form Type: 126
+[RSP+3C0] 0x7FF66C5DD3AA     (void* -> Fallout4.exe+058D3AA)
+[RSP+3C8] 0x1A00A626620      (void*)
+[RSP+3D0] 0x1A01A2ED190      (void*)
+[RSP+3D8] 0x0                (size_t)
+[RSP+3E0] 0x1A00A44E800      (BGSScene*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00000009
+Form ID: 0x1002EE4A
+Form Type: 126
+[RSP+3E8] 0x3                (size_t)
+[RSP+3F0] 0x7FF66E740A55     (void* -> Fallout4.exe+26F0A55)
+[RSP+3F8] 0x19F4A627A00      (void*)
+[RSP+400] 0x0                (size_t)
+[RSP+408] 0x19F4A627A00      (void*)
+[RSP+410] 0xB                (size_t)
+[RSP+418] 0x7FF66C050000     (void*)
+[RSP+420] 0x0                (size_t)
+[RSP+428] 0x1A0EE8A6250      (BSScript::Internal::CodeTasklet*)
+[RSP+430] 0x15B442F8A0       (void*)
+[RSP+438] 0x88D              (size_t)
+[RSP+440] 0x7FF66E7C3911     (void* -> Fallout4.exe+2773911)
+[RSP+448] 0x2                (size_t)
+[RSP+450] 0x1A12C99A380      (void*)
+[RSP+458] 0x1                (size_t)
+[RSP+460] 0x1                (size_t)
+[RSP+468] 0x1A0EE8A6250      (BSScript::Internal::CodeTasklet*)
+[RSP+470] 0x7FF66E7BEC9E     (void* -> Fallout4.exe+276EC9E)
+[RSP+478] 0x1A0EE8A6250      (BSScript::Internal::CodeTasklet*)
+[RSP+480] 0x2                (size_t)
+[RSP+488] 0x15B442F8E0       (void*)
+[RSP+490] 0x1                (size_t)
+[RSP+498] 0x1A00A65A400      (BGSScene*)
+File: "SS2_XPAC_Chapter2.esm"
+Flags: 0x00000009
+Form ID: 0x1000677E
+Form Type: 126
+[RSP+4A0] 0x7FF66C627E1F     (void* -> Fallout4.exe+05D7E1F)
+[RSP+4A8] 0x1A110A3D1C8      (void*)
+[RSP+4B0] 0x44               (size_t)
+[RSP+4B8] 0x1A01A2ED180      (void*)
+[RSP+4C0] 0x0                (size_t)
+[RSP+4C8] 0x0                (size_t)
+[RSP+4D0] 0x7FF66C63308A     (void* -> Fallout4.exe+05E308A)
+[RSP+4D8] 0x19F202FE160      (void*)
+[RSP+4E0] 0x1A009719000      (TESQuest*)
+File: "M8r_Tags_SimSettlements2_C1_C2_Ext.esp"
+Flags: 0x00400009
+Form ID: 0x100065B1
+Form Type: 80
+Full Name: "[Quest] Fire Up The Presses"
+[RSP+4E8] 0x7FF671C38080     (void* -> Fallout4.exe+5BE8080)
+[RSP+4F0] 0x7FF671C38088     (void* -> Fallout4.exe+5BE8088)
+[RSP+4F8] 0x7FF671C38BD8     (void* -> Fallout4.exe+5BE8BD8)
+[RSP+500] 0x7FF66DBA0F26     (void* -> Fallout4.exe+1B50F26)
+[RSP+508] 0x17               (size_t)
+[RSP+510] 0x7FF671C38BD8     (void* -> Fallout4.exe+5BE8BD8)
+[RSP+518] 0x0                (size_t)
+[RSP+520] 0x19F202FE160      (void*)
+[RSP+528] 0x0                (size_t)
+[RSP+530] 0x0                (size_t)
+[RSP+538] 0x0                (size_t)
+[RSP+540] 0x2                (size_t)
+[RSP+548] 0x7FF671C38B48     (BSJobs::JobThread*)
+[RSP+550] 0x7FF66DBA1432     (void* -> Fallout4.exe+1B51432)
+[RSP+558] 0x2                (size_t)
+[RSP+560] 0x7FF671C38B88     (void* -> Fallout4.exe+5BE8B88)
+[RSP+568] 0x0                (size_t)
+[RSP+570] 0x15B442F9D0       (char*) " J"
+[RSP+578] 0x0                (size_t)
+[RSP+580] 0x0                (size_t)
+[RSP+588] 0x0                (size_t)
+[RSP+590] 0x7FF66DBA3F67     (void* -> Fallout4.exe+1B53F67)
+[RSP+598] 0x7FF671C38B48     (BSJobs::JobThread*)
+[RSP+5A0] 0x0                (size_t)
+[RSP+5A8] 0x0                (size_t)
+[RSP+5B0] 0x0                (size_t)
+[RSP+5B8] 0x7FF671C38B48     (BSJobs::JobThread*)
+[RSP+5C0] 0x7FF66DB6CFED     (void* -> Fallout4.exe+1B1CFED)
+[RSP+5C8] 0x4A20             (size_t)
+[RSP+5D0] 0x15B442F9F0       (void*)
+[RSP+5D8] 0x19F202DBC90      (void*)
+[RSP+5E0] 0x0                (size_t)
+[RSP+5E8] 0x7FF671C38B48     (BSJobs::JobThread*)
+[RSP+5F0] 0x0                (size_t)
+[RSP+5F8] 0x0                (size_t)
+[RSP+600] 0x7FFE7E347034     (void* -> KERNEL32.DLL+0017034)
+[RSP+608] 0x0                (size_t)
+[RSP+610] 0x0                (size_t)
+[RSP+618] 0x0                (size_t)
+[RSP+620] 0x0                (size_t)
+[RSP+628] 0x0                (size_t)
+[RSP+630] 0x7FFE7EE626A1     (void* -> ntdll.dll+00526A1)
+[RSP+638] 0x0                (size_t)
+[RSP+640] 0x0                (size_t)
+[RSP+648] 0x0                (size_t)
+[RSP+650] 0x0                (size_t)
+[RSP+658] 0x0                (size_t)
+[RSP+660] 0x0                (size_t)
+[RSP+668] 0x5654CB7800000000 (size_t)
+[RSP+670] 0x0                (size_t)
+[RSP+678] 0x0                (size_t)
+[RSP+680] 0x7FFE7C680100     (void* -> KERNELBASE.dll+0110100)
+[RSP+688] 0x15B442E500       (void*)
+[RSP+690] 0x7FFE2A3CCA7800   (size_t)
+[RSP+698] 0x7FFE2A3CCA78     (size_t)
+[RSP+6A0] 0x15B442E500       (void*)
+[RSP+6A8] 0x0                (size_t)
+[RSP+6B0] 0x0                (size_t)
+[RSP+6B8] 0x0                (size_t)
+[RSP+6C0] 0x0                (size_t)
+[RSP+6C8] 0x0                (size_t)
+[RSP+6D0] 0x0                (size_t)
+[RSP+6D8] 0x0                (size_t)
+[RSP+6E0] 0x0                (size_t)
+[RSP+6E8] 0x0                (size_t)
+[RSP+6F0] 0x0                (size_t)
+[RSP+6F8] 0x0                (size_t)
+[RSP+700] 0x0                (size_t)
+[RSP+708] 0x0                (size_t)
+[RSP+710] 0x0                (size_t)
+[RSP+718] 0x0                (size_t)
+[RSP+720] 0x0                (size_t)
+[RSP+728] 0x0                (size_t)
+[RSP+730] 0x0                (size_t)
+[RSP+738] 0x0                (size_t)
+[RSP+740] 0x0                (size_t)
+[RSP+748] 0x0                (size_t)
+[RSP+750] 0x0                (size_t)
+[RSP+758] 0x0                (size_t)
+[RSP+760] 0x0                (size_t)
+[RSP+768] 0x0                (size_t)
+[RSP+770] 0x0                (size_t)
+[RSP+778] 0x0                (size_t)
+[RSP+780] 0x0                (size_t)
+[RSP+788] 0x0                (size_t)
+[RSP+790] 0x0                (size_t)
+[RSP+798] 0x0                (size_t)
+[RSP+7A0] 0x0                (size_t)
+[RSP+7A8] 0x0                (size_t)
+[RSP+7B0] 0x0                (size_t)
+[RSP+7B8] 0x0                (size_t)
+[RSP+7C0] 0x0                (size_t)
+[RSP+7C8] 0x0                (size_t)
+[RSP+7D0] 0x0                (size_t)
+[RSP+7D8] 0x0                (size_t)
+[RSP+7E0] 0x0                (size_t)
+[RSP+7E8] 0x0                (size_t)
+[RSP+7F0] 0x0                (size_t)
+[RSP+7F8] 0x0                (size_t)
+[RSP+800] 0x0                (size_t)
+[RSP+808] 0x0                (size_t)
+[RSP+810] 0x0                (size_t)
+[RSP+818] 0x0                (size_t)
+[RSP+820] 0x0                (size_t)
+[RSP+828] 0x0                (size_t)
+[RSP+830] 0x0                (size_t)
+[RSP+838] 0x0                (size_t)
+[RSP+840] 0x0                (size_t)
+[RSP+848] 0x0                (size_t)
+[RSP+850] 0x0                (size_t)
+[RSP+858] 0x0                (size_t)
+[RSP+860] 0x0                (size_t)
+[RSP+868] 0x0                (size_t)
+[RSP+870] 0x0                (size_t)
+[RSP+878] 0x0                (size_t)
+[RSP+880] 0x0                (size_t)
+[RSP+888] 0x0                (size_t)
+[RSP+890] 0x0                (size_t)
+[RSP+898] 0x0                (size_t)
+[RSP+8A0] 0x0                (size_t)
+[RSP+8A8] 0x0                (size_t)
+[RSP+8B0] 0x0                (size_t)
+[RSP+8B8] 0x0                (size_t)
+[RSP+8C0] 0x0                (size_t)
+[RSP+8C8] 0x0                (size_t)
+[RSP+8D0] 0x0                (size_t)
+[RSP+8D8] 0x0                (size_t)
+[RSP+8E0] 0x0                (size_t)
+[RSP+8E8] 0x0                (size_t)
+[RSP+8F0] 0x0                (size_t)
+[RSP+8F8] 0x0                (size_t)
+[RSP+900] 0x0                (size_t)
+[RSP+908] 0x0                (size_t)
+[RSP+910] 0x0                (size_t)
+[RSP+918] 0x0                (size_t)
+[RSP+920] 0x0                (size_t)
+[RSP+928] 0x0                (size_t)
+[RSP+930] 0x0                (size_t)
+[RSP+938] 0x0                (size_t)
+[RSP+940] 0x0                (size_t)
+[RSP+948] 0x0                (size_t)
+[RSP+950] 0x0                (size_t)
+[RSP+958] 0x0                (size_t)
+[RSP+960] 0x0                (size_t)
+[RSP+968] 0x0                (size_t)
+[RSP+970] 0x0                (size_t)
+[RSP+978] 0x0                (size_t)
+[RSP+980] 0x0                (size_t)
+[RSP+988] 0x0                (size_t)
+[RSP+990] 0x0                (size_t)
+[RSP+998] 0x0                (size_t)
+[RSP+9A0] 0x0                (size_t)
+[RSP+9A8] 0x0                (size_t)
+[RSP+9B0] 0x0                (size_t)
+[RSP+9B8] 0x0                (size_t)
+[RSP+9C0] 0x0                (size_t)
+[RSP+9C8] 0x0                (size_t)
+[RSP+9D0] 0x0                (size_t)
+[RSP+9D8] 0x0                (size_t)
+[RSP+9E0] 0x0                (size_t)
+[RSP+9E8] 0x0                (size_t)
+[RSP+9F0] 0x0                (size_t)
+[RSP+9F8] 0x0                (size_t)
+[RSP+A00] 0x0                (size_t)
+[RSP+A08] 0x0                (size_t)
+[RSP+A10] 0x0                (size_t)
+[RSP+A18] 0x0                (size_t)
+[RSP+A20] 0x0                (size_t)
+[RSP+A28] 0x0                (size_t)
+[RSP+A30] 0x0                (size_t)
+[RSP+A38] 0x0                (size_t)
+[RSP+A40] 0x0                (size_t)
+[RSP+A48] 0x0                (size_t)
+[RSP+A50] 0x0                (size_t)
+[RSP+A58] 0x0                (size_t)
+[RSP+A60] 0x0                (size_t)
+[RSP+A68] 0x0                (size_t)
+[RSP+A70] 0x0                (size_t)
+[RSP+A78] 0x0                (size_t)
+[RSP+A80] 0x0                (size_t)
+[RSP+A88] 0x0                (size_t)
+[RSP+A90] 0x0                (size_t)
+[RSP+A98] 0x0                (size_t)
+[RSP+AA0] 0x0                (size_t)
+[RSP+AA8] 0x0                (size_t)
+[RSP+AB0] 0x0                (size_t)
+[RSP+AB8] 0x0                (size_t)
+[RSP+AC0] 0x0                (size_t)
+[RSP+AC8] 0x0                (size_t)
+[RSP+AD0] 0x0                (size_t)
+[RSP+AD8] 0x0                (size_t)
+[RSP+AE0] 0x0                (size_t)
+[RSP+AE8] 0x0                (size_t)
+[RSP+AF0] 0x0                (size_t)
+[RSP+AF8] 0x0                (size_t)
+[RSP+B00] 0x0                (size_t)
+[RSP+B08] 0x0                (size_t)
+[RSP+B10] 0x0                (size_t)
+[RSP+B18] 0x0                (size_t)
+[RSP+B20] 0x0                (size_t)
+[RSP+B28] 0x0                (size_t)
+[RSP+B30] 0x0                (size_t)
+[RSP+B38] 0x0                (size_t)
+[RSP+B40] 0x0                (size_t)
+[RSP+B48] 0x0                (size_t)
+[RSP+B50] 0x0                (size_t)
+[RSP+B58] 0x0                (size_t)
+[RSP+B60] 0x0                (size_t)
+[RSP+B68] 0x0                (size_t)
+[RSP+B70] 0x0                (size_t)
+[RSP+B78] 0x0                (size_t)
+[RSP+B80] 0x0                (size_t)
+[RSP+B88] 0x0                (size_t)
+[RSP+B90] 0x0                (size_t)
+[RSP+B98] 0x0                (size_t)
+[RSP+BA0] 0x0                (size_t)
+[RSP+BA8] 0x0                (size_t)
+[RSP+BB0] 0x0                (size_t)
+[RSP+BB8] 0x0                (size_t)
+[RSP+BC0] 0x0                (size_t)
+[RSP+BC8] 0x0                (size_t)
+[RSP+BD0] 0x0                (size_t)
+[RSP+BD8] 0x0                (size_t)
+[RSP+BE0] 0x0                (size_t)
+[RSP+BE8] 0x0                (size_t)
+[RSP+BF0] 0x0                (size_t)

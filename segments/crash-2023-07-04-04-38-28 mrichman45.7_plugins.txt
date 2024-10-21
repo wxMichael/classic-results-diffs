@@ -1,0 +1,377 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     ccswkfo4001-astronautpowerarmor.esm
+[08]     cczsef04001-bhouse.esm
+[09]     cctosfo4001-neosky.esm
+[0A]     Unofficial Fallout 4 Patch.esp
+[0B]     XDI.esm
+[0C]     HUDFramework.esm
+[0D]     WorkshopFramework.esm
+[0E]     TrueStormsFO4.esm
+[0F]     MutantMenagerie.esm
+[10]     MutantMenagerie_FarHarbor.esm
+[11]     MutantMenagerie_NukaWorld.esm
+[12]     CWPointLookoutFO4.esm
+[13]     MutantMenagerie_PointLookout.esm
+[14]     NPCScaling.esm
+[15]     DCGuard_Overhaul.esp
+[16]     ProjectMojave.esm
+[17]     SS2.esm
+[18]     SS2_XPAC_Chapter2.esm
+[19]     Droids of the Commonwealth.esm
+[1A]     Droids of the Commonwealth - Thermal Edition.esm
+[1B]     CompanionIvy.esm
+[1C]     InstituteTechnologyOverhaul.esm
+[1D]     spacefiddle_Mastermind-Robot-Provisioners.esp
+[1E]     LooksMenu.esp
+[1F]     LooksMenu Customization Compendium.esp
+[20]     Merged Fixes.esp
+[21]     Textures and Fixes.esp
+[22]     CBBE.esp
+[23]     WmkActiveEffects.esp
+[24]     DroidStatWidgets.esp
+[25]     Dank_LEO-MLE.esp
+[26]     AER15.esp
+[27]     Ak5C.esp
+[28]     AK5CSkinPackAll.esp
+[29]     AlienAssaultRifle.esp
+[2A]     American180nv.esp
+[2B]     ChinaLakeandHolorifle.esp
+[2C]     CROSS_RugerMkV.esp
+[2D]     EG7.esp
+[2E]     G11.esp
+[2F]     F4NVServiceRifleRedux.esp
+[30]     LAER.esp
+[31]     LAER Automatron Weapons.esp
+[32]     LightsaberMod.esp
+[33]     MisriahArmory.esp
+[34]     Mk41GyrojetHMG.esp
+[35]     MonkeyDepoTommy.esp
+[36]     Quad_Element.esp
+[37]     HexiSolarCannon.esp
+[38]     HuntingRevolver.esp
+[39]     RemoteExplosives.esp
+[3A]     ESPExplorerFO4.esp
+[3B]     seburoCX.esp
+[3C]     Skb_RiflesRebirth.esp
+[3D]     Skibs-IF88Redux.esp
+[3E]     Wana_SA58.esp
+[3F]     X12Plasmacaster.esp
+[40]     CombinedArmsNV.esp
+[41]     CombinedArmsEXPack.esp
+[42]     PBW-LAER.esp
+[43]     XM2010_SniperRifle_by_tooun.esp
+[44]     HBT - Rifles Rebirth.esp
+[45]     BH_MCX_Spear.esp
+[46]     45autoPistol.esp
+[47]     LString_Bow.esp
+[48]     ClassicSniper.esp
+[49]     REAPER.esp
+[4A]     GIAT_FAMAS.esp
+[4B]     DOOMMerged.esp
+[4C]     Jackhammer.esp
+[4D]     M2_Flamethrower_2.2.esp
+[4E]     ACR-W17.esp
+[4F]     BR77.esp
+[50]     65SeriesPistols.esp
+[51]     GaussRevolver.esp
+[52]     LaserRevolver.esp
+[53]     MTs255.esp
+[54]     officersRevolver.esp
+[55]     MG42.esp
+[56]     BOCWNailGun.esp
+[57]     PBW-PolicePistol.esp
+[58]     TeslaCannonRedux.esp
+[59]     ABundleofTape.esp
+[5A]     M1GarandSkinPacksVol1ABoT.esp
+[5B]     SVT40SkinPacksAllABoT.esp
+[5C]     LeeEnfieldNo4MkI.esp
+[5D]     LeeEnfieldNo4MkI Skin Pack Vol1.esp
+[5E]     SKS.esp
+[5F]     Tomacuzi9.esp
+[60]     KellyMacabre.esp
+[61]     BerettaM9FS.esp
+[62]     BerettaM9FS_AnimationOverhaul.esp
+[63]     WattzLaserGun.esp
+[64]     M4k4rov - PPSh.esp
+[65]     MGRemesh.esp
+[66]     SelectMarksman.esp
+[67]     SelectRapidMG.esp
+[68]     1918bar.esp
+[69]     RU556.esp
+[6A]     PKMnv.esp
+[6B]     Captainoob's Improved CR74L.esp
+[6C]     PBW-LaserRCW.esp
+[6D]     pulsecarbine.esp
+[6E]     Archimedes-II.esp
+[6F]     BlasTech E-11.esp
+[70]     3dscopes-replacer.esp
+[71]     3dscopes-fnfal.esp
+[72]     3dscopes-laer.esp
+[73]     3dscopes-replacer-cccr74.esp
+[74]     3dscopes-replacer-gyrojet.esp
+[75]     3dscopes-replacer-holorifle.esp
+[76]     3dscopes-replacer-huntingrevolver.esp
+[77]     3dscopes-replacer-servicerifle.esp
+[78]     CROSS_eyepatch.esp
+[79]     DX Courser X-92 Power Suit.esp
+[7A]     CROSS_Cybernetics.esp
+[7B]     CROSS_Jetpack.esp
+[7C]     Cross Cybernetics Jetpack Fix.esp
+[7D]     cross-lgdry-cyber.esp
+[7E]     cross-lgdry-jtpack.esp
+[7F]     OakleyMFrame.esp
+[80]     Secret Service Armor.esp
+[81]     StandaloneConstruct.esp
+[82]     Saya_lsstring_VWAS.esp
+[83]     Destiny2Ports.esp
+[84]     FOLON-StandaloneReleaser.esp
+[85]     Journal.esp
+[86]     CheatTerminal.esp
+[87]     W.A.T.Minutemen.esp
+[88]     Reinforcements.esp
+[89]     ImprovedBoS.esp
+[8A]     InstituteTechnologyOverhaul - FULL.esp
+[8B]     GunnerJuryRigYLC.esp
+[8C]     RaiderOverhaul.esp
+[8D]     SS2Extended.esp
+[8E]     DeadlierDeathclaws.esp
+[8F]     CWCreateABot.esp
+[90]     SKKGlobalStashScrapping.esp
+[91]     FO4Hotkeys.esp
+[92]     RecycleBottles.esp
+[93]     FCOM.esp
+[94]     FCOM-NieroCoA.esp
+[95]     FCOM-NieroIEX.esp
+[96]     The Eyes Of Beauty.esp
+[97]     LookingStranger.esp
+[98]     KSHairdos.esp
+[99]     Merged Appearance.esp
+[9A]     FO4 NPCs Travel.esp
+[9B]     CompanionStatus.esp
+[9C]     AIO SS.esp
+[9D]     SKKMobileWorkshop.esp
+[9E]     SettleObjExpandPack.esp
+[9F]     AtlasSummit.esp
+[A0]     Pip Storage Assitant.esp
+[A1]     Safehouses.esp
+[A2]     LevelersBunker.esp
+[A3]     AA FusionCityRising.esp
+[A4]     AA FusionCityRising - HotC.esp
+[A5]     OutcastsAndRemnants.esp
+[A6]     Depravity.esp
+[A7]     ProjectValkyrie.esp
+[A8]     AGNISNikaCola01.esp
+[A9]     Children of Ug Qualtoth.esp
+[AA]     FatherCompanion.esp
+[AB]     WilkesEstate.esp
+[AC]     LimaOutpost.esp
+[AD]     CHAOTIC SUN.esp
+[AE]     Keep Radiants In Commonwealth.esp
+[AF]     MaxwellsWorl.esp
+[B0]     Zanthir_TasteOfBlues.esp
+[B1]     NukaWorldReborn.esp
+[B2]     VivaNukaWorld.esp
+[B3]     VivaNukaWorldQuests.esp
+[B4]     VivaNukaWorldQuests - Depravity Integration.esp
+[B5]     The Collector's Guides AIO.esp
+[B6]     RED.esp
+[B7]     AGNISNikaCola01-XDI patch.esp
+[B8]     MaxwellsWorl XDI Patch.esp
+[B9]     Skip DIMA memories.esp
+[BA]     RecruitableSettlers.esp
+[BB]     CreationClubDelay.esp
+[BC]     Better_Settlement_Defence.esp
+[BD]     RegsAwesomeFollowers.esp
+[BE]     AA Better Companions - No Conflicts.esp
+[BF]     SS2_CityPlanPack_RiseOfTheCommonwealth.esp
+[C0]     RecruitableSettlersFH.esp
+[C1]     RecruitableSettlersLeaders2.esp
+[C2]     FineZoom.esp
+[C3]     Hollywood Lasers.esp
+[C4]     Hollywood Bullet Tracers.esp
+[C5]     HWL - LAER.esp
+[C6]     HWL - AER15.esp
+[C7]     TrueStormsFO4-EarlierSunsets.esp
+[C8]     TrueStormsFO4-FarHarbor.esp
+[C9]     TrueStormsFO4-EarlierSunsetsFH.esp
+[CA]     dD-Enhanced Blood.esp
+[CB]     Merged Audio.esp
+[CC]     CustomSoundtrackMusic.esp
+[CD]     Perks76.esp
+[CE]     cryofix.esp
+[CF]     FOLON_Lewis_No TR_LLI.esp
+[D0]     SelectAssaultRifle_LLI.esp
+[D1]     SelectRevolver_LLInjector.esp
+[D2]     HVSG_LLInjector.esp
+[D3]     CompanionIvy_quest.esp
+[D4]     CompanionIvy_Mags.esp
+[D5]     CompanionIvy_Nuka.esp
+[FE:000] ccfsvfo4001-modularmilitarybackpack.esl
+[FE:001] cceejfo4002-nuka.esl
+[FE:002] ccsbjfo4001-solarflare.esl
+[FE:003] ccqdrfo4001_powerarmorai.esl
+[FE:004] ccfrsfo4003-cr75l.esl
+[FE:005] ccacxfo4001-vsuit.esl
+[FE:006] ccsbjfo4002_manwellrifle.esl
+[FE:007] AWHD2KFull.esl
+[FE:008] RRTV_NukaRecipeRetextures.esl
+[FE:009] LIF.esl
+[FE:00A] BakaInterface.esm
+[FE:00B] Munitions - An Ammo Expansion.esl
+[FE:00C] Munitions - Vanilla Ammo Addon.esl
+[FE:00D] StandaloneWorkbenches.esl
+[FE:00E] CanarySaveFileMonitor.esl
+[FE:00F] Commonwealth Caches.esl
+[FE:010] thecure.esl
+[FE:011] ConsumeWithoutPickup.esl
+[FE:012] NCRArmourPack.esl
+[FE:013] Gatorclaw Revamp.esl
+[FE:014] Mantis.esl
+[FE:015] CWRadscorpions.esl
+[FE:016] Workshop_Workbench_TR.esl
+[FE:017] armoredCC.esl
+[FE:018] CWRaiders.esl
+[FE:019] SelectPowerArmor.esl
+[FE:01A] Skb_MachinegunsRebirth.esl
+[FE:01B] FOLON_Lewis.esl
+[FE:01C] RemingtonNewArmy.esl
+[FE:01D] SelectShotgun.esl
+[FE:01E] SelectAssaultRifle.esl
+[FE:01F] SelectRevolver.esl
+[FE:020] Quad_RAWLauncher.esl
+[FE:021] Balisong.esl
+[FE:022] HeavySelectShotgun.esl
+[FE:023] CWPointLookoutFO4Patch.esl
+[FE:024] VendorTrunk.esl
+[FE:025] Flicker Fixer.esp
+[FE:026] RustyFaceFixRedux.esp
+[FE:027] Legendary Mod Additions.esp
+[FE:028] More Legendary Effects.esp
+[FE:029] Dank_ECO.esp
+[FE:02A] Dank_ECO-Munitions.esp
+[FE:02B] Dank_ECO-StandaloneWorkbenches.esp
+[FE:02C] Dank_LEO.esp
+[FE:02D] Dank_LEO_DLCCoast.esp
+[FE:02E] Dank_LEO_DLCNukaWorld.esp
+[FE:02F] Dank_LEO-MLM.esp
+[FE:030] Dank_LEO-Automatron.esp
+[FE:031] Dank_LEO-LMA.esp
+[FE:032] Dank_LEO-LME.esp
+[FE:033] Dank_ECO-LEO.esp
+[FE:034] Dank_ECO-INNR.esp
+[FE:035] Dank_ECO_DLCCoast.esp
+[FE:036] Dank_ECO_DLCNukaWorld.esp
+[FE:037] Dank_ECO_DLCRobot.esp
+[FE:038] Dank_ArmorOverrides.esp
+[FE:039] Dank_ArmorOverrides_DLCCoast.esp
+[FE:03A] Dank_ArmorOverrides_DLCNukaWorld.esp
+[FE:03B] Dank_ArmorOverrides_DLCRobot.esp
+[FE:03C] Dank_INNRoverride.esp
+[FE:03D] CROSS_CryoLance.esp
+[FE:03E] X12Plasmacaster-DamageModifiers.esp
+[FE:03F] X12Plasmacaster-FactionSkins.esp
+[FE:040] BH_MCX_Spear_LowRecoilPatch.esp
+[FE:041] BH_MCX_Spear_LvlListPatch.esp
+[FE:042] R91M.esp
+[FE:043] Dank_WOP-CombinedArms.esp
+[FE:044] PPSh_Addon.esp
+[FE:045] BBgunForMunitions.esp
+[FE:046] Sten.esp
+[FE:047] PKMnv_NoEWS.esp
+[FE:048] PBW-LaserRCW_MU.esp
+[FE:049] HeavySupportWeapons.esp
+[FE:04A] Irken Invader Alien Blaster and Gir Doll.esp
+[FE:04B] ITO_AdaptiveDelivererReplacer.esp
+[FE:04C] LaserGarand.esp
+[FE:04D] CROSS_MojaveManhunter.esp
+[FE:04E] CROSS_BrotherhoodRecon.esp
+[FE:04F] CROSS_CourserStrigidae.esp
+[FE:050] CROSS_InstituteExpeditionarySuit.esp
+[FE:051] CROSS_2077.esp
+[FE:052] CROSS_CoA.esp
+[FE:053] CCMMB REDUX.esp
+[FE:054] TheKite_Railroad_Handmaiden.esp
+[FE:055] CROSS_Jetpack_AnimPatch.esp
+[FE:056] SSA Jetpack Animation Patch.esp
+[FE:057] Vault-Tec Armor Redux - Modular Expansion & Fixes.esp
+[FE:058] Vault-Tec Armor Redux - Duster Overcoat.esp
+[FE:059] PA_UnderwearPerks.esp
+[FE:05A] PAUP_BackpackFix.esp
+[FE:05B] Spaceballs Eagle 5 RV.esp
+[FE:05C] FCOM_kineCustomFaction311_TFSD.esp
+[FE:05D] HiPolyFaces.esp
+[FE:05E] MaxwellsWorl-eXoPatch.esp
+[FE:05F] MaxwellsWorl-eXoXDIPatch.esp
+[FE:060] SS2_MagnussonTerminalFix.esp
+[FE:061] SS2_XDI Patch.esp
+[FE:062] SS2_NobodysLeaders2.esp
+[FE:063] SS2_NobodysLeaders2_Automatron.esp
+[FE:064] SS2_NobodysLeaders2_VaultTecWorkshop.esp
+[FE:065] WET.esp
+[FE:066] Burst Impact Blast FX.esp
+[FE:067] StripClubMusicOverhaul.esp
+[FE:068] GatlingLaserAmmoFix.esp
+[FE:069] SS2_DLCSettlerPatch.esp
+[FE:06A] Dank_CrossArmorIntegration.esp
+[FE:06B] PulseCarbine_ITO_FULLpatch.esp
+[FE:06C] Weightless Ammo - All DLC.esp
+[FE:06D] StoryWealth-SS2-DEP-Patch.esp
+[FE:06E] LAER ECP Munitions Conversion Patch.esp
+[FE:06F] FOLON_Bren_Addon.esp
+[FE:070] Classic Sniper - Unofficial Update.esp
+[FE:071] Service Rifle - Unofficial Update.esp
+[FE:072] CR-74L - Unofficial Update.esp
+[FE:073] A Bundle of Tape - Unofficial Update.esp
+[FE:074] A Bundle of Tape - Varmint Rifle .22 Ammo Patch.esp
+[FE:075] .45 Auto Pistol - Unofficial Update.esp
+[FE:076] G11 - Unofficial Update.esp
+[FE:077] Beretta M9FS - Unofficial Update.esp
+[FE:078] Wattz Laser Gun - Unofficial Update.esp
+[FE:079] Manwell Rifle - Unofficial Update.esp
+[FE:07A] Radium Rifle Improvements.esp
+[FE:07B] Pipe Gun Improvements.esp
+[FE:07C] M.S.P. - MGRemesh.esp
+[FE:07D] A Bundle of Tape - Weapon Skins Patch.esp
+[FE:07E] 8mmMG42.esp
+[FE:07F] A Taste of Blues - Munitions Patch.esp
+[FE:080] Lee Enfield - Munitions Patch.esp
+[FE:081] Machineguns Rebirth - Munitions Patch.esp
+[FE:082] Gyrojet - Munitions Patch.esp
+[FE:083] Project Mojave - Munitions Patch.esp
+[FE:084] AnotherOne Sten MkII - Munitions Patch.esp
+[FE:085] Point Lookout - Munitions Patch.esp
+[FE:086] Select Marksman Rifle - Munitions Patch.esp
+[FE:087] ak5cmunitions.esp
+[FE:088] mts255munitions.esp
+[FE:089] AlienAssaultRIfle_LLInjector.esp
+[FE:08A] CobraOffRev_LLInjector.esp
+[FE:08B] Combined Arms EX_LLI.esp
+[FE:08C] Combined Arms_LLI.esp
+[FE:08D] CROSS_2077_ArmorLLI.esp
+[FE:08E] BOCW Nail Gun_LLI.esp
+[FE:08F] CROSS_InstituteExpeditionSuit_ArmorLLI.esp
+[FE:090] Cryolance_LLInjector.esp
+[FE:091] HuntingRev_LLInjector.esp
+[FE:092] MG42_LLInjector.esp
+[FE:093] LString_LLInjector.esp
+[FE:094] MisriahArmory_LLInjector.esp
+[FE:095] Mk41GyroHMG_LLInjector.esp
+[FE:096] PancorJackhammer_LLInjector.esp
+[FE:097] QuadElement_LLInjector.esp
+[FE:098] Reaper of Pantheon_LLInjector.esp
+[FE:099] RemingtonNewArmy_ESL_LLInject.esp
+[FE:09A] ServiceRifle_LLInjector.esp
+[FE:09B] XM2010_LLInjector.esp
+[FE:09C] G11_LLI.esp
+[FE:09D] M4k4rovPPSH-41_LLInjector.esp
+[FE:09E] SelectMarksman_LLInjector.esp
+[FE:09F] SelectRapidMG_LLInjector.esp
+[FE:0A0] PKM_LLI.esp
+[FE:0A1] M8rDisablePipboyEffects.esp
+[FE:0A2] WorkshopFramework_ScriptOverride.esp

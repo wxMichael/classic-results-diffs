@@ -1,0 +1,4 @@
+Buffout 4 v1.31.1 Feb 28 2023 00:32:02
+==========
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF677819E08 Fallout4.exe+0359E08	mov rcx, [rsi+rax*1] 
+  TESLeveledList::HasObject(uint)_359E08)

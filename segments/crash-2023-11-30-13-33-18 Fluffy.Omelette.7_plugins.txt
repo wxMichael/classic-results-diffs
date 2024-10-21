@@ -1,0 +1,151 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     WorkshopFramework.esm
+[09]     TheMoleratTunnels.esm
+[0A]     SomberMountain.esm
+[0B]     TheSewers.esm
+[0C]     SouthOfTheSea.esm
+[0D]     MutantMenagerie.esm
+[0E]     HUDFramework.esm
+[0F]     TacticalReload.esm
+[10]     XDI.esm
+[11]     Fixed Alpha Maps.esp
+[12]     CarPhysicsDeathBugfix.esp
+[13]     SKKFastStartNewGame.esp
+[14]     SKKRESystemManager.esp
+[15]     W.A.T.Minutemen.esp
+[16]     Ev_CPA10.esp
+[17]     EV_CPA10_LL.esp
+[18]     NPCs Use Items.esp
+[19]     cambridgefacility.esp
+[1A]     The Death Tunnel.esp
+[1B]     CavesOfTheCommonwealth.esp
+[1C]     AA FusionCityRising.esp
+[1D]     OutcastsAndRemnants.esp
+[1E]     ProjectValkyrie.esp
+[1F]     MutantBear.esp
+[20]     Defective_Synth.esp
+[21]     [ARR] Hunter Beta.esp
+[22]     [ARR] FallEvil - Zombie Dogs REVisited.esp
+[23]     [ARR] FallEvil - Palehead.esp
+[24]     [ARRETH] FGEP.esp
+[25]     Skip DIMA memories.esp
+[26]     LongerPowerLines3x.esp
+[27]     SKKGlobalStashScrapping.esp
+[28]     BlackSummer.esp
+[29]     STALKER Music_Complete.esp
+[2A]     FIS-Naming-Weap-Armo-EN.esp
+[2B]     Diello_ExtraIconsForFIS.esp
+[2C]     WheelMenu.esp
+[2D]     AnimatedRadaway.esp
+[2E]     [KB-47]spiders.esp
+[2F]     PIP-Pad.esp
+[30]     TacticalReloadVanilla.esp
+[31]     TacticalReloadDLC.esp
+[32]     3dscopes.esp
+[33]     FTS.esp
+[34]     FTS_Vanilla.esp
+[35]     Penetration Framework.esp
+[36]     44MBF4.esp
+[37]     Laser Weapon Reanimated.esp
+[38]     HuntingRifleSounds.esp
+[39]     VUWR.esp
+[3A]     Winters_Katt-AMR.esp
+[3B]     Winters_Katt-AMR_TR_Patch.esp
+[3C]     Krebs.esp
+[3D]     [XHX] Metro Exodus - Kalash.esp
+[3E]     MWIIGolf17.esp
+[3F]     Winters_Carrack300.esp
+[40]     Winters_Carrack300_TR.esp
+[41]     Winters_FJX-Imperium.esp
+[42]     Winters_FJX-Imperium_TR_1.3.esp
+[43]     MWModel680.esp
+[44]     MWEagle.esp
+[45]     MWIIstango25.esp
+[46]     Ozzys_MCPR-300.esp
+[47]     MWIIM4.esp
+[48]     AX50_by_tooun.esp
+[49]     AX50_by_tooun_TR_patch.esp
+[4A]     MWIILimax.esp
+[4B]     MWIILimax_Blueprints.esp
+[4C]     Cyberpunk 2077 G-58 Dian.esp
+[4D]     AVBGuns.esp
+[4E]     No Perk Level Requirements ALL DLC 3.0.esp
+[4F]     MWHitFx.esp
+[50]     BetterCompanions.esp
+[51]     Gas Masks of the Wasteland.esp
+[52]     NAC.esp
+[53]     NAC-FH.esp
+[54]     NAC-NW.esp
+[55]     Nac X Fogline Fix.esp
+[56]     CRP1.esp
+[FE:000] LootedWorld.esl
+[FE:001] LootedWorld_DLCCoast.esl
+[FE:002] LootedWorld_DLCNukaWorld.esl
+[FE:003] LootedWorld_DLCRobot.esl
+[FE:004] LootedWorld_TrapRewards.esl
+[FE:005] IceStormsCombatDrone.esl
+[FE:006] MWSentryTurret.esl
+[FE:007] VendorCaps.esl
+[FE:008] Fixed Gobo Effects.esp
+[FE:009] W.A.T.M. Tweaks.esp
+[FE:00A] Chemfluence AI Combat Dynamics.esp
+[FE:00B] SouthOfTheSea[Previs].esp
+[FE:00C] 4estGimp - FGEP_TankTweakFix.esp
+[FE:00D] VeryZenFGEP_4k.esp
+[FE:00E] Elzee Car Alarm.esp
+[FE:00F] Elzee Car Alarm MDV.esp
+[FE:010] Elzee Recoil Shake.esp
+[FE:011] LetMeUseThat.esp
+[FE:012] Burst Impact Blast FX.esp
+[FE:013] M8rDisablePipboyEffects.esp
+[FE:014] ConditionBoy.esp
+[FE:015] Stimpaks help you breathe.esp
+[FE:016] RussianStimpack.esp
+[FE:017] Elzee Breathe.esp
+[FE:018] Dank_ECO.esp
+[FE:019] Dank_ECO-INNR.esp
+[FE:01A] Dank_ECO_DLCCoast.esp
+[FE:01B] Dank_ECO_DLCNukaWorld.esp
+[FE:01C] Dank_ECO_DLCRobot.esp
+[FE:01D] Dank_ArmorOverrides.esp
+[FE:01E] Dank_ArmorOverrides_DLCCoast.esp
+[FE:01F] Dank_ArmorOverrides_DLCNukaWorld.esp
+[FE:020] Dank_ArmorOverrides_DLCRobot.esp
+[FE:021] Dank_INNRoverride.esp
+[FE:022] Dank_LEO.esp
+[FE:023] Dank_LEO-Automatron.esp
+[FE:024] Dank_LEO_DLCCoast.esp
+[FE:025] Dank_LEO_DLCNukaWorld.esp
+[FE:026] Dank_ECO-LEO.esp
+[FE:027] Dank_ECO_TacticalReload.esp
+[FE:028] Dank_ECO-PenetrationFramework.esp
+[FE:029] GaussRifleVVSounds.esp
+[FE:02A] AntiqueGauss.esp
+[FE:02B] VWR - 44 Magnum.esp
+[FE:02C] RadRifleReload.esp
+[FE:02D] wornplastic.esp
+[FE:02E] CovertSidearmVVSounds.esp
+[FE:02F] Dank_LEO-VUWR.esp
+[FE:030] Winters_Katt-AMR_LL.esp
+[FE:031] Winters_Katt-AMR_FTS.esp
+[FE:032] [XHX] Metro Exodus - Kalash TR Patch.esp
+[FE:033] Winters_Carrack300_LL.esp
+[FE:034] Winters_Carrack300_FTS.esp
+[FE:035] Winters_FJX-Imperium_LL.esp
+[FE:036] Winter_FJX-Imperium_FTS.esp
+[FE:037] Ozzys_MCPR300_TRPatch.esp
+[FE:038] Ozzys_MCPR-300_FTS.esp
+[FE:039] MWHitFX - Automatron Patch.esp
+[FE:03A] Deadeye.esp
+[FE:03B] Bastion.esp
+[FE:03C] WorkshopFramework_ScriptOverride.esp
+[FE:03D] NAC X Water LOD God Rays Fix.esp
+[FE:03E] NAC-RemoveMenuItem.esp
+[FE:03F] CRPLOD.esp

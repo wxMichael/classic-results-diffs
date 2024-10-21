@@ -1,0 +1,330 @@
+[00]     Fallout4.esm
+[01]     DLCRobot.esm
+[02]     DLCworkshop01.esm
+[03]     DLCCoast.esm
+[04]     DLCworkshop02.esm
+[05]     DLCworkshop03.esm
+[06]     DLCNukaWorld.esm
+[07]     Unofficial Fallout 4 Patch.esp
+[08]     WorkshopFramework.esm
+[09]     AAF.esm
+[0A]     HUDFramework.esm
+[0B]     TacticalReload.esm
+[0C]     XDI.esm
+[0D]     SouthOfTheSea.esm
+[0E]     CWPointLookoutFO4.esm
+[0F]     CWWorkshopMaster.esm
+[10]     Homemaker.esm
+[11]     ProjectMojave.esm
+[12]     FO4LODGen.esp
+[13]     FO4LODGen-HighTrees.esp
+[14]     FO4LODGen-FullModelLOD.esp
+[15]     FO4LODGen-DLCWorkshop03.esp
+[16]     FO4LODGen-DLCNukaWorld.esp
+[17]     FO4LODGen-DLCCoast-WindTurbines.esp
+[18]     FO4LODGen-DLCCoast.esp
+[19]     SettlementMenuManager.esp
+[1A]     CustomCamera.esp
+[1B]     WorkshopPlus.esp
+[1C]     console.esp
+[1D]     ImmersiveAnimationFramework.esp
+[1E]     WD_Pistol_Renimation_Pack.esp
+[1F]     HuntingRifleSounds.esp
+[20]     Ceft_Main.esp
+[21]     PhotoMode.esp
+[22]     LooksMenu.esp
+[23]     RAW INPUT.esp
+[24]     FIS-Naming-Weap-Armo-EN.esp
+[25]     Diello_ExtraIconsForFIS.esp
+[26]     Project Reality Footsteps FO4.esp
+[27]     Boston Natural Surroundings.esp
+[28]     LeverActionBCR.esp
+[29]     EveryonesBestFriend.esp
+[2A]     AOSuperAlloysCohesion.esp
+[2B]     DCRE.esp
+[2C]     OWR.esp
+[2D]     OWR2.esp
+[2E]     CWCreateABot.esp
+[2F]     ConceptCentaur.esp
+[30]     PlayerComments.esp
+[31]     Backpacks of the Commonwealth.esp
+[32]     DT_GunnerOutfitPack.esp
+[33]     DT_MercOutfitPack.esp
+[34]     GCM.esp
+[35]     SCM.esp
+[36]     Campsite.esp
+[37]     Better Locational Damage.esp
+[38]     Better Locational Damage - DLC_WWorkshop.esp
+[39]     Better Perks.esp
+[3A]     Fatigue.esp
+[3B]     AmbientTunnels.esp
+[3C]     Cooking Overhaul.esp
+[3D]     Complex Vendors.esp
+[3E]     Better Explosives Redux.esp
+[3F]     BlockingOverhaul.esp
+[40]     NPCs Use Items.esp
+[41]     PeopleAreStrangers.esp
+[42]     Binoculars.esp
+[43]     FALLOUT4WT.esp
+[44]     VariedCorpses.esp
+[45]     Tactical Flashlights.esp
+[46]     Tactical Flashlights - Settings.esp
+[47]     3dscopes-replacer.esp
+[48]     TacticalMods.esp
+[49]     WestTek.esp
+[4A]     BOCWNailGun.esp
+[4B]     F4NVLaserPistol.esp
+[4C]     F4NVRechargerWeapons.esp
+[4D]     PigRetroAR15.esp
+[4E]     Crossbow.esp
+[4F]     Eli_Faction Housing Overhaul - AiO.esp
+[50]     Jetpacks FAO.esp
+[51]     Joshua Graham's Armor By Mr. Mobius.esp
+[52]     MortalYouths.esp
+[53]     SkipDiMAMemories.esp
+[54]     TFRangerGear.esp
+[55]     TransferSettlements.esp
+[56]     GreaseGunSMG.esp
+[57]     45autoPistol.esp
+[58]     9mmPistol.esp
+[59]     HuntingShotgun.esp
+[5A]     WattzLaserGun.esp
+[5B]     BullpupBozar.esp
+[5C]     Zapgun.esp
+[5D]     ClassicSniper.esp
+[5E]     CorvalhoWidowShotgun.esp
+[5F]     pulsecarbine.esp
+[60]     RiotShotgun.esp
+[61]     WinchesterP94Balanced2.esp
+[62]     GaussRevolver.esp
+[63]     SelectShotgun.esp
+[64]     SelectMarksman.esp
+[65]     SelectRapidMG.esp
+[66]     AKSounds.esp
+[67]     DakSurvivalHatchet.esp
+[68]     RocketRifle.esp
+[69]     3dscopes-replacer-bullpupbozar.esp
+[6A]     3dscopes-replacer-classicsniper.esp
+[6B]     3dscopes-replacer-wattz.esp
+[6C]     cVc Dead Wasteland 6.esp
+[6D]     cVc Dead Wasteland 6 DLC.esp
+[6E]     cVc Dead Wasteland 6 DLC2.esp
+[6F]     cVc Dead Wasteland 6 DLC3.esp
+[70]     BOSW.esp
+[71]     sag_ConcreteConstruction.esp
+[72]     AES_Renovated Furniture.esp
+[73]     UltraExteriorLighting.esp
+[74]     UltraInteriorLighting.esp
+[75]     Music76in4.esp
+[76]     SCM_EBF.esp
+[77]     AccessibleBridges.esp
+[78]     BasementLiving.esp
+[79]     Stm_DiamondCityExpansion.esp
+[7A]     OpenCommonwealth.esp
+[7B]     RRTV_CourierStations.esp
+[7C]     CavesOfTheCommonwealth.esp
+[7D]     ImmersiveDrumlinDiner.esp
+[7E]     PAC - Project Apocalyptic Commonwealth.esp
+[7F]     OldTimeReligion.esp
+[80]     Miami Misadventures EP1.esp
+[81]     SimpleBounties.esp
+[82]     ButtonsCompanion.esp
+[83]     llamaCompanionHeatherv2.esp
+[84]     NAC-FH.esp
+[85]     NAC-NW.esp
+[86]     NAC.esp
+[87]     Eli_Sanctuary Bunker.esp
+[88]     CSEPCompanion.esp
+[89]     PiperCaitCurieDialogueOverhaul.esp
+[8A]     Pip2000MkVi_Replacer.esp
+[8B]     Perks76.esp
+[8C]     Vault 76 Theme - for Vault-Tec Workshop.esp
+[8D]     dD-Enhanced Blood Basic.esp
+[8E]     CROSS_GoreCrits.esp
+[8F]     CROSS_GoreCrits_FarHarborPatch.esp
+[90]     4estGimp - SotS AS MMWatchtower.esp
+[91]     AW_LOD_Generation.esp
+[FE:000] TAAFlickerRemover.esl
+[FE:001] IngameLoadingCrashFix.esl
+[FE:002] Community Fixes Merged.esp
+[FE:003] Ownership Fixes.esp
+[FE:004] TMR_GlitchfinderAIO.esm
+[FE:005] FlickerFixer-eXofied.esl
+[FE:006] GCM_DLC_Far_Harbor.esl
+[FE:007] BakaFramework.esm
+[FE:008] UnassignmentFix.esl
+[FE:009] SSTMinutemanWatchtowers.esl
+[FE:00A] Munitions - Vanilla Ammo Addon.esl
+[FE:00B] Munitions - An Ammo Expansion.esl
+[FE:00C] SSTMinutemenOrganizedMilitia.esl
+[FE:00D] CWPointLookoutFO4Patch.esl
+[FE:00E] PLExpressivePlayer.esl
+[FE:00F] StandaloneWorkbenches.esl
+[FE:010] Dank_ArmorPaintExtended.esl
+[FE:011] Dank_ArmorPaintExtended_CIS.esl
+[FE:012] NoDialogueAutoRotAndForcedPos.esl
+[FE:013] FastTravelAIDetectionFix.esl
+[FE:014] CanarySaveFileMonitor.esl
+[FE:015] JamaicaPlainPathing.esm
+[FE:016] REFramework.esm
+[FE:017] RunningWithHandsAnim.esl
+[FE:018] SwimmingAnims.esl
+[FE:019] BerettaM9FS.esl
+[FE:01A] CurrencyLoreFix.esl
+[FE:01B] QuestBoard.esl
+[FE:01C] TheBigHunt.esl
+[FE:01D] BigHuntGoodneighbor.esl
+[FE:01E] BigHuntBunkerHill.esl
+[FE:01F] ClassicBobbleheads.esl
+[FE:020] RailroadTravelAgent.esl
+[FE:021] InteriorSettlementResources.esl
+[FE:022] MoreScavengingStations.esl
+[FE:023] hotplatecooking.esl
+[FE:024] NewBeds.esl
+[FE:025] NewWalls.esl
+[FE:026] NewVendorStalls.esl
+[FE:027] MorePrefabs.esl
+[FE:028] Ladder.esl
+[FE:029] MoreWildlife.esl
+[FE:02A] AutoAxe.esl
+[FE:02B] ClassicMeleePack.esl
+[FE:02C] ClassicUnarmedPack.esl
+[FE:02D] CWGaussRifle.esl
+[FE:02E] CWHuntingRifle.esl
+[FE:02F] SelectAssaultRifle.esl
+[FE:030] SelectRevolver.esl
+[FE:031] FOLON_Lewis.esl
+[FE:032] Centaur.esl
+[FE:033] RedRocketsGlareII.esl
+[FE:034] PPF.esm
+[FE:035] RL_Recruit_Framework.esp
+[FE:036] FOLIP - New LODs.esp
+[FE:037] AW_Crafting Patch.esp
+[FE:038] AW_Crafting Patch - Far Harbor.esp
+[FE:039] AW_Crafting Patch - Nuka World.esp
+[FE:03A] AW_Crafting Patch - Automatron.esp
+[FE:03B] Deadly Poisoned Wine.esp
+[FE:03C] AutomatronCaravanFixes.esp
+[FE:03D] EHC_FastTravelFix.esp
+[FE:03E] Gloomy Glass.esp
+[FE:03F] Less intrusive tutorial.esp
+[FE:040] M8rDisablePipboyEffects.esp
+[FE:041] LouderWaves.esp
+[FE:042] Bullet Impact Overhaul Lowered Sound.esp
+[FE:043] LushAmbience.esp
+[FE:044] LushAmbienceFarHarbor.esp
+[FE:045] 4estGimp - BNS Tree Trim_MMW_SS2_SectorV.esp
+[FE:046] Enhanced Vanilla Armor and Clothing.esp
+[FE:047] Transparent Glasses and Helmets.esp
+[FE:048] MechLairPathfindingFix.esp
+[FE:049] LetMeUseThat.esp
+[FE:04A] DCRE-FixRadio.esp
+[FE:04B] SF Beards N Staches.esp
+[FE:04C] DiverseMinutemen.esp
+[FE:04D] DiverseGunners.esp
+[FE:04E] DiverseRaiders.esp
+[FE:04F] Arnie.esp
+[FE:050] BoS Scribes.esp
+[FE:051] ConfessorAdalia.esp
+[FE:052] Far Harborman.esp
+[FE:053] OldManBilly.esp
+[FE:054] ProfessorWidmerVanilla.esp
+[FE:055] Railroad Synth.esp
+[FE:056] Derek.esp
+[FE:057] RecruitableDerek.esp
+[FE:058] Rosie the Brahmin.esp
+[FE:059] Tenpines Settler.esp
+[FE:05A] TheWatcher.esp
+[FE:05B] Vikter.esp
+[FE:05C] Backpacks of the Commonwealth - HQ NavMesh.esp
+[FE:05D] Backpacks of the Commonwealth - PerkFix.esp
+[FE:05E] Backpacks of the Commonwealth - Sneak Fix.esp
+[FE:05F] Fallout 4 AI Overhaul.esp
+[FE:060] Better Locational Damage - DLC_Nuka_World.esp
+[FE:061] Better Locational Damage - DLC_Far_Harbor.esp
+[FE:062] Better Locational Damage - DLC_Automatron.esp
+[FE:063] BLD - Leveled Lists - DLC.esp
+[FE:064] BLD_Armor_Overhaul.esp
+[FE:065] SCOURGE - Vanilla.esp
+[FE:066] SCOURGE - Nuka World.esp
+[FE:067] SCOURGE - Far Harbor.esp
+[FE:068] SCOURGE - Automatron.esp
+[FE:069] Bastion.esp
+[FE:06A] Deadeye.esp
+[FE:06B] Chemfluence AI Combat Dynamics.esp
+[FE:06C] Weapons of Fate.esp
+[FE:06D] YouAndWhatArmy.esp
+[FE:06E] WhoIsTheGeneral.esp
+[FE:06F] Alchemy-ForBotanists.esp
+[FE:070] Synths Spawn Synths.esp
+[FE:071] NukaColaSwap.esp
+[FE:072] CagebreakerPowerArmor.esp
+[FE:073] FPVertibird.esp
+[FE:074] PAVertibirdDockFix.esp
+[FE:075] PAVertibirdNoFSTFix.esp
+[FE:076] RetroAR15Automatic.esp
+[FE:077] Makeshiftshotgun.esp
+[FE:078] RCW.esp
+[FE:079] Bludgeon.esp
+[FE:07A] HellstormMissileLauncher.esp
+[FE:07B] ScavverHatchet.esp
+[FE:07C] WastelandMachete.esp
+[FE:07D] a111 Workshop Vanilla Idles New.esp
+[FE:07E] ColorfulBottleLanterns.esp
+[FE:07F] WastelandGardening.esp
+[FE:080] IAF - Far Harbor & Nuka World.esp
+[FE:081] BLD_IAF_Patch.esp
+[FE:082] Community Fixes Merged - BPA Redux Patch.esp
+[FE:083] BOCWNailGun - 1stP PA Footstep Fix.esp
+[FE:084] 45AutoPistolPAFootstepFix.esp
+[FE:085] WattzLaserGunPAFootstepFix.esp
+[FE:086] GoodneighborView.esp
+[FE:087] DiamondCityBillboards.esp
+[FE:088] DiamondCityExpansion-eXoPatch.esp
+[FE:089] DiamondCity-PreVis.esp
+[FE:08A] PLI_Dark_Hollow_Pond.esp
+[FE:08B] PLI_HarbormasterHotel.esp
+[FE:08C] PLI_Roadside_Pines_Motel.esp
+[FE:08D] PLI_Unmarked_Raider_Camps_P1.esp
+[FE:08E] PLI_USAF_Satellite_Station_Olivia.esp
+[FE:08F] WCLI_NahantRedRocket.esp
+[FE:090] WCLI_NatickSubstation.esp
+[FE:091] WCLI_North_Point_Park.esp
+[FE:092] WCLI_PoseidonEnergyTurbine.esp
+[FE:093] WCLI_RockIslandLighthouse.esp
+[FE:094] Beyond - Express Courier.esp
+[FE:095] NACskintonefix.esp
+[FE:096] AW_Crafting Patch - IAF.esp
+[FE:097] AW_Crafting Patch - Laser RCW.esp
+[FE:098] AW_Crafting Patch - Munitions.esp
+[FE:099] AW_Crafting Patch - Munitions - Vanilla.esp
+[FE:09A] AW_Crafting Patch - See Through Scopes.esp
+[FE:09B] AW_Crafting Patch - South of the Sea.esp
+[FE:09C] AW_Crafting Patch - Workshop Framework.esp
+[FE:09D] AW_Crafting Patch - Workshop Plus.esp
+[FE:09E] AW_Crafting Patch - Classic Bobbleheads.esp
+[FE:09F] AW_Crafting Patch - Gauss Revolver.esp
+[FE:0A0] AW_Crafting Patch - Old World Radio 2.esp
+[FE:0A1] AW_Crafting Patch - Old World Radio.esp
+[FE:0A2] AW_Crafting Patch - Tactical Flashlights.esp
+[FE:0A3] AW_Crafting Patch - Zapgun.esp
+[FE:0A4] AW_Crafting Patch - Mercenary Outfit Pack.esp
+[FE:0A5] AW_Crafting Patch - Campsite.esp
+[FE:0A6] AW_Crafting Patch - CW Workshop Pack.esp
+[FE:0A7] AW_Crafting Patch - Makeshift Shotgun.esp
+[FE:0A8] AW_Crafting Patch - Tactical Mods.esp
+[FE:0A9] AW_Crafting Patch - Better Locational Damage.esp
+[FE:0AA] AW_Crafting Patch - BOCW Nail Gun.esp
+[FE:0AB] AW_Crafting Patch - Diamond City Radio Extended.esp
+[FE:0AC] AW_Crafting Patch - Select Assault Rifle.esp
+[FE:0AD] AW_Crafting Patch - Select Marksman Rifle.esp
+[FE:0AE] AW_Crafting Patch - Select Rapid Machinegun.esp
+[FE:0AF] AW_Crafting Patch - Select Revolver.esp
+[FE:0B0] AW_Crafting Patch - Select Shotgun.esp
+[FE:0B1] AW_Crafting Patch - Settlement Menu Manager.esp
+[FE:0B2] AW_Crafting Patch - SaCDO.esp
+[FE:0B3] AW_Crafting Patch - Synths Spawn Synths.esp
+[FE:0B4] PRP.esp
+[FE:0B5] OCsFiddlersGreen.esp
+[FE:0B6] SouthOfTheSea[Previs].esp
+[FE:0B7] AW_Previsibines.esp
