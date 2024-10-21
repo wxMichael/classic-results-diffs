@@ -17,6 +17,8 @@ CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 -----
 # Checking for *[Input Crash]................ SUSPECT FOUND! > Severity : 1 # 
 -----
+# Checking for *[Looks Menu Crash]........... SUSPECT FOUND! > Severity : 1 # 
+-----
 * FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *
 * SEE: https://docs.google.com/document/d/17FzeIMJ256xE85XdjoPvv_Zi3C5uHeSTQh6wOZugs4c *
 
@@ -92,33 +94,41 @@ Link: https://www.nexusmods.com/fallout4/mods/48053?tab=files
 SCANNING THE LOG FOR SPECIFIC (POSSIBLE) SUSPECTS...
 ====================================================
 # LIST OF (POSSIBLE) PLUGIN SUSPECTS #
-- highfpsphysicsfix.dll | 15
-- shadowboostfo4.dll | 3
+- highfpsphysicsfix.dll | 69
+- shadowboostfo4.dll | 30
 
 [Last number counts how many times each Plugin Suspect shows up in the crash log.]
 These Plugins were caught by Buffout 4 and some of them might be responsible for this crash.
 You can try disabling these plugins and check if the game still crashes, though this method can be unreliable.
 
 # LIST OF (POSSIBLE) FORM ID SUSPECTS #
-* COULDN'T FIND ANY FORM ID SUSPECTS *
+- Form ID: 000A1A4E | [Fallout4.esm] | 1
+- Form ID: 00246D10 | [Fallout4.esm] | 1
+
+[Last number counts how many times each Form ID shows up in the crash log.]
+These Form IDs were caught by Buffout 4 and some of them might be related to this crash.
+You can try searching any listed Form IDs in xEdit and see if they lead to relevant records.
 
 # LIST OF DETECTED (NAMED) RECORDS #
-- (void* -> COMCTL32.dll+00825A0) | 4
-- (void* -> COMCTL32.dll+00825F4) | 2
-- (void* -> COMCTL32.dll+0082730) | 1
-- (void* -> HighFPSPhysicsFix.dll+0030B10) | 4
-- (void* -> HighFPSPhysicsFix.dll+0030B46) | 1
-- (void* -> ShadowBoostFO4.dll+00040E0) | 3
-- (void* -> UxTheme.dll+000254C) | 2
-- (void* -> UxTheme.dll+0002DE1) | 1
-- (void* -> UxTheme.dll+0013DCE) | 1
-- (void* -> UxTheme.dll+0018BC9) | 2
-- (void* -> UxTheme.dll+00192A7) | 1
-- (void* -> UxTheme.dll+001A156) | 1
-- (void* -> UxTheme.dll+001A4E4) | 1
-- (void* -> UxTheme.dll+001FE9F) | 1
-- (void* -> gdi32full.dll+001803E) | 1
-- Name: "BufferedScreenshot" | 2
+- (void* -> COMCTL32.dll+00825A0) | 40
+- (void* -> COMCTL32.dll+00825F4) | 20
+- (void* -> COMCTL32.dll+0082730) | 10
+- (void* -> HighFPSPhysicsFix.dll+0030B10) | 40
+- (void* -> HighFPSPhysicsFix.dll+0030B46) | 10
+- (void* -> HighFPSPhysicsFix.dll+005F6B0) | 9
+- (void* -> ShadowBoostFO4.dll+00040E0) | 30
+- (void* -> TextShaping.dll+003DA7F) | 8
+- (void* -> UxTheme.dll+000254C) | 20
+- (void* -> UxTheme.dll+0002DE1) | 10
+- (void* -> UxTheme.dll+0013DCE) | 10
+- (void* -> UxTheme.dll+0018BC9) | 20
+- (void* -> UxTheme.dll+00192A7) | 10
+- (void* -> UxTheme.dll+001A156) | 10
+- (void* -> UxTheme.dll+001A4E4) | 10
+- (void* -> UxTheme.dll+001FE9F) | 10
+- (void* -> gdi32full.dll+001803E) | 10
+- Name: "BufferedScreenshot" | 20
+- Name: "shadow scene node" | 1
 - [ 10] 0x7FFA21DF0B46 HighFPSPhysicsFix.dll+0030B46 | 1
 - [ 46] 0x7FFA21DF0B46 HighFPSPhysicsFix.dll+0030B46 | 1
 - [ 82] 0x7FFA21DF0B46 HighFPSPhysicsFix.dll+0030B46 | 1

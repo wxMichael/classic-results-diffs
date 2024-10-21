@@ -17,6 +17,8 @@ CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 -----
 # Checking for *[Input Crash]................ SUSPECT FOUND! > Severity : 1 # 
 -----
+# Checking for *[Looks Menu Crash]........... SUSPECT FOUND! > Severity : 1 # 
+-----
 * FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *
 * SEE: https://docs.google.com/document/d/17FzeIMJ256xE85XdjoPvv_Zi3C5uHeSTQh6wOZugs4c *
 
@@ -75,32 +77,60 @@ CHECKING IF IMPORTANT PATCHES & FIXES ARE INSTALLED
 SCANNING THE LOG FOR SPECIFIC (POSSIBLE) SUSPECTS...
 ====================================================
 # LIST OF (POSSIBLE) PLUGIN SUSPECTS #
-- highfpsphysicsfix.dll | 11
+- highfpsphysicsfix.dll | 41
 
 [Last number counts how many times each Plugin Suspect shows up in the crash log.]
 These Plugins were caught by Buffout 4 and some of them might be responsible for this crash.
 You can try disabling these plugins and check if the game still crashes, though this method can be unreliable.
 
 # LIST OF (POSSIBLE) FORM ID SUSPECTS #
-* COULDN'T FIND ANY FORM ID SUSPECTS *
+- Form ID: 0001D15C | [Fallout4.esm] | 1
+- Form ID: 0001D162 | [Fallout4.esm] | 1
+- Form ID: 0019E134 | [Fallout4.esm] | 1
+
+[Last number counts how many times each Form ID shows up in the crash log.]
+These Form IDs were caught by Buffout 4 and some of them might be related to this crash.
+You can try searching any listed Form IDs in xEdit and see if they lead to relevant records.
 
 # LIST OF DETECTED (NAMED) RECORDS #
+- (void* -> AcLayers.DLL+00088DD) | 6
+- (void* -> AcLayers.DLL+000A18B) | 12
+- (void* -> AcLayers.DLL+000A69B) | 6
+- (void* -> AcLayers.DLL+0050FC0) | 6
+- (void* -> AcLayers.DLL+00BB090) | 1
+- (void* -> AcLayers.DLL+00BB1A0) | 1
+- (void* -> AcLayers.DLL+00BB1B0) | 1
 - (void* -> AcLayers.DLL+01876F0) | 1
+- (void* -> AcLayers.DLL+0187800) | 1
 - (void* -> AcLayers.DLL+0187810) | 1
-- (void* -> HighFPSPhysicsFix.dll+0030B10) | 4
-- (void* -> HighFPSPhysicsFix.dll+0030B46) | 1
-- (void* -> comctl32.dll+0082590) | 4
-- (void* -> comctl32.dll+00825E4) | 2
-- (void* -> comctl32.dll+0082720) | 1
-- (void* -> gdi32full.dll+001994E) | 1
-- (void* -> uxtheme.dll+0002DE1) | 1
-- (void* -> uxtheme.dll+0013E0E) | 1
-- (void* -> uxtheme.dll+0018C89) | 2
-- (void* -> uxtheme.dll+0019367) | 1
-- (void* -> uxtheme.dll+001A216) | 1
-- (void* -> uxtheme.dll+001A5A4) | 1
-- (void* -> uxtheme.dll+001FF9F) | 1
-- Name: "BufferedScreenshot" | 2
+- (void* -> AcLayers.DLL+01B0460) | 1
+- (void* -> AcLayers.DLL+01B0570) | 1
+- (void* -> AcLayers.DLL+01B0580) | 1
+- (void* -> AcLayers.DLL+0248AD0) | 1
+- (void* -> AcLayers.DLL+0248BE0) | 1
+- (void* -> AcLayers.DLL+0248BF0) | 1
+- (void* -> AcLayers.DLL+02E1030) | 1
+- (void* -> AcLayers.DLL+02E1140) | 1
+- (void* -> AcLayers.DLL+02E1150) | 1
+- (void* -> AcLayers.DLL+0441D40) | 1
+- (void* -> AcLayers.DLL+0441E50) | 1
+- (void* -> AcLayers.DLL+0441E60) | 1
+- (void* -> HighFPSPhysicsFix.dll+0030B10) | 24
+- (void* -> HighFPSPhysicsFix.dll+0030B46) | 6
+- (void* -> HighFPSPhysicsFix.dll+005F6B0) | 5
+- (void* -> comctl32.dll+0082590) | 24
+- (void* -> comctl32.dll+00825E4) | 12
+- (void* -> comctl32.dll+0082720) | 6
+- (void* -> gdi32full.dll+001994E) | 6
+- (void* -> uxtheme.dll+0002DE1) | 6
+- (void* -> uxtheme.dll+0013E0E) | 6
+- (void* -> uxtheme.dll+0018C89) | 12
+- (void* -> uxtheme.dll+0019367) | 6
+- (void* -> uxtheme.dll+001A216) | 6
+- (void* -> uxtheme.dll+001A5A4) | 6
+- (void* -> uxtheme.dll+001FF9F) | 6
+- Name: "BufferedScreenshot" | 12
+- Name: "shadow scene node" | 1
 - [ 10] 0x7FF902A80B46 HighFPSPhysicsFix.dll+0030B46 | 1
 - [ 46] 0x7FF902A80B46 HighFPSPhysicsFix.dll+0030B46 | 1
 - [ 82] 0x7FF902A80B46 HighFPSPhysicsFix.dll+0030B46 | 1

@@ -89,28 +89,42 @@ Link: https://www.nexusmods.com/fallout4/mods/46403?tab=files
 SCANNING THE LOG FOR SPECIFIC (POSSIBLE) SUSPECTS...
 ====================================================
 # LIST OF (POSSIBLE) PLUGIN SUSPECTS #
-- highfpsphysicsfix.dll | 35
+- highfpsphysicsfix.dll | 185
 
 [Last number counts how many times each Plugin Suspect shows up in the crash log.]
 These Plugins were caught by Buffout 4 and some of them might be responsible for this crash.
 You can try disabling these plugins and check if the game still crashes, though this method can be unreliable.
 
 # LIST OF (POSSIBLE) FORM ID SUSPECTS #
-* COULDN'T FIND ANY FORM ID SUSPECTS *
+- Form ID: 000A1A65 | [Fallout4.esm] | 1
+
+[Last number counts how many times each Form ID shows up in the crash log.]
+These Form IDs were caught by Buffout 4 and some of them might be related to this crash.
+You can try searching any listed Form IDs in xEdit and see if they lead to relevant records.
 
 # LIST OF DETECTED (NAMED) RECORDS #
-- (void* -> COMCTL32.dll+00C0D74) | 2
-- (void* -> COMCTL32.dll+00C1390) | 1
-- (void* -> COMCTL32.dll+00C145A) | 1
-- (void* -> HighFPSPhysicsFix.dll+0030B10) | 3
-- (void* -> HighFPSPhysicsFix.dll+0030B46) | 1
-- (void* -> uxtheme.dll+0006573) | 1
-- (void* -> uxtheme.dll+0017C48) | 1
-- (void* -> uxtheme.dll+0018D4E) | 1
-- (void* -> uxtheme.dll+00193D3) | 1
-- (void* -> uxtheme.dll+001F331) | 1
-- (void* -> uxtheme.dll+001FEBB) | 1
-- Name: "BufferedScreenshot" | 2
+- (void* -> COMCTL32.dll+00C0D74) | 62
+- (void* -> COMCTL32.dll+00C1390) | 31
+- (void* -> COMCTL32.dll+00C145A) | 31
+- (void* -> GDI32.dll+0004D56) | 1
+- (void* -> HighFPSPhysicsFix.dll+0030B10) | 93
+- (void* -> HighFPSPhysicsFix.dll+0030B46) | 31
+- (void* -> HighFPSPhysicsFix.dll+005F6B0) | 30
+- (void* -> TextShaping.dll+0040000) | 1
+- (void* -> XINPUT1_3.dll+0000698) | 1
+- (void* -> gdi32full.dll+0024863) | 1
+- (void* -> ucrtbase.dll+0044ADA) | 30
+- (void* -> ucrtbase.dll+0044AEA) | 1
+- (void* -> ucrtbase.dll+0052041) | 1
+- (void* -> ucrtbase.dll+0052104) | 1
+- (void* -> ucrtbase.dll+0105570) | 1
+- (void* -> uxtheme.dll+0006573) | 31
+- (void* -> uxtheme.dll+0017C48) | 31
+- (void* -> uxtheme.dll+0018D4E) | 31
+- (void* -> uxtheme.dll+00193D3) | 31
+- (void* -> uxtheme.dll+001F331) | 31
+- (void* -> uxtheme.dll+001FEBB) | 31
+- Name: "BufferedScreenshot" | 62
 - [  10] 0x7FF903950B46 HighFPSPhysicsFix.dll+0030B46 | 1
 - [  46] 0x7FF903950B46 HighFPSPhysicsFix.dll+0030B46 | 1
 - [  82] 0x7FF903950B46 HighFPSPhysicsFix.dll+0030B46 | 1

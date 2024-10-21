@@ -20,6 +20,8 @@ CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 -----
 # Checking for *[Item Crash]................. SUSPECT FOUND! > Severity : 1 # 
 -----
+# Checking for *[Save Crash]................. SUSPECT FOUND! > Severity : 1 # 
+-----
 * FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *
 * SEE: https://docs.google.com/document/d/17FzeIMJ256xE85XdjoPvv_Zi3C5uHeSTQh6wOZugs4c *
 
@@ -111,13 +113,17 @@ SCANNING THE LOG FOR SPECIFIC (POSSIBLE) SUSPECTS...
 # LIST OF (POSSIBLE) PLUGIN SUSPECTS #
 - looksmenu customization compendium.esp | 1
 - leeenfieldno4mki.esp | 1
-- customscalefix.dll | 1
+- customscalefix.dll | 4
+- nanakosurgeon.dll | 1
+- animerace_nanako.esp | 1
 
 [Last number counts how many times each Plugin Suspect shows up in the crash log.]
 These Plugins were caught by Buffout 4 and some of them might be responsible for this crash.
 You can try disabling these plugins and check if the game still crashes, though this method can be unreliable.
 
 # LIST OF (POSSIBLE) FORM ID SUSPECTS #
+- Form ID: 00000007 | [Fallout4.esm] | 1
+- Form ID: 00000014 | [Fallout4.esm] | 1
 - Form ID: 0000001D | [Fallout4.esm] | 1
 - Form ID: 0000003C | [Fallout4.esm] | 1
 - Form ID: 000002E3 | [Fallout4.esm] | 1
@@ -140,11 +146,23 @@ These Form IDs were caught by Buffout 4 and some of them might be related to thi
 You can try searching any listed Form IDs in xEdit and see if they lead to relevant records.
 
 # LIST OF DETECTED (NAMED) RECORDS #
+- (void* -> CustomScaleFix.dll+000E249) | 1
 - (void* -> CustomScaleFix.dll+001944D) | 1
-- (void* -> tbbmalloc.dll+000CB74) | 2
-- (void* -> tbbmalloc.dll+000CD16) | 1
+- (void* -> CustomScaleFix.dll+0019B76) | 1
+- (void* -> CustomScaleFix.dll+00552E0) | 1
+- (void* -> InputHost.dll+0019160) | 1
+- (void* -> InputHost.dll+010A038) | 1
+- (void* -> NanakoSurgeon.dll+000B0F3) | 1
+- (void* -> tbbmalloc.dll+0002488) | 1
+- (void* -> tbbmalloc.dll+000B201) | 2
+- (void* -> tbbmalloc.dll+000CB74) | 3
+- (void* -> tbbmalloc.dll+000CD16) | 3
 - (void* -> tbbmalloc.dll+000D8D3) | 3
-- (void* -> tbbmalloc.dll+0017690) | 2
+- (void* -> tbbmalloc.dll+0017690) | 4
+- (void* -> tbbmalloc.dll+00176A0) | 3
+- (void* -> twinapi.appcore.dll+006C4CF) | 1
+- (void* -> twinapi.appcore.dll+006C580) | 5
+- (void* -> twinapi.appcore.dll+006C96E) | 1
 - Full Name: "Brotherhood Knight" | 10
 - Full Name: "Brotherhood Soldier Initiate" | 1
 - Full Name: "Brotherhood Soldier Template" | 2
