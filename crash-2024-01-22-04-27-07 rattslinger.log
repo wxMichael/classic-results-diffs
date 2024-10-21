@@ -1,0 +1,1684 @@
+Fallout 4 v1.10.163
+Buffout 4 v1.28.6
+
+Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FF6F77709C5 Fallout4.exe+1B109C5
+
+	[Compatibility]
+		F4EE: false
+	[Crashlog]
+		AutoOpen: true
+		PromptUpload: true
+	[Fixes]
+		ActorIsHostileToActor: true
+		CellInit: true
+		CreateD3DAndSwapChain: true
+		EncounterZoneReset: true
+		GreyMovies: true
+		MagicEffectApplyEvent: true
+		MovementPlanner: true
+		PackageAllocateLocation: true
+		SafeExit: true
+		TESObjectREFRGetEncounterZone: true
+		UnalignedLoad: true
+		UtilityShader: true
+	[Patches]
+		Achievements: true
+		ArchiveLimit: false
+		BSMTAManager: true
+		BSPreCulledObjects: true
+		BSTextureStreamerLocalHeap: false
+		HavokMemorySystem: true
+		INISettingCollection: false
+		InputSwitch: false
+		MaxStdIO: 2048
+		MemoryManager: true
+		MemoryManagerDebug: false
+		ScaleformAllocator: true
+		SmallBlockAllocator: true
+		WorkshopMenu: true
+	[Warnings]
+		CreateTexture2D: true
+		ImageSpaceAdapter: true
+
+SYSTEM SPECS:
+	OS: Microsoft Windows 11 Home v10.0.22631
+	CPU: AuthenticAMD AMD Ryzen 5 3600 6-Core Processor              
+	GPU #1: Nvidia GA104 [GeForce RTX 3070]
+	GPU #2: Microsoft Basic Render Driver
+	PHYSICAL MEMORY: 15.26 GB/63.92 GB
+
+PROBABLE CALL STACK:
+	[ 0] 0x7FF6F77709C5 Fallout4.exe+1B109C5 -> 336186+0x15
+	[ 1] 0x7FF6F6A85C69 Fallout4.exe+0E25C69 -> 5211+0x29
+	[ 2] 0x7FF6F60607D7 Fallout4.exe+04007D7 -> 19871+0x37
+	[ 3] 0x7FF6F7097641 Fallout4.exe+1437641 -> 842038+0x51
+	[ 4] 0x7FF6F70A08E2 Fallout4.exe+14408E2 -> 197553+0xC2
+	[ 5] 0x7FF6F836D767 Fallout4.exe+270D767 -> 571037+0x217
+	[ 6] 0x7FF6F839F224 Fallout4.exe+273F224 -> 1500402+0xA14
+	[ 7] 0x7FF6F83A01FF Fallout4.exe+27401FF -> 412932+0x1BF
+	[ 8] 0x7FF6F8391C37 Fallout4.exe+2731C37 -> 1146038+0x477
+	[ 9] 0x7FF6F6FD2378 Fallout4.exe+1372378 -> 759508+0x228
+	[10] 0x7FF6F691D875 Fallout4.exe+0CBD875 -> 507275+0x15
+	[11] 0x7FF6F77B0F26 Fallout4.exe+1B50F26 -> 329005+0xC6
+	[12] 0x7FF6F77B1432 Fallout4.exe+1B51432 -> 194800+0x202
+	[13] 0x7FF6F77B3F67 Fallout4.exe+1B53F67 -> 1492866+0x67
+	[14] 0x7FF6F777CFED Fallout4.exe+1B1CFED -> 1079791+0x3D
+	[15] 0x7FF9677B257D KERNEL32.DLL+001257D
+	[16] 0x7FF9681CAA58    ntdll.dll+005AA58
+
+REGISTERS:
+	RAX 0x5BE8             (size_t)
+	RCX 0x30               (size_t)
+	RDX 0x21B04738800      (ActorValueInfo*)
+		File: "Loot Detector.esl"
+		Flags: 0x00000009
+		Form ID: 0xFE000853
+		Form Type: 98
+		Full Name: ""
+	RBX 0x30               (size_t)
+	RSP 0x756E23E540       (void*)
+	RBP 0x7FF6F706FDB0     (void* -> Fallout4.exe+140FDB0)
+	RSI 0x5BE8             (size_t)
+	RDI 0x30               (size_t)
+	R8  0x4                (size_t)
+	R9  0xC2               (size_t)
+	R10 0x21B09B5EAD8      (void*)
+	R11 0x21B09B94BE0      (void*)
+	R12 0x4942D            (size_t)
+	R13 0x21AECB25F60      (BSScript::NativeFunction2<TESObjectREFR,void,ActorValueInfo const *,float>*)
+		Function: "SetValue"
+		Object: "ObjectReference"
+	R14 0x4942D            (size_t)
+	R15 0x756E23E728       (void*)
+
+STACK:
+	[RSP+0   ] 0x21A79FCBE20      (void*)
+	[RSP+8   ] 0x7FF6F777093F     (void* -> Fallout4.exe+1B1093F)
+	[RSP+10  ] 0x21A79FCBE20      (void*)
+	[RSP+18  ] 0x7FF6F777093F     (void* -> Fallout4.exe+1B1093F)
+	[RSP+20  ] 0x0                (size_t)
+	[RSP+28  ] 0x7FF6F6A85C69     (void* -> Fallout4.exe+0E25C69)
+	[RSP+30  ] 0x32002697         (size_t)
+	[RSP+38  ] 0x7FF6D480B2CF     (size_t)
+	[RSP+40  ] 0x21B04738800      (ActorValueInfo*)
+		File: "Loot Detector.esl"
+		Flags: 0x00000009
+		Form ID: 0xFE000853
+		Form Type: 98
+		Full Name: ""
+	[RSP+48  ] 0x7FF6F60781B3     (void* -> Fallout4.exe+04181B3)
+	[RSP+50  ] 0x21B09B5EAF0      (void*)
+	[RSP+58  ] 0x7FF6F5DB2D26     (void* -> Fallout4.exe+0152D26)
+	[RSP+60  ] 0x3F800000         (size_t)
+	[RSP+68  ] 0x0                (size_t)
+	[RSP+70  ] 0x21B04738800      (ActorValueInfo*)
+		File: "Loot Detector.esl"
+		Flags: 0x00000009
+		Form ID: 0xFE000853
+		Form Type: 98
+		Full Name: ""
+	[RSP+78  ] 0x7FF6F60607D7     (void* -> Fallout4.exe+04007D7)
+	[RSP+80  ] 0x21B09B4B100      (TESObjectREFR*)
+		Object Reference: 
+			File: "LaserMusketMk2.esp"
+			Flags: 0x00000008
+			Form ID: 0x32002690
+			Form Type: 43
+		File: "LaserMusketMk2.esp"
+		Flags: 0x62400408
+		Form ID: 0x32002697
+		Form Type: 64
+	[RSP+88  ] 0x21B09B4B158      (TESObjectREFR*)
+		Object Reference: 
+			File: "LaserMusketMk2.esp"
+			Flags: 0x00000008
+			Form ID: 0x32002690
+			Form Type: 43
+		File: "LaserMusketMk2.esp"
+		Flags: 0x62400408
+		Form ID: 0x32002697
+		Form Type: 64
+	[RSP+90  ] 0x7FF6F706FDB0     (void* -> Fallout4.exe+140FDB0)
+	[RSP+98  ] 0x21BD480B2CF      (void*)
+	[RSP+A0  ] 0xFFFF             (size_t)
+	[RSP+A8  ] 0x21B04738800      (ActorValueInfo*)
+		File: "Loot Detector.esl"
+		Flags: 0x00000009
+		Form ID: 0xFE000853
+		Form Type: 98
+		Full Name: ""
+	[RSP+B0  ] 0x3F800000         (size_t)
+	[RSP+B8  ] 0x0                (size_t)
+	[RSP+C0  ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+C8  ] 0x7FF6F7097641     (void* -> Fallout4.exe+1437641)
+	[RSP+D0  ] 0x21B0EBE8B01      (void*)
+	[RSP+D8  ] 0x21B04738800      (ActorValueInfo*)
+		File: "Loot Detector.esl"
+		Flags: 0x00000009
+		Form ID: 0xFE000853
+		Form Type: 98
+		Full Name: ""
+	[RSP+E0  ] 0x7FF6F706FDB0     (void* -> Fallout4.exe+140FDB0)
+	[RSP+E8  ] 0x7FF6F706FDB0     (void* -> Fallout4.exe+140FDB0)
+	[RSP+F0  ] 0x21B3F800000      (void*)
+	[RSP+F8  ] 0x21B04738800      (ActorValueInfo*)
+		File: "Loot Detector.esl"
+		Flags: 0x00000009
+		Form ID: 0xFE000853
+		Form Type: 98
+		Full Name: ""
+	[RSP+100 ] 0xFFFF             (size_t)
+	[RSP+108 ] 0x3                (size_t)
+	[RSP+110 ] 0x3EA4A4D2         (size_t)
+	[RSP+118 ] 0x0                (size_t)
+	[RSP+120 ] 0x21B04738800      (ActorValueInfo*)
+		File: "Loot Detector.esl"
+		Flags: 0x00000009
+		Form ID: 0xFE000853
+		Form Type: 98
+		Full Name: ""
+	[RSP+128 ] 0x7FF6F70A08E2     (void* -> Fallout4.exe+14408E2)
+	[RSP+130 ] 0x21B0EBE8BD4      (void*)
+	[RSP+138 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+140 ] 0x3                (size_t)
+	[RSP+148 ] 0x21A00000003      (void*)
+	[RSP+150 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+158 ] 0x7FF60004942D     (size_t)
+	[RSP+160 ] 0x756E23E718       (void*)
+	[RSP+168 ] 0x0                (size_t)
+	[RSP+170 ] 0x21B0EBE8B84      (void*)
+	[RSP+178 ] 0x4                (size_t)
+	[RSP+180 ] 0x21A246D8230      (void*)
+	[RSP+188 ] 0x7FF6F836D767     (void* -> Fallout4.exe+270D767)
+	[RSP+190 ] 0x12               (size_t)
+	[RSP+198 ] 0x756E23E7D0       (void*)
+	[RSP+1A0 ] 0x756E23F048       (void*)
+	[RSP+1A8 ] 0x21AECB25F60      (BSScript::NativeFunction2<TESObjectREFR,void,ActorValueInfo const *,float>*)
+		Function: "SetValue"
+		Object: "ObjectReference"
+	[RSP+1B0 ] 0x756E23E718       (void*)
+	[RSP+1B8 ] 0x21B0EBE8B84      (void*)
+	[RSP+1C0 ] 0x756E23ED10       (void*)
+	[RSP+1C8 ] 0x0                (size_t)
+	[RSP+1D0 ] 0x7FF6FB52EE38     (void* -> Fallout4.exe+58CEE38)
+	[RSP+1D8 ] 0x0                (size_t)
+	[RSP+1E0 ] 0x0                (size_t)
+	[RSP+1E8 ] 0x21AEBFE7E80      (BSScript::ObjectTypeInfo*)
+		Name: "ObjectReference"
+	[RSP+1F0 ] 0x21BE1BC4370      (void*)
+	[RSP+1F8 ] 0x21B0EBFE1FF      (void*)
+	[RSP+200 ] 0x0                (size_t)
+	[RSP+208 ] 0x7FF6EE4B91E6     (size_t)
+	[RSP+210 ] 0x21A00000000      (void*)
+	[RSP+218 ] 0x7FF6F73B5B32     (void* -> Fallout4.exe+1755B32)
+	[RSP+220 ] 0x21B2DD63D20      (void*)
+	[RSP+228 ] 0x756E23EC50       (void*)
+	[RSP+230 ] 0x756E23EC40       (void*)
+	[RSP+238 ] 0x756E23E8C0       (void*)
+	[RSP+240 ] 0x756E23E7E0       (void*)
+	[RSP+248 ] 0x7FF6F77CF0FB     (void* -> Fallout4.exe+1B6F0FB)
+	[RSP+250 ] 0x7FF6FB52EDF0     (DynamicIdleDataSingletonHelper*)
+	[RSP+258 ] 0x7FF600000000     (size_t)
+	[RSP+260 ] 0x756E23EDB0       (void*)
+	[RSP+268 ] 0x3CCCCCCD3CCCCCCD (size_t)
+	[RSP+270 ] 0x7FF6FB52EE38     (void* -> Fallout4.exe+58CEE38)
+	[RSP+278 ] 0x7FF6F5C9A89D     (void* -> Fallout4.exe+003A89D)
+	[RSP+280 ] 0x7FF6FB52EE38     (void* -> Fallout4.exe+58CEE38)
+	[RSP+288 ] 0x7FF6F79DF6E1     (void* -> Fallout4.exe+1D7F6E1)
+	[RSP+290 ] 0x21AE481B100      (void*)
+	[RSP+298 ] 0x7FF6F76D240C     (void* -> Fallout4.exe+1A7240C)
+	[RSP+2A0 ] 0x5C786B6800000000 (size_t)
+	[RSP+2A8 ] 0x2ED7AAA6         (size_t)
+	[RSP+2B0 ] 0x0                (size_t)
+	[RSP+2B8 ] 0x0                (size_t)
+	[RSP+2C0 ] 0x3C8B4396         (size_t)
+	[RSP+2C8 ] 0x0                (size_t)
+	[RSP+2D0 ] 0x0                (size_t)
+	[RSP+2D8 ] 0x0                (size_t)
+	[RSP+2E0 ] 0x0                (size_t)
+	[RSP+2E8 ] 0x7FF6F7A2BE04     (void* -> Fallout4.exe+1DCBE04)
+	[RSP+2F0 ] 0x21AED989600      (hknpBSWorld*)
+	[RSP+2F8 ] 0x756E23E980       (void*)
+	[RSP+300 ] 0x1                (size_t)
+	[RSP+308 ] 0x21B53A7EB00      (bhkCharRigidBodyController*)
+	[RSP+310 ] 0x0                (size_t)
+	[RSP+318 ] 0x3F800000B4600000 (size_t)
+	[RSP+320 ] 0x0                (size_t)
+	[RSP+328 ] 0x0                (size_t)
+	[RSP+330 ] 0x0                (size_t)
+	[RSP+338 ] 0x3F325B483F37A4BD (size_t)
+	[RSP+340 ] 0x0                (size_t)
+	[RSP+348 ] 0x3F325B4A3F37A4BA (size_t)
+	[RSP+350 ] 0x0                (size_t)
+	[RSP+358 ] 0x0                (size_t)
+	[RSP+360 ] 0x3F7FE40DBCEF3C00 (size_t)
+	[RSP+368 ] 0x0                (size_t)
+	[RSP+370 ] 0xBCEF3C00BF7FE40D (size_t)
+	[RSP+378 ] 0x0                (size_t)
+	[RSP+380 ] 0x0                (size_t)
+	[RSP+388 ] 0x3C4CCC003F800000 (size_t)
+	[RSP+390 ] 0xC32A122E439CB15E (size_t)
+	[RSP+398 ] 0x411FD59C         (size_t)
+	[RSP+3A0 ] 0xBF7FE40DBCEF3B80 (size_t)
+	[RSP+3A8 ] 0x0                (size_t)
+	[RSP+3B0 ] 0x0                (size_t)
+	[RSP+3B8 ] 0x0                (size_t)
+	[RSP+3C0 ] 0x7500000000       (size_t)
+	[RSP+3C8 ] 0x7FF6F79FAAFC     (void* -> Fallout4.exe+1D9AAFC)
+	[RSP+3D0 ] 0x756E23EAE0       (void*)
+	[RSP+3D8 ] 0x7FF6F79DF7E3     (void* -> Fallout4.exe+1D7F7E3)
+	[RSP+3E0 ] 0x756E23EA18       (void*)
+	[RSP+3E8 ] 0x7FF6F77A2FE8     (void* -> Fallout4.exe+1B42FE8)
+	[RSP+3F0 ] 0x21AEDAB1001      (void*)
+	[RSP+3F8 ] 0x7FF6F7A34260     (void* -> Fallout4.exe+1DD4260)
+	[RSP+400 ] 0x21AEDAB1008      (void*)
+	[RSP+408 ] 0x38               (size_t)
+	[RSP+410 ] 0x21BE1B86110      (void*)
+	[RSP+418 ] 0x756E23EF88       (void*)
+	[RSP+420 ] 0x756E23EAE0       (void*)
+	[RSP+428 ] 0x756E23EA18       (void*)
+	[RSP+430 ] 0x756E23EA18       (void*)
+	[RSP+438 ] 0x7FF6F77A1F2C     (void* -> Fallout4.exe+1B41F2C)
+	[RSP+440 ] 0x756E23F008       (void*)
+	[RSP+448 ] 0x7FF6F77A2FE8     (void* -> Fallout4.exe+1B42FE8)
+	[RSP+450 ] 0x7FF6FB7C7580     (void* -> Fallout4.exe+5B67580)
+	[RSP+458 ] 0x0                (size_t)
+	[RSP+460 ] 0x21AECB55888      (void*)
+	[RSP+468 ] 0x7FF6F836DE70     (void* -> Fallout4.exe+270DE70)
+	[RSP+470 ] 0x0                (size_t)
+	[RSP+478 ] 0x1                (size_t)
+	[RSP+480 ] 0x756E23EAE0       (void*)
+	[RSP+488 ] 0x756E23F008       (void*)
+	[RSP+490 ] 0x1                (size_t)
+	[RSP+498 ] 0x7FF6F83AB317     (void* -> Fallout4.exe+274B317)
+	[RSP+4A0 ] 0x756E23F000       (void*)
+	[RSP+4A8 ] 0x1                (size_t)
+	[RSP+4B0 ] 0x7FF6FB7C7580     (void* -> Fallout4.exe+5B67580)
+	[RSP+4B8 ] 0x21B0EBE8B84      (void*)
+	[RSP+4C0 ] 0x12               (size_t)
+	[RSP+4C8 ] 0x7FF6F837D648     (void* -> Fallout4.exe+271D648)
+	[RSP+4D0 ] 0x7FF600000012     (size_t)
+	[RSP+4D8 ] 0x0                (size_t)
+	[RSP+4E0 ] 0x21A246D8230      (void*)
+	[RSP+4E8 ] 0x0                (size_t)
+	[RSP+4F0 ] 0x21A246D8230      (void*)
+	[RSP+4F8 ] 0x21BF7B83360      (void*)
+	[RSP+500 ] 0x21BF7B83360      (void*)
+	[RSP+508 ] 0x7FF6F5C844E3     (void* -> Fallout4.exe+00244E3)
+	[RSP+510 ] 0x21BE1DA2110      (void*)
+	[RSP+518 ] 0x7FF6F6F49D24     (void* -> Fallout4.exe+12E9D24)
+	[RSP+520 ] 0x756E23EB10       (void*)
+	[RSP+528 ] 0x0                (size_t)
+	[RSP+530 ] 0x21AE4584340      (void*)
+	[RSP+538 ] 0x7FF6F83C80B6     (void* -> Fallout4.exe+27680B6)
+	[RSP+540 ] 0x756E23EB08       (void*)
+	[RSP+548 ] 0x7FF6F8350A31     (void* -> Fallout4.exe+26F0A31)
+	[RSP+550 ] 0x12               (size_t)
+	[RSP+558 ] 0x0                (size_t)
+	[RSP+560 ] 0x7FF6F88AA948     (void* -> Fallout4.exe+2C4A948)
+	[RSP+568 ] 0x21AE458C3A0      (void*)
+	[RSP+570 ] 0x12               (size_t)
+	[RSP+578 ] 0x7FF6F839FAB6     (void* -> Fallout4.exe+273FAB6)
+	[RSP+580 ] 0x21AECB5CA60      (BSScript::ObjectTypeInfo*)
+		Name: "EffectShader"
+	[RSP+588 ] 0x756E23EBC0       (void*)
+	[RSP+590 ] 0x756E23EB00       (void*)
+	[RSP+598 ] 0x12               (size_t)
+	[RSP+5A0 ] 0x7FF6F8A6F340     (void* -> Fallout4.exe+2E0F340)
+	[RSP+5A8 ] 0x7FF6FB847B40     (void* -> Fallout4.exe+5BE7B40)
+	[RSP+5B0 ] 0x756E23EB10       (void*)
+	[RSP+5B8 ] 0x21B0465E3E0      (BSScript::ObjectTypeInfo*)
+		Name: "xatmos:xatmosScrapperCollectionEffect"
+	[RSP+5C0 ] 0x0                (size_t)
+	[RSP+5C8 ] 0x21AECB5CA60      (BSScript::ObjectTypeInfo*)
+		Name: "EffectShader"
+	[RSP+5D0 ] 0x0                (size_t)
+	[RSP+5D8 ] 0x7FF8A7DFBDCE     (void* -> Buffout4.dll+004BDCE)
+	[RSP+5E0 ] 0x7500000018       (size_t)
+	[RSP+5E8 ] 0x7FF6F7771300     (void* -> Fallout4.exe+1B11300)
+	[RSP+5F0 ] 0x21A246D8230      (void*)
+	[RSP+5F8 ] 0x7FF8A7DFBDCE     (void* -> Buffout4.dll+004BDCE)
+	[RSP+600 ] 0x21B0EBFE1D0      (void*)
+	[RSP+608 ] 0x7FF8A7DFC289     (void* -> Buffout4.dll+004C289)
+	[RSP+610 ] 0x21B0EBFE1D0      (void*)
+	[RSP+618 ] 0x756E23EC40       (void*)
+	[RSP+620 ] 0x21B0EBFDE40      (OwnedController*)
+	[RSP+628 ] 0x7FF8A7DFC289     (void* -> Buffout4.dll+004C289)
+	[RSP+630 ] 0x21B0EBFDE40      (OwnedController*)
+	[RSP+638 ] 0x0                (size_t)
+	[RSP+640 ] 0x21B165AD600      (Actor*)
+		Object Reference: 
+			File: "Unofficial Fallout 4 Patch.esp"
+			Flags: 0x00040009
+			Form ID: 0x000228CE
+			Form Type: 45
+		File: "Fallout4.esm"
+		Flags: 0x00420449
+		Form ID: 0x000228CF
+		Form Type: 65
+	[RSP+648 ] 0x7FF6F5C9782E     (void* -> Fallout4.exe+003782E)
+	[RSP+650 ] 0x7FF6F88ABB83     (void* -> Fallout4.exe+2C4BB83)
+	[RSP+658 ] 0x7FF6F77714CA     (void* -> Fallout4.exe+1B114CA)
+	[RSP+660 ] 0x756E23EC50       (void*)
+	[RSP+668 ] 0x7FF6F88ABB83     (void* -> Fallout4.exe+2C4BB83)
+	[RSP+670 ] 0x756E23ECD0       (void*)
+	[RSP+678 ] 0x21B165AD600      (Actor*)
+		Object Reference: 
+			File: "Unofficial Fallout 4 Patch.esp"
+			Flags: 0x00040009
+			Form ID: 0x000228CE
+			Form Type: 45
+		File: "Fallout4.esm"
+		Flags: 0x00420449
+		Form ID: 0x000228CF
+		Form Type: 65
+	[RSP+680 ] 0x21B0EBFDE40      (OwnedController*)
+	[RSP+688 ] 0x7FF6F6BF476A     (void* -> Fallout4.exe+0F9476A)
+	[RSP+690 ] 0x21B165AD601      (void*)
+	[RSP+698 ] 0xA6DC             (size_t)
+	[RSP+6A0 ] 0x7FF6FB7C7580     (void* -> Fallout4.exe+5B67580)
+	[RSP+6A8 ] 0x0                (size_t)
+	[RSP+6B0 ] 0x21E6BF           (size_t)
+	[RSP+6B8 ] 0x7FF6F6467C4E     (void* -> Fallout4.exe+0807C4E)
+	[RSP+6C0 ] 0x3F7FE40DBCEF3C00 (size_t)
+	[RSP+6C8 ] 0x0                (size_t)
+	[RSP+6D0 ] 0xBCEF3C00BF7FE40D (size_t)
+	[RSP+6D8 ] 0x0                (size_t)
+	[RSP+6E0 ] 0x0                (size_t)
+	[RSP+6E8 ] 0x21B165AD6C0      (void*)
+	[RSP+6F0 ] 0x1165AD600        (size_t)
+	[RSP+6F8 ] 0x0                (size_t)
+	[RSP+700 ] 0x0                (size_t)
+	[RSP+708 ] 0x0                (size_t)
+	[RSP+710 ] 0x0                (size_t)
+	[RSP+718 ] 0x0                (size_t)
+	[RSP+720 ] 0x0                (size_t)
+	[RSP+728 ] 0x0                (size_t)
+	[RSP+730 ] 0x7FF6F88A9DB8     (void* -> Fallout4.exe+2C49DB8)
+	[RSP+738 ] 0x756E23EC50       (void*)
+	[RSP+740 ] 0x0                (size_t)
+	[RSP+748 ] 0x0                (size_t)
+	[RSP+750 ] 0x495F4165736F505C (size_t)
+	[RSP+758 ] 0x6F76616C46656C64 (size_t)
+	[RSP+760 ] 0x5C786B682E2A72   (size_t)
+	[RSP+768 ] 0x0                (size_t)
+	[RSP+770 ] 0x0                (size_t)
+	[RSP+778 ] 0x0                (size_t)
+	[RSP+780 ] 0x0                (size_t)
+	[RSP+788 ] 0x0                (size_t)
+	[RSP+790 ] 0x0                (size_t)
+	[RSP+798 ] 0x0                (size_t)
+	[RSP+7A0 ] 0x0                (size_t)
+	[RSP+7A8 ] 0x0                (size_t)
+	[RSP+7B0 ] 0x0                (size_t)
+	[RSP+7B8 ] 0x0                (size_t)
+	[RSP+7C0 ] 0x0                (size_t)
+	[RSP+7C8 ] 0x0                (size_t)
+	[RSP+7D0 ] 0x0                (size_t)
+	[RSP+7D8 ] 0x0                (size_t)
+	[RSP+7E0 ] 0x0                (size_t)
+	[RSP+7E8 ] 0x0                (size_t)
+	[RSP+7F0 ] 0x0                (size_t)
+	[RSP+7F8 ] 0x0                (size_t)
+	[RSP+800 ] 0x0                (size_t)
+	[RSP+808 ] 0x7FF8A7DFBF65     (void* -> Buffout4.dll+004BF65)
+	[RSP+810 ] 0x0                (size_t)
+	[RSP+818 ] 0x0                (size_t)
+	[RSP+820 ] 0x0                (size_t)
+	[RSP+828 ] 0x0                (size_t)
+	[RSP+830 ] 0x21A246D8230      (void*)
+	[RSP+838 ] 0x756E23EE88       (void*)
+	[RSP+840 ] 0x756E23EE88       (void*)
+	[RSP+848 ] 0x21A246D8230      (void*)
+	[RSP+850 ] 0x12               (size_t)
+	[RSP+858 ] 0x7FF8A7DFC1EC     (void* -> Buffout4.dll+004C1EC)
+	[RSP+860 ] 0x84               (size_t)
+	[RSP+868 ] 0x7FF6F8350A55     (void* -> Fallout4.exe+26F0A55)
+	[RSP+870 ] 0x80               (size_t)
+	[RSP+878 ] 0x726F76616C46656C (size_t)
+	[RSP+880 ] 0x12               (size_t)
+	[RSP+888 ] 0x7FF6F837D90D     (void* -> Fallout4.exe+271D90D)
+	[RSP+890 ] 0x7FF6FB6C9250     (void* -> Fallout4.exe+5A69250)
+	[RSP+898 ] 0x7FF6F8351145     (void* -> Fallout4.exe+26F1145)
+	[RSP+8A0 ] 0x12               (size_t)
+	[RSP+8A8 ] 0x21B0EBE8BD4      (void*)
+	[RSP+8B0 ] 0x10               (size_t)
+	[RSP+8B8 ] 0x7FF6FB71D9B8     (BSScript::SimpleAllocMemoryPagePolicy*)
+	[RSP+8C0 ] 0x12               (size_t)
+	[RSP+8C8 ] 0x7FF6F837D3E8     (void* -> Fallout4.exe+271D3E8)
+	[RSP+8D0 ] 0x3                (size_t)
+	[RSP+8D8 ] 0x10               (size_t)
+	[RSP+8E0 ] 0x1                (size_t)
+	[RSP+8E8 ] 0x7FF6F8361D26     (void* -> Fallout4.exe+2701D26)
+	[RSP+8F0 ] 0x21AE4584101      (void*)
+	[RSP+8F8 ] 0x21A246D8230      (void*)
+	[RSP+900 ] 0x21B0EBE8B84      (void*)
+	[RSP+908 ] 0x7FF6F8350A55     (void* -> Fallout4.exe+26F0A55)
+	[RSP+910 ] 0x0                (size_t)
+	[RSP+918 ] 0x7FF6F83662B7     (void* -> Fallout4.exe+27062B7)
+	[RSP+920 ] 0x0                (size_t)
+	[RSP+928 ] 0x21B0E890C40      (void*)
+	[RSP+930 ] 0x21B0E7D7D90      (void*)
+	[RSP+938 ] 0x7FF6F8351145     (void* -> Fallout4.exe+26F1145)
+	[RSP+940 ] 0x12               (size_t)
+	[RSP+948 ] 0x21B0EBE8BD4      (void*)
+	[RSP+950 ] 0x756E23EF01       (void*)
+	[RSP+958 ] 0x7FF6F8358546     (void* -> Fallout4.exe+26F8546)
+	[RSP+960 ] 0x756E23EF29       (void*)
+	[RSP+968 ] 0x7FF6F88BBF48     (void* -> Fallout4.exe+2C5BF48)
+	[RSP+970 ] 0x1                (size_t)
+	[RSP+978 ] 0x756E23EF01       (void*)
+	[RSP+980 ] 0x10               (size_t)
+	[RSP+988 ] 0x7FF6F8361FBE     (void* -> Fallout4.exe+2701FBE)
+	[RSP+990 ] 0x756E23EFD0       (void*)
+	[RSP+998 ] 0x21A246D8230      (void*)
+	[RSP+9A0 ] 0x3                (size_t)
+	[RSP+9A8 ] 0x0                (size_t)
+	[RSP+9B0 ] 0x0                (size_t)
+	[RSP+9B8 ] 0x21B0E890C40      (void*)
+	[RSP+9C0 ] 0x756E23EFD0       (void*)
+	[RSP+9C8 ] 0x7FF6F8363E97     (void* -> Fallout4.exe+2703E97)
+	[RSP+9D0 ] 0x756E23EFE0       (void*)
+	[RSP+9D8 ] 0x0                (size_t)
+	[RSP+9E0 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+9E8 ] 0x0                (size_t)
+	[RSP+9F0 ] 0x756E23F008       (void*)
+	[RSP+9F8 ] 0x7FF6F834F22A     (void* -> Fallout4.exe+26EF22A)
+	[RSP+A00 ] 0x21AE4584101      (void*)
+	[RSP+A08 ] 0x2                (size_t)
+	[RSP+A10 ] 0x89BDBC300        (size_t)
+	[RSP+A18 ] 0x756E23F710       (void*)
+	[RSP+A20 ] 0x0                (size_t)
+	[RSP+A28 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+A30 ] 0x756E23F080       (void*)
+	[RSP+A38 ] 0x7FF6F839F224     (void* -> Fallout4.exe+273F224)
+	[RSP+A40 ] 0x12               (size_t)
+	[RSP+A48 ] 0x756E23F080       (void*)
+	[RSP+A50 ] 0x7FF6FB71DA20     (GameScript::Logger*)
+	[RSP+A58 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+A60 ] 0x756E23F000       (void*)
+	[RSP+A68 ] 0x756E23EFD0       (void*)
+	[RSP+A70 ] 0x245C736568736501 (size_t)
+	[RSP+A78 ] 0x21AEBFE7E80      (BSScript::ObjectTypeInfo*)
+		Name: "ObjectReference"
+	[RSP+A80 ] 0x21AECF0ACE0      (void*)
+	[RSP+A88 ] 0x21BE1BC4370      (void*)
+	[RSP+A90 ] 0x21AECB25F60      (BSScript::NativeFunction2<TESObjectREFR,void,ActorValueInfo const *,float>*)
+		Function: "SetValue"
+		Object: "ObjectReference"
+	[RSP+A98 ] 0x7500000000       (size_t)
+	[RSP+AA0 ] 0x21AEBFE7E80      (BSScript::ObjectTypeInfo*)
+		Name: "ObjectReference"
+	[RSP+AA8 ] 0x21BE1BC4370      (void*)
+	[RSP+AB0 ] 0x0                (size_t)
+	[RSP+AB8 ] 0x21AEBFE7E80      (BSScript::ObjectTypeInfo*)
+		Name: "ObjectReference"
+	[RSP+AC0 ] 0x21A246D8230      (void*)
+	[RSP+AC8 ] 0x21A246D8190      (ScrapHeap*)
+	[RSP+AD0 ] 0x21B0E7D7D80      (void*)
+	[RSP+AD8 ] 0x2                (size_t)
+	[RSP+AE0 ] 0x7500000002       (size_t)
+	[RSP+AE8 ] 0x21B0465DF60      (BSScript::ObjectTypeInfo*)
+		Name: "xatmos:xatmosScrapperCollectionActivator"
+	[RSP+AF0 ] 0x0                (size_t)
+	[RSP+AF8 ] 0x7FF6F8363992     (void* -> Fallout4.exe+2703992)
+	[RSP+B00 ] 0xA8               (size_t)
+	[RSP+B08 ] 0x21B0E890C40      (void*)
+	[RSP+B10 ] 0x756E23F5B8       (void*)
+	[RSP+B18 ] 0x21AE458FE58      (void*)
+	[RSP+B20 ] 0x12               (size_t)
+	[RSP+B28 ] 0x7FF6F83A2509     (void* -> Fallout4.exe+2742509)
+	[RSP+B30 ] 0xDE9B0D25         (size_t)
+	[RSP+B38 ] 0x12               (size_t)
+	[RSP+B40 ] 0x756E23F750       (void*)
+	[RSP+B48 ] 0x7FF6F603204C     (void* -> Fallout4.exe+03D204C)
+	[RSP+B50 ] 0x756E23F5B8       (void*)
+	[RSP+B58 ] 0x756E23F100       (void*)
+	[RSP+B60 ] 0x756E23F5D0       (void*)
+	[RSP+B68 ] 0x7FF6F5C9B16C     (void* -> Fallout4.exe+003B16C)
+	[RSP+B70 ] 0xDE9B0D25DE9B0D25 (size_t)
+	[RSP+B78 ] 0x0                (size_t)
+	[RSP+B80 ] 0x0                (size_t)
+	[RSP+B88 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+B90 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+B98 ] 0x21BEB91C738      (void*)
+	[RSP+BA0 ] 0x756E23F750       (void*)
+	[RSP+BA8 ] 0x0                (size_t)
+	[RSP+BB0 ] 0x21AE458FE58      (void*)
+	[RSP+BB8 ] 0x7FF6F83A20F7     (void* -> Fallout4.exe+27420F7)
+	[RSP+BC0 ] 0x0                (size_t)
+	[RSP+BC8 ] 0x4942E            (size_t)
+	[RSP+BD0 ] 0x7500000000       (size_t)
+	[RSP+BD8 ] 0x756E23F5D0       (void*)
+	[RSP+BE0 ] 0x756E23F5D0       (void*)
+	[RSP+BE8 ] 0x756E23F5B8       (void*)
+	[RSP+BF0 ] 0x0                (size_t)
+	[RSP+BF8 ] 0x0                (size_t)
+	[RSP+C00 ] 0x0                (size_t)
+	[RSP+C08 ] 0x7FF6F6032080     (void* -> Fallout4.exe+03D2080)
+	[RSP+C10 ] 0x756E23F570       (void*)
+	[RSP+C18 ] 0x7FF6F6071443     (void* -> Fallout4.exe+0411443)
+	[RSP+C20 ] 0x756E23F290       (void*)
+	[RSP+C28 ] 0x756E23F218       (void*)
+	[RSP+C30 ] 0x756E23F570       (void*)
+	[RSP+C38 ] 0x21B53A7EB00      (bhkCharRigidBodyController*)
+	[RSP+C40 ] 0x21B2DEB56C0      (TESObjectREFR*)
+		Object Reference: 
+			File: ""
+			Flags: 0x00004008
+			Form ID: 0xFF000C46
+			Form Type: 27
+		File: ""
+		Flags: 0x00004008
+		Form ID: 0xFF000D19
+		Form Type: 64
+	[RSP+C48 ] 0x7FF6F602397E     (void* -> Fallout4.exe+03C397E)
+	[RSP+C50 ] 0x21B00000001      (void*)
+	[RSP+C58 ] 0x756E23F208       (void*)
+	[RSP+C60 ] 0x756E23F290       (void*)
+	[RSP+C68 ] 0x0                (size_t)
+	[RSP+C70 ] 0x7FF6FB7C7580     (void* -> Fallout4.exe+5B67580)
+	[RSP+C78 ] 0x756E23F259       (void*)
+	[RSP+C80 ] 0x21B2DEB56C0      (TESObjectREFR*)
+		Object Reference: 
+			File: ""
+			Flags: 0x00004008
+			Form ID: 0xFF000C46
+			Form Type: 27
+		File: ""
+		Flags: 0x00004008
+		Form ID: 0xFF000D19
+		Form Type: 64
+	[RSP+C88 ] 0x0                (size_t)
+	[RSP+C90 ] 0xC639FDEE46AB5C83 (size_t)
+	[RSP+C98 ] 0x7FF643E10000     (size_t)
+	[RSP+CA0 ] 0x21AFE9EF190      (TESIdleForm*)
+		File: "Fallout4.esm"
+		Flags: 0x00000009
+		Form ID: 0x000AE7D9
+		Form Type: 81
+	[RSP+CA8 ] 0x7FF6F777093F     (void* -> Fallout4.exe+1B1093F)
+	[RSP+CB0 ] 0x21B164956F0      (void*)
+	[RSP+CB8 ] 0x7FF6F5D200E2     (void* -> Fallout4.exe+00C00E2)
+	[RSP+CC0 ] 0x21B44085AF0      (void*)
+	[RSP+CC8 ] 0x756E23F1C8       (void*)
+	[RSP+CD0 ] 0x21B1331AB00      (void*)
+	[RSP+CD8 ] 0x750022229D       (size_t)
+	[RSP+CE0 ] 0x21B01040016      (void*)
+	[RSP+CE8 ] 0x756E23F120       (void*)
+	[RSP+CF0 ] 0x495F416501040021 (size_t)
+	[RSP+CF8 ] 0x6F76616C46656C64 (size_t)
+	[RSP+D00 ] 0x0                (size_t)
+	[RSP+D08 ] 0x0                (size_t)
+	[RSP+D10 ] 0x420C0000         (size_t)
+	[RSP+D18 ] 0x0                (size_t)
+	[RSP+D20 ] 0x0                (size_t)
+	[RSP+D28 ] 0x0                (size_t)
+	[RSP+D30 ] 0x42800000         (size_t)
+	[RSP+D38 ] 0x7FF6F6A8A71E     (void* -> Fallout4.exe+0E2A71E)
+	[RSP+D40 ] 0x0                (size_t)
+	[RSP+D48 ] 0x0                (size_t)
+	[RSP+D50 ] 0x94F1             (size_t)
+	[RSP+D58 ] 0x7FF6F77A3C21     (void* -> Fallout4.exe+1B43C21)
+	[RSP+D60 ] 0x21B165AD600      (Actor*)
+		Object Reference: 
+			File: "Unofficial Fallout 4 Patch.esp"
+			Flags: 0x00040009
+			Form ID: 0x000228CE
+			Form Type: 45
+		File: "Fallout4.esm"
+		Flags: 0x00420449
+		Form ID: 0x000228CF
+		Form Type: 65
+	[RSP+D68 ] 0x7FF6F6A5F2C2     (void* -> Fallout4.exe+0DFF2C2)
+	[RSP+D70 ] 0x756E23F350       (void*)
+	[RSP+D78 ] 0x7FF6F73075AD     (void* -> Fallout4.exe+16A75AD)
+	[RSP+D80 ] 0x21AEC0138C8      (char*) "ObjectReference"
+	[RSP+D88 ] 0x7FF6F77A3EF1     (void* -> Fallout4.exe+1B43EF1)
+	[RSP+D90 ] 0x0                (size_t)
+	[RSP+D98 ] 0x7FF6F8A6F340     (void* -> Fallout4.exe+2E0F340)
+	[RSP+DA0 ] 0x7FF6FB847C90     (void* -> Fallout4.exe+5BE7C90)
+	[RSP+DA8 ] 0x21A441E8000      (void*)
+	[RSP+DB0 ] 0xC638146B46AB1636 (size_t)
+	[RSP+DB8 ] 0x7FF6441E8000     (size_t)
+	[RSP+DC0 ] 0x100000000F       (size_t)
+	[RSP+DC8 ] 0x21AEC0138B0      (void*)
+	[RSP+DD0 ] 0xC639FDEE46AB5C83 (size_t)
+	[RSP+DD8 ] 0x441E8000         (size_t)
+	[RSP+DE0 ] 0x21B165AD600      (Actor*)
+		Object Reference: 
+			File: "Unofficial Fallout 4 Patch.esp"
+			Flags: 0x00040009
+			Form ID: 0x000228CE
+			Form Type: 45
+		File: "Fallout4.esm"
+		Flags: 0x00420449
+		Form ID: 0x000228CF
+		Form Type: 65
+	[RSP+DE8 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+DF0 ] 0x756E23F530       (void*)
+	[RSP+DF8 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+E00 ] 0x756E23F3D8       (void*)
+	[RSP+E08 ] 0x7FF6F77A2FE8     (void* -> Fallout4.exe+1B42FE8)
+	[RSP+E10 ] 0x21AEBFE7E80      (BSScript::ObjectTypeInfo*)
+		Name: "ObjectReference"
+	[RSP+E18 ] 0x756E23F530       (void*)
+	[RSP+E20 ] 0x21BE1BC73A0      (void*)
+	[RSP+E28 ] 0x7FF6F83C11A5     (void* -> Fallout4.exe+27611A5)
+	[RSP+E30 ] 0x756E23F3D8       (void*)
+	[RSP+E38 ] 0x0                (size_t)
+	[RSP+E40 ] 0x756E23F410       (void*)
+	[RSP+E48 ] 0x756E23F3D8       (void*)
+	[RSP+E50 ] 0x0                (size_t)
+	[RSP+E58 ] 0x7FF6F83A360F     (void* -> Fallout4.exe+274360F)
+	[RSP+E60 ] 0x756E23F3D8       (void*)
+	[RSP+E68 ] 0x21BEAC8ECA0      (void*)
+	[RSP+E70 ] 0x7FF6FB7C7580     (void* -> Fallout4.exe+5B67580)
+	[RSP+E78 ] 0x7FF6F5CEB670     (void* -> Fallout4.exe+008B670)
+	[RSP+E80 ] 0x0                (size_t)
+	[RSP+E88 ] 0x0                (size_t)
+	[RSP+E90 ] 0x1                (size_t)
+	[RSP+E98 ] 0x21BE1BC73A0      (void*)
+	[RSP+EA0 ] 0x756E23F530       (void*)
+	[RSP+EA8 ] 0x756E23F3C8       (void*)
+	[RSP+EB0 ] 0x756E23F470       (void*)
+	[RSP+EB8 ] 0x7FF6F613E1EF     (void* -> Fallout4.exe+04DE1EF)
+	[RSP+EC0 ] 0x756E23F3C0       (void*)
+	[RSP+EC8 ] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+ED0 ] 0x1                (size_t)
+	[RSP+ED8 ] 0x7FF6F83AE901     (void* -> Fallout4.exe+274E901)
+	[RSP+EE0 ] 0x756E23F490       (void*)
+	[RSP+EE8 ] 0x7FF6F8350A31     (void* -> Fallout4.exe+26F0A31)
+	[RSP+EF0 ] 0x12               (size_t)
+	[RSP+EF8 ] 0x0                (size_t)
+	[RSP+F00 ] 0xFFFF00000001     (size_t)
+	[RSP+F08 ] 0x21B0E893580      (void*)
+	[RSP+F10 ] 0x21B0E72C400      (BSScript::Internal::RawFuncCallQuery*)
+	[RSP+F18 ] 0x7FF6F834F18A     (void* -> Fallout4.exe+26EF18A)
+	[RSP+F20 ] 0x21AE458C360      (BSTCommonLLMessageQueue<BSScript::Internal::FunctionMessage>*)
+	[RSP+F28 ] 0x7FF6F83C4515     (void* -> Fallout4.exe+2764515)
+	[RSP+F30 ] 0x756E23F550       (void*)
+	[RSP+F38 ] 0x7FF8A7DFBF65     (void* -> Buffout4.dll+004BF65)
+	[RSP+F40 ] 0x756E23F550       (void*)
+	[RSP+F48 ] 0x7FF6F70DC710     (void* -> Fallout4.exe+147C710)
+	[RSP+F50 ] 0x21B00000001      (void*)
+	[RSP+F58 ] 0x21B0E893580      (void*)
+	[RSP+F60 ] 0x21B0E72C400      (BSScript::Internal::RawFuncCallQuery*)
+	[RSP+F68 ] 0x7FF6F8350A55     (void* -> Fallout4.exe+26F0A55)
+	[RSP+F70 ] 0x21AE458C360      (BSTCommonLLMessageQueue<BSScript::Internal::FunctionMessage>*)
+	[RSP+F78 ] 0x7FF6F83C802D     (void* -> Fallout4.exe+276802D)
+	[RSP+F80 ] 0x21AE4584AE0      (void*)
+	[RSP+F88 ] 0x7FF8A7DFC1EC     (void* -> Buffout4.dll+004C1EC)
+	[RSP+F90 ] 0x21B0EBFE1F0      (void*)
+	[RSP+F98 ] 0x7FF6F8351145     (void* -> Fallout4.exe+26F1145)
+	[RSP+FA0 ] 0x12               (size_t)
+	[RSP+FA8 ] 0x7FF8A7DFBDCE     (void* -> Buffout4.dll+004BDCE)
+	[RSP+FB0 ] 0x21AE4584340      (void*)
+	[RSP+FB8 ] 0x21B0E893580      (void*)
+	[RSP+FC0 ] 0x756E23F5C8       (void*)
+	[RSP+FC8 ] 0x7FF6F834F18A     (void* -> Fallout4.exe+26EF18A)
+	[RSP+FD0 ] 0x21B0EBFE1D0      (void*)
+	[RSP+FD8 ] 0x7FF8A7DFC289     (void* -> Buffout4.dll+004C289)
+	[RSP+FE0 ] 0x21B0EBFE1D0      (void*)
+	[RSP+FE8 ] 0x0                (size_t)
+	[RSP+FF0 ] 0x21B0E72C400      (BSScript::Internal::RawFuncCallQuery*)
+	[RSP+FF8 ] 0x21A246D8230      (void*)
+	[RSP+1000] 0x12               (size_t)
+	[RSP+1008] 0x7FF6F77714CA     (void* -> Fallout4.exe+1B114CA)
+	[RSP+1010] 0x756E23F5E0       (void*)
+	[RSP+1018] 0x0                (size_t)
+	[RSP+1020] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+1028] 0x21BEB91C738      (void*)
+	[RSP+1030] 0x21B0EBFE200      (void*)
+	[RSP+1038] 0x7FF6F83A3A60     (void* -> Fallout4.exe+2743A60)
+	[RSP+1040] 0x21B0EBFE1F0      (void*)
+	[RSP+1048] 0x756E23F639       (void*)
+	[RSP+1050] 0x1                (size_t)
+	[RSP+1058] 0x7FF6FB73F6F8     (void* -> Fallout4.exe+5ADF6F8)
+	[RSP+1060] 0x756E23F5B8       (void*)
+	[RSP+1068] 0x756E23F5B0       (void*)
+	[RSP+1070] 0x21B0463AC00      (BSScript::Internal::ScriptFunction*)
+	[RSP+1078] 0x21B0E893580      (void*)
+	[RSP+1080] 0x21B0465D9C0      (BSScript::ObjectTypeInfo*)
+		Name: "xatmos:xatmosScrapperCollectionInventory"
+	[RSP+1088] 0x21B0E72C400      (BSScript::Internal::RawFuncCallQuery*)
+	[RSP+1090] 0x0                (size_t)
+	[RSP+1098] 0x21AF45EA530      (BGSAction*)
+		File: "Fallout4.esm"
+		Flags: 0x00000009
+		Form ID: 0x00013002
+		Form Type: 06
+	[RSP+10A0] 0x0                (size_t)
+	[RSP+10A8] 0x0                (size_t)
+	[RSP+10B0] 0x0                (size_t)
+	[RSP+10B8] 0x7500000000       (size_t)
+	[RSP+10C0] 0x0                (size_t)
+	[RSP+10C8] 0x7FF6F777093F     (void* -> Fallout4.exe+1B1093F)
+	[RSP+10D0] 0x21B00000000      (void*)
+	[RSP+10D8] 0x2                (size_t)
+	[RSP+10E0] 0xC63A264246ABF266 (size_t)
+	[RSP+10E8] 0x21A246D8230      (void*)
+	[RSP+10F0] 0x21AE4584AA0      (void*)
+	[RSP+10F8] 0x7FF6F83C445D     (void* -> Fallout4.exe+276445D)
+	[RSP+1100] 0x21AE4584348      (BSTStaticFreeList<BSScript::Internal::FunctionMessage,1024>*)
+	[RSP+1108] 0x7FF8A7DFBF65     (void* -> Buffout4.dll+004BF65)
+	[RSP+1110] 0x756E23F770       (void*)
+	[RSP+1118] 0x7FF6FB848080     (void* -> Fallout4.exe+5BE8080)
+	[RSP+1120] 0x1                (size_t)
+	[RSP+1128] 0x7FF6F83CC69B     (void* -> Fallout4.exe+276C69B)
+	[RSP+1130] 0x5BE8             (size_t)
+	[RSP+1138] 0x21AE458C360      (BSTCommonLLMessageQueue<BSScript::Internal::FunctionMessage>*)
+	[RSP+1140] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+1148] 0x756E23F768       (void*)
+	[RSP+1150] 0x0                (size_t)
+	[RSP+1158] 0x7FF6F83A328C     (void* -> Fallout4.exe+274328C)
+	[RSP+1160] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+1168] 0x1                (size_t)
+	[RSP+1170] 0x89BDBC3EB        (size_t)
+	[RSP+1178] 0x0                (size_t)
+	[RSP+1180] 0x0                (size_t)
+	[RSP+1188] 0xC8F              (size_t)
+	[RSP+1190] 0x7FF6F89EDCE0     (void* -> Fallout4.exe+2D8DCE0)
+	[RSP+1198] 0x7FF6F83A01FF     (void* -> Fallout4.exe+27401FF)
+	[RSP+11A0] 0x21AE4584340      (void*)
+	[RSP+11A8] 0x21B0E890C40      (void*)
+	[RSP+11B0] 0x5BE8             (size_t)
+	[RSP+11B8] 0x92C6C700         (size_t)
+	[RSP+11C0] 0x7500000001       (size_t)
+	[RSP+11C8] 0x21B0E890C40      (void*)
+	[RSP+11D0] 0x21BF827CAE0      (BSScript::Internal::CodeTasklet*)
+	[RSP+11D8] 0x7FF6F5C844E3     (void* -> Fallout4.exe+00244E3)
+	[RSP+11E0] 0x3BEA28FD         (size_t)
+	[RSP+11E8] 0x0                (size_t)
+	[RSP+11F0] 0x3BEA28FD         (size_t)
+	[RSP+11F8] 0x0                (size_t)
+	[RSP+1200] 0x21AE4584100      (BSScript::Internal::VirtualMachine*)
+	[RSP+1208] 0x89BDBB8B1        (size_t)
+	[RSP+1210] 0x0                (size_t)
+	[RSP+1218] 0x7FF6FB848088     (void* -> Fallout4.exe+5BE8088)
+	[RSP+1220] 0x21AE458FEC4      (void*)
+	[RSP+1228] 0x0                (size_t)
+	[RSP+1230] 0x756E23F880       (void*)
+	[RSP+1238] 0x7FF6F8391C37     (void* -> Fallout4.exe+2731C37)
+	[RSP+1240] 0xC8F              (size_t)
+	[RSP+1248] 0x7500000002       (size_t)
+	[RSP+1250] 0x21A246D7870      (void*)
+	[RSP+1258] 0x7FF6FB84AB00     (void* -> Fallout4.exe+5BEAB00)
+	[RSP+1260] 0x21BEB91C730      (void*)
+	[RSP+1268] 0x21B13876080      (void*)
+	[RSP+1270] 0x7542DC3B6F       (size_t)
+	[RSP+1278] 0x7FF600000000     (size_t)
+	[RSP+1280] 0x222              (size_t)
+	[RSP+1288] 0x7FF6F70DCED6     (void* -> Fallout4.exe+147CED6)
+	[RSP+1290] 0x222              (size_t)
+	[RSP+1298] 0x21B13876080      (void*)
+	[RSP+12A0] 0x1                (size_t)
+	[RSP+12A8] 0x21B2E107D80      (TESObjectREFR*)
+		Object Reference: 
+			File: "Fallout4.esm"
+			Flags: 0x00000009
+			Form ID: 0x00064A47
+			Form Type: 31
+		File: "Unofficial Fallout 4 Patch.esp"
+		Flags: 0x00400409
+		Form ID: 0x001157FB
+		Form Type: 64
+	[RSP+12B0] 0x7FF600000000     (size_t)
+	[RSP+12B8] 0x7FF600000008     (size_t)
+	[RSP+12C0] 0x5BE8             (size_t)
+	[RSP+12C8] 0x7FF6F5C844E3     (void* -> Fallout4.exe+00244E3)
+	[RSP+12D0] 0x0                (size_t)
+	[RSP+12D8] 0x0                (size_t)
+	[RSP+12E0] 0x0                (size_t)
+	[RSP+12E8] 0x0                (size_t)
+	[RSP+12F0] 0x0                (size_t)
+	[RSP+12F8] 0x0                (size_t)
+	[RSP+1300] 0x0                (size_t)
+	[RSP+1308] 0x0                (size_t)
+	[RSP+1310] 0x0                (size_t)
+	[RSP+1318] 0x0                (size_t)
+	[RSP+1320] 0x0                (size_t)
+	[RSP+1328] 0x0                (size_t)
+	[RSP+1330] 0x0                (size_t)
+	[RSP+1338] 0x0                (size_t)
+	[RSP+1340] 0x21B2D388510      (void*)
+	[RSP+1348] 0x89BDBB8B1        (size_t)
+	[RSP+1350] 0x7FF6FB848080     (void* -> Fallout4.exe+5BE8080)
+	[RSP+1358] 0x7FF6FB848088     (void* -> Fallout4.exe+5BE8088)
+	[RSP+1360] 0x7FF6FB71D8F0     (GameVM*)
+	[RSP+1368] 0x0                (size_t)
+	[RSP+1370] 0x7FF6FB84AB00     (void* -> Fallout4.exe+5BEAB00)
+	[RSP+1378] 0x2A30             (size_t)
+	[RSP+1380] 0x0                (size_t)
+	[RSP+1388] 0x7FF6F6FD2378     (void* -> Fallout4.exe+1372378)
+	[RSP+1390] 0x800000000        (size_t)
+	[RSP+1398] 0x8                (size_t)
+	[RSP+13A0] 0x7                (size_t)
+	[RSP+13A8] 0x21A00000000      (void*)
+	[RSP+13B0] 0x1B               (size_t)
+	[RSP+13B8] 0x193900000223     (size_t)
+	[RSP+13C0] 0x7FF6000010B0     (size_t)
+	[RSP+13C8] 0x7FF6F77709C3     (void* -> Fallout4.exe+1B109C3)
+	[RSP+13D0] 0x0                (size_t)
+	[RSP+13D8] 0x0                (size_t)
+	[RSP+13E0] 0x7FF6FB848084     (void* -> Fallout4.exe+5BE8084)
+	[RSP+13E8] 0x1                (size_t)
+	[RSP+13F0] 0x7FF6FB848088     (void* -> Fallout4.exe+5BE8088)
+	[RSP+13F8] 0x0                (size_t)
+	[RSP+1400] 0x0                (size_t)
+	[RSP+1408] 0x7FF6FB84AB00     (void* -> Fallout4.exe+5BEAB00)
+	[RSP+1410] 0x21A79EDE240      (void*)
+	[RSP+1418] 0x7FF6F691D875     (void* -> Fallout4.exe+0CBD875)
+	[RSP+1420] 0x0                (size_t)
+	[RSP+1428] 0x1B               (size_t)
+	[RSP+1430] 0x7FF600000223     (size_t)
+	[RSP+1438] 0x1                (size_t)
+	[RSP+1440] 0x7FF6FB84AB00     (void* -> Fallout4.exe+5BEAB00)
+	[RSP+1448] 0x7FF6F77B0F26     (void* -> Fallout4.exe+1B50F26)
+	[RSP+1450] 0x21B165F1E00      (TESObjectCELL*)
+		File: "Fallout4.esm"
+		Flags: 0x00040009
+		Form ID: 0x00054BE1
+		Form Type: 63
+		Full Name: ""
+	[RSP+1458] 0x0                (size_t)
+	[RSP+1460] 0x21A79EDE240      (void*)
+	[RSP+1468] 0x7FF6FB84AB00     (void* -> Fallout4.exe+5BEAB00)
+	[RSP+1470] 0x0                (size_t)
+	[RSP+1478] 0x0                (size_t)
+	[RSP+1480] 0x0                (size_t)
+	[RSP+1488] 0x0                (size_t)
+	[RSP+1490] 0x7FF6FB84AAB0     (BSJobs::JobThread*)
+	[RSP+1498] 0x7FF6F77B1432     (void* -> Fallout4.exe+1B51432)
+	[RSP+14A0] 0x0                (size_t)
+	[RSP+14A8] 0x7FF6FB84AAB0     (BSJobs::JobThread*)
+	[RSP+14B0] 0x0                (size_t)
+	[RSP+14B8] 0x756E23FA50       (char*) "@N"
+	[RSP+14C0] 0x0                (size_t)
+	[RSP+14C8] 0x0                (size_t)
+	[RSP+14D0] 0x0                (size_t)
+	[RSP+14D8] 0x7FF6F77B3F67     (void* -> Fallout4.exe+1B53F67)
+	[RSP+14E0] 0x7FF6FB84AAB0     (BSJobs::JobThread*)
+	[RSP+14E8] 0x0                (size_t)
+	[RSP+14F0] 0x0                (size_t)
+	[RSP+14F8] 0x0                (size_t)
+	[RSP+1500] 0x7FF6FB84AAB0     (BSJobs::JobThread*)
+	[RSP+1508] 0x7FF6F777CFED     (void* -> Fallout4.exe+1B1CFED)
+	[RSP+1510] 0x4E40             (size_t)
+	[RSP+1518] 0x756E23FA70       (void*)
+	[RSP+1520] 0x21A79EBBC90      (void*)
+	[RSP+1528] 0x0                (size_t)
+	[RSP+1530] 0x7FF6FB84AAB0     (BSJobs::JobThread*)
+	[RSP+1538] 0x0                (size_t)
+	[RSP+1540] 0x0                (size_t)
+	[RSP+1548] 0x7FF9677B257D     (void* -> KERNEL32.DLL+001257D)
+	[RSP+1550] 0x0                (size_t)
+	[RSP+1558] 0x0                (size_t)
+	[RSP+1560] 0x0                (size_t)
+	[RSP+1568] 0x0                (size_t)
+	[RSP+1570] 0x0                (size_t)
+	[RSP+1578] 0x7FF9681CAA58     (void* -> ntdll.dll+005AA58)
+	[RSP+1580] 0x0                (size_t)
+	[RSP+1588] 0x0                (size_t)
+	[RSP+1590] 0x0                (size_t)
+	[RSP+1598] 0x0                (size_t)
+	[RSP+15A0] 0x0                (size_t)
+	[RSP+15A8] 0x0                (size_t)
+	[RSP+15B0] 0x6229E07400000000 (size_t)
+	[RSP+15B8] 0x0                (size_t)
+	[RSP+15C0] 0x4F0FFFFFB30      (size_t)
+	[RSP+15C8] 0x7FF96584C720     (void* -> KERNELBASE.dll+015C720)
+	[RSP+15D0] 0x756E23D680       (void*)
+	[RSP+15D8] 0x7FF907AD2754000  (size_t)
+	[RSP+15E0] 0x7FF907AD2754     (size_t)
+	[RSP+15E8] 0x756E23D680       (void*)
+	[RSP+15F0] 0x0                (size_t)
+	[RSP+15F8] 0x0                (size_t)
+	[RSP+1600] 0x0                (size_t)
+	[RSP+1608] 0x0                (size_t)
+	[RSP+1610] 0x0                (size_t)
+	[RSP+1618] 0x0                (size_t)
+	[RSP+1620] 0x0                (size_t)
+	[RSP+1628] 0x0                (size_t)
+	[RSP+1630] 0x0                (size_t)
+	[RSP+1638] 0x0                (size_t)
+	[RSP+1640] 0x0                (size_t)
+	[RSP+1648] 0x0                (size_t)
+	[RSP+1650] 0x0                (size_t)
+	[RSP+1658] 0x0                (size_t)
+	[RSP+1660] 0x0                (size_t)
+	[RSP+1668] 0x0                (size_t)
+	[RSP+1670] 0x0                (size_t)
+	[RSP+1678] 0x0                (size_t)
+	[RSP+1680] 0x0                (size_t)
+	[RSP+1688] 0x0                (size_t)
+	[RSP+1690] 0x0                (size_t)
+	[RSP+1698] 0x0                (size_t)
+	[RSP+16A0] 0x0                (size_t)
+	[RSP+16A8] 0x0                (size_t)
+	[RSP+16B0] 0x0                (size_t)
+	[RSP+16B8] 0x0                (size_t)
+	[RSP+16C0] 0x0                (size_t)
+	[RSP+16C8] 0x0                (size_t)
+	[RSP+16D0] 0x0                (size_t)
+	[RSP+16D8] 0x0                (size_t)
+	[RSP+16E0] 0x0                (size_t)
+	[RSP+16E8] 0x0                (size_t)
+	[RSP+16F0] 0x0                (size_t)
+	[RSP+16F8] 0x0                (size_t)
+	[RSP+1700] 0x0                (size_t)
+	[RSP+1708] 0x0                (size_t)
+	[RSP+1710] 0x0                (size_t)
+	[RSP+1718] 0x0                (size_t)
+	[RSP+1720] 0x0                (size_t)
+	[RSP+1728] 0x0                (size_t)
+	[RSP+1730] 0x0                (size_t)
+	[RSP+1738] 0x0                (size_t)
+	[RSP+1740] 0x0                (size_t)
+	[RSP+1748] 0x0                (size_t)
+	[RSP+1750] 0x0                (size_t)
+	[RSP+1758] 0x0                (size_t)
+	[RSP+1760] 0x0                (size_t)
+	[RSP+1768] 0x0                (size_t)
+	[RSP+1770] 0x0                (size_t)
+	[RSP+1778] 0x0                (size_t)
+	[RSP+1780] 0x0                (size_t)
+	[RSP+1788] 0x0                (size_t)
+	[RSP+1790] 0x0                (size_t)
+	[RSP+1798] 0x0                (size_t)
+	[RSP+17A0] 0x0                (size_t)
+	[RSP+17A8] 0x0                (size_t)
+	[RSP+17B0] 0x0                (size_t)
+	[RSP+17B8] 0x0                (size_t)
+	[RSP+17C0] 0x0                (size_t)
+	[RSP+17C8] 0x0                (size_t)
+	[RSP+17D0] 0x0                (size_t)
+	[RSP+17D8] 0x0                (size_t)
+	[RSP+17E0] 0x0                (size_t)
+	[RSP+17E8] 0x0                (size_t)
+	[RSP+17F0] 0x0                (size_t)
+	[RSP+17F8] 0x0                (size_t)
+	[RSP+1800] 0x0                (size_t)
+	[RSP+1808] 0x0                (size_t)
+	[RSP+1810] 0x0                (size_t)
+	[RSP+1818] 0x0                (size_t)
+	[RSP+1820] 0x0                (size_t)
+	[RSP+1828] 0x0                (size_t)
+	[RSP+1830] 0x0                (size_t)
+	[RSP+1838] 0x0                (size_t)
+	[RSP+1840] 0x0                (size_t)
+	[RSP+1848] 0x0                (size_t)
+	[RSP+1850] 0x0                (size_t)
+	[RSP+1858] 0x0                (size_t)
+	[RSP+1860] 0x0                (size_t)
+	[RSP+1868] 0x0                (size_t)
+	[RSP+1870] 0x0                (size_t)
+	[RSP+1878] 0x0                (size_t)
+	[RSP+1880] 0x0                (size_t)
+	[RSP+1888] 0x0                (size_t)
+	[RSP+1890] 0x0                (size_t)
+	[RSP+1898] 0x0                (size_t)
+	[RSP+18A0] 0x0                (size_t)
+	[RSP+18A8] 0x0                (size_t)
+	[RSP+18B0] 0x0                (size_t)
+	[RSP+18B8] 0x0                (size_t)
+	[RSP+18C0] 0x0                (size_t)
+	[RSP+18C8] 0x0                (size_t)
+	[RSP+18D0] 0x0                (size_t)
+	[RSP+18D8] 0x0                (size_t)
+	[RSP+18E0] 0x0                (size_t)
+	[RSP+18E8] 0x0                (size_t)
+	[RSP+18F0] 0x0                (size_t)
+	[RSP+18F8] 0x0                (size_t)
+	[RSP+1900] 0x0                (size_t)
+	[RSP+1908] 0x0                (size_t)
+	[RSP+1910] 0x0                (size_t)
+	[RSP+1918] 0x0                (size_t)
+	[RSP+1920] 0x0                (size_t)
+	[RSP+1928] 0x0                (size_t)
+	[RSP+1930] 0x0                (size_t)
+	[RSP+1938] 0x0                (size_t)
+	[RSP+1940] 0x0                (size_t)
+	[RSP+1948] 0x0                (size_t)
+	[RSP+1950] 0x0                (size_t)
+	[RSP+1958] 0x0                (size_t)
+	[RSP+1960] 0x0                (size_t)
+	[RSP+1968] 0x0                (size_t)
+	[RSP+1970] 0x0                (size_t)
+	[RSP+1978] 0x0                (size_t)
+	[RSP+1980] 0x0                (size_t)
+	[RSP+1988] 0x0                (size_t)
+	[RSP+1990] 0x0                (size_t)
+	[RSP+1998] 0x0                (size_t)
+	[RSP+19A0] 0x0                (size_t)
+	[RSP+19A8] 0x0                (size_t)
+	[RSP+19B0] 0x0                (size_t)
+	[RSP+19B8] 0x0                (size_t)
+	[RSP+19C0] 0x0                (size_t)
+	[RSP+19C8] 0x0                (size_t)
+	[RSP+19D0] 0x0                (size_t)
+	[RSP+19D8] 0x0                (size_t)
+	[RSP+19E0] 0x0                (size_t)
+	[RSP+19E8] 0x0                (size_t)
+	[RSP+19F0] 0x0                (size_t)
+	[RSP+19F8] 0x0                (size_t)
+	[RSP+1A00] 0x0                (size_t)
+	[RSP+1A08] 0x0                (size_t)
+	[RSP+1A10] 0x0                (size_t)
+	[RSP+1A18] 0x0                (size_t)
+	[RSP+1A20] 0x0                (size_t)
+	[RSP+1A28] 0x0                (size_t)
+	[RSP+1A30] 0x0                (size_t)
+	[RSP+1A38] 0x0                (size_t)
+	[RSP+1A40] 0x0                (size_t)
+	[RSP+1A48] 0x0                (size_t)
+	[RSP+1A50] 0x0                (size_t)
+	[RSP+1A58] 0x0                (size_t)
+	[RSP+1A60] 0x0                (size_t)
+	[RSP+1A68] 0x0                (size_t)
+	[RSP+1A70] 0x0                (size_t)
+	[RSP+1A78] 0x0                (size_t)
+	[RSP+1A80] 0x0                (size_t)
+	[RSP+1A88] 0x0                (size_t)
+	[RSP+1A90] 0x0                (size_t)
+	[RSP+1A98] 0x0                (size_t)
+	[RSP+1AA0] 0x0                (size_t)
+	[RSP+1AA8] 0x0                (size_t)
+	[RSP+1AB0] 0x0                (size_t)
+	[RSP+1AB8] 0x0                (size_t)
+
+MODULES:
+	XINPUT1_3.dll                 0x000000400000
+	X3DAudio1_7.dll               0x000064D00000
+	steam_api64.dll               0x000064D10000
+	d3d11.dll                     0x000180000000
+	LL_fourPlay_1_10_163.dll      0x021A55B90000
+	MSCTF.dll                     0x021A7F350000
+	Fallout4.exe                  0x7FF6F5C60000
+	XAudio2_7.dll                 0x7FF8A4850000
+	nvcuda64.dll                  0x7FF8A5480000
+	d3dcompiler_47_64.dll         0x7FF8A5E30000
+	NvCamera64.dll                0x7FF8A6520000
+	d3dcompiler_46e.dll           0x7FF8A7770000
+	gameoverlayrenderer64.dll     0x7FF8A7B30000
+	RobCo_Patcher.dll             0x7FF8A7CC0000
+	Buffout4.dll                  0x7FF8A7DB0000
+	steamclient64.dll             0x7FF8A8110000
+	XDI.dll                       0x7FF8DA340000
+	DINPUT8.dll                   0x7FF8DA730000
+	SprintSpeedController.dll     0x7FF8DA780000
+	ReloadFix.dll                 0x7FF8DA7D0000
+	PrivateProfileRedirector.dll  0x7FF8DA820000
+	Outfit-ReDress-Fix.dll        0x7FF8DA880000
+	NVIDIA_Reflex.dll             0x7FF8DBF00000
+	tier0_s64.dll                 0x7FF8DBFD0000
+	f4ee.dll                      0x7FF8DC4D0000
+	AchievementsModsEnabler.dll   0x7FF8DC6E0000
+	mcm.dll                       0x7FF8DC720000
+	EscapeFreeze.dll              0x7FF8DCA20000
+	MGEFConditionFix.dll          0x7FF8DD560000
+	BakaScrapHeap.dll             0x7FF8DD7A0000
+	LongLoadingTimesFix.dll       0x7FF8DD8D0000
+	HighFPSPhysicsFix.dll         0x7FF8DE760000
+	CCD.dll                       0x7FF8E0340000
+	f4se_1_10_163.dll             0x7FF8E1020000
+	PriorityMod.dll               0x7FF8E14B0000
+	CONCRT140.dll                 0x7FF8E14E0000
+	vstdlib_s64.dll               0x7FF8E1530000
+	Interior-NavCut-Fix.dll       0x7FF8E17A0000
+	GLXRM_FriendlyFire.dll        0x7FF8E1F90000
+	ResampleDmo.DLL               0x7FF8E1FE0000
+	DSOUND.DLL                    0x7FF8E20A0000
+	GCBugFix.dll                  0x7FF8E3C70000
+	CCExtenderF4.dll              0x7FF8E5500000
+	ESPExplorer.dll               0x7FF8E6860000
+	BulletCountedReload.dll       0x7FF8E7A50000
+	cc_cleaner.dll                0x7FF8E86A0000
+	nvspcap64.dll                 0x7FF8F4830000
+	msdmo.dll                     0x7FF91B880000
+	atcuf64.dll                   0x7FF91BD90000
+	bdhkm64.dll                   0x7FF91C450000
+	BetterConsole.dll             0x7FF91F3E0000
+	ArmorPenetrationBugFix.dll    0x7FF9207B0000
+	achievements.dll              0x7FF928F40000
+	d3dx11_43.dll                 0x7FF92D350000
+	D3DCOMPILER_43.dll            0x7FF92D3A0000
+	cudart64_75.dll               0x7FF92D610000
+	GFSDK_GodraysLib.x64.dll      0x7FF92D670000
+	GFSDK_SSAO_D3D11.win64.dll    0x7FF92D6D0000
+	flexExtRelease_x64.dll        0x7FF92D760000
+	flexRelease_x64.dll           0x7FF92D7C0000
+	MSVCR110.dll                  0x7FF92D910000
+	MSVCP110.dll                  0x7FF92D9F0000
+	bink2w64.dll                  0x7FF92DAA0000
+	f4se_steam_loader.dll         0x7FF92F340000
+	X3DAudio1_7.dll               0x7FF92FD00000
+	WeaponDebrisCrashFix.dll      0x7FF92FD90000
+	SprintStutteringFix.dll       0x7FF931410000
+	libdiskCacheEnabler.dll       0x7FF9322D0000
+	dbgcore.DLL                   0x7FF9379C0000
+	MSVCP140_ATOMIC_WAIT.dll      0x7FF938AF0000
+	VCRUNTIME140.dll              0x7FF93FE60000
+	MSVCP140.dll                  0x7FF93FE80000
+	MessageBus.dll                0x7FF940070000
+	VCRUNTIME140_1.dll            0x7FF941D60000
+	winmmbase.dll                 0x7FF942130000
+	OneCoreCommonProxyStub.dll    0x7FF942160000
+	Windows.UI.dll                0x7FF945A90000
+	XINPUT9_1_0.dll               0x7FF9470D0000
+	inputhost.dll                 0x7FF9474F0000
+	textinputframework.dll        0x7FF947EB0000
+	AUDIOSES.DLL                  0x7FF948140000
+	nvwgf2umx.dll                 0x7FF949F10000
+	MMDevApi.dll                  0x7FF94F330000
+	MessageBus.dll                0x7FF952A70000
+	nvapi64.dll                   0x7FF953B80000
+	nvgpucomp64.dll               0x7FF9545A0000
+	dbghelp.dll                   0x7FF958630000
+	nvldumdx.dll                  0x7FF95A120000
+	drvstore.dll                  0x7FF95A3A0000
+	OneCoreUAPCommonProxyStub.dll 0x7FF95B7E0000
+	cryptnet.dll                  0x7FF95D200000
+	CoreUIComponents.dll          0x7FF95E070000
+	VERSION.dll                   0x7FF95E700000
+	avrt.dll                      0x7FF95E730000
+	WINMM.dll                     0x7FF95E910000
+	directxdatabasehelper.dll     0x7FF95E950000
+	dhcpcsvc.DLL                  0x7FF95EFD0000
+	WINHTTP.dll                   0x7FF95F160000
+	WindowsCodecs.dll             0x7FF960710000
+	d3d11.dll                     0x7FF960C90000
+	dcomp.dll                     0x7FF9614E0000
+	CoreMessaging.dll             0x7FF961CC0000
+	nvToolsExt64_1.dll            0x7FF962400000
+	apphelp.dll                   0x7FF962770000
+	uxtheme.dll                   0x7FF9628B0000
+	dxgi.dll                      0x7FF9629E0000
+	dwmapi.dll                    0x7FF962AF0000
+	dxcore.dll                    0x7FF962B60000
+	resourcepolicyclient.dll      0x7FF962EE0000
+	wintypes.dll                  0x7FF9632D0000
+	windows.storage.dll           0x7FF963410000
+	HID.DLL                       0x7FF963D10000
+	IPHLPAPI.DLL                  0x7FF963FE0000
+	UMPDC.dll                     0x7FF964310000
+	POWRPROF.dll                  0x7FF964330000
+	Secur32.dll                   0x7FF9643A0000
+	rsaenh.dll                    0x7FF964530000
+	kernel.appcore.dll            0x7FF9645D0000
+	ntmarta.dll                   0x7FF9645F0000
+	SSPICLI.DLL                   0x7FF964830000
+	MSWSOCK.dll                   0x7FF964A50000
+	CRYPTBASE.DLL                 0x7FF964CA0000
+	CRYPTSP.dll                   0x7FF964CB0000
+	wldp.dll                      0x7FF964D50000
+	msasn1.dll                    0x7FF965150000
+	devobj.dll                    0x7FF965170000
+	CFGMGR32.dll                  0x7FF9651A0000
+	profapi.dll                   0x7FF9653E0000
+	ucrtbase.dll                  0x7FF9654B0000
+	bcryptPrimitives.dll          0x7FF9655D0000
+	msvcp_win.dll                 0x7FF965650000
+	KERNELBASE.dll                0x7FF9656F0000
+	win32u.dll                    0x7FF965B60000
+	bcrypt.dll                    0x7FF965B90000
+	wintrust.dll                  0x7FF965BC0000
+	gdi32full.dll                 0x7FF965C30000
+	CRYPT32.dll                   0x7FF965D50000
+	OLEAUT32.dll                  0x7FF965EC0000
+	msvcrt.dll                    0x7FF965FA0000
+	PSAPI.DLL                     0x7FF966050000
+	sechost.dll                   0x7FF966060000
+	IMM32.DLL                     0x7FF966110000
+	GDI32.dll                     0x7FF9661D0000
+	SHCORE.dll                    0x7FF966200000
+	combase.dll                   0x7FF966300000
+	ole32.dll                     0x7FF966690000
+	imagehlp.dll                  0x7FF966830000
+	SHELL32.dll                   0x7FF966850000
+	shlwapi.dll                   0x7FF9670D0000
+	WS2_32.dll                    0x7FF967180000
+	clbcatq.dll                   0x7FF967200000
+	NSI.dll                       0x7FF9672B0000
+	USER32.dll                    0x7FF9673E0000
+	ADVAPI32.dll                  0x7FF9676E0000
+	KERNEL32.DLL                  0x7FF9677A0000
+	RPCRT4.dll                    0x7FF967870000
+	SETUPAPI.dll                  0x7FF967A90000
+	ntdll.dll                     0x7FF968170000
+
+F4SE PLUGINS:
+	achievements.dll
+	ArmorPenetrationBugFix.dll v1
+	BakaScrapHeap.dll v1.3
+	BetterConsole.dll
+	Buffout4.dll v1.28.6
+	BulletCountedReload.dll
+	cc_cleaner.dll
+	CCD.dll v1
+	CCExtenderF4.dll v1.2
+	EscapeFreeze.dll v1
+	ESPExplorer.dll
+	f4ee.dll
+	GCBugFix.dll v1
+	GLXRM_FriendlyFire.dll v1
+	HighFPSPhysicsFix.dll
+	Interior-NavCut-Fix.dll v1.0.3
+	libdiskCacheEnabler.dll
+	LL_fourPlay_1_10_163.dll
+	LongLoadingTimesFix.dll
+	mcm.dll
+	MGEFConditionFix.dll v1
+	NVIDIA_Reflex.dll v1
+	Outfit-ReDress-Fix.dll v1
+	PriorityMod.dll
+	PrivateProfileRedirector.dll
+	ReloadFix.dll v1.2.4
+	RobCo_Patcher.dll v3.6
+	SprintSpeedController.dll v1
+	SprintStutteringFix.dll
+	WeaponDebrisCrashFix.dll
+	XDI.dll
+
+PLUGINS:
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     HUDFramework.esm
+	[09]     WorkshopFramework.esm
+	[0A]     XDI.esm
+	[0B]     UneducatedReload.esm
+	[0C]     VisibleCompanionAffinity.esp
+	[0D]     UltraInteriorLighting.esp
+	[0E]     UltraExteriorLighting.esp
+	[0F]     CrimeTown.esp
+	[10]     CombinedArmsNV.esp
+	[11]     CombinedArmsEXPack.esp
+	[12]     WeaponModFixes-GOTY.esp
+	[13]     noveskeRecceL.esp
+	[14]     Reverb and Ambiance Overhaul.esp
+	[15]     jsrs.esp
+	[16]     CheatTerminal.esp
+	[17]     Galaxy News Radio.esp
+	[18]     Escape from Boston - MSBS Grot B.esp
+	[19]     Zenit.esp
+	[1A]     RussianAssaultPack.esp
+	[1B]     Ozzys_Cronen_Squall.esp
+	[1C]     SKS.esp
+	[1D]     AtomCatGarage.esp
+	[1E]     MWRam7.esp
+	[1F]     MWIIM4.esp
+	[20]     SCAR-L.esp
+	[21]     Remington700.esp
+	[22]     MWIIChimera.esp
+	[23]     IWI_Tavor.esp
+	[24]     QBZ191.esp
+	[25]     APC9.esp
+	[26]     MW_Amax.esp
+	[27]     Ozzys_Lachmann_Sub.esp
+	[28]     CazadorML.esp
+	[29]     Winters_FJX-Imperium.esp
+	[2A]     M1918nv.esp
+	[2B]     American180nv.esp
+	[2C]     Kbar-32.esp
+	[2D]     Escape from Boston - Springfield M14.esp
+	[2E]     M2Agency.esp
+	[2F]     ABundleofTape.esp
+	[30]     WestTekTacticalOptics.esp
+	[31]     DOOMMerged.esp
+	[32]     LaserMusketMk2.esp
+	[33]     TFDeagle.esp
+	[34]     F4NVServiceRifleRedux.esp
+	[35]     LAER.esp
+	[36]     MK18.esp
+	[37]     Wana_SA58.esp
+	[38]     AER15.esp
+	[39]     WattzLaserGun.esp
+	[3A]     M60-M60E3.esp
+	[3B]     SteyrAUGnv.esp
+	[3C]     STREETSWEEPER.esp
+	[3D]     SigMCX.esp
+	[3E]     Bruen Bullpup Family.esp
+	[3F]     ElMudoStore.esp
+	[40]     HuntingShotgun.esp
+	[41]     FnScar.esp
+	[42]     SG550.esp
+	[43]     MWvalpha.esp
+	[44]     WinCowbowRepeater.esp
+	[45]     RussianSpecialForces.ESP
+	[46]     MP7.esp
+	[47]     G3Family.esp
+	[48]     ASH127.esp
+	[49]     Schotel22.esp
+	[4A]     MWStriker.esp
+	[4B]     ImiUzi.esp
+	[4C]     BH_StG44.esp
+	[4D]     FnSCARmoryProject.esp
+	[4E]     RemingtonM11.esp
+	[4F]     GIAT_FAMAS.esp
+	[50]     HK_UMP.esp
+	[51]     Mossberg500.esp
+	[52]     AttachPack.esp
+	[53]     PigAAMC96.esp
+	[54]     UZK50gi.esp
+	[55]     Yinglong.esp
+	[56]     VGVolkssturmgewehr.esp
+	[57]     ArmaliteRifle.esp
+	[58]     AlexMakarovPistol.esp
+	[59]     Glock19x.esp
+	[5A]     DaewooRifle.esp
+	[5B]     9x39Project.esp
+	[5C]     HowaRifle.esp
+	[5D]     SR2.esp
+	[5E]     MWIIIacharlie.esp
+	[5F]     PigFNC.esp
+	[60]     Milano821.esp
+	[61]     SigSauerP320.esp
+	[62]     FOrigin12.esp
+	[63]     ShingenMarkV.esp
+	[64]     Mac10.esp
+	[65]     Krebs.esp
+	[66]     Mike32.esp
+	[67]     m249.esp
+	[68]     MP443.esp
+	[69]     LeeEnfieldNo4MkI.esp
+	[6A]     PigAAM1911.esp
+	[6B]     M1A.esp
+	[6C]     HRP_Mk23.esp
+	[6D]     HKUSP9mm.esp
+	[6E]     MWIIMike16.esp
+	[6F]     win1897.esp
+	[70]     P90.esp
+	[71]     Cyberpunk 2077 Malorian Arms 3516.esp
+	[72]     45autoPistol.esp
+	[73]     SigSauer127.esp
+	[74]     AMAC1500.esp
+	[75]     Tactical ACR.esp
+	[76]     CAWS.esp
+	[77]     ClassicSniper.esp
+	[78]     M1Garand.esp
+	[79]     BullpupR91.esp
+	[7A]     AKMnv.esp
+	[7B]     RugerAC556.esp
+	[7C]     MAS38.esp
+	[7D]     10mmRevolver.esp
+	[7E]     Webley.esp
+	[7F]     M&P 2.0.esp
+	[80]     Ozzys Kilo-141.esp
+	[81]     MTs255.esp
+	[82]     P99.esp
+	[83]     Ghoul_Radio.esp
+	[84]     noveskeRecceL_Projectile.esp
+	[85]     p42.esp
+	[86]     SigMCX_300BlackoutPatch.esp
+	[87]     M203.esp
+	[88]     Mannlicher1905.esp
+	[89]     Cyberpunk 2077 G-58 Dian.esp
+	[8A]     MWIItango9.esp
+	[8B]     CWstoner63.esp
+	[8C]     Fallschirmjagergewehr.esp
+	[8D]     Eraser.esp
+	[8E]     YinglongLL.esp
+	[8F]     ShingenMarkVLL.esp
+	[90]     WestTek.esp
+	[91]     PigAutomagIII.esp
+	[92]     OTs33Pernach.esp
+	[93]     Genjiroh.esp
+	[94]     GenjirohLL.esp
+	[95]     SVT40.esp
+	[96]     3dscopes.esp
+	[97]     mso_sms.esp
+	[98]     HK416 A5.esp
+	[99]     DOOMRhino.esp
+	[9A]     CompactGaussRifle.esp
+	[9B]     WD_44.esp
+	[9C]     Mojave Music Radio.esp
+	[9D]     Radio New Vegas.esp
+	[9E]     RevolverRadio.esp
+	[9F]     The Scary and the Weird Late Night Radio Station.esp
+	[A0]     MP40.esp
+	[A1]     MW Basilisk.esp
+	[A2]     JOKR.esp
+	[A3]     Mosin.esp
+	[A4]     Strela-P.esp
+	[A5]     AQUILA.esp
+	[A6]     GSR.esp
+	[A7]     PL-14.esp
+	[A8]     PlasmaDefenderStandalone.esp
+	[A9]     mercurychristmas.esp
+	[AA]     ConceptPlasma.esp
+	[AB]     Mike26.esp
+	[AC]     MW22X12 - NO TR.esp
+	[AD]     win1897_Sights.esp
+	[AE]     WinchesterP94Balanced2.esp
+	[AF]     AR70 Assault Rifle.esp
+	[B0]     BlurKillerComplete.esp
+	[B1]     Colt6520.esp
+	[B2]     Factor.esp
+	[B3]     Scopes.esp
+	[B4]     AAlpha12.esp
+	[B5]     Karma-45.esp
+	[B6]     CzScorpion.esp
+	[B7]     OTs-02 Kiparis.esp
+	[B8]     ZA85_MAT49.esp
+	[B9]     Minigun Gau-19B.esp
+	[BA]     minigun_improvements.esp
+	[BB]     Skibs-223PistolRedux.esp
+	[BC]     StG44.esp
+	[BD]     Bogey7210.esp
+	[BE]     BetterCompanions.esp
+	[BF]     SnapBeds.esp
+	[C0]     WorkshopPlus.esp
+	[C1]     ESPExplorerFO4.esp
+	[C2]     OWR2.esp
+	[C3]     OWR_AOC.esp
+	[C4]     Third Person Movement Speed Fix.esp
+	[C5]     DLC Timing.esp
+	[C6]     Docile Radstags.esp
+	[C7]     Legendary Mod Additions.esp
+	[C8]     ImmersiveVendors.esp
+	[C9]     DOOMMAC11.esp
+	[CA]     PigGyroJetPistol.esp
+	[CB]     6520_Sights.esp
+	[CC]     Lockwood300.esp
+	[CD]     Ozzys_MCPR-300.esp
+	[CE]     FnScar_LvlListPatch.esp
+	[CF]     CRYOLATOR FUSION and PLASMA LongBarrel Conversion.esp
+	[D0]     AA Better Companions - No Conflicts.esp
+	[D1]     GS Beretta PX4.esp
+	[D2]     MisCrafteosAmmo.esp
+	[D3]     pulsecarbine.esp
+	[D4]     ReconPack.esp
+	[D5]     Disruptor.esp
+	[D6]     Reload Sounds.esp
+	[D7]     EraserLL.esp
+	[FE:000] Loot Detector.esl
+	[FE:001] LootDetector_Expansion.esl
+	[FE:002] LIF.esl
+	[FE:003] Dank_TrapsBeGone.esl
+	[FE:004] Community Fixes Merged.esp
+	[FE:005] Dank_MinesBeGone.esl
+	[FE:006] TMR_GlitchfinderAIO.esm
+	[FE:007] Ownership Fixes.esp
+	[FE:008] Glock86.esl
+	[FE:009] EG7.esl
+	[FE:00A] SpookyScaryRadio.esl
+	[FE:00B] Skb-MinigunsRebirth.esl
+	[FE:00C] BulldogRevolver.esl
+	[FE:00D] SW1905.esl
+	[FE:00E] JUMod_Weapon_Marlin1894.esl
+	[FE:00F] ehtyeci_MPX.esl
+	[FE:010] Quad_Accelerator.esl
+	[FE:011] HoloDisplay.esl
+	[FE:012] HaylenMMDialogueFix.esl
+	[FE:013] nukaproject.esl
+	[FE:014] CanarySaveFileMonitor.esl
+	[FE:015] REFramework.esm
+	[FE:016] CheatTerminal - AutomatronSpawnNPCPatch.esl
+	[FE:017] CheatTerminal - FarHarborSpawnNPCPatch.esl
+	[FE:018] CheatTerminal - NukaWorldSpawnNPCPatch.esl
+	[FE:019] Park Bench NPC Animation Fix.esl
+	[FE:01A] Munitions - An Ammo Expansion.esl
+	[FE:01B] laserproject2k.esl
+	[FE:01C] Munitions - Vanilla Ammo Addon.esl
+	[FE:01D] MK50Sidekick.esl
+	[FE:01E] CW32Pistol.esl
+	[FE:01F] huntingrifleset2k.esl
+	[FE:020] Fixed Gobo Effects.esp
+	[FE:021] Enhanced Vanilla Armor and Clothing.esp
+	[FE:022] Wetness Shader Fix.esp
+	[FE:023] FO4ParticlePatch.esp
+	[FE:024] FogOut - Interiors - All DLC.esp
+	[FE:025] Region Names on Save Files.esp
+	[FE:026] LegendaryFramework.esp
+	[FE:027] DiamondCityAmbience.esp
+	[FE:028] IQOFO4.esp
+	[FE:029] JSRS_Regions.esp
+	[FE:02A] ehtyeci_MPX.esp
+	[FE:02B] Dank_ECO.esp
+	[FE:02C] Dank_WOP-CombinedArms.esp
+	[FE:02D] JSRS_Fallout4.esp
+	[FE:02E] FN-FAL.esp
+	[FE:02F] Kedr.esp
+	[FE:030] Type99.esp
+	[FE:031] Vargo52.esp
+	[FE:032] PanzerKaii_CX-9.esp
+	[FE:033] SIGMCXArmoryProject.esp
+	[FE:034] WanaSA58ArmoryProject.esp
+	[FE:035] SIGMCXArmoryProject2.esp
+	[FE:036] SIGMCXArmoryProject3.esp
+	[FE:037] DoubleBarrelRifle.esp
+	[FE:038] ODW - Winchester Model 1873.esp
+	[FE:039] ehtyeci_MPX_AP1.esp
+	[FE:03A] AMR3000.esp
+	[FE:03B] Huot.esp
+	[FE:03C] NDR.esp
+	[FE:03D] Vz52.esp
+	[FE:03E] SuomiPP.esp
+	[FE:03F] Dank_ECO-INNR.esp
+	[FE:040] Dank_INNRoverride.esp
+	[FE:041] FIS-Naming-Weap-Armo-EN.esp
+	[FE:042] SBRPatch-BH_Stg44_STS.esp
+	[FE:043] BH_StG44_LL.esp
+	[FE:044] Remington700AP.esp
+	[FE:045] ehtyeci_MPX_AP2.esp
+	[FE:046] noveskeRecceLLL.esp
+	[FE:047] GlockP45.esp
+	[FE:048] Bruen Bullpup Family_Expanded.esp
+	[FE:049] WestTek_Tweaks.esp
+	[FE:04A] SVT40-2xDMG.esp
+	[FE:04B] Dank_WOP-F4NVServiceRifleRedux.esp
+	[FE:04C] MK18 Armory Project.esp
+	[FE:04D] MK18 Armory Project 2.esp
+	[FE:04E] RemingtonM11_LvlListPatch.esp
+	[FE:04F] DP-27.esp
+	[FE:050] EnclavePlasma.esp
+	[FE:051] OldChristmasRadio.esp
+	[FE:052] PuddleReflectionFix.esp
+	[FE:053] CraftingLegendaryFix.esp
+	[FE:054] AER15_DamageModifiers.esp
+	[FE:055] M2 Agency LLAP.esp
+	[FE:056] M2AgencyDMGmods.esp
+	[FE:057] M2AgencyLvlListPatch.esp
+	[FE:058] 4estGimp_DoubleBarrel_LLPeer_Win1897.esp
+	[FE:059] Further Map Icons.esp
+	[FE:05A] PushAwayCompanions.esp
+	[FE:05B] HKUSP9mmLvlList.esp
+	[FE:05C] IMI UZI ATTCH EXTENDED PATCH.esp
+	[FE:05D] ImiUziLvlList.esp
+	[FE:05E] LAER Automatron Weapons.esp
+	[FE:05F] M203_LeveledList.esp
+	[FE:060] Minigun-ExperimentalChaingun.esp
+	[FE:061] MK18 Armory Project 3.esp
+	[FE:062] MK18_Deluxe.esp
+	[FE:063] SigMCX_MaterialPack.esp
+	[FE:064] SigSauer127_WTOptics_Patch.esp
+	[FE:065] 10mmSubmachineGun.esp
+	[FE:066] 12.7mm Pistol - Unofficial Update.esp
+	[FE:067] Ozzys_Cronen_Squall_Expanded.esp
+	[FE:068] Ozzys_Cronen_Squall_Blueprints.esp
+	[FE:069] Winters_FJX-Imperium_LL.esp
+	[FE:06A] Skibs-223PistolRedux_RevolverFanningPatch.esp
+	[FE:06B] VGVolkssturmgewehrLL.esp
+	[FE:06C] VGVolkssturmgewehrSTS.esp
+	[FE:06D] NukaVictoryFix.esp
+	[FE:06E] HolotapeFix.esp
+	[FE:06F] HushDogmeat.esp
+	[FE:070] IQOFO4 [CFM-Patch].esp
+	[FE:071] Dank_LEO.esp
+	[FE:072] Dank_LEO_DLCNukaWorld.esp
+	[FE:073] Dank_ECO-LEO.esp
+	[FE:074] Dank_LEO-Automatron.esp
+	[FE:075] Dank_LEO_DLCCoast.esp
+	[FE:076] Dank_LAB.esp
+	[FE:077] Dank_LAB_DLCNukaWorld.esp
+	[FE:078] Dank_LAB_LEO.esp
+	[FE:079] More Legendary Effects.esp
+	[FE:07A] Dank_LEO-MLE.esp
+	[FE:07B] Dank_LEO-MLE_INNR_CS.esp
+	[FE:07C] Move (Get Out the Way).esp
+	[FE:07D] RemoveBlur.esp
+	[FE:07E] Dank_ECO_UneducatedReload.esp
+	[FE:07F] FAR.esp
+	[FE:080] RadioInAJunkPileFix.esp
+	[FE:081] FogOut - Exterior - All DLC.esp
+	[FE:082] JSRS_FarHarbor.esp
+	[FE:083] JSRS_NukaWorld.esp
+	[FE:084] RAW INPUT.esp
+	[FE:085] Piper.esp
+	[FE:086] LooksMenu.esp
+	[FE:087] Less Annoying Berry Mentats.esp
+	[FE:088] Fixed Alpha Maps.esp
+	[FE:089] Cabot House Floating Objects Fix.esp
+	[FE:08A] Companion Infinite Ammo and Unbreakable Power Armour.esp
+	[FE:08B] StopRemoveItems.esp
+	[FE:08C] Dank_ECO_DLCCoast.esp
+	[FE:08D] SkipHSH1_6.esp
+	[FE:08E] Dank_ECO_DLCNukaWorld.esp
+	[FE:08F] Dank_ECO_DLCRobot.esp
+	[FE:090] EveryonesBestFriend.esp
+	[FE:091] M8rDisablePipboyEffects.esp
+	[FE:092] xA_Vault88Extras.esp
+	[FE:093] NoMissingNoteMod.esp
+	[FE:094] NoMissingHolotapeMod.esp
+	[FE:095] NoAffinityCooldown.esp
+	[FE:096] NoNegativeAffinity.esp
+	[FE:097] NF_Rocks_Fix.esp
+	[FE:098] Dank_ArmorOverrides.esp
+	[FE:099] Dank_ArmorOverrides_DLCCoast.esp
+	[FE:09A] Dank_ArmorOverrides_DLCNukaWorld.esp
+	[FE:09B] Dank_ArmorOverrides_DLCRobot.esp
+	[FE:09C] Dank_LEO-MLM.esp
+	[FE:09D] Dank_ECO-Munitions.esp
+	[FE:09E] Dank_ECO-Munitions_INNR_CS.esp
+	[FE:09F] Dank_LEO-LME.esp
+	[FE:0A0] Dank_LEO-LMA.esp
+	[FE:0A1] Elzee Jolly Item Sounds.esp
+	[FE:0A2] SigMCX_LvlListPatch.esp
+	[FE:0A3] Dank_WOP-M1Garand.esp
+	[FE:0A4] M1Garand-2xDMG.esp
+	[FE:0A5] Gloomy Glass.esp
+	[FE:0A6] ImiUzi_Addon.esp
+	[FE:0A7] P90NPC.esp
+	[FE:0A8] Community Fixes Merged - Weapon Mod Fixes Patch.esp
+	[FE:0A9] APC9AP.esp
+	[FE:0AA] APC9_LeveledListPatch.esp
+	[FE:0AB] BRN-180.esp
+	[FE:0AC] Better Rubble.esp
+	[FE:0AD] Oerlikon Rifle.esp
+	[FE:0AE] QBZ191_YLArms_Pack.esp
+	[FE:0AF] Russian_Operator_Pack.esp
+	[FE:0B0] 3dscopes-servicerifle.esp
+	[FE:0B1] 3dscopes-wattz.esp
+	[FE:0B2] M14.esp
+	[FE:0B3] plasmaproject.esp
+	[FE:0B4] Type_56_AK47_M70.esp
+	[FE:0B5] Vargo52JSRS.esp
+	[FE:0B6] ImTalkingToYou.esp
+	[FE:0B7] InteriorsEnhanced-All-In-One.esp
+	[FE:0B8] Pip-Boy Flashlight.esp
