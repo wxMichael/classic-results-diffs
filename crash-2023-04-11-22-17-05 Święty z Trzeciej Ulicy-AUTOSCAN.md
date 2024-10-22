@@ -6,11 +6,8 @@ crash-2023-04-11-22-17-05 Święty z Trzeciej Ulicy.log -> AUTOSCAN REPORT GENER
 Main Error: Unhandled exception "EXCEPTION_ACCESS_VIOLATION" at 0x7FFF599811E2 ntdll.dll+00311E2	mov eax, [r8+0x24]
 
 Detected Buffout 4 Version: Buffout 4 v1.31.1 Feb 28 2023 00:32:02 
-# [!] CAUTION : YOUR BUFFOUT 4 VERSION MIGHT BE OUT OF DATE, UPDATE BO4 IF NECESSARY #
-  Original Buffout Version: https://www.nexusmods.com/fallout4/mods/47359
-  Buffout VR / NG Version: https://www.nexusmods.com/fallout4/mods/64880
-  Buffout 4 Guide: https://www.nexusmods.com/fallout4/articles/3115
- 
+* You have the latest version of Buffout 4! *
+
 ====================================================
 CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 ====================================================
