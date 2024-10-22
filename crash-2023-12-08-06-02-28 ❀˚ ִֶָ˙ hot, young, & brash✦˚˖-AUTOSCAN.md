@@ -38,8 +38,6 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 
 ✔️ Achievements parameter is correctly configured in your Buffout 4 settings! 
 -----
-✔️ Memory Manager parameter is correctly configured in your Buffout 4 settings! 
------
 ✔️ F4EE (Looks Menu) parameter is correctly configured in your Buffout 4 settings! 
 -----
 ❌ FCX Mode is disabled, skipping game files check... 

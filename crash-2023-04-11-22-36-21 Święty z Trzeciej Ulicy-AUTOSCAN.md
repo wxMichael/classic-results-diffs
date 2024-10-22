@@ -38,7 +38,8 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 -----
 ✔️ Achievements parameter is correctly configured in your Buffout 4 settings! 
 -----
-✔️ Memory Manager parameter is correctly configured in your Buffout 4 settings! 
+# ❌ CAUTION : The Baka ScrapHeap Mod is installed, but is redundant with Buffout 4 # 
+ FIX: Uninstall the Baka ScrapHeap Mod and open Buffout 4's TOML file and change MemoryManager to TRUE, this improves performance.
 -----
 ✔️ F4EE (Looks Menu) parameter is correctly configured in your Buffout 4 settings! 
 -----

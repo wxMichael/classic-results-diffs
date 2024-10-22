@@ -26,8 +26,8 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 # ❌ CAUTION : The Achievements Mod and/or Unlimited Survival Mode is installed, but Achievements is set to TRUE # 
  FIX: Open Buffout 4's TOML file and change Achievements to FALSE, this prevents conflicts with Buffout 4.
 -----
-# ❌ CAUTION : The Baka ScrapHeap Mod is installed, but MemoryManager parameter is set to TRUE # 
- FIX: Open Buffout 4's TOML file and change MemoryManager to FALSE, this prevents conflicts with Buffout 4.
+# ❌ CAUTION : The Baka ScrapHeap Mod is installed, but is redundant with Buffout 4 # 
+ FIX: Uninstall the Baka ScrapHeap Mod, this prevents conflicts with Buffout 4.
 -----
 ✔️ F4EE (Looks Menu) parameter is correctly configured in your Buffout 4 settings! 
 -----
