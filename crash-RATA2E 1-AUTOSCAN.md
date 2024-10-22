@@ -17,6 +17,8 @@ CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 * NOTICE : MAIN ERROR REPORTS THAT A DLL FILE WAS INVOLVED IN THIS CRASH! * 
 If that dll file belongs to a mod, that mod is a prime suspect for the crash. 
 -----
+# Checking for Rendering Crash............... SUSPECT FOUND! > Severity : 4 # 
+-----
 # Checking for *[Looks Menu Crash]........... SUSPECT FOUND! > Severity : 1 # 
 -----
 * FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *

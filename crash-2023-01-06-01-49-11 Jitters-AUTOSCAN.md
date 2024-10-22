@@ -14,6 +14,8 @@ Detected Buffout 4 Version: Buffout 4 v1.26.2
 ====================================================
 CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 ====================================================
+# Checking for Null Crash.................... SUSPECT FOUND! > Severity : 5 # 
+-----
 # Checking for Player Character Crash........ SUSPECT FOUND! > Severity : 3 # 
 -----
 * FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *

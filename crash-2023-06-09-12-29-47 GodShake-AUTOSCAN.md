@@ -17,8 +17,10 @@ CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 * NOTICE : MAIN ERROR REPORTS THAT A DLL FILE WAS INVOLVED IN THIS CRASH! * 
 If that dll file belongs to a mod, that mod is a prime suspect for the crash. 
 -----
-# FOUND NO CRASH ERRORS / SUSPECTS THAT MATCH THE CURRENT DATABASE #
-Check below for mods that can cause frequent crashes and other problems.
+# Checking for C++ Redist Crash.............. SUSPECT FOUND! > Severity : 3 # 
+-----
+* FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *
+* SEE: https://docs.google.com/document/d/17FzeIMJ256xE85XdjoPvv_Zi3C5uHeSTQh6wOZugs4c *
 
 ====================================================
 CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...

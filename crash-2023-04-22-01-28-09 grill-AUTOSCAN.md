@@ -17,6 +17,8 @@ CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 * NOTICE : MAIN ERROR REPORTS THAT A DLL FILE WAS INVOLVED IN THIS CRASH! * 
 If that dll file belongs to a mod, that mod is a prime suspect for the crash. 
 -----
+# Checking for C++ Redist Crash.............. SUSPECT FOUND! > Severity : 3 # 
+-----
 # Checking for NPC Pathing Crash (S)......... SUSPECT FOUND! > Severity : 3 # 
 -----
 # Checking for Player Character Crash........ SUSPECT FOUND! > Severity : 3 # 

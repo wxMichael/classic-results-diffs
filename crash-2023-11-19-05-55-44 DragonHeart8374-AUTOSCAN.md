@@ -11,6 +11,8 @@ Detected Buffout 4 Version: Buffout 4 v1.28.6
 ====================================================
 CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 ====================================================
+# Checking for Bad Math Crash................ SUSPECT FOUND! > Severity : 5 # 
+-----
 # Checking for Nvidia Driver Crash........... SUSPECT FOUND! > Severity : 5 # 
 -----
 # Checking for Nvidia Reflex Crash........... SUSPECT FOUND! > Severity : 4 # 

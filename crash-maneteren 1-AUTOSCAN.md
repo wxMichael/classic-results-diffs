@@ -14,8 +14,10 @@ Detected Buffout 4 Version: Buffout 4 v1.26.2
 ====================================================
 CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 ====================================================
-# FOUND NO CRASH ERRORS / SUSPECTS THAT MATCH THE CURRENT DATABASE #
-Check below for mods that can cause frequent crashes and other problems.
+# Checking for *[Creation Club Crash]........ SUSPECT FOUND! > Severity : 1 # 
+-----
+* FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *
+* SEE: https://docs.google.com/document/d/17FzeIMJ256xE85XdjoPvv_Zi3C5uHeSTQh6wOZugs4c *
 
 ====================================================
 CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...

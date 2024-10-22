@@ -15,6 +15,8 @@ Detected Buffout 4 Version: Buffout 4 v1.31.1 Feb 28 2023 00:32:02
 ====================================================
 CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 ====================================================
+# Checking for *[Creation Club Crash]........ SUSPECT FOUND! > Severity : 1 # 
+-----
 # Checking for *[Looks Menu Crash]........... SUSPECT FOUND! > Severity : 1 # 
 -----
 * FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *

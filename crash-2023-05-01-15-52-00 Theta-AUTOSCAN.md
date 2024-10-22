@@ -14,6 +14,8 @@ Detected Buffout 4 Version: Buffout 4 v1.26.2
 ====================================================
 CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 ====================================================
+# Checking for Null Crash.................... SUSPECT FOUND! > Severity : 5 # 
+-----
 # Checking for *[Item Crash]................. SUSPECT FOUND! > Severity : 1 # 
 -----
 # Checking for *[Save Crash]................. SUSPECT FOUND! > Severity : 1 # 

@@ -11,6 +11,8 @@ Detected Buffout 4 Version: Buffout 4 v1.28.6
 ====================================================
 CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 ====================================================
+# Checking for Null Crash.................... SUSPECT FOUND! > Severity : 5 # 
+-----
 # Checking for NPC Pathing Crash (S)......... SUSPECT FOUND! > Severity : 3 # 
 -----
 # Checking for NPC Pathing Crash (D)......... SUSPECT FOUND! > Severity : 3 # 

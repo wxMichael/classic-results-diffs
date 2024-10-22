@@ -14,8 +14,10 @@ Detected Buffout 4 Version: Buffout 4 v1.31.1 Feb 28 2023 00:32:02
 ====================================================
 CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 ====================================================
-# FOUND NO CRASH ERRORS / SUSPECTS THAT MATCH THE CURRENT DATABASE #
-Check below for mods that can cause frequent crashes and other problems.
+# Checking for Null Crash.................... SUSPECT FOUND! > Severity : 5 # 
+-----
+* FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *
+* SEE: https://docs.google.com/document/d/17FzeIMJ256xE85XdjoPvv_Zi3C5uHeSTQh6wOZugs4c *
 
 ====================================================
 CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...

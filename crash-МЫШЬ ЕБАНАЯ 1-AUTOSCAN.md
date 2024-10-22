@@ -14,6 +14,8 @@ Detected Buffout 4 Version: Buffout 4 v1.26.2
 ====================================================
 CHECKING IF LOG MATCHES ANY KNOWN CRASH SUSPECTS...
 ====================================================
+# Checking for Bad Math Crash................ SUSPECT FOUND! > Severity : 5 # 
+-----
 # Checking for Corrupted Audio Crash......... SUSPECT FOUND! > Severity : 4 # 
 -----
 * FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CRASH SUSPECTS *
