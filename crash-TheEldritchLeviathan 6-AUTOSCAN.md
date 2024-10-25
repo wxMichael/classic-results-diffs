@@ -62,10 +62,6 @@ CHECKING FOR MODS THAT CONFLICT WITH OTHER MODS...
     Both mods likely use the same DLL hooks. This can crash the game or cause weird mod behavior.
     If you encounter problems or crashes, use only one of these mods, not both at the same time.
     -----
-[!] CAUTION : High Heels System ❌ CONFLICTS WITH : Classic Holstered Weapons
-    Classic Holstered Weapons will not work correctly with mods that modify the player skeleton or add new skeleton paths.
-    If you encounter problems or crashes, see here how to add additional skeletons: https://www.nexusmods.com/fallout4/articles/2496
-    -----
 # [!] CAUTION : FOUND MODS THAT ARE INCOMPATIBLE OR CONFLICT WITH YOUR OTHER MODS # 
 * YOU SHOULD CHOOSE WHICH MOD TO KEEP AND DISABLE OR COMPLETELY REMOVE THE OTHER MOD * 
 
