@@ -28,12 +28,6 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 * NOTICE: FCX MODE IS DISABLED. YOU CAN ENABLE IT TO DETECT PROBLEMS IN YOUR MOD & GAME FILES * 
 [ FCX Mode can be enabled in the exe or CLASSIC Settings.yaml located in your CLASSIC folder. ] 
 
-* NOTICE : HavokMemorySystem is disabled in your Buffout 4 settings, is this intentional? * 
------
-* NOTICE : ScaleformAllocator is disabled in your Buffout 4 settings, is this intentional? * 
------
-* NOTICE : SmallBlockAllocator is disabled in your Buffout 4 settings, is this intentional? * 
------
 * NOTICE : CreateTexture2D is disabled in your Buffout 4 settings, is this intentional? * 
 -----
 * NOTICE : ImageSpaceAdapter is disabled in your Buffout 4 settings, is this intentional? * 

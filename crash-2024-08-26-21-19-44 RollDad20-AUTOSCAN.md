@@ -26,12 +26,6 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 
 * NOTICE : InteriorNavCut is disabled in your Buffout 4 settings, is this intentional? * 
 -----
-* NOTICE : HavokMemorySystem is disabled in your Buffout 4 settings, is this intentional? * 
------
-* NOTICE : ScaleformAllocator is disabled in your Buffout 4 settings, is this intentional? * 
------
-* NOTICE : SmallBlockAllocator is disabled in your Buffout 4 settings, is this intentional? * 
------
 ✔️ Achievements parameter is correctly configured in your Buffout 4 settings! 
 -----
 # ❌ CAUTION : The Baka ScrapHeap Mod is installed, but is redundant with X-Cell # 

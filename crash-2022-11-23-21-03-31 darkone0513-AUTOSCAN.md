@@ -27,8 +27,6 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
 * NOTICE: FCX MODE IS DISABLED. YOU CAN ENABLE IT TO DETECT PROBLEMS IN YOUR MOD & GAME FILES * 
 [ FCX Mode can be enabled in the exe or CLASSIC Settings.yaml located in your CLASSIC folder. ] 
 
-* NOTICE : HavokMemorySystem is disabled in your Buffout 4 settings, is this intentional? * 
------
 ✔️ Achievements parameter is correctly configured in your Buffout 4 settings! 
 -----
 # ❌ CAUTION : The Baka ScrapHeap Mod is installed, but is redundant with Buffout 4 # 
